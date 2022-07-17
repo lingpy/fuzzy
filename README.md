@@ -1,2 +1,8 @@
-# fuzzy
-Code and example data for the computation of fuzzy reconstructions
+# Fuzzy Reconstructions with LingRex
+
+## Installation
+
+## Usage Example
+
+
+
