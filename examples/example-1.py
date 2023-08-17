@@ -1,15 +1,14 @@
 from fuzzyrex import FuzzyReconstructor
-from lingpy import Alignments, Wordlist, basictypes
+from lingpy import Wordlist, basictypes
 from lingrex.reconstruct import transform_alignment
 from functools import partial
 from sklearn.svm import SVC
-import json
 from sys import argv
 from tabulate import tabulate
 import random
-from collections import defaultdict
 import itertools
 import networkx as nx
+from tqdm import tqdm as progressbar
 random.seed(1234)
 
 align_s = partial(
@@ -43,7 +42,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
     for idx in idxs:
         tokens += [basictypes.lists(wl[idx, "tokens"]).n[
             wl[idx, "cogids"].index(cogid)]]
-                
+
     if proto_language in languages and len(languages) > 2:
         selected_idxs, selected_languages, selected_tokens = [], [], []
         for idx, language, tks in zip(idxs, languages, tokens):
@@ -54,7 +53,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
         target_word = " ".join(
                 [y for x, y in zip(languages, tokens) if x == proto_language][0]
                 )
-                
+
         pred = fr.predict(selected_tokens, selected_languages)
         sounds = []
         for i, snd in enumerate(pred):
@@ -72,7 +71,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                         confusion[sndA][sndB]["vals"] += [(cogid, i, scoreA, scoreB)]
                     except:
                         confusion.add_edge(
-                                sndA, 
+                                sndA,
                                 sndB, vals=[(cogid, i, scoreA, scoreB)])
         if " ".join(sounds) == target_word:
             hits += 1
@@ -120,8 +119,6 @@ with open(argv[1].lower()+".md", "w") as f:
     f.write("# Individual Alignments with Fuzzy Reconstructions\n\n")
     for row in output:
         f.write("## COGID {0} / «{1}»\n\n".format(row[0], row[1]))
-        f.write(tabulate(row[2], tablefmt="pipe", headers = [
+        f.write(tabulate(row[2], tablefmt="pipe", headers=[
             "language", "concept", "pos"]+["S{0}".format(i) for i in range(1, row[3]+1)])+"\n\n")
 print(hits, hits/(hits+fails), fails, fails/(hits+fails), hits+fails)
-
-
