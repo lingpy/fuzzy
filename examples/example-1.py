@@ -1,6 +1,7 @@
 from fuzzyrex import FuzzyReconstructor
 from lingpy import Alignments, Wordlist, basictypes
 from lingrex.reconstruct import transform_alignment
+from pylexibank import progressbar
 from functools import partial
 from sklearn.svm import SVC
 import json
@@ -12,10 +13,9 @@ import itertools
 import networkx as nx
 random.seed(1234)
 
-align_s = partial(
-        transform_alignment, align=True, position=False, prosody=True, startend=False)
+align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False)
 
-proto_language = "Proto"+argv[1]
+proto_language = "Proto-"+argv[1]
 
 clf = lambda : SVC(kernel="linear")
 wl = Wordlist("data/{0}.tsv".format(argv[1].lower()))
@@ -43,7 +43,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
     for idx in idxs:
         tokens += [basictypes.lists(wl[idx, "tokens"]).n[
             wl[idx, "cogids"].index(cogid)]]
-                
+
     if proto_language in languages and len(languages) > 2:
         selected_idxs, selected_languages, selected_tokens = [], [], []
         for idx, language, tks in zip(idxs, languages, tokens):
@@ -54,7 +54,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
         target_word = " ".join(
                 [y for x, y in zip(languages, tokens) if x == proto_language][0]
                 )
-                
+
         pred = fr.predict(selected_tokens, selected_languages)
         sounds = []
         for i, snd in enumerate(pred):
@@ -85,8 +85,8 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                 try:
                     oridx = selected_languages.index(all_languages[i])
                     idx = selected_idxs[oridx]
-                    concept = wordlist[idx, "concept"]
-                    cogidx = wordlist[idx, "cogids"].index(cogid)
+                    concept = wl[idx, "concept"]
+                    cogidx = wl[idx, "cogids"].index(cogid)
                 except:
                     concept = ""
                     cogidx = ""
@@ -123,5 +123,3 @@ with open(argv[1].lower()+".md", "w") as f:
         f.write(tabulate(row[2], tablefmt="pipe", headers = [
             "language", "concept", "pos"]+["S{0}".format(i) for i in range(1, row[3]+1)])+"\n\n")
 print(hits, hits/(hits+fails), fails, fails/(hits+fails), hits+fails)
-
-

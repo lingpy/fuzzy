@@ -14,5 +14,10 @@ karen-pdf:
 	pandoc -i karen.md -o karen.pdf --pdf-engine=xelatex
 karen: karen-wordlist, karen-reconstruction, karen-pdf
 
-
-
+pano-wordlist:
+	edictor wordlist --data=cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json --preprocessing=data/panoan_prep.py --addon=cogid:cogid --name=data/panoan
+pano-reconstruction:
+	python example-1.py Panoan
+pano-pdf:
+	pandoc -i panoan.md -o panoan.pdf --pdf-engine=xelatex
+pano: pano-wordlist, pano-reconstruction, pano-pdf
