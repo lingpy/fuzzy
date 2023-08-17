@@ -74,7 +74,6 @@ header-includes: |
 | r         | p         |             1 | 94                                                   |
 | r         | m         |             1 | 94                                                   |
 | p         | b         |             1 | 36                                                   |
-| n         | -         |             1 | 61                                                   |
 | m         | ʔ         |             1 | 119                                                  |
 | m         | t         |             1 | 72                                                   |
 | m         | dʒ        |             1 | 94                                                   |
@@ -107,6 +106,7 @@ header-includes: |
 | -         | ˀk        |             1 | 635                                                  |
 | -         | ¹         |             1 | 683                                                  |
 | -         | p         |             1 | 477                                                  |
+| -         | n         |             1 | 61                                                   |
 
 # Individual Alignments with Fuzzy Reconstructions
 
@@ -137,7 +137,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø     | Ø     | Ø              | Ø     |
 | Rangoon         |           |       | t     | ɑ̃    | -              | ²²    |
 | Xiandao         |           |       | ʈʂ    | a     | ŋ              | ³¹    |
-| Fuzzy           |           |       | d:100 | a:100 | ŋ:80¦n:10¦-:10 | ¹:100 |
+| Fuzzy           |           |       | d:100 | a:100 | ŋ:80¦-:10¦n:10 | ¹:100 |
 | ProtoBurmish    |           |       | d     | a     | m              | ¹     |
 
 ## COGID 536 / «shy, be / bashful»
@@ -212,7 +212,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø              | Ø          | Ø     | Ø     |
 | Rangoon         |           |       | tɕʰ        | -              | e          | -     | ²²    |
 | Xiandao         |           |       | tʃʰ        | -              | i          | -     | ⁵⁵    |
-| Fuzzy           |           |       | k:50¦ˀk:50 | j:70¦-:20¦r:10 | i:70¦ai:30 | -:100 | ³:100 |
+| Fuzzy           |           |       | ˀk:50¦k:50 | j:70¦-:20¦r:10 | i:70¦ai:30 | -:100 | ³:100 |
 | ProtoBurmish    |           |       | ˀk         | j              | ai         | ³     |       |
 
 ## COGID 729 / «dead»
@@ -242,7 +242,7 @@ header-includes: |
 | OldBurmese      |           |       | m     | -     | u         | n     | ⁵     |
 | Rangoon         |           |       | m     | -     | e         | -     | ⁵⁵    |
 | Xiandao         |           |       | n     | -     | i         | -     | ³¹    |
-| Fuzzy           |           |       | m:100 | -:100 | e:50¦i:50 | -:100 | ²:100 |
+| Fuzzy           |           |       | m:100 | -:100 | i:50¦e:50 | -:100 | ²:100 |
 | ProtoBurmish    |           |       | n     | e     | ²         |       |       |
 
 ## COGID 72 / «ask s.b. to come here / fetch»
@@ -377,7 +377,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø     | Ø                | Ø         | Ø              |
 | Rangoon         |           |       | tʰ    | i                | ʔ         | ⁴              |
 | Xiandao         |           |       | t     | u                | -         | ⁵¹             |
-| Fuzzy           |           |       | t:100 | a:40¦a.ŋ:40¦e:20 | ŋ:90¦k:10 | ¹:70¦⁴:20¦³:10 |
+| Fuzzy           |           |       | t:100 | a.ŋ:40¦a:40¦e:20 | ŋ:90¦k:10 | ¹:70¦⁴:20¦³:10 |
 | ProtoBurmish    |           |       | t     | a                | ŋ         | ¹              |
 
 ## COGID 94 / «bee»
@@ -422,7 +422,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø     | Ø     |                |
 | Rangoon         |           |       | Ø          | Ø     | Ø     |                |
 | Xiandao         |           |       | Ø          | Ø     | Ø     |                |
-| Fuzzy           |           |       | d:80¦ˀt:20 | u:100 | -:100 | ⁴:80¦²:10¦¹:10 |
+| Fuzzy           |           |       | d:80¦ˀt:20 | u:100 | -:100 | ⁴:80¦¹:10¦²:10 |
 | ProtoBurmish    |           |       | d          | u     | ²     |                |
 
 ## COGID 52 / «east»
@@ -437,7 +437,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø          | Ø              | Ø     |
 | Rangoon         |           |       | Ø          | Ø          | Ø              | Ø     |
 | Xiandao         |           |       | Ø          | Ø          | Ø              | Ø     |
-| Fuzzy           |           |       | b:70¦tʃ:30 | ui:60¦i:40 | -:80¦k:10¦ʔ:10 | ¹:100 |
+| Fuzzy           |           |       | b:70¦tʃ:30 | ui:60¦i:40 | -:80¦ʔ:10¦k:10 | ¹:100 |
 | ProtoBurmish    |           |       | b          | ui         | ¹              |       |
 
 ## COGID 714 / «mow / cut (grass)»
@@ -452,7 +452,7 @@ header-includes: |
 | OldBurmese      |           |       | -     | u               | -     | -     |
 | Rangoon         |           |       | -     | u               | -     | ²²    |
 | Xiandao         |           |       | ʂ     | a               | m     | ⁵⁵    |
-| Fuzzy           |           |       | -:100 | ʊ:80¦ai:10¦i:10 | -:100 | ¹:100 |
+| Fuzzy           |           |       | -:100 | ʊ:80¦i:10¦ai:10 | -:100 | ¹:100 |
 | ProtoBurmish    |           |       | ʔ     | ʊ               | ¹     |       |
 
 ## COGID 253 / «put into a container / pack»
@@ -542,7 +542,7 @@ header-includes: |
 | OldBurmese      |           |       | kʰ          | j              | i         | j     | ⁵     |
 | Rangoon         |           |       | Ø           | Ø              | Ø         | Ø     | Ø     |
 | Xiandao         |           |       | Ø           | Ø              | Ø         | Ø     | Ø     |
-| Fuzzy           |           |       | ˀm:70¦ˀk:30 | -:40¦j:40¦r:20 | i:80¦a:20 | -:100 | ²:100 |
+| Fuzzy           |           |       | ˀm:70¦ˀk:30 | j:40¦-:40¦r:20 | i:80¦a:20 | -:100 | ²:100 |
 | ProtoBurmish    |           |       | ˀk          | j              | i         | ²     |       |
 
 ## COGID 246 / «branch / twig»
@@ -602,7 +602,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø     | Ø         | Ø     |
 | Rangoon         |           |       | -          | ɑ     | ʔ         | ⁴     |
 | Xiandao         |           |       | -          | a     | p         | ⁵⁵    |
-| Fuzzy           |           |       | ŋ:50¦ˀŋ:50 | a:100 | p:80¦t:20 | ⁴:100 |
+| Fuzzy           |           |       | ˀŋ:50¦ŋ:50 | a:100 | p:80¦t:20 | ⁴:100 |
 | ProtoBurmish    |           |       | ˀŋ         | a     | p         | ⁴     |
 
 ## COGID 220 / «he»
@@ -827,7 +827,7 @@ header-includes: |
 | OldBurmese      |           |       | -              | c      | a         | ɲ          | -              |
 | Rangoon         |           |       | m              | -      | ɑ         | -          | ⁵³             |
 | Xiandao         |           |       | m              | -      | ɔ         | -          | ³¹             |
-| Fuzzy           |           |       | -:80¦m:10¦ʔ:10 | dz:100 | a:60¦i:40 | ŋ:90¦ˀŋ:10 | ³:70¦¹:20¦⁴:10 |
+| Fuzzy           |           |       | -:80¦ʔ:10¦m:10 | dz:100 | a:60¦i:40 | ŋ:90¦ˀŋ:10 | ³:70¦¹:20¦⁴:10 |
 | ProtoBurmish    |           |       | dz             | i      | ŋ         | ¹          |                |
 
 ## COGID 641 / «cramped / narrow»
@@ -932,7 +932,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø                | Ø     | Ø     | Ø     |
 | Rangoon         |           |       | Ø                | Ø     | Ø     | Ø     |
 | Xiandao         |           |       | Ø                | Ø     | Ø     | Ø     |
-| Fuzzy           |           |       | tʃ:80¦k:10¦dz:10 | a:100 | p:100 | ⁴:100 |
+| Fuzzy           |           |       | tʃ:80¦dz:10¦k:10 | a:100 | p:100 | ⁴:100 |
 | ProtoBurmish    |           |       | tʃ               | a     | k     | ⁴     |
 
 ## COGID 314 / «line (of wheat)»
@@ -1322,7 +1322,7 @@ header-includes: |
 | OldBurmese      |           |       | kʰ         | ui̯   | ⁵     |
 | Rangoon         |           |       | kʰ         | o     | ⁵⁵    |
 | Xiandao         |           |       | ʈʂʰ        | ɔ     | ³¹    |
-| Fuzzy           |           |       | k:50¦ˀk:50 | u:100 | ²:100 |
+| Fuzzy           |           |       | ˀk:50¦k:50 | u:100 | ²:100 |
 | ProtoBurmish    |           |       | ˀk         | u     | ²     |
 
 ## COGID 232 / «several / few, a»
@@ -1442,7 +1442,7 @@ header-includes: |
 | OldBurmese      |           |       | -     | s                | ui             | k         | -     |
 | Rangoon         |           |       | t     | θ                | ɑi             | ʔ         | ⁴     |
 | Xiandao         |           |       | -     | ŋ̊               | ɔ              | ʔ         | ⁵⁵    |
-| Fuzzy           |           |       | -:100 | s:60¦ˀs:20¦ˀŋ:20 | u:50¦a:30¦i:20 | k:80¦t:20 | ⁴:100 |
+| Fuzzy           |           |       | -:100 | s:60¦ˀŋ:20¦ˀs:20 | u:50¦a:30¦i:20 | k:80¦t:20 | ⁴:100 |
 | ProtoBurmish    |           |       | s     | u                | t              | ⁴         |       |
 
 ## COGID 884 / «piece of cloth with straps for carrying a toddler»
@@ -1652,7 +1652,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø               | Ø     | Ø     | Ø                   | Ø              |
 | Rangoon         |           |       | -               | -     | ẽ     | -                   | ²²             |
 | Xiandao         |           |       | k               | -     | a     | ŋ                   | ³¹             |
-| Fuzzy           |           |       | p:40¦b:40¦ˀp:20 | j:100 | a:100 | ŋ:60¦k:20¦m:10¦-:10 | ³:40¦¹:40¦⁴:20 |
+| Fuzzy           |           |       | p:40¦b:40¦ˀp:20 | j:100 | a:100 | ŋ:60¦k:20¦-:10¦m:10 | ³:40¦¹:40¦⁴:20 |
 | ProtoBurmish    |           |       | b               | j     | a     | ŋ                   | ¹              |
 
 ## COGID 829 / «smoke / fumigate»

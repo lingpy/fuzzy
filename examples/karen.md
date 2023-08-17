@@ -1710,7 +1710,7 @@ header-includes: |
 | SouthernPwo  |           |       | Ø     | Ø                 | Ø          | Ø          |
 | SouthernSgaw |           |       | Ø     | Ø                 | Ø          | Ø          |
 | WesternBwe   |           |       | Ø     | Ø                 | Ø          | Ø          |
-| Fuzzy        |           |       | t:100 | a:80¦ə.ʔ̚:10¦ə:10 | ʔ̚:80¦-:20 | ⁰:70¦⁵⁵:30 |
+| Fuzzy        |           |       | t:100 | a:80¦ə:10¦ə.ʔ̚:10 | ʔ̚:80¦-:20 | ⁰:70¦⁵⁵:30 |
 | ProtoKaren   |           |       | t     | ə                 | ʔ̚         | ⁰          |
 
 ## COGID 3067 / «shove (with the foot)»
@@ -2169,7 +2169,7 @@ header-includes: |
 | SouthernPwo  |           |       | tʰ    | ə̃      | ³³               |      |
 | SouthernSgaw |           |       | t     | ɨ       | ³¹               |      |
 | WesternBwe   |           |       | Ø     | Ø       | Ø                |      |
-| Fuzzy        |           |       | d:100 | ə.ŋ:100 | ⁰:80¦¹¹:10¦⁵⁵:10 |      |
+| Fuzzy        |           |       | d:100 | ə.ŋ:100 | ⁰:80¦⁵⁵:10¦¹¹:10 |      |
 | ProtoKaren   |           |       | d     | ə       | ŋ                | ⁵⁵   |
 
 ## COGID 3927 / «weevil»
