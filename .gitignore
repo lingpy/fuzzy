@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets and PDF files
+examples/cldf-data/
+*.pdf
