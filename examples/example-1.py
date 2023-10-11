@@ -1,19 +1,17 @@
 from fuzzyrex import FuzzyReconstructor
-from lingpy import Alignments, Wordlist, basictypes
+from lingpy import Wordlist, basictypes
 from lingrex.reconstruct import transform_alignment
 from pylexibank import progressbar
 from functools import partial
 from sklearn.svm import SVC
-import json
 from sys import argv
 from tabulate import tabulate
 import random
-from collections import defaultdict
 import itertools
 import networkx as nx
 random.seed(1234)
 
-align_s = partial(transform_alignment, align=False, position=False, prosody=True, startend=False)
+align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False, gap="/")
 
 proto_language = "Proto-"+argv[1]
 
@@ -42,8 +40,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
     tokens = []
     for idx in idxs:
         tokens += [basictypes.lists(wl[idx, "tokens"]).n[
-            #wl[idx, "cogid"].index(cogid)]]
-            wl[idx, "cogid"]]]
+            [wl[idx, "cogid"]].index(cogid)]]
 
     if proto_language in languages and len(languages) > 2:
         selected_idxs, selected_languages, selected_tokens = [], [], []

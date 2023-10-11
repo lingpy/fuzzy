@@ -15,7 +15,7 @@ karen-pdf:
 karen: karen-wordlist, karen-reconstruction, karen-pdf
 
 pano-wordlist:
-	edictor wordlist --data=cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json --preprocessing=data/panoan_prep.py --addon=cognacy:cogid --name=data/panoan
+	edictor wordlist --data=cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json --preprocessing=data/panoan_prep.py --addon="cognacy:cogid","alignment:alignment" --name=data/panoan
 pano-reconstruction:
 	python example-1.py Panoan
 pano-pdf:

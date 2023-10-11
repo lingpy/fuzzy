@@ -17,6 +17,7 @@ def clean_slash(x):
 
 
 def run(wordlist):
+
     whitelist = []
     for _, idxs in wordlist.get_etymdict(ref="cogid").items():
         visited, all_indices = set(), []
@@ -29,18 +30,23 @@ def run(wordlist):
     for idx, tokens in wordlist.iter_rows("tokens"):
         wordlist[idx, "tokens"] = [t for t in tokens if t not in ["_+"]]
 
-    dct = {0: wordlist.columns}
+    D = {0: wordlist.columns}
     for idx in whitelist:
-        dct[idx] = wordlist[idx]
+        D[idx] = wordlist[idx]
 
-    alms = Alignments(dct, ref="cogid", transcription="tokens")
+    alms = Alignments(D, ref="cogid", transcription="tokens")
     dct = {}
-    for _, msa in alms.msa["cogid"].items():
+
+    for cogid, msa in alms.msa["cogid"].items():
         msa_reduced = []
         for site in msa["alignment"]:
             reduced = reduce_alignment([site])[0]
             reduced = clean_slash(reduced)
             msa_reduced.append(reduced)
+            if cogid == 242:
+                print(site)
+                print(reduced)
+                print("---")
         for i, row in enumerate(msa_reduced):
             dct[msa["ID"][i]] = row
 
@@ -48,4 +54,7 @@ def run(wordlist):
     alms.add_entries("alignment", dct, lambda x: " ".join([y for y in x]), override=True)
     alms.add_entries("structure", "tokens", lambda x: tokens2class(x.split(" "), "cv"))
 
+    for item in alms:
+        if alms[item, "cogid"] == 242:
+            print(alms[item, "alignment"])
     return alms
