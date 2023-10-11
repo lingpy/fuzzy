@@ -13,14 +13,14 @@ import itertools
 import networkx as nx
 random.seed(1234)
 
-align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False)
+align_s = partial(transform_alignment, align=False, position=False, prosody=True, startend=False)
 
 proto_language = "Proto-"+argv[1]
 
 clf = lambda : SVC(kernel="linear")
 wl = Wordlist("data/{0}.tsv".format(argv[1].lower()))
 print("[i] loaded wordlist")
-fr = FuzzyReconstructor(wl, ref="cogids", target=proto_language)
+fr = FuzzyReconstructor(wl, ref="cogid", target=proto_language)
 print("[i] loaded fuzzy reconstructor")
 fr.random_splits(10, retain=0.9)
 print("[i] carried out random splits")
@@ -30,7 +30,7 @@ output = []
 
 # now, we iterate over individual etymologies and predict them one by one
 hits, fails = 0, 0
-etd = wl.get_etymdict(ref="cogids")
+etd = wl.get_etymdict(ref="cogid")
 all_languages = [l for l in wl.cols if l != proto_language]
 confusion = nx.Graph()
 for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
@@ -42,7 +42,8 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
     tokens = []
     for idx in idxs:
         tokens += [basictypes.lists(wl[idx, "tokens"]).n[
-            wl[idx, "cogids"].index(cogid)]]
+            #wl[idx, "cogid"].index(cogid)]]
+            wl[idx, "cogid"]]]
 
     if proto_language in languages and len(languages) > 2:
         selected_idxs, selected_languages, selected_tokens = [], [], []
@@ -72,7 +73,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                         confusion[sndA][sndB]["vals"] += [(cogid, i, scoreA, scoreB)]
                     except:
                         confusion.add_edge(
-                                sndA, 
+                                sndA,
                                 sndB, vals=[(cogid, i, scoreA, scoreB)])
         if " ".join(sounds) == target_word:
             hits += 1
@@ -86,7 +87,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                     oridx = selected_languages.index(all_languages[i])
                     idx = selected_idxs[oridx]
                     concept = wl[idx, "concept"]
-                    cogidx = wl[idx, "cogids"].index(cogid)
+                    cogidx = wl[idx, "cogid"].index(cogid)
                 except:
                     concept = ""
                     cogidx = ""
