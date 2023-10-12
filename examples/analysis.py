@@ -9,6 +9,7 @@ from tabulate import tabulate
 import random
 import itertools
 import networkx as nx
+from tqdm import tqdm as progressbar
 random.seed(1234)
 
 align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False, gap="/")
@@ -118,6 +119,6 @@ with open(argv[1].lower()+".md", "w") as f:
     f.write("# Individual Alignments with Fuzzy Reconstructions\n\n")
     for row in output:
         f.write("## COGID {0} / «{1}»\n\n".format(row[0], row[1]))
-        f.write(tabulate(row[2], tablefmt="pipe", headers = [
+        f.write(tabulate(row[2], tablefmt="pipe", headers=[
             "language", "concept", "pos"]+["S{0}".format(i) for i in range(1, row[3]+1)])+"\n\n")
 print(hits, hits/(hits+fails), fails, fails/(hits+fails), hits+fails)

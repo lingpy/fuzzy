@@ -20,14 +20,20 @@ header-includes: |
 | sound A   | sound B   |   occurrences | cognate sets                                                                       |
 |:----------|:----------|--------------:|:-----------------------------------------------------------------------------------|
 | n         | n̥        |            18 | 203 394 420 445 801 848 894 1129 1237 1742 2046 2468 2973 3103 3125 4002 4039 4051 |
+| n         | n̥        |            18 | 203 394 420 445 801 848 894 1129 1237 1742 2046 2468 2973 3103 3125 4002 4039 4051 |
 | n         | ɴ         |            14 | 579 1755 2072 2294 2362 2388 2401 2520 2673 2858 3067 3179 3467 3726               |
 | ɴ         | ŋ         |            10 | 616 1186 1247 2036 2120 2294 2725 3458 3704 4064                                   |
 | ⁵⁵        | ⁰         |             9 | 954 1879 2167 2429 2505 2506 2682 14 3862                                          |
 | l         | l̥        |             8 | 1104 1554 1921 1971 2506 2570 2769 3227                                            |
 | m̥        | m         |             6 | 1981 1268 3167 3704 3713 4025                                                      |
 | -         | ʔ̚        |             6 | 1768 2505 2506 2591 3018 14                                                        |
+| l         | l̥        |             8 | 1104 1554 1921 1971 2506 2570 2769 3227                                            |
+| m̥        | m         |             6 | 1981 1268 3167 3704 3713 4025                                                      |
+| -         | ʔ̚        |             6 | 1768 2505 2506 2591 3018 14                                                        |
 | ¹¹        | ⁰         |             5 | 2254 2363 3018 3804 3862                                                           |
 | k         | g         |             5 | 800 1186 1720 1879 2591                                                            |
+| ʔ̚        | ʔ         |             4 | 514 1237 1268 1768                                                                 |
+| r         | r̥        |             4 | 2294 2813 3528 3927                                                                |
 | ʔ̚        | ʔ         |             4 | 514 1237 1268 1768                                                                 |
 | r         | r̥        |             4 | 2294 2813 3528 3927                                                                |
 | -         | w         |             4 | 1091 2072 3125 3511                                                                |
@@ -45,7 +51,11 @@ header-includes: |
 | ʔ̚        | t         |             1 | 1195                                                                               |
 | ʔ̚        | k̚        |             1 | 1195                                                                               |
 | ʔ         | k̚        |             1 | 1664                                                                               |
+| ʔ̚        | t         |             1 | 1195                                                                               |
+| ʔ̚        | k̚        |             1 | 1195                                                                               |
+| ʔ         | k̚        |             1 | 1664                                                                               |
 | ɟ         | c         |             1 | 3259                                                                               |
+| ə         | ə.ʔ̚      |             1 | 14                                                                                 |
 | ə         | ə.ʔ̚      |             1 | 14                                                                                 |
 | ə         | ə.ɴ       |             1 | 1                                                                                  |
 | ə         | ə.ŋ       |             1 | 2120                                                                               |
@@ -58,6 +68,8 @@ header-includes: |
 | ŋ         | m         |             1 | 1247                                                                               |
 | t         | t̚        |             1 | 725                                                                                |
 | t         | k̚        |             1 | 1195                                                                               |
+| t         | t̚        |             1 | 725                                                                                |
+| t         | k̚        |             1 | 1195                                                                               |
 | t         | d         |             1 | 2505                                                                               |
 | r         | l         |             1 | 1755                                                                               |
 | r         | -         |             1 | 383                                                                                |
@@ -68,9 +80,11 @@ header-includes: |
 | n         | j         |             1 | 1372                                                                               |
 | kʰ        | kʰ.r      |             1 | 371                                                                                |
 | k         | l̥        |             1 | 2506                                                                               |
+| k         | l̥        |             1 | 2506                                                                               |
 | k         | l         |             1 | 2506                                                                               |
 | k         | d         |             1 | 954                                                                                |
 | j         | ŋ.j       |             1 | 1372                                                                               |
+| a         | ə.ʔ̚      |             1 | 14                                                                                 |
 | a         | ə.ʔ̚      |             1 | 14                                                                                 |
 | -         | ʔ         |             1 | 1768                                                                               |
 | -         | ɴ         |             1 | 2871                                                                               |
@@ -130,6 +144,7 @@ header-includes: |
 | SouthernSgaw | bathe     | 0     | l     | ɨ      | -     | ⁴⁵     |
 | WesternBwe   |           |       | Ø     | Ø      | Ø     | Ø      |
 | Fuzzy        |           |       | l:100 | ou:100 | -:100 | ¹¹:100 |
+| ProtoKaren   |           |       | l̥    | ou     | ¹¹    |        |
 | ProtoKaren   |           |       | l̥    | ou     | ¹¹    |        |
 
 ## COGID 203 / «bee (Apis dorsata)»
@@ -216,6 +231,7 @@ header-includes: |
 | WesternBwe   | brain     | 0     | n          | o     | -      | ¹¹     |
 | Fuzzy        |           |       | n:80¦n̥:20 | o:100 | k̚:100 | ⁵¹:100 |
 | ProtoKaren   |           |       | n          | o     | k̚     | ⁵¹     |
+| ProtoKaren   |           |       | n          | o     | k̚     | ⁵¹     |
 
 ## COGID 420 / «breasts»
 
@@ -232,6 +248,7 @@ header-includes: |
 | SouthernSgaw | breasts   | 0     | n          | u     | -     | ³¹     |
 | WesternBwe   | breasts   | 0     | n          | u     | -     | ³³     |
 | Fuzzy        |           |       | n:80¦n̥:20 | u:100 | -:100 | ¹¹:100 |
+| ProtoKaren   |           |       | n          | u     | ¹¹    |        |
 | ProtoKaren   |           |       | n          | u     | ¹¹    |        |
 
 ## COGID 431 / «broken, split, separate»
@@ -283,6 +300,7 @@ header-includes: |
 | SouthernSgaw | buffalo   | 1     | n          | a     | -     | ³¹     |
 | WesternBwe   | buffalo   | 1     | n          | ɛ     | -     | ³³     |
 | Fuzzy        |           |       | n:80¦n̥:20 | a:100 | -:100 | ¹¹:100 |
+| ProtoKaren   |           |       | n          | a     | ¹¹    |        |
 | ProtoKaren   |           |       | n          | a     | ¹¹    |        |
 
 ## COGID 495 / «caress»
@@ -403,6 +421,7 @@ header-includes: |
 | WesternBwe   | comb (v.) | 0     | kʰ     | w     | i     | -          | ³³     |
 | Fuzzy        |           |       | kʰ:100 | w:100 | i:100 | t:80¦t̚:20 | ⁵¹:100 |
 | ProtoKaren   |           |       | kʰ     | w     | i     | t          | ⁵¹     |
+| ProtoKaren   |           |       | kʰ     | w     | i     | t          | ⁵¹     |
 
 ## COGID 737 / «cotton thread»
 
@@ -504,6 +523,7 @@ header-includes: |
 | SouthernSgaw | day       | 0     | n          | i      | -     | ³³     |
 | WesternBwe   | day       | 0     | n          | i      | -     | ³³     |
 | Fuzzy        |           |       | n:90¦n̥:10 | ei:100 | -:100 | ⁵⁵:100 |
+| ProtoKaren   |           |       | n          | ei     | ⁵⁵    |        |
 | ProtoKaren   |           |       | n          | ei     | ⁵⁵    |        |
 
 ## COGID 954 / «deer (sambha ~)»
@@ -624,6 +644,7 @@ header-includes: |
 | WesternBwe   | ear       | 0     | n          | ɛ     | -     | ³³     |
 | Fuzzy        |           |       | n:80¦n̥:20 | a:100 | -:100 | ¹¹:100 |
 | ProtoKaren   |           |       | n          | a     | ¹¹    |        |
+| ProtoKaren   |           |       | n          | a     | ¹¹    |        |
 
 ## COGID 1142 / «earthworm»
 
@@ -640,6 +661,7 @@ header-includes: |
 | SouthernSgaw |           |       | Ø     | Ø     | Ø      | Ø      |
 | WesternBwe   |           |       | Ø     | Ø     | Ø      | Ø      |
 | Fuzzy        |           |       | j:100 | ɛ:100 | ʔ̚:100 | ⁵¹:100 |
+| ProtoKaren   |           |       | j     | ɛ     | ʔ      | ⁵¹     |
 | ProtoKaren   |           |       | j     | ɛ     | ʔ      | ⁵¹     |
 
 ## COGID 1186 / «eggplant»
@@ -692,6 +714,7 @@ header-includes: |
 | WesternBwe   | enter     | 0     | n          | u     | -          | ¹¹     |
 | Fuzzy        |           |       | n:80¦n̥:20 | ə:100 | ʔ̚:60¦ʔ:40 | ⁵¹:100 |
 | ProtoKaren   |           |       | n          | ə     | ʔ          | ⁵¹     |
+| ProtoKaren   |           |       | n          | ə     | ʔ          | ⁵¹     |
 
 ## COGID 1247 / «exert forcing to expel»
 
@@ -725,6 +748,7 @@ header-includes: |
 | SouthernSgaw | eye, face | 0     | m          | ɛ     | ɦ          | ¹¹     |
 | WesternBwe   |           |       | Ø          | Ø     | Ø          | Ø      |
 | Fuzzy        |           |       | m:80¦m̥:20 | ɛ:100 | ʔ̚:90¦ʔ:10 | ⁵¹:100 |
+| ProtoKaren   |           |       | m          | ɛ     | ʔ̚         | ⁵¹     |
 | ProtoKaren   |           |       | m          | ɛ     | ʔ̚         | ⁵¹     |
 
 ## COGID 1290 / «fat (adj)»
@@ -777,6 +801,7 @@ header-includes: |
 | WesternBwe   | fire      | 0     | m     | ɪ     | ³³     |
 | Fuzzy        |           |       | m:100 | e:100 | ¹¹:100 |
 | ProtoKaren   |           |       | m̥    | e     | ¹¹     |
+| ProtoKaren   |           |       | m̥    | e     | ¹¹     |
 
 ## COGID 1372 / «five»
 
@@ -793,6 +818,7 @@ header-includes: |
 | SouthernSgaw | five      | 0     | j                | ɛ     | -      | ³¹     |      |
 | WesternBwe   | five      | 0     | j                | ɛ     | -      | ¹¹     |      |
 | Fuzzy        |           |       | j:70¦ŋ.j:20¦n:10 | a:100 | t̚:100 | ⁵¹:100 |      |
+| ProtoKaren   |           |       | ŋ                | j     | a      | t̚     | ⁵¹   |
 | ProtoKaren   |           |       | ŋ                | j     | a      | t̚     | ⁵¹   |
 
 ## COGID 6 / «flea»
@@ -828,6 +854,7 @@ header-includes: |
 | WesternBwe   | four      | 0     | l     | -     | u     | -      | ⁵⁵          |
 | Fuzzy        |           |       | l:100 | w:100 | i:100 | t̚:100 | ⁵⁵:90¦⁵¹:10 |
 | ProtoKaren   |           |       | l̥    | w     | i     | t̚     | ⁵⁵          |
+| ProtoKaren   |           |       | l̥    | w     | i     | t̚     | ⁵⁵          |
 
 ## COGID 1554 / «go»
 
@@ -844,6 +871,7 @@ header-includes: |
 | SouthernSgaw | go        | 0     | l          | -     | ɛ     | -     | ³³     |
 | WesternBwe   | go        | 0     | l          | -     | e     | -     | ³³     |
 | Fuzzy        |           |       | l:90¦l̥:10 | w:100 | ɛ:100 | -:100 | ⁵⁵:100 |
+| ProtoKaren   |           |       | l          | w     | ɛ     | ⁵⁵    |        |
 | ProtoKaren   |           |       | l          | w     | ɛ     | ⁵⁵    |        |
 
 ## COGID 1643 / «hat»
@@ -913,6 +941,7 @@ header-includes: |
 | WesternBwe   | horn      | 0     | n          | o     | -     | ¹¹     |
 | Fuzzy        |           |       | n:80¦n̥:20 | o:100 | ŋ:100 | ⁵⁵:100 |
 | ProtoKaren   |           |       | n          | o     | ŋ     | ⁵⁵     |
+| ProtoKaren   |           |       | n          | o     | ŋ     | ⁵⁵     |
 
 ## COGID 1755 / «hornet»
 
@@ -946,6 +975,7 @@ header-includes: |
 | SouthernSgaw | horse     | 0     | k     | ə     | -               | ¹¹    |
 | WesternBwe   |           |       | Ø     | Ø     | Ø               | Ø     |
 | Fuzzy        |           |       | k:100 | ə:100 | -:50¦ʔ:30¦ʔ̚:20 | ⁰:100 |
+| ProtoKaren   |           |       | k     | ə     | ʔ               | ⁰     |
 | ProtoKaren   |           |       | k     | ə     | ʔ               | ⁰     |
 
 ## COGID 1803 / «husband»
@@ -997,6 +1027,7 @@ header-includes: |
 | SouthernSgaw | leaf      | 0     | l     | a     | ⁴⁵     |
 | WesternBwe   | leaf      | 0     | l     | ɛ     | ³³     |
 | Fuzzy        |           |       | l:100 | a:100 | ¹¹:100 |
+| ProtoKaren   |           |       | l̥    | a     | ¹¹     |
 | ProtoKaren   |           |       | l̥    | a     | ¹¹     |
 
 ## COGID 1907 / «leech (land~)»
@@ -1202,6 +1233,7 @@ header-includes: |
 | WesternBwe   | maggot    | 0     | l     | o     | -     | ³³     |
 | Fuzzy        |           |       | l:100 | o:100 | ŋ:100 | ¹¹:100 |
 | ProtoKaren   |           |       | l̥    | o     | ŋ     | ¹¹     |
+| ProtoKaren   |           |       | l̥    | o     | ŋ     | ¹¹     |
 
 ## COGID 2254 / «milipede»
 
@@ -1320,6 +1352,7 @@ header-includes: |
 | SouthernSgaw | nail      | 0     | m     | i      | ⁴⁵     |
 | WesternBwe   | nail      | 1     | m     | i      | ³³     |
 | Fuzzy        |           |       | m:100 | ei:100 | ¹¹:100 |
+| ProtoKaren   |           |       | m̥    | ei     | ¹¹     |
 | ProtoKaren   |           |       | m̥    | ei     | ¹¹     |
 
 ## COGID 2388 / «name»
@@ -1440,6 +1473,7 @@ header-includes: |
 | WesternBwe   |           |       | Ø               | Ø         | Ø          | Ø          |
 | Fuzzy        |           |       | l:50¦k:40¦l̥:10 | ə:60¦a:40 | -:60¦ʔ̚:40 | ⁰:90¦⁵⁵:10 |
 | ProtoKaren   |           |       | l               | a         | ʔ̚         | ³³         |
+| ProtoKaren   |           |       | l               | a         | ʔ̚         | ³³         |
 
 ## COGID 2520 / «open (the mouth)»
 
@@ -1507,6 +1541,7 @@ header-includes: |
 | SouthernSgaw | pen, coop | 0     | k         | ə.ʔ   | ²¹         |       |
 | WesternBwe   |           |       | Ø         | Ø     | Ø          |       |
 | Fuzzy        |           |       | k:90¦g:10 | ə:100 | -:80¦ʔ̚:20 | ⁰:100 |
+| ProtoKaren   |           |       | k         | ə     | ⁰          |       |
 | ProtoKaren   |           |       | k         | ə     | ⁰          |       |
 
 ## COGID 2673 / «porcupine»
@@ -1610,6 +1645,7 @@ header-includes: |
 | WesternBwe   |           |       | Ø          | Ø         | Ø      |
 | Fuzzy        |           |       | r:90¦r̥:10 | e:90¦i:10 | ¹¹:100 |
 | ProtoKaren   |           |       | r          | e         | ¹¹     |
+| ProtoKaren   |           |       | r          | e         | ¹¹     |
 
 ## COGID 2858 / «ripe, cooked»
 
@@ -1661,6 +1697,7 @@ header-includes: |
 | WesternBwe   | seven     | 0     | n          | w     | e     | -      | ⁵⁵     |
 | Fuzzy        |           |       | n:50¦n̥:50 | w:100 | e:100 | t̚:100 | ⁵¹:100 |
 | ProtoKaren   |           |       | ˀn         | w     | e     | t̚     | ⁵¹     |
+| ProtoKaren   |           |       | ˀn         | w     | e     | t̚     | ⁵¹     |
 
 ## COGID 3018 / «shivering»
 
@@ -1694,6 +1731,7 @@ header-includes: |
 | SouthernSgaw | shivering | 1     | n     | o     | ʔ      | ²¹     |
 | WesternBwe   |           |       | Ø     | Ø     | Ø      | Ø      |
 | Fuzzy        |           |       | n:100 | ɔ:100 | ʔ̚:100 | ⁵¹:100 |
+| ProtoKaren   |           |       | n̥    | ɔ     | ʔ̚     | ⁵¹     |
 | ProtoKaren   |           |       | n̥    | ɔ     | ʔ̚     | ⁵¹     |
 
 ## COGID 14 / «shivering»
@@ -1762,6 +1800,7 @@ header-includes: |
 | SouthernSgaw | sleeping  | 1     | n          | i      | -     | ³¹     |
 | WesternBwe   |           |       | Ø          | Ø      | Ø     | Ø      |
 | Fuzzy        |           |       | n:60¦n̥:40 | ei:100 | -:100 | ¹¹:100 |
+| ProtoKaren   |           |       | n          | ei     | ¹¹    |        |
 | ProtoKaren   |           |       | n          | ei     | ¹¹    |        |
 
 ## COGID 3125 / «smell (v.)»
@@ -1898,6 +1937,7 @@ header-includes: |
 | SouthernSgaw | squirrel  | 0     | l     | i     | -     | ⁴⁵     |
 | WesternBwe   | squirrel  | 0     | l     | i     | -     | ¹¹     |
 | Fuzzy        |           |       | l:100 | i:100 | -:100 | ¹¹:100 |
+| ProtoKaren   |           |       | l̥    | i     | ¹¹    |        |
 | ProtoKaren   |           |       | l̥    | i     | ¹¹    |        |
 
 ## COGID 3458 / «tendon»
@@ -2086,6 +2126,8 @@ header-includes: |
 | WesternBwe   |           |       | Ø         | Ø          | Ø     | Ø      |
 | Fuzzy        |           |       | n:50¦ɴ:50 | ei:90¦i:10 | -:100 | ⁵⁵:100 |
 | ProtoKaren   |           |       | n̥        | ei         | ⁵⁵    |        |
+| Fuzzy        |           |       | n:50¦ɴ:50 | ei:90¦i:10 | -:100 | ⁵⁵:100 |
+| ProtoKaren   |           |       | n̥        | ei         | ⁵⁵    |        |
 
 ## COGID 3752 / «vagina»
 
@@ -2119,6 +2161,7 @@ header-includes: |
 | SouthernSgaw | vulture   | 0     | l     | ɔ     | -     | ³³     |
 | WesternBwe   | vulture   | 0     | l     | a     | -     | ³³     |
 | Fuzzy        |           |       | l:100 | a:100 | ŋ:100 | ¹¹:100 |
+| ProtoKaren   |           |       | l̥    | a     | ŋ     | ¹¹     |
 | ProtoKaren   |           |       | l̥    | a     | ŋ     | ¹¹     |
 
 ## COGID 3804 / «waist»
@@ -2188,6 +2231,7 @@ header-includes: |
 | WesternBwe   |           |       | Ø          | Ø     | Ø     | Ø      |
 | Fuzzy        |           |       | r̥:70¦r:30 | o:100 | ŋ:100 | ¹¹:100 |
 | ProtoKaren   |           |       | r          | o     | ŋ     | ¹¹     |
+| ProtoKaren   |           |       | r          | o     | ŋ     | ¹¹     |
 
 ## COGID 3951 / «white»
 
@@ -2222,6 +2266,7 @@ header-includes: |
 | WesternBwe   | wife      | 0     | m     | ɛ     | -     | ⁵⁵     |
 | Fuzzy        |           |       | m:100 | a:100 | -:100 | ⁵⁵:100 |
 | ProtoKaren   |           |       | m̥    | a     | ⁵⁵    |        |
+| ProtoKaren   |           |       | m̥    | a     | ⁵⁵    |        |
 
 ## COGID 4002 / «win»
 
@@ -2238,6 +2283,7 @@ header-includes: |
 | SouthernSgaw | win       | 0     | n          | ɨ     | -     | ³³     |
 | WesternBwe   |           |       | Ø          | Ø     | Ø     | Ø      |
 | Fuzzy        |           |       | n:70¦n̥:30 | ɨ:100 | ŋ:100 | ⁵⁵:100 |
+| ProtoKaren   |           |       | n          | ɨ     | ŋ     | ⁵⁵     |
 | ProtoKaren   |           |       | n          | ɨ     | ŋ     | ⁵⁵     |
 
 ## COGID 4025 / «wrong, mistake, error»
