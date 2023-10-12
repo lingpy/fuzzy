@@ -3,9 +3,6 @@ download:
 	git clone https://github.com/lexibank/luangthongkumkaren --branch v0.2 cldf-data/luangthongkumkaren
 	git clone https://github.com/pano-tacanan-history/oliveiraprotopanoan cldf-data/oliveiraprotopanoan
 
-prepare:
-	pip install pyedictor pylexibank scikit-learn
-
 burmish-wordlist:
 	edictor wordlist --data=cldf-data/hillburmish/cldf/cldf-metadata.json --addon=partial_cognacy:cogids --name=data/burmish
 burmish-reconstruction:
