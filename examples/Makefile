@@ -1,5 +1,7 @@
 burmish-download:
 	git clone https://github.com/lexibank/hillburmish/ --branch v0.2 cldf-data/hillburmish/
+burmish-download:
+	git clone https://github.com/lexibank/hillburmish/ --branch v0.2 cldf-data/hillburmish/
 burmish-wordlist:
 	edictor wordlist --data=cldf-data/hillburmish/cldf/cldf-metadata.json --addon=partial_cognacy:cogids --name=data/burmish
 burmish-reconstruction:
@@ -7,7 +9,10 @@ burmish-reconstruction:
 burmish-pdf:
 	pandoc -i burmish.md -o burmish.pdf --pdf-engine=xelatex
 burmish: burmish-wordlist burmish-reconstruction burmish-pdf
+burmish: burmish-wordlist burmish-reconstruction burmish-pdf
 
+karen-download:
+	git clone https://github.com/lexibank/luangthongkumkaren/ --branch v0.2 cldf-data/luangthongkumkaren/
 karen-download:
 	git clone https://github.com/lexibank/luangthongkumkaren/ --branch v0.2 cldf-data/luangthongkumkaren/
 karen-wordlist:
