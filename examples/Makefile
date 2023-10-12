@@ -1,13 +1,10 @@
 download:
-	git clone https://github.com/lexibank/hillburmish cldf-data/hillburmish
-	git clone https://github.com/lexibank/luangthongkumkaren cldf-data/luangthongkumkaren
+	git clone https://github.com/lexibank/hillburmish --branch v0.2 cldf-data/hillburmish
+	git clone https://github.com/lexibank/luangthongkumkaren --branch v0.2 cldf-data/luangthongkumkaren
 	git clone https://github.com/pano-tacanan-history/oliveiraprotopanoan cldf-data/oliveiraprotopanoan
 
 prepare:
 	pip install pyedictor pylexibank scikit-learn
-	cd cldf-data/hillburmish; git checkout v0.2; cd ../../ 
-	cd cldf-data/luangthongkumkaren; git checkout v0.2; cd ../../
-	cd cldf-data/oliveiraprotopanoan; git checkout main; cd ../../ 
 
 burmish-wordlist:
 	edictor wordlist --data=cldf-data/hillburmish/cldf/cldf-metadata.json --addon=partial_cognacy:cogids --name=data/burmish
