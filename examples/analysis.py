@@ -1,6 +1,7 @@
 from fuzzyrex import FuzzyReconstructor
 from lingpy import Wordlist, basictypes
 from lingrex.reconstruct import transform_alignment
+from pylexibank import progressbar
 from functools import partial
 from sklearn.svm import SVC
 from sys import argv
@@ -11,8 +12,7 @@ import networkx as nx
 from tqdm import tqdm as progressbar
 random.seed(1234)
 
-align_s = partial(
-        transform_alignment, align=True, position=False, prosody=True, startend=False)
+align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False, gap="/")
 
 proto_language = "Proto"+argv[1]
 
@@ -84,8 +84,8 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                 try:
                     oridx = selected_languages.index(all_languages[i])
                     idx = selected_idxs[oridx]
-                    concept = wordlist[idx, "concept"]
-                    cogidx = wordlist[idx, "cogids"].index(cogid)
+                    concept = wl[idx, "concept"]
+                    cogidx = wl[idx, "cogids"].index(cogid)
                 except:
                     concept = ""
                     cogidx = ""
