@@ -21,7 +21,7 @@ language-tags==1.2.0
 latexcodec==2.0.1
 lexibase==0.1.0
 lingpy==2.6.10
--e git+https://github.com/lingpy/lingrex.git@c063c00cda8b07ffc0d37e5aace8e5da453f44ad#egg=lingrex
+lingrex==1.4.0
 lxml==4.8.0
 Markdown==3.5
 MarkupSafe==2.1.3
