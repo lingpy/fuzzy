@@ -17,115 +17,142 @@ header-includes: |
 
 # Confused Sounds
 
-| sound A   | sound B   |   occurrences | cognate sets                                                   |
-|:----------|:----------|--------------:|:---------------------------------------------------------------|
-| rⁿ        | n         |            16 | 445 87 199 251 490 229 265 486 430 386 439 431 236 115 358 484 |
-| rⁿ        | ~         |            10 | 122 87 220 26 291 372 72 25 126 58                             |
-| n         | -         |             9 | 199 158 490 376 515 236 115 368 92                             |
-| k         | -         |             9 | 24 463 76 65 376 175 515 392 92                                |
-| t         | tʳ        |             8 | 331 199 346 515 495 503 241 284                                |
-| n         | k         |             7 | 140 331 207 486 376 515 92                                     |
-| k         | tʳ        |             6 | 331 207 327 471 76 175                                         |
-| -         | tʳ        |             6 | 199 11 76 175 287 368                                          |
-| t         | -         |             5 | 24 291 449 515 370                                             |
-| rⁿ        | -         |             5 | 179 199 65 236 115                                             |
-| n         | tʳ        |             5 | 331 4 199 207 368                                              |
-| ʔ         | tʳ        |             4 | 199 207 384 516                                                |
-| t         | k         |             4 | 18 331 24 515                                                  |
-| -         | ʔ         |             4 | 257 69 199 2                                                   |
-| tʳ        | ɽ         |             3 | 471 175 495                                                    |
-| rⁿ        | r         |             3 | 211 486 115                                                    |
-| rⁿ        | m         |             3 | 416 5 488                                                      |
-| n         | ʔ         |             3 | 199 207 251                                                    |
-| n         | t         |             3 | 331 251 515                                                    |
-| n         | m         |             3 | 219 415 97                                                     |
-| i         | i.tʳ      |             3 | 4 199 200                                                      |
-| -         | o         |             3 | 251 462 367                                                    |
-| -         | i         |             3 | 69 38 70                                                       |
-| ʔ         | o         |             2 | 384 167                                                        |
-| ʔ         | i         |             2 | 69 266                                                         |
-| t         | ʔ         |             2 | 251 167                                                        |
-| t         | ɽ         |             2 | 440 495                                                        |
-| s         | s.i       |             2 | 263 304                                                        |
-| rⁿ        | ʔ         |             2 | 199 251                                                        |
-| n         | ~         |             2 | 437 449                                                        |
-| n         | r         |             2 | 486 115                                                        |
-| n         | o         |             2 | 251 298                                                        |
-| k         | ɽ         |             2 | 471 175                                                        |
-| k         | k.o       |             2 | 286 286                                                        |
-| i         | ɨ         |             2 | 16 168                                                         |
-| i         | o         |             2 | 107 70                                                         |
-| a         | a.tʳ      |             2 | 11 384                                                         |
-| ʔ         | ʔ.o       |             1 | 361                                                            |
-| ʃ         | ʃ.i       |             1 | 107                                                            |
-| ʂ         | ʂ.a       |             1 | 449                                                            |
-| ɨ         | ɽ         |             1 | 440                                                            |
-| ɨ         | ɨ.ʔ       |             1 | 156                                                            |
-| ɨ         | k.ɨ.r     |             1 | 161                                                            |
-| w         | k         |             1 | 18                                                             |
-| tʳ        | tʃ        |             1 | 304                                                            |
-| tʳ        | o         |             1 | 384                                                            |
-| t         | ɨ         |             1 | 440                                                            |
-| t         | w         |             1 | 18                                                             |
-| t         | t.i       |             1 | 266                                                            |
-| t         | a         |             1 | 449                                                            |
-| s         | ts        |             1 | 68                                                             |
-| s         | s.t       |             1 | 18                                                             |
-| rⁿ        | ʔ.rⁿ      |             1 | 487                                                            |
-| rⁿ        | tʳ        |             1 | 199                                                            |
-| rⁿ        | t         |             1 | 251                                                            |
-| rⁿ        | k         |             1 | 65                                                             |
-| o         | o.ʔ       |             1 | 515                                                            |
-| o         | o.tʳ      |             1 | 516                                                            |
-| o         | o.o       |             1 | 462                                                            |
-| o         | o.n       |             1 | 91                                                             |
-| o         | k.o       |             1 | 286                                                            |
-| o         | a.tʳ      |             1 | 384                                                            |
-| k         | ʔ         |             1 | 207                                                            |
-| k         | o         |             1 | 286                                                            |
-| i         | i.ʔ       |             1 | 301                                                            |
-| i         | i.ʃ       |             1 | 52                                                             |
-| i         | i.n       |             1 | 92                                                             |
-| i         | i.k       |             1 | 471                                                            |
-| a         | o         |             1 | 384                                                            |
-| a         | a.ʔ       |             1 | 69                                                             |
-| a         | a.ɨ       |             1 | 242                                                            |
-| a         | a.w       |             1 | 517                                                            |
-| a         | a.n       |             1 | 363                                                            |
-| a         | a.k       |             1 | 103                                                            |
-| -         | ʃ         |             1 | 52                                                             |
-| -         | ɽ         |             1 | 175                                                            |
-| -         | ɨ         |             1 | 74                                                             |
-| -         | r         |             1 | 115                                                            |
-| -         | a         |             1 | 449                                                            |
+| sound A   | sound B   |   occurrences | cognate sets                                                                                   |
+|:----------|:----------|--------------:|:-----------------------------------------------------------------------------------------------|
+| n         | rⁿ        |            24 | 247 445 336 87 199 437 437 251 490 229 332 265 486 430 386 515 439 493 126 431 236 115 358 484 |
+| k         | -         |            13 | 331 24 207 471 223 463 76 65 376 175 221 392 92                                                |
+| rⁿ        | ∼         |            10 | 122 220 437 26 291 449 372 72 25 126                                                           |
+| -         | tʳ        |            10 | 331 199 207 471 11 76 175 346 287 368                                                          |
+| n         | -         |             9 | 199 158 490 376 515 236 115 368 92                                                             |
+| rⁿ        | -         |             6 | 179 199 65 515 236 115                                                                         |
+| k         | tʳ        |             6 | 331 207 327 471 76 175                                                                         |
+| t         | tʳ        |             5 | 199 495 503 241 284                                                                            |
+| t         | -         |             5 | 24 291 449 515 370                                                                             |
+| rⁿ        | r         |             5 | 211 486 439 115 322                                                                            |
+| ʔ         | tʳ        |             4 | 199 207 384 516                                                                                |
+| rⁿ        | m         |             4 | 416 480 5 488                                                                                  |
+| n         | k         |             4 | 140 486 376 92                                                                                 |
+| -         | ʔ         |             4 | 257 199 207 2                                                                                  |
+| n         | tʳ        |             3 | 4 199 368                                                                                      |
+| n         | t         |             3 | 251 298 515                                                                                    |
+| n         | r         |             3 | 486 439 115                                                                                    |
+| n         | m         |             3 | 219 415 97                                                                                     |
+| i         | i.tʳ      |             3 | 4 199 200                                                                                      |
+| ʔ         | o         |             2 | 384 167                                                                                        |
+| ʔ         | i         |             2 | 69 266                                                                                         |
+| tʳ        | ɽ         |             2 | 175 495                                                                                        |
+| t         | ɽ         |             2 | 440 495                                                                                        |
+| t         | k         |             2 | 18 24                                                                                          |
+| s         | s.i       |             2 | 263 304                                                                                        |
+| rⁿ        | t         |             2 | 251 515                                                                                        |
+| n         | ∼         |             2 | 437 126                                                                                        |
+| n         | o         |             2 | 251 298                                                                                        |
+| k         | k.o       |             2 | 286 286                                                                                        |
+| i         | ɨ         |             2 | 16 168                                                                                         |
+| i         | o         |             2 | 107 70                                                                                         |
+| a         | a.tʳ      |             2 | 11 384                                                                                         |
+| -         | o         |             2 | 251 462                                                                                        |
+| -         | i         |             2 | 38 70                                                                                          |
+| ʔ         | ʔ.o       |             1 | 361                                                                                            |
+| ʃ         | ʃ.i       |             1 | 107                                                                                            |
+| ʂ         | ʂ.a       |             1 | 449                                                                                            |
+| ɨ         | ɽ         |             1 | 440                                                                                            |
+| ɨ         | ɨ.ʔ       |             1 | 156                                                                                            |
+| ɨ         | k.ɨ.r     |             1 | 161                                                                                            |
+| w         | k         |             1 | 18                                                                                             |
+| tʳ        | tʃ        |             1 | 304                                                                                            |
+| tʳ        | o         |             1 | 384                                                                                            |
+| t         | ʔ         |             1 | 167                                                                                            |
+| t         | ɨ         |             1 | 440                                                                                            |
+| t         | w         |             1 | 18                                                                                             |
+| t         | t.i       |             1 | 266                                                                                            |
+| t         | o         |             1 | 298                                                                                            |
+| t         | a         |             1 | 449                                                                                            |
+| s         | ts        |             1 | 68                                                                                             |
+| s         | s.t       |             1 | 18                                                                                             |
+| rⁿ        | ʔ.rⁿ      |             1 | 487                                                                                            |
+| rⁿ        | ʔ         |             1 | 199                                                                                            |
+| rⁿ        | tʳ        |             1 | 199                                                                                            |
+| rⁿ        | k         |             1 | 65                                                                                             |
+| o         | o.ʔ       |             1 | 515                                                                                            |
+| o         | o.tʳ      |             1 | 516                                                                                            |
+| o         | o.o       |             1 | 462                                                                                            |
+| o         | o.n       |             1 | 91                                                                                             |
+| o         | k.o       |             1 | 286                                                                                            |
+| o         | a.tʳ      |             1 | 384                                                                                            |
+| n         | ʔ         |             1 | 199                                                                                            |
+| k         | ʔ         |             1 | 207                                                                                            |
+| k         | ɽ         |             1 | 175                                                                                            |
+| k         | o         |             1 | 286                                                                                            |
+| i         | i.ʔ       |             1 | 301                                                                                            |
+| i         | i.ʃ       |             1 | 52                                                                                             |
+| i         | i.n       |             1 | 92                                                                                             |
+| i         | i.k       |             1 | 471                                                                                            |
+| a         | o         |             1 | 384                                                                                            |
+| a         | a.ʔ       |             1 | 69                                                                                             |
+| a         | a.ɨ       |             1 | 242                                                                                            |
+| a         | a.w       |             1 | 517                                                                                            |
+| a         | a.n       |             1 | 363                                                                                            |
+| a         | a.k       |             1 | 103                                                                                            |
+| -         | ʃ         |             1 | 52                                                                                             |
+| -         | ɽ         |             1 | 175                                                                                            |
+| -         | ɨ         |             1 | 74                                                                                             |
+| -         | r         |             1 | 115                                                                                            |
+| -         | a         |             1 | 449                                                                                            |
 
 # Individual Alignments with Fuzzy Reconstructions
+
+## COGID 247 / «yellow»
+
+| language      | concept   | pos   | S1    | S2    | S3    | S4    | S5         |
+|:--------------|:----------|:------|:------|:------|:------|:------|:-----------|
+| Amawaka       | yellow    | 0     | p     | a     | ʃ     | i     | -          |
+| Chakobo       | red       | 0     | -     | -     | ʃ     | i     | n          |
+| Chaninawa     |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Kakataibo     | yellow    | 0     | p     | a     | ʃ     | i     | ∼          |
+| Kapanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Katukina      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Kaxarari      | yellow    | 0     | -     | -     | ʃ     | i     | n          |
+| Kaxinawa      | yellow    | 0     | p     | a     | ʃ     | i     | -          |
+| Korubo        | achiote   | 0     | -     | -     | ʃ     | i     | n          |
+| Marinawa      | yellow    | 0     | p     | a     | ʃ     | i     | -          |
+| Marubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Matis         | yellow    | 0     | -     | -     | ʃ     | i     | n          |
+| Mayoruna      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Poyanawa      | yellow    | 0     | p     | a     | ʃ     | i     | ∼          |
+| Shanenawa     | yellow    | 0     | p     | a     | ʂ     | i     | n          |
+| Sharanawa     | yellow    | 0     | p     | a     | ʂ     | i     | -          |
+| ShipiboKonibo | yellow    | 0     | p     | a     | ʃ     | i     | -          |
+| Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Yawanawa      | yellow    | 0     | p     | a     | ʃ     | i     | n          |
+| Fuzzy         |           |       | p:100 | a:100 | ʃ:100 | i:100 | n:80¦rⁿ:20 |
+| ProtoPanoan   |           |       | p     | a     | ʃ     | i     | n          |
 
 ## COGID 445 / «afternoon»
 
 | language      | concept   | pos   | S1    | S2    | S3    | S4    | S5    | S6         |
 |:--------------|:----------|:------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | afternoon | 0     | j     | a     | ~     | t     | a     | ~          |
+| Amawaka       | afternoon | 0     | j     | a     | ∼     | t     | a     | ∼          |
 | Chakobo       | afternoon | 0     | j     | a     | -     | t     | a     | -          |
 | Chaninawa     |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | afternoon | 0     | -     | a     | -     | t     | a     | ~          |
+| Kakataibo     | afternoon | 0     | -     | a     | -     | t     | a     | ∼          |
 | Kapanawa      | afternoon | 0     | j     | a     | n     | t     | a     | n          |
 | Katukina      |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Kaxarari      |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Kaxinawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Marinawa      | afternoon | 0     | j     | a     | -     | t     | a     | ~          |
+| Marinawa      | afternoon | 0     | j     | a     | -     | t     | a     | ∼          |
 | Marubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Matis         |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Mayoruna      |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     |           |       | Ø     | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Sharanawa     | afternoon | 0     | j     | a     | -     | t     | a     | n          |
-| ShipiboKonibo | afternoon | 0     | j     | a     | ~     | t     | a     | ~          |
-| Yaminawa      | afternoon | 0     | j     | a     | ~     | t     | a     | -          |
-| Yawanawa      | afternoon | 0     | j     | a     | ~     | t     | a     | ~          |
-| Fuzzy         |           |       | j:100 | a:100 | ~:100 | t:100 | a:100 | rⁿ:80¦n:20 |
-| ProtoPanoan   |           |       | j     | a     | ~     | t     | a     | n          |
+| ShipiboKonibo | afternoon | 0     | j     | a     | ∼     | t     | a     | ∼          |
+| Yaminawa      | afternoon | 0     | j     | a     | ∼     | t     | a     | -          |
+| Yawanawa      | afternoon | 0     | j     | a     | ∼     | t     | a     | ∼          |
+| Fuzzy         |           |       | j:100 | a:100 | ∼:100 | t:100 | a:100 | n:50¦rⁿ:50 |
+| ProtoPanoan   |           |       | j     | a     | ∼     | t     | a     | n          |
 
 ## COGID 18 / «amber»
 
@@ -157,7 +184,7 @@ header-includes: |
 
 | language      | concept     | pos   | S1    | S2    | S3         | S4     | S5    | S6     |
 |:--------------|:------------|:------|:------|:------|:-----------|:-------|:------|:-------|
-| Amawaka       | animal horn | 0     | m     | a     | -          | tʃ     | a     | ~      |
+| Amawaka       | animal horn | 0     | m     | a     | -          | tʃ     | a     | ∼      |
 | Chakobo       |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
 | Chaninawa     |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
 | Kakataibo     |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
@@ -173,11 +200,11 @@ header-includes: |
 | Poyanawa      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
 | Shanenawa     |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
 | Sharanawa     |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
-| ShipiboKonibo | animal horn | 0     | m     | a     | ~          | tʃ     | a     | ~      |
+| ShipiboKonibo | animal horn | 0     | m     | a     | ∼          | tʃ     | a     | ∼      |
 | Yaminawa      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø      |
 | Yawanawa      | animal horn | 0     | m     | a     | -          | tʃ     | a     | n      |
-| Fuzzy         |             |       | m:100 | a:100 | rⁿ:90¦~:10 | tʃ:100 | a:100 | rⁿ:100 |
-| ProtoPanoan   |             |       | m     | a     | ~          | tʃ     | a     | rⁿ     |
+| Fuzzy         |             |       | m:100 | a:100 | rⁿ:90¦∼:10 | tʃ:100 | a:100 | rⁿ:100 |
+| ProtoPanoan   |             |       | m     | a     | ∼          | tʃ     | a     | rⁿ     |
 
 ## COGID 257 / «arrow»
 
@@ -202,7 +229,7 @@ header-includes: |
 | ShipiboKonibo | arrow     | 0     | p     | i     | -         | a     |
 | Yaminawa      | arrow     | 0     | p     | i     | -         | a     |
 | Yawanawa      | arrow     | 0     | p     | i     | -         | a     |
-| Fuzzy         |           |       | p:100 | i:100 | -:90¦ʔ:10 | a:100 |
+| Fuzzy         |           |       | p:100 | i:100 | -:80¦ʔ:20 | a:100 |
 | ProtoPanoan   |           |       | p     | i     | a         |       |
 
 ## COGID 140 / «clay, dust»
@@ -233,55 +260,55 @@ header-includes: |
 
 ## COGID 69 / «back»
 
-| language      | concept   | pos   | S1    | S2          | S3             | S4    | S5    |
-|:--------------|:----------|:------|:------|:------------|:---------------|:------|:------|
-| Amawaka       | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Chakobo       | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Chaninawa     | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Kakataibo     |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Kapanawa      | back      | 0     | k     | a           | ʔ              | t     | ɨ     |
-| Katukina      |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Kaxarari      | back      | 0     | k     | a           | -              | t     | a     |
-| Kaxinawa      | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Korubo        |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Marinawa      | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Marubo        |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Matis         | back      | 0     | k     | a           | -              | -     | -     |
-| Mayoruna      |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Poyanawa      | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Shanenawa     |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Sharanawa     | back      | 0     | k     | a           | -              | t     | ɨ     |
-| ShipiboKonibo |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Yaminawa      | back      | 0     | k     | a           | -              | t     | ɨ     |
-| Yawanawa      |           |       | Ø     | Ø           | Ø              | Ø     | Ø     |
-| Fuzzy         |           |       | k:100 | a:90¦a.ʔ:10 | ʔ:80¦-:10¦i:10 | t:100 | ɨ:100 |
-| ProtoPanoan   |           |       | k     | a           | ʔ              | t     | ɨ     |
+| language      | concept   | pos   | S1    | S2          | S3        | S4    | S5    |
+|:--------------|:----------|:------|:------|:------------|:----------|:------|:------|
+| Amawaka       | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Chakobo       | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Chaninawa     | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Kakataibo     |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Kapanawa      | back      | 0     | k     | a           | ʔ         | t     | ɨ     |
+| Katukina      |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Kaxarari      | back      | 0     | k     | a           | -         | t     | a     |
+| Kaxinawa      | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Korubo        |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Marinawa      | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Marubo        |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Matis         | back      | 0     | k     | a           | -         | -     | -     |
+| Mayoruna      |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Poyanawa      | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Shanenawa     |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Sharanawa     | back      | 0     | k     | a           | -         | t     | ɨ     |
+| ShipiboKonibo |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Yaminawa      | back      | 0     | k     | a           | -         | t     | ɨ     |
+| Yawanawa      |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
+| Fuzzy         |           |       | k:100 | a:90¦a.ʔ:10 | ʔ:90¦i:10 | t:100 | ɨ:100 |
+| ProtoPanoan   |           |       | k     | a           | ʔ         | t     | ɨ     |
 
 ## COGID 331 / «bark of tree, skin»
 
-| language      | concept            | pos   | S1    | S2    | S3    | S4    | S5                   |
-|:--------------|:-------------------|:------|:------|:------|:------|:------|:---------------------|
-| Amawaka       | bark of tree, skin | 0     | x     | a     | k     | a     | -                    |
-| Chakobo       | bark of tree, skin | 0     | ʂ     | a     | k     | a     | t                    |
-| Chaninawa     |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Kakataibo     | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| Kapanawa      | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| Katukina      | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| Kaxarari      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Kaxinawa      | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| Korubo        |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Marinawa      | clarity            | 0     | ʂ     | a     | k     | a     | -                    |
-| Marubo        | bark of tree, skin | 0     | ʃ     | a     | k     | a     | -                    |
-| Matis         |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Mayoruna      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Poyanawa      | bark of tree, skin | 0     | h     | a     | k     | a     | -                    |
-| Shanenawa     | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| Sharanawa     | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| ShipiboKonibo | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -                    |
-| Yaminawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Yawanawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Fuzzy         |                    |       | ʂ:100 | a:100 | k:100 | a:100 | tʳ:70¦k:10¦n:10¦t:10 |
-| ProtoPanoan   |                    |       | ʂ     | a     | k     | a     | tʳ                   |
+| language      | concept            | pos   | S1    | S2    | S3    | S4    | S5              |
+|:--------------|:-------------------|:------|:------|:------|:------|:------|:----------------|
+| Amawaka       | bark of tree, skin | 0     | x     | a     | k     | a     | -               |
+| Chakobo       | bark of tree, skin | 0     | ʂ     | a     | k     | a     | t               |
+| Chaninawa     |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Kakataibo     | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| Kapanawa      | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| Katukina      | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| Kaxarari      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Kaxinawa      | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| Korubo        |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Marinawa      | clarity            | 0     | ʂ     | a     | k     | a     | -               |
+| Marubo        | bark of tree, skin | 0     | ʃ     | a     | k     | a     | -               |
+| Matis         |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Mayoruna      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Poyanawa      | bark of tree, skin | 0     | h     | a     | k     | a     | -               |
+| Shanenawa     | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| Sharanawa     | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| ShipiboKonibo | bark of tree, skin | 0     | ʂ     | a     | k     | a     | -               |
+| Yaminawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Yawanawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø               |
+| Fuzzy         |                    |       | ʂ:100 | a:100 | k:100 | a:100 | tʳ:70¦k:20¦-:10 |
+| ProtoPanoan   |                    |       | ʂ     | a     | k     | a     | tʳ              |
 
 ## COGID 107 / «bat»
 
@@ -339,27 +366,53 @@ header-includes: |
 
 | language      | concept      | pos   | S1     | S2    | S3    | S4    | S5         |
 |:--------------|:-------------|:------|:-------|:------|:------|:------|:-----------|
-| Amawaka       | below, under | 0     | n      | a     | m     | a     | ~          |
+| Amawaka       | below, under | 0     | n      | a     | m     | a     | ∼          |
 | Chakobo       | below, under | 0     | n      | a     | m     | a     | -          |
 | Chaninawa     |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | below, under | 0     | n      | a     | m     | a     | ~          |
+| Kakataibo     | below, under | 0     | n      | a     | m     | a     | ∼          |
 | Kapanawa      | below, under | 0     | n      | a     | m     | a     | n          |
 | Katukina      |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
 | Kaxarari      |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
-| Kaxinawa      | below, under | 0     | n      | a     | m     | a     | ~          |
+| Kaxinawa      | below, under | 0     | n      | a     | m     | a     | ∼          |
 | Korubo        |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
-| Marinawa      | below, under | 0     | n      | a     | m     | a     | ~          |
-| Marubo        | below, under | 0     | n      | a     | m     | a     | ~          |
+| Marinawa      | below, under | 0     | n      | a     | m     | a     | ∼          |
+| Marubo        | below, under | 0     | n      | a     | m     | a     | ∼          |
 | Matis         |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
 | Mayoruna      |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
 | Poyanawa      |              |       | Ø      | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     | below, under | 0     | n      | a     | m     | a     | n          |
 | Sharanawa     | below, under | 0     | n      | a     | m     | a     | n          |
-| ShipiboKonibo | below, under | 0     | n      | a     | m     | a     | ~          |
-| Yaminawa      | below, under | 0     | n      | a     | m     | a     | ~          |
+| ShipiboKonibo | below, under | 0     | n      | a     | m     | a     | ∼          |
+| Yaminawa      | below, under | 0     | n      | a     | m     | a     | ∼          |
 | Yawanawa      | below, under | 0     | n      | ɨ     | m     | ɨ     | -          |
 | Fuzzy         |              |       | rⁿ:100 | a:100 | m:100 | a:100 | -:60¦rⁿ:40 |
 | ProtoPanoan   |              |       | n      | a     | m     | a     |            |
+
+## COGID 336 / «big»
+
+| language      | concept   | pos   | S1    | S2    | S3         | S4    |
+|:--------------|:----------|:------|:------|:------|:-----------|:------|
+| Amawaka       |           |       | Ø     | Ø     | Ø          | Ø     |
+| Chakobo       | big       | 0     | ʔ     | a     | n          | i     |
+| Chaninawa     |           |       | Ø     | Ø     | Ø          | Ø     |
+| Kakataibo     | cabybara  | 0     | ʔ     | a     | n          | i     |
+| Kapanawa      | big       | 0     | ʔ     | a     | n          | i     |
+| Katukina      | big       | 0     | -     | a     | n          | i     |
+| Kaxarari      | big       | 0     | ɦ     | a     | -          | i     |
+| Kaxinawa      | big       | 0     | -     | a     | n          | i     |
+| Korubo        | small     | 0     | -     | a     | n          | i     |
+| Marinawa      |           |       | Ø     | Ø     | Ø          | Ø     |
+| Marubo        | big       | 0     | -     | a     | n          | i     |
+| Matis         |           |       | Ø     | Ø     | Ø          | Ø     |
+| Mayoruna      | big       | 0     | -     | a     | n          | i     |
+| Poyanawa      | big       | 0     | -     | a     | d          | i     |
+| Shanenawa     | big       | 0     | -     | a     | n          | i     |
+| Sharanawa     | big       | 0     | -     | a     | n          | i     |
+| ShipiboKonibo | big       | 0     | ʔ     | a     | n          | i     |
+| Yaminawa      |           |       | Ø     | Ø     | Ø          | Ø     |
+| Yawanawa      | old       | 0     | -     | a     | n          | i     |
+| Fuzzy         |           |       | ʔ:100 | a:100 | n:90¦rⁿ:10 | i:100 |
+| ProtoPanoan   |           |       | ʔ     | a     | n          | i     |
 
 ## COGID 24 / «big»
 
@@ -389,29 +442,29 @@ header-includes: |
 
 ## COGID 87 / «bowl, plate»
 
-| language      | concept     | pos   | S1    | S2    | S3         | S4     | S5    | S6         |
-|:--------------|:------------|:------|:------|:------|:-----------|:-------|:------|:-----------|
-| Amawaka       | bowl, plate | 0     | k     | ɨ     | ~          | tʃ     | a     | -          |
-| Chakobo       |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Chaninawa     |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Kakataibo     | bowl, plate | 0     | k     | ɨ     | ~          | tʃ     | a     | -          |
-| Kapanawa      | bowl, plate | 0     | k     | ɨ     | n          | tʃ     | a     | -          |
-| Katukina      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Kaxarari      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Kaxinawa      | bowl, plate | 0     | k     | ɨ     | ~          | tʃ     | a     | -          |
-| Korubo        |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Marinawa      | bowl, plate | 0     | k     | ɨ     | -          | tʃ     | a     | ~          |
-| Marubo        |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Matis         |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Mayoruna      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Poyanawa      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Shanenawa     |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Sharanawa     | bowl, plate | 0     | k     | ɨ     | -          | tʃ     | a     | n          |
-| ShipiboKonibo | bowl, plate | 0     | k     | ɨ     | ~          | tʃ     | a     | -          |
-| Yaminawa      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Yawanawa      |             |       | Ø     | Ø     | Ø          | Ø      | Ø     | Ø          |
-| Fuzzy         |             |       | k:100 | ɨ:100 | rⁿ:60¦~:40 | tʃ:100 | a:100 | n:90¦rⁿ:10 |
-| ProtoPanoan   |             |       | k     | ɨ     | ~          | tʃ     | a     | n          |
+| language      | concept     | pos   | S1    | S2    | S3     | S4     | S5    | S6         |
+|:--------------|:------------|:------|:------|:------|:-------|:-------|:------|:-----------|
+| Amawaka       | bowl, plate | 0     | k     | ɨ     | ∼      | tʃ     | a     | -          |
+| Chakobo       |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Chaninawa     |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Kakataibo     | bowl, plate | 0     | k     | ɨ     | ∼      | tʃ     | a     | -          |
+| Kapanawa      | bowl, plate | 0     | k     | ɨ     | n      | tʃ     | a     | -          |
+| Katukina      |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Kaxarari      |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Kaxinawa      | bowl, plate | 0     | k     | ɨ     | ∼      | tʃ     | a     | -          |
+| Korubo        |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Marinawa      | bowl, plate | 0     | k     | ɨ     | -      | tʃ     | a     | ∼          |
+| Marubo        |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Matis         |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Mayoruna      |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Poyanawa      |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Shanenawa     |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Sharanawa     | bowl, plate | 0     | k     | ɨ     | -      | tʃ     | a     | n          |
+| ShipiboKonibo | bowl, plate | 0     | k     | ɨ     | ∼      | tʃ     | a     | -          |
+| Yaminawa      |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Yawanawa      |             |       | Ø     | Ø     | Ø      | Ø      | Ø     | Ø          |
+| Fuzzy         |             |       | k:100 | ɨ:100 | rⁿ:100 | tʃ:100 | a:100 | n:90¦rⁿ:10 |
+| ProtoPanoan   |             |       | k     | ɨ     | ∼      | tʃ     | a     | n          |
 
 ## COGID 103 / «breeding, domestic animal»
 
@@ -436,7 +489,7 @@ header-includes: |
 | ShipiboKonibo | breeding, domestic animal | 0     | ʔ     | i     | n     | a           |      |
 | Yaminawa      |                           |       | Ø     | Ø     | Ø     | Ø           |      |
 | Yawanawa      |                           |       | Ø     | Ø     | Ø     | Ø           |      |
-| Fuzzy         |                           |       | ʔ:100 | i:100 | n:100 | a.k:50¦a:50 |      |
+| Fuzzy         |                           |       | ʔ:100 | i:100 | n:100 | a:50¦a.k:50 |      |
 | ProtoPanoan   |                           |       | ʔ     | i     | n     | a           | k    |
 
 ## COGID 199 / «breeze»
@@ -462,7 +515,7 @@ header-includes: |
 | ShipiboKonibo | breeze    | 0     | n      | i     | β     | i            | -          |                            |
 | Yaminawa      |           |       | Ø      | Ø     | Ø     | Ø            | Ø          |                            |
 | Yawanawa      | wind      | 0     | n      | ɨ     | -     | u            | -.ɨ        |                            |
-| Fuzzy         |           |       | rⁿ:100 | i:100 | β:100 | i:90¦i.tʳ:10 | tʳ:90¦t:10 | ʔ:30¦tʳ:30¦n:20¦rⁿ:10¦-:10 |
+| Fuzzy         |           |       | rⁿ:100 | i:100 | β:100 | i:90¦i.tʳ:10 | tʳ:90¦t:10 | -:30¦tʳ:30¦ʔ:20¦n:10¦rⁿ:10 |
 | ProtoPanoan   |           |       | rⁿ     | i     | β     | i            | tʳ         |                            |
 
 ## COGID 207 / «breeze»
@@ -488,7 +541,7 @@ header-includes: |
 | ShipiboKonibo | wind      | 0     | n      | i     | w     | ɨ                    |       |
 | Yaminawa      |           |       | Ø      | Ø     | Ø     | Ø                    |       |
 | Yawanawa      | wind      | 0     | n      | ɨ     | -.u   | ɨ                    |       |
-| Fuzzy         |           |       | rⁿ:100 | i:100 | w:100 | k:40¦ʔ:30¦tʳ:20¦n:10 | ɨ:100 |
+| Fuzzy         |           |       | rⁿ:100 | i:100 | w:100 | k:40¦ʔ:30¦tʳ:20¦-:10 | ɨ:100 |
 | ProtoPanoan   |           |       | rⁿ     | i     | w     | ɨ                    |       |
 
 ## COGID 217 / «canoe»
@@ -521,10 +574,10 @@ header-includes: |
 
 | language      | concept   | pos   | S1     | S2    | S3         | S4    | S5    |
 |:--------------|:----------|:------|:-------|:------|:-----------|:------|:------|
-| Amawaka       | canoe     | 0     | n      | o     | ~          | t     | i     |
+| Amawaka       | canoe     | 0     | n      | o     | ∼          | t     | i     |
 | Chakobo       | canoe     | 0     | n      | o     | -          | t     | i     |
 | Chaninawa     |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
-| Kakataibo     | canoe     | 0     | n      | o     | ~          | t     | i     |
+| Kakataibo     | canoe     | 0     | n      | o     | ∼          | t     | i     |
 | Kapanawa      | canoe     | 0     | n      | o     | n          | t     | i     |
 | Katukina      | canoe     | 0     | n      | u     | n          | t     | i     |
 | Kaxarari      |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
@@ -537,11 +590,11 @@ header-includes: |
 | Poyanawa      |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Shanenawa     |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Sharanawa     |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
-| ShipiboKonibo | canoe     | 0     | n      | o     | ~          | t     | i     |
+| ShipiboKonibo | canoe     | 0     | n      | o     | ∼          | t     | i     |
 | Yaminawa      |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Yawanawa      |           |       | Ø      | Ø     | Ø          | Ø     | Ø     |
-| Fuzzy         |           |       | rⁿ:100 | o:100 | rⁿ:50¦~:50 | t:100 | i:100 |
-| ProtoPanoan   |           |       | rⁿ     | o     | ~          | t     | i     |
+| Fuzzy         |           |       | rⁿ:100 | o:100 | ∼:50¦rⁿ:50 | t:100 | i:100 |
+| ProtoPanoan   |           |       | rⁿ     | o     | ∼          | t     | i     |
 
 ## COGID 200 / «centipede, scorpion»
 
@@ -618,7 +671,7 @@ header-includes: |
 | ShipiboKonibo | city, settlement | 0     | j     | a     | k     | a     | -              |
 | Yaminawa      |                  |       | Ø     | Ø     | Ø     | Ø     | Ø              |
 | Yawanawa      |                  |       | Ø     | Ø     | Ø     | Ø     | Ø              |
-| Fuzzy         |                  |       | j:100 | a:100 | k:100 | a:100 | t:80¦ɨ:10¦ɽ:10 |
+| Fuzzy         |                  |       | j:100 | a:100 | k:100 | a:100 | t:80¦ɽ:10¦ɨ:10 |
 | ProtoPanoan   |                  |       | j     | a     | k     | a     | t              |
 
 ## COGID 327 / «clarity»
@@ -649,77 +702,77 @@ header-includes: |
 
 ## COGID 437 / «curassow»
 
-| language      | concept   | pos   | S1    | S2    | S3        | S4    | S5    | S6     |
-|:--------------|:----------|:------|:------|:------|:----------|:------|:------|:-------|
-| Amawaka       | curassow  | 0     | h     | a     | ~         | s     | i     | ~      |
-| Chakobo       | curassow  | 0     | h     | a     | -         | s     | i     | n      |
-| Chaninawa     |           |       | Ø     | Ø     | Ø         | Ø     | Ø     | Ø      |
-| Kakataibo     | curassow  | 0     | -     | a     | -         | s     | i     | ~      |
-| Kapanawa      | curassow  | 0     | h     | a     | -         | s     | i     | n      |
-| Katukina      | curassow  | 0     | -     | a     | n         | s     | i     | n      |
-| Kaxarari      |           |       | Ø     | Ø     | Ø         | Ø     | Ø     | Ø      |
-| Kaxinawa      | curassow  | 0     | h     | a     | -         | s     | i     | ~      |
-| Korubo        |           |       | Ø     | Ø     | Ø         | Ø     | Ø     | Ø      |
-| Marinawa      | curassow  | 0     | -     | a     | -         | s     | i     | ~      |
-| Marubo        | curassow  | 0     | -     | a     | ~         | s     | i     | ~      |
-| Matis         |           |       | Ø     | Ø     | Ø         | Ø     | Ø     | Ø      |
-| Mayoruna      |           |       | Ø     | Ø     | Ø         | Ø     | Ø     | Ø      |
-| Poyanawa      | curassow  | 0     | -     | a     | ~         | s     | i     | ~      |
-| Shanenawa     | curassow  | 0     | -     | a     | -         | ʂ     | i     | n      |
-| Sharanawa     | curassow  | 0     | -     | a     | -         | s     | i     | n      |
-| ShipiboKonibo | curassow  | 0     | h     | a     | -         | s     | i     | ~      |
-| Yaminawa      | curassow  | 0     | -     | a     | ~         | s     | i     | -      |
-| Yawanawa      |           |       | Ø     | Ø     | Ø         | Ø     | Ø     | Ø      |
-| Fuzzy         |           |       | h:100 | a:100 | ~:90¦n:10 | s:100 | i:100 | rⁿ:100 |
-| ProtoPanoan   |           |       | h     | a     | ~         | s     | i     | rⁿ     |
+| language      | concept   | pos   | S1    | S2    | S3              | S4    | S5    | S6         |
+|:--------------|:----------|:------|:------|:------|:----------------|:------|:------|:-----------|
+| Amawaka       | curassow  | 0     | h     | a     | ∼               | s     | i     | ∼          |
+| Chakobo       | curassow  | 0     | h     | a     | -               | s     | i     | n          |
+| Chaninawa     |           |       | Ø     | Ø     | Ø               | Ø     | Ø     | Ø          |
+| Kakataibo     | curassow  | 0     | -     | a     | -               | s     | i     | ∼          |
+| Kapanawa      | curassow  | 0     | h     | a     | -               | s     | i     | n          |
+| Katukina      | curassow  | 0     | -     | a     | n               | s     | i     | n          |
+| Kaxarari      |           |       | Ø     | Ø     | Ø               | Ø     | Ø     | Ø          |
+| Kaxinawa      | curassow  | 0     | h     | a     | -               | s     | i     | ∼          |
+| Korubo        |           |       | Ø     | Ø     | Ø               | Ø     | Ø     | Ø          |
+| Marinawa      | curassow  | 0     | -     | a     | -               | s     | i     | ∼          |
+| Marubo        | curassow  | 0     | -     | a     | ∼               | s     | i     | ∼          |
+| Matis         |           |       | Ø     | Ø     | Ø               | Ø     | Ø     | Ø          |
+| Mayoruna      |           |       | Ø     | Ø     | Ø               | Ø     | Ø     | Ø          |
+| Poyanawa      | curassow  | 0     | -     | a     | ∼               | s     | i     | ∼          |
+| Shanenawa     | curassow  | 0     | -     | a     | -               | ʂ     | i     | n          |
+| Sharanawa     | curassow  | 0     | -     | a     | -               | s     | i     | n          |
+| ShipiboKonibo | curassow  | 0     | h     | a     | -               | s     | i     | ∼          |
+| Yaminawa      | curassow  | 0     | -     | a     | ∼               | s     | i     | -          |
+| Yawanawa      |           |       | Ø     | Ø     | Ø               | Ø     | Ø     | Ø          |
+| Fuzzy         |           |       | h:100 | a:100 | ∼:80¦n:10¦rⁿ:10 | s:100 | i:100 | rⁿ:90¦n:10 |
+| ProtoPanoan   |           |       | h     | a     | ∼               | s     | i     | rⁿ         |
 
 ## COGID 251 / «deaf»
 
-| language      | concept   | pos   | S1    | S2    | S3                   | S4        | S5    | S6        |
-|:--------------|:----------|:------|:------|:------|:---------------------|:----------|:------|:----------|
-| Amawaka       | deaf      | 0     | p     | a     | -                    | -         | t     | o         |
-| Chakobo       |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Chaninawa     |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Kakataibo     | deaf      | 0     | p     | a     | -                    | -         | t     | o         |
-| Kapanawa      |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Katukina      |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Kaxarari      |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Kaxinawa      | deaf      | 0     | p     | a     | -                    | -         | t     | u         |
-| Korubo        |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Marinawa      | deaf      | 0     | p     | a     | -                    | -         | t     | o         |
-| Marubo        |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Matis         |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Mayoruna      | deaf      | 0     | p     | a     | n.d                  | u         | d     | -         |
-| Poyanawa      |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Shanenawa     |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Sharanawa     |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| ShipiboKonibo | deaf      | 0     | p     | a     | -                    | -         | t     | o         |
-| Yaminawa      |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Yawanawa      |           |       | Ø     | Ø     | Ø                    | Ø         | Ø     | Ø         |
-| Fuzzy         |           |       | p:100 | a:100 | t:60¦n:20¦ʔ:10¦rⁿ:10 | o:80¦n:20 | t:100 | o:60¦-:40 |
-| ProtoPanoan   |           |       | p     | a     | t                    | o         | t     |           |
+| language      | concept   | pos   | S1    | S2    | S3              | S4        | S5    | S6        |
+|:--------------|:----------|:------|:------|:------|:----------------|:----------|:------|:----------|
+| Amawaka       | deaf      | 0     | p     | a     | -               | -         | t     | o         |
+| Chakobo       |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Chaninawa     |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Kakataibo     | deaf      | 0     | p     | a     | -               | -         | t     | o         |
+| Kapanawa      |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Katukina      |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Kaxarari      |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Kaxinawa      | deaf      | 0     | p     | a     | -               | -         | t     | u         |
+| Korubo        |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Marinawa      | deaf      | 0     | p     | a     | -               | -         | t     | o         |
+| Marubo        |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Matis         |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Mayoruna      | deaf      | 0     | p     | a     | n.d             | u         | d     | -         |
+| Poyanawa      |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Shanenawa     |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Sharanawa     |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| ShipiboKonibo | deaf      | 0     | p     | a     | -               | -         | t     | o         |
+| Yaminawa      |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Yawanawa      |           |       | Ø     | Ø     | Ø               | Ø         | Ø     | Ø         |
+| Fuzzy         |           |       | p:100 | a:100 | t:60¦n:20¦rⁿ:20 | o:80¦n:20 | t:100 | o:70¦-:30 |
+| ProtoPanoan   |           |       | p     | a     | t               | o         | t     |           |
 
 ## COGID 219 / «duck»
 
 | language      | concept   | pos   | S1    | S2    | S3    | S4    | S5        |
 |:--------------|:----------|:------|:------|:------|:------|:------|:----------|
-| Amawaka       | duck      | 0     | n     | o     | n     | o     | ~         |
+| Amawaka       | duck      | 0     | n     | o     | n     | o     | ∼         |
 | Chakobo       | duck      | 0     | n     | o     | n     | o     | m         |
 | Chaninawa     | duck      | 0     | n     | o     | n     | o     | -         |
-| Kakataibo     | duck      | 0     | n     | o     | n     | o     | ~         |
+| Kakataibo     | duck      | 0     | n     | o     | n     | o     | ∼         |
 | Kapanawa      | duck      | 0     | n     | o     | n     | o     | n         |
 | Katukina      | duck      | 0     | n     | u     | n     | u     | n         |
 | Kaxarari      | duck      | 0     | l     | u     | l     | u     | m         |
 | Kaxinawa      | duck      | 0     | n     | u     | n     | u     | -         |
 | Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Marinawa      | duck      | 0     | n     | o     | n     | o     | ~         |
+| Marinawa      | duck      | 0     | n     | o     | n     | o     | ∼         |
 | Marubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
 | Matis         |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
 | Mayoruna      |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Poyanawa      | duck      | 0     | n     | u     | n     | u     | ~         |
+| Poyanawa      | duck      | 0     | n     | u     | n     | u     | ∼         |
 | Shanenawa     | duck      | 0     | n     | u     | n     | u     | n         |
 | Sharanawa     | duck      | 0     | n     | o     | n     | o     | n         |
-| ShipiboKonibo | duck      | 0     | n     | o     | n     | o     | ~         |
+| ShipiboKonibo | duck      | 0     | n     | o     | n     | o     | ∼         |
 | Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
 | Yawanawa      | duck      | 0     | n     | u     | n     | u     | n         |
 | Fuzzy         |           |       | r:100 | o:100 | r:100 | o:100 | m:90¦n:10 |
@@ -739,7 +792,7 @@ header-includes: |
 | Kaxinawa      | earthworm | 0     | n     | u     | -     | i     | -          |
 | Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Marinawa      | earthworm | 0     | n     | o     | -     | i     | -          |
-| Marubo        | earthworm | 0     | n     | u     | -     | i     | ~          |
+| Marubo        | earthworm | 0     | n     | u     | -     | i     | ∼          |
 | Matis         | earthworm | 0     | n     | o     | w     | e     | n          |
 | Mayoruna      | earthworm | 0     | n     | u     | -     | e     | n          |
 | Poyanawa      | earthworm | 0     | n     | u     | -     | i     | -          |
@@ -800,7 +853,7 @@ header-includes: |
 | ShipiboKonibo | swidden field for agriculture | 0     | β     | a     | i           | -               |
 | Yaminawa      |                               |       | Ø     | Ø     | Ø           | Ø               |
 | Yawanawa      | swidden field for agriculture | 0     | w     | a     | i           | -               |
-| Fuzzy         |                               |       | β:100 | a:100 | i:90¦i.k:10 | k:80¦tʳ:10¦ɽ:10 |
+| Fuzzy         |                               |       | β:100 | a:100 | i:90¦i.k:10 | k:80¦tʳ:10¦-:10 |
 | ProtoPanoan   |                               |       | β     | a     | i           | k               |
 
 ## COGID 158 / «fingernail»
@@ -812,12 +865,12 @@ header-includes: |
 | Chaninawa     | fingernail | 0     | b     | i     | -         | ts     | i     | s     |
 | Kakataibo     | fingernail | 0     | -     | u     | n         | ts     | i     | s     |
 | Kapanawa      | fingernail | 0     | m     | ɨ     | n         | ts     | i     | s     |
-| Katukina      | fingernail | 0     | m     | ə     | ~         | tʃ     | i     | ʃ     |
+| Katukina      | fingernail | 0     | m     | ə     | ∼         | tʃ     | i     | ʃ     |
 | Kaxarari      | fingernail | 0     | m     | ɨ     | -         | tʃ     | i     | s     |
 | Kaxinawa      | fingernail | 0     | m     | ɨ     | -         | ts     | i     | s     |
 | Korubo        |            |       | Ø     | Ø     | Ø         | Ø      | Ø     | Ø     |
 | Marinawa      | fingernail | 0     | m     | ɨ     | -         | ts     | i     | s     |
-| Marubo        | fingernail | 0     | m     | ɨ     | ~         | ts     | i     | s     |
+| Marubo        | fingernail | 0     | m     | ɨ     | ∼         | ts     | i     | s     |
 | Matis         | fingernail | 0     | m     | ɨ     | n         | t      | i     | s     |
 | Mayoruna      | fingernail | 0     | m     | ɨ     | n         | ts     | i     | s     |
 | Poyanawa      |            |       | Ø     | Ø     | Ø         | Ø      | Ø     | Ø     |
@@ -828,6 +881,32 @@ header-includes: |
 | Yawanawa      | fingernail | 0     | m     | ɨ     | -         | ts     | i     | s     |
 | Fuzzy         |            |       | m:100 | ɨ:100 | -:90¦n:10 | ts:100 | i:100 | s:100 |
 | ProtoPanoan   |            |       | m     | ɨ     | ts        | i      | s     |       |
+
+## COGID 223 / «flower»
+
+| language      | concept   | pos   | S1    | S2    | S3        | S4    |
+|:--------------|:----------|:------|:------|:------|:----------|:------|
+| Amawaka       | flower    | 0     | h     | o     | w         | a     |
+| Chakobo       | flower    | 0     | h     | o     | -         | a     |
+| Chaninawa     | flower    | 0     | -     | o     | -         | a     |
+| Kakataibo     | flower    | 0     | -     | o     | -         | a     |
+| Kapanawa      | flower    | 0     | h     | o     | -         | a     |
+| Katukina      | flower    | 0     | h     | u     | -         | a     |
+| Kaxarari      | flower    | 0     | ɦ     | u     | w         | a     |
+| Kaxinawa      | flower    | 0     | h     | u     | -         | a     |
+| Korubo        |           |       | Ø     | Ø     | Ø         | Ø     |
+| Marinawa      | flower    | 0     | -     | o     | -         | a     |
+| Marubo        | flower    | 0     | -     | u     | -         | a     |
+| Matis         |           |       | Ø     | Ø     | Ø         | Ø     |
+| Mayoruna      |           |       | Ø     | Ø     | Ø         | Ø     |
+| Poyanawa      |           |       | Ø     | Ø     | Ø         | Ø     |
+| Shanenawa     |           |       | Ø     | Ø     | Ø         | Ø     |
+| Sharanawa     | flower    | 0     | -     | o     | -         | a     |
+| ShipiboKonibo | flower    | 0     | h     | o     | -         | a     |
+| Yaminawa      |           |       | Ø     | Ø     | Ø         | Ø     |
+| Yawanawa      | flower    | 0     | -     | u     | -         | a     |
+| Fuzzy         |           |       | h:100 | o:100 | -:90¦k:10 | a:100 |
+| ProtoPanoan   |           |       | h     | o     | a         |       |
 
 ## COGID 490 / «yam»
 
@@ -840,9 +919,9 @@ header-includes: |
 | Kapanawa      | forehead, face | 0     | β     | ɨ     | m     | a     | n          | a     | -         |
 | Katukina      | forehead, face | 0     | β     | ɨ     | m     | ɐ     | n          | a     | -         |
 | Kaxarari      |                |       | Ø     | Ø     | Ø     | Ø     | Ø          | Ø     | Ø         |
-| Kaxinawa      | forehead, face | 0     | b     | ɨ     | m     | a     | n          | a     | ~         |
+| Kaxinawa      | forehead, face | 0     | b     | ɨ     | m     | a     | n          | a     | ∼         |
 | Korubo        | forehead, face | 0     | β     | ɨ     | m     | a     | n          | a     | n         |
-| Marinawa      | forehead, face | 0     | ɸ     | ɨ     | m     | a     | n          | a     | ~         |
+| Marinawa      | forehead, face | 0     | ɸ     | ɨ     | m     | a     | n          | a     | ∼         |
 | Marubo        | forehead, face | 0     | β     | ɨ     | m     | a     | n          | ɨ     | -         |
 | Matis         | forehead, face | 0     | b     | ɨ     | m     | a     | n          | a     | n         |
 | Mayoruna      |                |       | Ø     | Ø     | Ø     | Ø     | Ø          | Ø     | Ø         |
@@ -850,8 +929,8 @@ header-includes: |
 | Shanenawa     | forehead, face | 0     | f     | u     | m     | a     | n          | a     | -         |
 | Sharanawa     | forehead, face | 0     | ɸ     | ɨ     | m     | a     | n          | a     | n         |
 | ShipiboKonibo | forehead, face | 0     | β     | ɨ     | m     | a     | n          | a     | n         |
-| Yaminawa      | forehead, face | 0     | ɸ     | ɨ     | m     | a     | n          | a     | ~         |
-| Yawanawa      | forehead, face | 0     | β     | ɨ     | m     | a     | n          | ɐ     | ~         |
+| Yaminawa      | forehead, face | 0     | ɸ     | ɨ     | m     | a     | n          | a     | ∼         |
+| Yawanawa      | forehead, face | 0     | β     | ɨ     | m     | a     | n          | ɐ     | ∼         |
 | Fuzzy         |                |       | β:100 | ɨ:100 | m:100 | a:100 | rⁿ:90¦n:10 | a:100 | n:80¦-:20 |
 | ProtoPanoan   |                |       | β     | ɨ     | m     | a     | n          | a     | n         |
 
@@ -909,42 +988,42 @@ header-includes: |
 
 ## COGID 463 / «ghost»
 
-| language      | concept   | pos   | S1        | S2    | S3    | S4    | S5    | S6     |
-|:--------------|:----------|:------|:----------|:------|:------|:------|:------|:-------|
-| Amawaka       | ghost     | 0     | -         | j     | o     | ʃ     | i     | -      |
-| Chakobo       | ghost     | 0     | -         | j     | o     | ʃ     | i     | n      |
-| Chaninawa     |           |       | Ø         | Ø     | Ø     | Ø     | Ø     | Ø      |
-| Kakataibo     | ghost     | 0     | -         | -     | u     | ʃ     | i     | ~      |
-| Kapanawa      | ghost     | 0     | -         | j     | o     | ʃ     | i     | n      |
-| Katukina      |           |       | Ø         | Ø     | Ø     | Ø     | Ø     | Ø      |
-| Kaxarari      |           |       | Ø         | Ø     | Ø     | Ø     | Ø     | Ø      |
-| Kaxinawa      | ghost     | 0     | -         | j     | u     | ʃ     | i     | -      |
-| Korubo        | ghost     | 0     | -         | ts    | u     | s     | i     | n      |
-| Marinawa      | ghost     | 0     | -         | j     | o     | ʃ     | i     | -      |
-| Marubo        |           |       | Ø         | Ø     | Ø     | Ø     | Ø     | Ø      |
-| Matis         | ghost     | 0     | -         | ts    | u     | s     | i     | n      |
-| Mayoruna      |           |       | Ø         | Ø     | Ø     | Ø     | Ø     | Ø      |
-| Poyanawa      | ghost     | 0     | i         | -     | u     | ʃ     | i     | ~      |
-| Shanenawa     | ghost     | 0     | -         | j     | u     | ʂ     | i     | n      |
-| Sharanawa     | ghost     | 0     | -         | j     | o     | ʂ     | i     | -      |
-| ShipiboKonibo | ghost     | 0     | -         | j     | o     | ʃ     | i     | -      |
-| Yaminawa      |           |       | Ø         | Ø     | Ø     | Ø     | Ø     | Ø      |
-| Yawanawa      | ghost     | 0     | -         | j     | u     | ʃ     | i     | n      |
-| Fuzzy         |           |       | -:80¦k:20 | j:100 | o:100 | s:100 | i:100 | rⁿ:100 |
-| ProtoPanoan   |           |       | j         | o     | s     | i     | rⁿ    |        |
+| language      | concept   | pos   | S1    | S2        | S3    | S4    | S5    | S6     |
+|:--------------|:----------|:------|:------|:----------|:------|:------|:------|:-------|
+| Amawaka       | ghost     | 0     | j     | -         | o     | ʃ     | i     | -      |
+| Chakobo       | ghost     | 0     | j     | -         | o     | ʃ     | i     | n      |
+| Chaninawa     |           |       | Ø     | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Kakataibo     | ghost     | 0     | -     | -         | u     | ʃ     | i     | ∼      |
+| Kapanawa      | ghost     | 0     | j     | -         | o     | ʃ     | i     | n      |
+| Katukina      |           |       | Ø     | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Kaxarari      |           |       | Ø     | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Kaxinawa      | ghost     | 0     | j     | -         | u     | ʃ     | i     | -      |
+| Korubo        | ghost     | 0     | ts    | -         | u     | s     | i     | n      |
+| Marinawa      | ghost     | 0     | j     | -         | o     | ʃ     | i     | -      |
+| Marubo        |           |       | Ø     | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Matis         | ghost     | 0     | ts    | -         | u     | s     | i     | n      |
+| Mayoruna      |           |       | Ø     | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Poyanawa      | ghost     | 0     | -     | i         | u     | ʃ     | i     | ∼      |
+| Shanenawa     | ghost     | 0     | j     | -         | u     | ʂ     | i     | n      |
+| Sharanawa     | ghost     | 0     | j     | -         | o     | ʂ     | i     | -      |
+| ShipiboKonibo | ghost     | 0     | j     | -         | o     | ʃ     | i     | -      |
+| Yaminawa      |           |       | Ø     | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Yawanawa      | ghost     | 0     | j     | -         | u     | ʃ     | i     | n      |
+| Fuzzy         |           |       | j:100 | -:90¦k:10 | o:100 | s:100 | i:100 | rⁿ:100 |
+| ProtoPanoan   |           |       | j     | o         | s     | i     | rⁿ    |        |
 
 ## COGID 26 / «grasshopper»
 
 | language      | concept     | pos   | S1     | S2    | S3         | S4    | S5    |
 |:--------------|:------------|:------|:-------|:------|:-----------|:------|:------|
-| Amawaka       | grasshopper | 0     | tʃ     | a     | ~          | p     | o     |
+| Amawaka       | grasshopper | 0     | tʃ     | a     | ∼          | p     | o     |
 | Chakobo       | grasshopper | 0     | tʃ     | a     | -          | p     | o     |
 | Chaninawa     |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
-| Kakataibo     | grasshopper | 0     | tʃ     | a     | ~          | p     | o     |
+| Kakataibo     | grasshopper | 0     | tʃ     | a     | ∼          | p     | o     |
 | Kapanawa      | grasshopper | 0     | tʃ     | a     | m          | p     | o     |
 | Katukina      | grasshopper | 0     | tʃ     | a     | n          | p     | u     |
 | Kaxarari      |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
-| Kaxinawa      | grasshopper | 0     | tʃ     | a     | ~          | p     | u     |
+| Kaxinawa      | grasshopper | 0     | tʃ     | a     | ∼          | p     | u     |
 | Korubo        |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Marinawa      |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Marubo        |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
@@ -953,11 +1032,11 @@ header-includes: |
 | Poyanawa      |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Shanenawa     | grasshopper | 0     | tʃ     | a     | -          | p     | u     |
 | Sharanawa     | grasshopper | 0     | tʃ     | a     | -          | p     | o     |
-| ShipiboKonibo | grasshopper | 0     | tʃ     | a     | ~          | p     | o     |
+| ShipiboKonibo | grasshopper | 0     | tʃ     | a     | ∼          | p     | o     |
 | Yaminawa      |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
 | Yawanawa      |             |       | Ø      | Ø     | Ø          | Ø     | Ø     |
-| Fuzzy         |             |       | ʈʂ:100 | a:100 | ~:90¦rⁿ:10 | p:100 | o:100 |
-| ProtoPanoan   |             |       | ʈʂ     | a     | ~          | p     | o     |
+| Fuzzy         |             |       | ʈʂ:100 | a:100 | ∼:90¦rⁿ:10 | p:100 | o:100 |
+| ProtoPanoan   |             |       | ʈʂ     | a     | ∼          | p     | o     |
 
 ## COGID 11 / «head»
 
@@ -1006,35 +1085,61 @@ header-includes: |
 | Shanenawa     | heart     | 0     | -     | u     | i     | n          | t     | i     |
 | Sharanawa     | heart     | 0     | -     | o     | i     | n          | t     | i     |
 | ShipiboKonibo | heart     | 0     | h     | o     | i     | -          | t     | i     |
-| Yaminawa      | heart     | 0     | -     | o     | i     | ~          | t     | i     |
-| Yawanawa      | heart     | 0     | -     | u     | i     | ~          | t     | i     |
+| Yaminawa      | heart     | 0     | -     | o     | i     | ∼          | t     | i     |
+| Yawanawa      | heart     | 0     | -     | u     | i     | ∼          | t     | i     |
 | Fuzzy         |           |       | h:100 | o:100 | i:100 | n:60¦rⁿ:40 | t:100 | i:100 |
 | ProtoPanoan   |           |       | h     | o     | i     | rⁿ         | t     | i     |
+
+## COGID 332 / «hot»
+
+| language      | concept   | pos   | S1    | S2    | S3         | S4    |
+|:--------------|:----------|:------|:------|:------|:-----------|:------|
+| Amawaka       | hot       | 0     | x     | a     | n          | a     |
+| Chakobo       |           |       | Ø     | Ø     | Ø          | Ø     |
+| Chaninawa     | hot, heat | 0     | ʃ     | a     | -          | -     |
+| Kakataibo     | hot       | 0     | ʂ     | a     | n          | a     |
+| Kapanawa      | hot       | 0     | ʂ     | a     | n          | a     |
+| Katukina      | hot       | 0     | ʂ     | a     | n          | a     |
+| Kaxarari      |           |       | Ø     | Ø     | Ø          | Ø     |
+| Kaxinawa      | hot       | 0     | ʃ     | a     | n          | a     |
+| Korubo        |           |       | Ø     | Ø     | Ø          | Ø     |
+| Marinawa      | hot, heat | 0     | ʂ     | a     | n          | a     |
+| Marubo        | hot       | 0     | ʃ     | a     | n          | a     |
+| Matis         | hot       | 0     | ʂ     | a     | n          | a     |
+| Mayoruna      |           |       | Ø     | Ø     | Ø          | Ø     |
+| Poyanawa      |           |       | Ø     | Ø     | Ø          | Ø     |
+| Shanenawa     | hot       | 0     | ʂ     | a     | n          | a     |
+| Sharanawa     | hot, heat | 0     | ʂ     | a     | n          | a     |
+| ShipiboKonibo | hot       | 0     | ʂ     | a     | n          | a     |
+| Yaminawa      | hot, heat | 0     | ʂ     | a     | n          | a     |
+| Yawanawa      | hot       | 0     | ʂ     | a     | n          | a     |
+| Fuzzy         |           |       | ʂ:100 | a:100 | rⁿ:90¦n:10 | a:100 |
+| ProtoPanoan   |           |       | ʂ     | a     | rⁿ         | a     |
 
 ## COGID 291 / «knee»
 
 | language      | concept   | pos   | S1    | S2    | S3         | S4        | S5    | S6    | S7    |
 |:--------------|:----------|:------|:------|:------|:-----------|:----------|:------|:------|:------|
-| Amawaka       | knee      | 0     | r     | a     | ~          | t         | o     | k     | o     |
+| Amawaka       | knee      | 0     | r     | a     | ∼          | t         | o     | k     | o     |
 | Chakobo       |           |       | Ø     | Ø     | Ø          | Ø         | Ø     | Ø     | Ø     |
 | Chaninawa     | knee      | 0     | r     | a     | -          | t         | o     | k     | o     |
-| Kakataibo     | knee      | 0     | r     | a     | ~          | -         | -     | t     | u     |
+| Kakataibo     | knee      | 0     | r     | a     | ∼          | -         | -     | t     | u     |
 | Kapanawa      | knee      | 0     | r     | a     | n          | -         | -     | t     | o     |
 | Katukina      |           |       | Ø     | Ø     | Ø          | Ø         | Ø     | Ø     | Ø     |
-| Kaxarari      | knee      | 0     | tʃ    | ɐ     | ~          | b         | u     | ɾ     | u     |
-| Kaxinawa      | knee      | 0     | d     | a     | ~          | t         | u     | k     | u     |
+| Kaxarari      | knee      | 0     | tʃ    | ɐ     | ∼          | b         | u     | ɾ     | u     |
+| Kaxinawa      | knee      | 0     | d     | a     | ∼          | t         | u     | k     | u     |
 | Korubo        | knee      | 0     | ɬ     | a     | -          | -         | -     | -     | -     |
 | Marinawa      | knee      | 0     | r     | a     | -          | t         | o     | k     | o     |
 | Marubo        |           |       | Ø     | Ø     | Ø          | Ø         | Ø     | Ø     | Ø     |
 | Matis         | knee      | 0     | d     | a     | n          | b         | ɨ     | d     | u     |
 | Mayoruna      | knee      | 0     | d     | a     | n          | -         | -     | -     | -     |
-| Poyanawa      | knee      | 0     | r     | a     | ~          | t         | u     | k     | u     |
+| Poyanawa      | knee      | 0     | r     | a     | ∼          | t         | u     | k     | u     |
 | Shanenawa     | knee      | 0     | ɾ     | a     | -          | t         | u     | k     | u     |
 | Sharanawa     | knee      | 0     | r     | a     | -          | t         | o     | k     | o     |
-| ShipiboKonibo | knee      | 0     | r     | a     | ~          | t         | o     | k     | o     |
+| ShipiboKonibo | knee      | 0     | r     | a     | ∼          | t         | o     | k     | o     |
 | Yaminawa      |           |       | Ø     | Ø     | Ø          | Ø         | Ø     | Ø     | Ø     |
 | Yawanawa      | knee      | 0     | ɾ     | a     | -          | t         | u     | k     | u     |
-| Fuzzy         |           |       | ɽ:100 | a:100 | rⁿ:90¦~:10 | t:90¦-:10 | o:100 | k:100 | o:100 |
+| Fuzzy         |           |       | ɽ:100 | a:100 | rⁿ:90¦∼:10 | t:90¦-:10 | o:100 | k:100 | o:100 |
 | ProtoPanoan   |           |       | ɽ     | a     | rⁿ         | t         | o     | k     | o     |
 
 ## COGID 286 / «kneecap, knee»
@@ -1102,7 +1207,7 @@ header-includes: |
 | Kaxarari      | lips      | 0     | k      | ɨ     | ʂ     | a     | -               |
 | Kaxinawa      | lips      | 0     | k      | ɨ     | ʂ     | a     | -               |
 | Korubo        |           |       | Ø      | Ø     | Ø     | Ø     | Ø               |
-| Marinawa      | lips      | 0     | k      | i     | ʂ     | a     | ~               |
+| Marinawa      | lips      | 0     | k      | i     | ʂ     | a     | ∼               |
 | Marubo        | lips      | 0     | k      | ɨ     | ʃ     | a     | -               |
 | Matis         |           |       | Ø      | Ø     | Ø     | Ø     | Ø               |
 | Mayoruna      |           |       | Ø      | Ø     | Ø     | Ø     | Ø               |
@@ -1110,9 +1215,9 @@ header-includes: |
 | Shanenawa     | lips      | 0     | k      | ɨ     | ʂ     | a     | -               |
 | Sharanawa     | lips      | 0     | k      | ɨ     | ʂ     | a     | -               |
 | ShipiboKonibo | lips      | 0     | k      | ɨ     | ʂ     | a     | -               |
-| Yaminawa      | lips      | 0     | k      | ɨ     | ʂ     | a     | ~               |
+| Yaminawa      | lips      | 0     | k      | ɨ     | ʂ     | a     | ∼               |
 | Yawanawa      | lips      | 0     | k      | ɨ     | ʃ     | a     | -               |
-| Fuzzy         |           |       | kʷ:100 | ɨ:100 | ʂ:100 | a:100 | k:50¦rⁿ:40¦-:10 |
+| Fuzzy         |           |       | kʷ:100 | ɨ:100 | ʂ:100 | a:100 | rⁿ:50¦k:40¦-:10 |
 | ProtoPanoan   |           |       | kʷ     | ɨ     | ʂ     | a     | rⁿ              |
 
 ## COGID 266 / «small»
@@ -1169,29 +1274,29 @@ header-includes: |
 
 ## COGID 298 / «nasal septum»
 
-| language      | concept      | pos   | S1    | S2    | S3    | S4    | S5        |
-|:--------------|:-------------|:------|:------|:------|:------|:------|:----------|
-| Amawaka       | nasal septum | 0     | r     | ɨ     | p     | a     | -         |
-| Chakobo       | nasal septum | 0     | r     | ɨ     | p     | a     | r         |
-| Chaninawa     |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Kakataibo     | nasal septum | 0     | r     | ɨ     | p     | a     | -         |
-| Kapanawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Katukina      |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Kaxarari      |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Kaxinawa      | nasal septum | 0     | d     | ɨ     | p     | a     | -         |
-| Korubo        |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Marinawa      | nasal septum | 0     | r     | ɨ     | p     | a     | -         |
-| Marubo        |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Matis         |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Mayoruna      | nasal septum | 0     | d     | ɨ     | p     | u     | n         |
-| Poyanawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Shanenawa     |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Sharanawa     |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| ShipiboKonibo |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Yaminawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Yawanawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Fuzzy         |              |       | ɽ:100 | ɨ:100 | p:100 | a:100 | n:90¦o:10 |
-| ProtoPanoan   |              |       | ɽ     | ɨ     | p     | a     | n         |
+| language      | concept      | pos   | S1    | S2    | S3    | S4    | S5             |
+|:--------------|:-------------|:------|:------|:------|:------|:------|:---------------|
+| Amawaka       | nasal septum | 0     | r     | ɨ     | p     | a     | -              |
+| Chakobo       | nasal septum | 0     | r     | ɨ     | p     | a     | r              |
+| Chaninawa     |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Kakataibo     | nasal septum | 0     | r     | ɨ     | p     | a     | -              |
+| Kapanawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Katukina      |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Kaxarari      |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Kaxinawa      | nasal septum | 0     | d     | ɨ     | p     | a     | -              |
+| Korubo        |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Marinawa      | nasal septum | 0     | r     | ɨ     | p     | a     | -              |
+| Marubo        |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Matis         |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Mayoruna      | nasal septum | 0     | d     | ɨ     | p     | u     | n              |
+| Poyanawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Shanenawa     |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Sharanawa     |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| ShipiboKonibo |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Yaminawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Yawanawa      |              |       | Ø     | Ø     | Ø     | Ø     | Ø              |
+| Fuzzy         |              |       | ɽ:100 | ɨ:100 | p:100 | a:100 | n:80¦t:10¦o:10 |
+| ProtoPanoan   |              |       | ɽ     | ɨ     | p     | a     | n              |
 
 ## COGID 361 / «needle»
 
@@ -1242,7 +1347,7 @@ header-includes: |
 | ShipiboKonibo | new       | 0     | β     | ɨ     | -     | n               | a     | -         |
 | Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø         |
 | Yawanawa      | new       | 0     | β     | ɨ     | -     | n               | a     | -         |
-| Fuzzy         |           |       | β:100 | ɨ:100 | ʔ:100 | r:40¦n:40¦rⁿ:20 | a:100 | k:90¦n:10 |
+| Fuzzy         |           |       | β:100 | ɨ:100 | ʔ:100 | n:50¦r:30¦rⁿ:20 | a:100 | k:90¦n:10 |
 | ProtoPanoan   |           |       | β     | ɨ     | ʔ     | r               | a     | k         |
 
 ## COGID 430 / «oar»
@@ -1294,34 +1399,34 @@ header-includes: |
 | ShipiboKonibo | to grow   | 0     | j     | o           | -         | s     | i     |
 | Yaminawa      |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
 | Yawanawa      |           |       | Ø     | Ø           | Ø         | Ø     | Ø     |
-| Fuzzy         |           |       | j:100 | o:90¦o.o:10 | o:80¦-:20 | s:100 | i:100 |
+| Fuzzy         |           |       | j:100 | o:90¦o.o:10 | o:70¦-:30 | s:100 | i:100 |
 | ProtoPanoan   |           |       | j     | o           | o         | s     | i     |
 
 ## COGID 449 / «tongue»
 
-| language      | concept   | pos   | S1    | S2    | S3        | S4          | S5             | S6    | S7    |
-|:--------------|:----------|:------|:------|:------|:----------|:------------|:---------------|:------|:------|
-| Amawaka       |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Chakobo       |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Chaninawa     | tongue    | 0     | -     | a     | -         | ʂ           | -              | ɸ     | a     |
-| Kakataibo     | opening   | 0     | -     | a     | ~         | ʂ           | a              | β     | a     |
-| Kapanawa      | opening   | 0     | h     | a     | n         | ʂ           | -              | β     | a     |
-| Katukina      |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Kaxarari      |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Kaxinawa      | opening   | 0     | h     | a     | -         | ʂ           | -              | p     | a     |
-| Korubo        |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Marinawa      | tongue    | 0     | -     | a     | -         | ʂ           | -              | ɸ     | a     |
-| Marubo        |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Matis         |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Mayoruna      |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Poyanawa      |           |       | Ø     | Ø     | Ø         | Ø           | Ø              | Ø     | Ø     |
-| Shanenawa     | tongue    | 0     | -     | a     | -         | ʂ           | -              | f     | a     |
-| Sharanawa     | opening   | 0     | -     | a     | -         | ʂ           | -              | ɸ     | a     |
-| ShipiboKonibo | opening   | 0     | h     | a     | ~         | ʂ           | -              | β     | a     |
-| Yaminawa      | opening   | 0     | -     | a     | -         | ʂ           | -              | ɸ     | a     |
-| Yawanawa      | tongue    | 0     | -     | a     | -         | ʂ           | -              | β     | a     |
-| Fuzzy         |           |       | h:100 | a:100 | ~:90¦n:10 | ʂ:70¦ʂ.a:30 | a:70¦t:20¦-:10 | β:100 | a:100 |
-| ProtoPanoan   |           |       | h     | a     | ~         | ʂ           | a              | β     | a     |
+| language      | concept   | pos   | S1    | S2    | S3         | S4          | S5             | S6    | S7    |
+|:--------------|:----------|:------|:------|:------|:-----------|:------------|:---------------|:------|:------|
+| Amawaka       |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Chakobo       |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Chaninawa     | tongue    | 0     | -     | a     | -          | ʂ           | -              | ɸ     | a     |
+| Kakataibo     | opening   | 0     | -     | a     | ∼          | ʂ           | a              | β     | a     |
+| Kapanawa      | opening   | 0     | h     | a     | n          | ʂ           | -              | β     | a     |
+| Katukina      |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Kaxarari      |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Kaxinawa      | opening   | 0     | h     | a     | -          | ʂ           | -              | p     | a     |
+| Korubo        |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Marinawa      | tongue    | 0     | -     | a     | -          | ʂ           | -              | ɸ     | a     |
+| Marubo        |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Matis         |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Mayoruna      |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Poyanawa      |           |       | Ø     | Ø     | Ø          | Ø           | Ø              | Ø     | Ø     |
+| Shanenawa     | tongue    | 0     | -     | a     | -          | ʂ           | -              | f     | a     |
+| Sharanawa     | opening   | 0     | -     | a     | -          | ʂ           | -              | ɸ     | a     |
+| ShipiboKonibo | opening   | 0     | h     | a     | ∼          | ʂ           | -              | β     | a     |
+| Yaminawa      | opening   | 0     | -     | a     | -          | ʂ           | -              | ɸ     | a     |
+| Yawanawa      | tongue    | 0     | -     | a     | -          | ʂ           | -              | β     | a     |
+| Fuzzy         |           |       | h:100 | a:100 | ∼:80¦rⁿ:20 | ʂ:70¦ʂ.a:30 | a:70¦t:20¦-:10 | β:100 | a:100 |
+| ProtoPanoan   |           |       | h     | a     | ∼          | ʂ           | a              | β     | a     |
 
 ## COGID 38 / «otter»
 
@@ -1379,14 +1484,14 @@ header-includes: |
 
 | language      | concept   | pos   | S1    | S2    | S3    | S4    | S5         |
 |:--------------|:----------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | papaya    | 0     | x     | o     | p     | a     | ~          |
+| Amawaka       | papaya    | 0     | x     | o     | p     | a     | ∼          |
 | Chakobo       |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Chaninawa     |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | papaya    | 0     | ʂ     | o     | p     | a     | ~          |
+| Kakataibo     | papaya    | 0     | ʂ     | o     | p     | a     | ∼          |
 | Kapanawa      | papaya    | 0     | ʂ     | o     | p     | a     | n          |
 | Katukina      | papaya    | 0     | ʂ     | u     | m.b   | a     | -          |
 | Kaxarari      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kaxinawa      | papaya    | 0     | ʂ     | u     | p     | a     | ~          |
+| Kaxinawa      | papaya    | 0     | ʂ     | u     | p     | a     | ∼          |
 | Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Marinawa      | papaya    | 0     | ʂ     | o     | p     | a     | -          |
 | Marubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
@@ -1395,33 +1500,33 @@ header-includes: |
 | Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     | papaya    | 0     | s     | u     | p     | a     | -          |
 | Sharanawa     | papaya    | 0     | ʂ     | o     | p     | a     | -          |
-| ShipiboKonibo | papaya    | 0     | ʂ     | o     | p     | a     | ~          |
+| ShipiboKonibo | papaya    | 0     | ʂ     | o     | p     | a     | ∼          |
 | Yaminawa      | papaya    | 0     | ʂ     | o     | p     | a     | -          |
 | Yawanawa      | papaya    | 0     | ʂ     | u     | p     | a     | -          |
-| Fuzzy         |           |       | ʂ:100 | o:100 | p:100 | a:100 | rⁿ:80¦~:20 |
+| Fuzzy         |           |       | ʂ:100 | o:100 | p:100 | a:100 | rⁿ:70¦∼:30 |
 | ProtoPanoan   |           |       | ʂ     | o     | p     | a     | rⁿ         |
 
 ## COGID 416 / «species of pumpkin»
 
 | language      | concept            | pos   | S1    | S2    | S3    | S4    | S5         |
 |:--------------|:-------------------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | species of pumpkin | 0     | w     | a     | r     | a     | ~          |
+| Amawaka       | species of pumpkin | 0     | w     | a     | r     | a     | ∼          |
 | Chakobo       |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Chaninawa     |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | species of pumpkin | 0     | β     | a     | r     | a     | ~          |
+| Kakataibo     | species of pumpkin | 0     | β     | a     | r     | a     | ∼          |
 | Kapanawa      | species of pumpkin | 0     | w     | a     | r     | a     | n          |
 | Katukina      | species of pumpkin | 0     | w     | a     | r     | a     | n          |
 | Kaxarari      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kaxinawa      | species of pumpkin | 0     | b     | a     | r     | a     | ~          |
+| Kaxinawa      | species of pumpkin | 0     | b     | a     | r     | a     | ∼          |
 | Korubo        | papaya             | 0     | w     | a     | ɬ     | a     | -          |
-| Marinawa      | species of pumpkin | 0     | ɸ     | a     | r     | a     | ~          |
+| Marinawa      | species of pumpkin | 0     | ɸ     | a     | r     | a     | ∼          |
 | Marubo        |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Matis         | papaya             | 0     | w     | a     | t     | a     | -          |
 | Mayoruna      | species of pumpkin | 0     | w     | a     | d     | a     | -          |
 | Poyanawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     | species of pumpkin | 0     | w     | a     | ɾ     | a     | -          |
 | Sharanawa     | species of pumpkin | 0     | ɸ     | a     | r     | a     | n          |
-| ShipiboKonibo | species of pumpkin | 0     | w     | a     | r     | a     | ~          |
+| ShipiboKonibo | species of pumpkin | 0     | w     | a     | r     | a     | ∼          |
 | Yaminawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Yawanawa      |                    |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Fuzzy         |                    |       | w:100 | a:100 | ɽ:100 | a:100 | m:90¦rⁿ:10 |
@@ -1441,7 +1546,7 @@ header-includes: |
 | Kaxinawa      | peach palm | 0     | b     | a     | n     | i     | -         |
 | Korubo        |            |       | Ø     | Ø     | Ø     | Ø     | Ø         |
 | Marinawa      |            |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Marubo        | peach palm | 0     | w     | a     | n     | i     | ~         |
+| Marubo        | peach palm | 0     | w     | a     | n     | i     | ∼         |
 | Matis         | peach palm | 0     | w     | a     | n     | i     | n         |
 | Mayoruna      | peach palm | 0     | w     | a     | n     | i     | n         |
 | Poyanawa      |            |       | Ø     | Ø     | Ø     | Ø     | Ø         |
@@ -1457,14 +1562,14 @@ header-includes: |
 
 | language      | concept   | pos   | S1    | S2    | S3         |
 |:--------------|:----------|:------|:------|:------|:-----------|
-| Amawaka       | pineapple | 0     | k     | a     | ~          |
+| Amawaka       | pineapple | 0     | k     | a     | ∼          |
 | Chakobo       | pineapple | 0     | k     | a     | -          |
 | Chaninawa     |           |       | Ø     | Ø     | Ø          |
-| Kakataibo     | pineapple | 0     | k     | a     | ~          |
+| Kakataibo     | pineapple | 0     | k     | a     | ∼          |
 | Kapanawa      | pineapple | 0     | k     | a     | n          |
 | Katukina      | pineapple | 0     | k     | a     | n          |
 | Kaxarari      |           |       | Ø     | Ø     | Ø          |
-| Kaxinawa      | pineapple | 0     | k     | a     | ~          |
+| Kaxinawa      | pineapple | 0     | k     | a     | ∼          |
 | Korubo        | pineapple | 0     | k     | a     | n          |
 | Marinawa      |           |       | Ø     | Ø     | Ø          |
 | Marubo        |           |       | Ø     | Ø     | Ø          |
@@ -1473,10 +1578,10 @@ header-includes: |
 | Poyanawa      |           |       | Ø     | Ø     | Ø          |
 | Shanenawa     | pineapple | 0     | k     | a     | -          |
 | Sharanawa     |           |       | Ø     | Ø     | Ø          |
-| ShipiboKonibo | pineapple | 0     | k     | a     | ~          |
+| ShipiboKonibo | pineapple | 0     | k     | a     | ∼          |
 | Yaminawa      |           |       | Ø     | Ø     | Ø          |
 | Yawanawa      |           |       | Ø     | Ø     | Ø          |
-| Fuzzy         |           |       | k:100 | a:100 | rⁿ:90¦~:10 |
+| Fuzzy         |           |       | k:100 | a:100 | rⁿ:90¦∼:10 |
 | ProtoPanoan   |           |       | k     | a     | rⁿ         |
 
 ## COGID 376 / «rat»
@@ -1516,7 +1621,7 @@ header-includes: |
 | Kapanawa      | relatives | 0     | k     | a     | -      | i         | β     | o         |
 | Katukina      |           |       | Ø     | Ø     | Ø      | Ø         | Ø     | Ø         |
 | Kaxarari      |           |       | Ø     | Ø     | Ø      | Ø         | Ø     | Ø         |
-| Kaxinawa      | relatives | 0     | k     | a     | ~      | -         | -     | i         |
+| Kaxinawa      | relatives | 0     | k     | a     | ∼      | -         | -     | i         |
 | Korubo        | relatives | 0     | k     | a     | n      | i         | w     | a         |
 | Marinawa      | relatives | 0     | k     | a     | -      | i         | ɸ     | o         |
 | Marubo        |           |       | Ø     | Ø     | Ø      | Ø         | Ø     | Ø         |
@@ -1528,7 +1633,7 @@ header-includes: |
 | ShipiboKonibo | relatives | 0     | k     | a     | -      | i         | b     | o         |
 | Yaminawa      |           |       | Ø     | Ø     | Ø      | Ø         | Ø     | Ø         |
 | Yawanawa      |           |       | Ø     | Ø     | Ø      | Ø         | Ø     | Ø         |
-| Fuzzy         |           |       | k:100 | a:100 | rⁿ:100 | i:70¦-:30 | -:100 | o:70¦i:30 |
+| Fuzzy         |           |       | k:100 | a:100 | rⁿ:100 | -:90¦i:10 | -:100 | i:90¦o:10 |
 | ProtoPanoan   |           |       | k     | a     | rⁿ     | i         |       |           |
 
 ## COGID 161 / «right hand»
@@ -1561,10 +1666,10 @@ header-includes: |
 
 | language      | concept   | pos   | S1    | S2    | S3    | S4    | S5         |
 |:--------------|:----------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | root      | 0     | t     | a     | p     | o     | ~          |
+| Amawaka       | root      | 0     | t     | a     | p     | o     | ∼          |
 | Chakobo       | root      | 0     | t     | a     | p     | o     | n          |
 | Chaninawa     | root      | 0     | t     | a     | p     | o     | n          |
-| Kakataibo     | root      | 0     | t     | a     | p     | o     | ~          |
+| Kakataibo     | root      | 0     | t     | a     | p     | o     | ∼          |
 | Kapanawa      | root      | 0     | t     | a     | p     | o     | n          |
 | Katukina      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Kaxarari      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
@@ -1577,10 +1682,10 @@ header-includes: |
 | Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     | root      | 0     | t     | a     | p     | u     | -          |
 | Sharanawa     | root      | 0     | t     | a     | p     | o     | n          |
-| ShipiboKonibo | root      | 0     | t     | a     | p     | o     | ~          |
+| ShipiboKonibo | root      | 0     | t     | a     | p     | o     | ∼          |
 | Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Yawanawa      | root      | 0     | t     | a     | p     | u     | n          |
-| Fuzzy         |           |       | t:100 | a:100 | p:100 | o:100 | rⁿ:70¦n:30 |
+| Fuzzy         |           |       | t:100 | a:100 | p:100 | o:100 | rⁿ:60¦n:40 |
 | ProtoPanoan   |           |       | t     | a     | p     | o     | n          |
 
 ## COGID 301 / «same, of the same way, also»
@@ -1635,53 +1740,27 @@ header-includes: |
 | Fuzzy         |           |       | n:100 | a:100 | i:100 | ɽ:60¦-:20¦tʳ:10¦k:10 |
 | ProtoPanoan   |           |       | n     | a     | i     | ɽ                    |
 
-## COGID 367 / «small»
-
-| language      | concept   | pos   | S1    | S2        | S3    | S4    |
-|:--------------|:----------|:------|:------|:----------|:------|:------|
-| Amawaka       | small     | 0     | x     | -         | k     | o     |
-| Chakobo       | small     | 0     | ʂ     | -         | k     | o     |
-| Chaninawa     |           |       | Ø     | Ø         | Ø     | Ø     |
-| Kakataibo     |           |       | Ø     | Ø         | Ø     | Ø     |
-| Kapanawa      |           |       | Ø     | Ø         | Ø     | Ø     |
-| Katukina      |           |       | Ø     | Ø         | Ø     | Ø     |
-| Kaxarari      |           |       | Ø     | Ø         | Ø     | Ø     |
-| Kaxinawa      | small     | 0     | ʂ     | u         | k     | u     |
-| Korubo        | small     | 0     | ʃ     | -         | k     | o     |
-| Marinawa      | small     | 0     | ʂ     | o         | k     | o     |
-| Marubo        | small     | 0     | ʂ     | -         | k     | o     |
-| Matis         | small     | 0     | ʂ     | -         | k     | u     |
-| Mayoruna      | small     | 0     | ʂ     | -         | k     | u     |
-| Poyanawa      | small     | 0     | h     | u         | k     | u     |
-| Shanenawa     |           |       | Ø     | Ø         | Ø     | Ø     |
-| Sharanawa     | small     | 0     | ʂ     | o         | k     | o     |
-| ShipiboKonibo | small     | 0     | ʂ     | -         | k     | o     |
-| Yaminawa      |           |       | Ø     | Ø         | Ø     | Ø     |
-| Yawanawa      | small     | 0     | ʂ     | u         | k     | u     |
-| Fuzzy         |           |       | ʂ:100 | o:90¦-:10 | k:100 | o:100 |
-| ProtoPanoan   |           |       | ʂ     | o         | k     | o     |
-
 ## COGID 97 / «smoke»
 
 | language      | concept   | pos   | S1     | S2    | S3    | S4    | S5        |
 |:--------------|:----------|:------|:-------|:------|:------|:------|:----------|
-| Amawaka       | smoke     | 0     | k      | o     | ʔ     | i     | ~         |
+| Amawaka       | smoke     | 0     | k      | o     | ʔ     | i     | ∼         |
 | Chakobo       | smoke     | 0     | k      | o     | ʔ     | i     | n         |
 | Chaninawa     | smoke     | 0     | k      | o     | -     | i     | n         |
 | Kakataibo     | smoke     | 0     | k      | o     | -     | i     | -         |
 | Kapanawa      | smoke     | 0     | k      | o     | ʔ     | i     | n         |
 | Katukina      | smoke     | 0     | k      | u     | -     | i     | n         |
 | Kaxarari      | smoke     | 0     | kʷ     | a     | -     | -     | n         |
-| Kaxinawa      | smoke     | 0     | k      | u     | -     | i     | ~         |
+| Kaxinawa      | smoke     | 0     | k      | u     | -     | i     | ∼         |
 | Korubo        | smoke     | 0     | kʷ     | a     | -     | i     | n         |
-| Marinawa      | smoke     | 0     | k      | o     | -     | i     | ~         |
-| Marubo        | smoke     | 0     | k      | o     | -     | i     | ~         |
+| Marinawa      | smoke     | 0     | k      | o     | -     | i     | ∼         |
+| Marubo        | smoke     | 0     | k      | o     | -     | i     | ∼         |
 | Matis         | smoke     | 0     | kʷ     | a     | -     | i     | n         |
 | Mayoruna      |           |       | Ø      | Ø     | Ø     | Ø     | Ø         |
-| Poyanawa      | smoke     | 0     | k      | u     | -     | i     | ~         |
+| Poyanawa      | smoke     | 0     | k      | u     | -     | i     | ∼         |
 | Shanenawa     | smoke     | 0     | k      | u     | -     | i     | n         |
 | Sharanawa     | smoke     | 0     | k      | o     | -     | i     | n         |
-| ShipiboKonibo | smoke     | 0     | k      | o     | -     | i     | ~         |
+| ShipiboKonibo | smoke     | 0     | k      | o     | -     | i     | ∼         |
 | Yaminawa      |           |       | Ø      | Ø     | Ø     | Ø     | Ø         |
 | Yawanawa      |           |       | Ø      | Ø     | Ø     | Ø     | Ø         |
 | Fuzzy         |           |       | kʷ:100 | a:100 | ʔ:100 | i:100 | n:90¦m:10 |
@@ -1765,6 +1844,32 @@ header-includes: |
 | Fuzzy         |                  |       | p:100 | i:100 | s:90¦s.i:10 | i:100 | k:100 | a:100 |
 | ProtoPanoan   |                  |       | p     | i     | s           | i     | k     | a     |
 
+## COGID 480 / «species of fish»
+
+| language      | concept                        | pos   | S1    | S2    | S3    | S4    | S5         |
+|:--------------|:-------------------------------|:------|:------|:------|:------|:------|:-----------|
+| Amawaka       | species of fish                | 0     | w     | a     | t     | o     | ∼          |
+| Chakobo       | species of fish                | 0     | β     | a     | t     | o     | m          |
+| Chaninawa     |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Kakataibo     | species of fish                | 0     | β     | a     | t     | o     | ∼          |
+| Kapanawa      | species of fish                | 0     | β     | a     | t     | o     | n          |
+| Katukina      | species of fish                | 0     | β     | a     | t     | u     | n          |
+| Kaxarari      |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Kaxinawa      | species of fish                | 0     | b     | a     | t     | u     | ∼          |
+| Korubo        |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Marinawa      | species of fish (Loricariidae) | 0     | ɸ     | a     | t     | o     | ∼          |
+| Marubo        |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Matis         |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Mayoruna      |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Poyanawa      |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Shanenawa     |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Sharanawa     | species of fish                | 0     | ɸ     | a     | t     | o     | -          |
+| ShipiboKonibo | species of fish                | 0     | β     | a     | t     | o     | ∼          |
+| Yaminawa      |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Yawanawa      |                                |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Fuzzy         |                                |       | β:100 | a:100 | t:100 | o:100 | m:90¦rⁿ:10 |
+| ProtoPanoan   |                                |       | β     | a     | t     | o     | m          |
+
 ## COGID 346 / «species of lizard»
 
 | language      | concept           | pos   | S1    | S2    | S3    | S4    | S5         |
@@ -1788,7 +1893,7 @@ header-includes: |
 | ShipiboKonibo | species of lizard | 0     | ʂ     | ɨ     | k     | ɨ     | -          |
 | Yaminawa      | species of lizard | 0     | ʂ     | ɨ     | k     | ɨ     | -          |
 | Yawanawa      |                   |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Fuzzy         |                   |       | ʂ:100 | ɨ:100 | k:100 | ɨ:100 | tʳ:90¦t:10 |
+| Fuzzy         |                   |       | ʂ:100 | ɨ:100 | k:100 | ɨ:100 | tʳ:90¦-:10 |
 | ProtoPanoan   |                   |       | ʂ     | ɨ     | k     | ɨ     | tʳ         |
 
 ## COGID 25 / «species of mollusc»
@@ -1798,11 +1903,11 @@ header-includes: |
 | Amawaka       | species of mollusc | 0     | tʃ     | a     | n          | p     | i     | ʃ     |
 | Chakobo       |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Chaninawa     |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
-| Kakataibo     | species of mollusc | 0     | tʃ     | a     | ~          | p     | i     | ʃ     |
+| Kakataibo     | species of mollusc | 0     | tʃ     | a     | ∼          | p     | i     | ʃ     |
 | Kapanawa      |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Katukina      |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Kaxarari      |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
-| Kaxinawa      | species of mollusc | 0     | tʃ     | a     | ~          | p     | i     | ʃ     |
+| Kaxinawa      | species of mollusc | 0     | tʃ     | a     | ∼          | p     | i     | ʃ     |
 | Korubo        |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Marinawa      |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Marubo        |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
@@ -1814,34 +1919,34 @@ header-includes: |
 | ShipiboKonibo |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Yaminawa      |                    |       | Ø      | Ø     | Ø          | Ø     | Ø     | Ø     |
 | Yawanawa      | species of mollusc | 0     | tʃ     | a     | -          | p     | i     | ʃ     |
-| Fuzzy         |                    |       | tʃ:100 | a:100 | ~:90¦rⁿ:10 | p:100 | i:100 | ʃ:100 |
-| ProtoPanoan   |                    |       | tʃ     | a     | ~          | p     | i     | ʃ     |
+| Fuzzy         |                    |       | tʃ:100 | a:100 | ∼:90¦rⁿ:10 | p:100 | i:100 | ʃ:100 |
+| ProtoPanoan   |                    |       | tʃ     | a     | ∼          | p     | i     | ʃ     |
 
 ## COGID 515 / «species of palm»
 
-| language      | concept         | pos   | S1    | S2          | S3    | S4    | S5    | S6         | S7                  |
-|:--------------|:----------------|:------|:------|:------------|:------|:------|:------|:-----------|:--------------------|
-| Amawaka       |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Chakobo       |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Chaninawa     |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Kakataibo     | species of palm | 0     | β     | u           | -     | ɾ     | ɨ     | -          | -                   |
-| Kapanawa      | species of palm | 0     | β     | o           | ʔ     | ɾ     | ɨ     | -          | -                   |
-| Katukina      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Kaxarari      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Kaxinawa      | species of palm | 0     | b     | u           | -     | -     | -     | d          | ɨ                   |
-| Korubo        | species of palm | 0     | β     | o           | -     | ɬ     | ɨ     | t          | -                   |
-| Marinawa      | species of palm | 0     | ɸ     | o           | -     | ɾ     | ɨ     | ~          | -                   |
-| Marubo        |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Matis         |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Mayoruna      | species of palm | 0     | b     | u           | -     | ɾ     | ɨ     | d          | -                   |
-| Poyanawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Shanenawa     | species of palm | 0     | ɸ     | u           | -     | ɾ     | ɨ     | -          | -                   |
-| Sharanawa     | species of palm | 0     | ɸ     | o           | -     | ɾ     | ɨ     | -          | -                   |
-| ShipiboKonibo | species of palm | 0     | β     | o           | -     | r     | ɨ     | -          | -                   |
-| Yaminawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Yawanawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø          | Ø                   |
-| Fuzzy         |                 |       | β:100 | o:90¦o.ʔ:10 | ʔ:100 | ɽ:100 | ɨ:100 | t:90¦tʳ:10 | -:60¦n:20¦t:10¦k:10 |
-| ProtoPanoan   |                 |       | β     | o           | ʔ     | ɽ     | ɨ     | t          |                     |
+| language      | concept         | pos   | S1    | S2          | S3    | S4    | S5    | S6    | S7                   |
+|:--------------|:----------------|:------|:------|:------------|:------|:------|:------|:------|:---------------------|
+| Amawaka       |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Chakobo       |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Chaninawa     |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Kakataibo     | species of palm | 0     | β     | u           | -     | ɾ     | ɨ     | -     | -                    |
+| Kapanawa      | species of palm | 0     | β     | o           | ʔ     | ɾ     | ɨ     | -     | -                    |
+| Katukina      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Kaxarari      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Kaxinawa      | species of palm | 0     | b     | u           | -     | -     | -     | d     | ɨ                    |
+| Korubo        | species of palm | 0     | β     | o           | -     | ɬ     | ɨ     | t     | -                    |
+| Marinawa      | species of palm | 0     | ɸ     | o           | -     | ɾ     | ɨ     | ∼     | -                    |
+| Marubo        |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Matis         |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Mayoruna      | species of palm | 0     | b     | u           | -     | ɾ     | ɨ     | d     | -                    |
+| Poyanawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Shanenawa     | species of palm | 0     | ɸ     | u           | -     | ɾ     | ɨ     | -     | -                    |
+| Sharanawa     | species of palm | 0     | ɸ     | o           | -     | ɾ     | ɨ     | -     | -                    |
+| ShipiboKonibo | species of palm | 0     | β     | o           | -     | r     | ɨ     | -     | -                    |
+| Yaminawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Yawanawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
+| Fuzzy         |                 |       | β:100 | o:90¦o.ʔ:10 | ʔ:100 | ɽ:100 | ɨ:100 | t:100 | -:70¦n:10¦rⁿ:10¦t:10 |
+| ProtoPanoan   |                 |       | β     | o           | ʔ     | ɽ     | ɨ     | t     |                      |
 
 ## COGID 384 / «species of palm»
 
@@ -1866,7 +1971,7 @@ header-includes: |
 | ShipiboKonibo | species of palm | 0     | t     | a     | -               | o                 | -      |
 | Yaminawa      | species of palm | 0     | t     | a     | -               | o                 | -      |
 | Yawanawa      | species of palm | 0     | t     | a     | -               | o                 | -      |
-| Fuzzy         |                 |       | t:100 | a:100 | o:80¦ʔ:10¦tʳ:10 | a:80¦o:10¦a.tʳ:10 | tʳ:100 |
+| Fuzzy         |                 |       | t:100 | a:100 | o:80¦tʳ:10¦ʔ:10 | a:80¦o:10¦a.tʳ:10 | tʳ:100 |
 | ProtoPanoan   |                 |       | t     | a     | o               | a                 | tʳ     |
 
 ## COGID 74 / «species of snake»
@@ -1897,44 +2002,44 @@ header-includes: |
 
 ## COGID 439 / «species of tick»
 
-| language      | concept         | pos   | S1    | S2    | S3    | S4         | S5    | S6     |
-|:--------------|:----------------|:------|:------|:------|:------|:-----------|:------|:-------|
-| Amawaka       | species of tick | 0     | j     | a     | -     | n          | a     | ~      |
-| Chakobo       | species of tick | 0     | j     | a     | ʔ     | -          | a     | -      |
-| Chaninawa     |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Kakataibo     | species of tick | 0     | -     | a     | -     | -          | i     | -      |
-| Kapanawa      | species of tick | 0     | j     | a     | ʔ     | n          | a     | n      |
-| Katukina      |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Kaxarari      | species of tick | 0     | j     | a     | l     | -          | ə     | -      |
-| Kaxinawa      | species of tick | 0     | j     | a     | -     | n          | a     | ~      |
-| Korubo        |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Marinawa      | species of tick | 0     | j     | a     | -     | n          | a     | ~      |
-| Marubo        |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Matis         |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Mayoruna      | species of tick | 0     | tʃ    | a     | -     | n          | ɨ     | n      |
-| Poyanawa      |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Shanenawa     |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Sharanawa     | species of tick | 0     | j     | a     | -     | n          | a     | n      |
-| ShipiboKonibo | species of tick | 0     | j     | a     | -     | -          | a     | ~      |
-| Yaminawa      |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Yawanawa      |                 |       | Ø     | Ø     | Ø     | Ø          | Ø     | Ø      |
-| Fuzzy         |                 |       | j:100 | a:100 | ʔ:100 | n:70¦rⁿ:30 | a:100 | rⁿ:100 |
-| ProtoPanoan   |                 |       | j     | a     | ʔ     | r          | a     | rⁿ     |
+| language      | concept         | pos   | S1    | S2    | S3    | S4              | S5    | S6     |
+|:--------------|:----------------|:------|:------|:------|:------|:----------------|:------|:-------|
+| Amawaka       | species of tick | 0     | j     | a     | -     | n               | a     | ∼      |
+| Chakobo       | species of tick | 0     | j     | a     | ʔ     | -               | a     | -      |
+| Chaninawa     |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Kakataibo     | species of tick | 0     | -     | a     | -     | -               | i     | -      |
+| Kapanawa      | species of tick | 0     | j     | a     | ʔ     | n               | a     | n      |
+| Katukina      |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Kaxarari      | species of tick | 0     | j     | a     | l     | -               | ə     | -      |
+| Kaxinawa      | species of tick | 0     | j     | a     | -     | n               | a     | ∼      |
+| Korubo        |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Marinawa      | species of tick | 0     | j     | a     | -     | n               | a     | ∼      |
+| Marubo        |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Matis         |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Mayoruna      | species of tick | 0     | tʃ    | a     | -     | n               | ɨ     | n      |
+| Poyanawa      |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Shanenawa     |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Sharanawa     | species of tick | 0     | j     | a     | -     | n               | a     | n      |
+| ShipiboKonibo | species of tick | 0     | j     | a     | -     | -               | a     | ∼      |
+| Yaminawa      |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Yawanawa      |                 |       | Ø     | Ø     | Ø     | Ø               | Ø     | Ø      |
+| Fuzzy         |                 |       | j:100 | a:100 | ʔ:100 | n:60¦rⁿ:30¦r:10 | a:100 | rⁿ:100 |
+| ProtoPanoan   |                 |       | j     | a     | ʔ     | r               | a     | rⁿ     |
 
 ## COGID 5 / «species of tree»
 
 | language      | concept         | pos   | S1    | S2    | S3    | S4    | S5         |
 |:--------------|:----------------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | species of tree | 0     | w     | o     | k     | o     | ~          |
+| Amawaka       | species of tree | 0     | w     | o     | k     | o     | ∼          |
 | Chakobo       | species of tree | 0     | β     | o     | k     | o     | n          |
 | Chaninawa     |                 |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | species of tree | 0     | β     | o     | k     | o     | ~          |
+| Kakataibo     | species of tree | 0     | β     | o     | k     | o     | ∼          |
 | Kapanawa      | species of tree | 0     | β     | o     | k     | o     | n          |
 | Katukina      | species of tree | 0     | β     | u     | k     | u     | n          |
 | Kaxarari      |                 |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kaxinawa      | species of tree | 0     | b     | u     | k     | u     | ~          |
+| Kaxinawa      | species of tree | 0     | b     | u     | k     | u     | ∼          |
 | Korubo        |                 |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Marinawa      | species of tree | 0     | ɸ     | o     | k     | o     | ~          |
+| Marinawa      | species of tree | 0     | ɸ     | o     | k     | o     | ∼          |
 | Marubo        |                 |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Matis         | species of tree | 0     | b     | u     | k     | u     | -          |
 | Mayoruna      | species of tree | 0     | b     | u     | k     | u     | -          |
@@ -1946,6 +2051,32 @@ header-includes: |
 | Yawanawa      |                 |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Fuzzy         |                 |       | β:100 | o:100 | k:100 | o:100 | rⁿ:90¦m:10 |
 | ProtoPanoan   |                 |       | β     | o     | k     | o     | rⁿ         |
+
+## COGID 493 / «species of tree (Phyllanthaceae)»
+
+| language      | concept                          | pos   | S1    | S2    | S3    | S4    | S5         |
+|:--------------|:---------------------------------|:------|:------|:------|:------|:------|:-----------|
+| Amawaka       | species of tree (Phyllanthaceae) | 0     | w     | ɨ     | p     | o     | ∼          |
+| Chakobo       |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Chaninawa     | species of tree (Phyllanthaceae) | 0     | ɸ     | ɨ     | p     | o     | -          |
+| Kakataibo     | species of tree (Phyllanthaceae) | 0     | β     | ɨ     | p     | i     | ∼          |
+| Kapanawa      | species of tree (Phyllanthaceae) | 0     | β     | ɨ     | p     | o     | n          |
+| Katukina      | species of tree (Phyllanthaceae) | 0     | β     | ɨ     | p     | u     | -          |
+| Kaxarari      |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Kaxinawa      | species of tree (Phyllanthaceae) | 0     | b     | i     | p     | u     | ∼          |
+| Korubo        |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Marinawa      | species of tree (Phyllanthaceae) | 0     | ɸ     | ɨ     | p     | o     | -          |
+| Marubo        |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Matis         |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Mayoruna      | species of tree (Phyllanthaceae) | 0     | b     | ɨ     | p     | i     | n          |
+| Poyanawa      |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Shanenawa     |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Sharanawa     |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| ShipiboKonibo | species of tree (Phyllanthaceae) | 0     | β     | ɨ     | p     | o     | ∼          |
+| Yaminawa      | species of tree (Phyllanthaceae) | 0     | ɸ     | ɨ     | p     | o     | -          |
+| Yawanawa      |                                  |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Fuzzy         |                                  |       | β:100 | ɨ:100 | p:100 | o:100 | n:50¦rⁿ:50 |
+| ProtoPanoan   |                                  |       | β     | ɨ     | p     | o     | n          |
 
 ## COGID 52 / «species of tree and it's fruit»
 
@@ -2029,23 +2160,23 @@ header-includes: |
 
 | language      | concept   | pos   | S1    | S2    | S3    | S4    | S5         |
 |:--------------|:----------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | tear      | 0     | w     | ɨ     | ʔ     | o     | ~          |
+| Amawaka       | tear      | 0     | w     | ɨ     | ʔ     | o     | ∼          |
 | Chakobo       | tear      | 0     | β     | ɨ     | ʔ     | o     | n          |
 | Chaninawa     | tear      | 0     | ɸ     | ɨ     | -     | o     | n          |
-| Kakataibo     | tear      | 0     | β     | ɨ     | -     | o     | ~          |
+| Kakataibo     | tear      | 0     | β     | ɨ     | -     | o     | ∼          |
 | Kapanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Katukina      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Kaxarari      | tear      | 0     | b     | ɨ     | -     | o     | m          |
-| Kaxinawa      | tear      | 0     | b     | ɨ     | -     | u     | ~          |
+| Kaxinawa      | tear      | 0     | b     | ɨ     | -     | u     | ∼          |
 | Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Marinawa      | tear      | 0     | ɸ     | ɨ     | -     | o     | ~          |
+| Marinawa      | tear      | 0     | ɸ     | ɨ     | -     | o     | ∼          |
 | Marubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Matis         | tear      | 0     | b     | ɨ     | -     | u     | n          |
 | Mayoruna      | tear      | 0     | b     | ɨ     | -     | u     | n          |
 | Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Sharanawa     | tear      | 0     | ɸ     | ɨ     | -     | o     | n          |
-| ShipiboKonibo | tear      | 0     | β     | ɨ     | -     | o     | ~          |
+| ShipiboKonibo | tear      | 0     | β     | ɨ     | -     | o     | ∼          |
 | Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Yawanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Fuzzy         |           |       | β:100 | ɨ:100 | ʔ:100 | o:100 | m:90¦rⁿ:10 |
@@ -2105,29 +2236,29 @@ header-includes: |
 
 ## COGID 126 / «to bury»
 
-| language      | concept   | pos   | S1    | S2    | S3    | S4         |
-|:--------------|:----------|:------|:------|:------|:------|:-----------|
-| Amawaka       | to bury   | 0     | m     | a     | i     | -          |
-| Chakobo       | to bury   | 0     | m     | a     | i     | -          |
-| Chaninawa     |           |       | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | to bury   | 0     | m     | a     | i     | ~          |
-| Kapanawa      | to bury   | 0     | m     | a     | i     | n          |
-| Katukina      |           |       | Ø     | Ø     | Ø     | Ø          |
-| Kaxarari      |           |       | Ø     | Ø     | Ø     | Ø          |
-| Kaxinawa      | to bury   | 0     | m     | a     | i     | -          |
-| Korubo        |           |       | Ø     | Ø     | Ø     | Ø          |
-| Marinawa      | to bury   | 0     | m     | a     | i     | -          |
-| Marubo        |           |       | Ø     | Ø     | Ø     | Ø          |
-| Matis         |           |       | Ø     | Ø     | Ø     | Ø          |
-| Mayoruna      |           |       | Ø     | Ø     | Ø     | Ø          |
-| Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø          |
-| Shanenawa     |           |       | Ø     | Ø     | Ø     | Ø          |
-| Sharanawa     |           |       | Ø     | Ø     | Ø     | Ø          |
-| ShipiboKonibo | to bury   | 0     | m     | i     | i     | ~          |
-| Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø          |
-| Yawanawa      |           |       | Ø     | Ø     | Ø     | Ø          |
-| Fuzzy         |           |       | m:100 | a:100 | i:100 | rⁿ:70¦~:30 |
-| ProtoPanoan   |           |       | m     | a     | i     | rⁿ         |
+| language      | concept   | pos   | S1    | S2    | S3    | S4              |
+|:--------------|:----------|:------|:------|:------|:------|:----------------|
+| Amawaka       | to bury   | 0     | m     | a     | i     | -               |
+| Chakobo       | to bury   | 0     | m     | a     | i     | -               |
+| Chaninawa     |           |       | Ø     | Ø     | Ø     | Ø               |
+| Kakataibo     | to bury   | 0     | m     | a     | i     | ∼               |
+| Kapanawa      | to bury   | 0     | m     | a     | i     | n               |
+| Katukina      |           |       | Ø     | Ø     | Ø     | Ø               |
+| Kaxarari      |           |       | Ø     | Ø     | Ø     | Ø               |
+| Kaxinawa      | to bury   | 0     | m     | a     | i     | -               |
+| Korubo        |           |       | Ø     | Ø     | Ø     | Ø               |
+| Marinawa      | to bury   | 0     | m     | a     | i     | -               |
+| Marubo        |           |       | Ø     | Ø     | Ø     | Ø               |
+| Matis         |           |       | Ø     | Ø     | Ø     | Ø               |
+| Mayoruna      |           |       | Ø     | Ø     | Ø     | Ø               |
+| Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø               |
+| Shanenawa     |           |       | Ø     | Ø     | Ø     | Ø               |
+| Sharanawa     |           |       | Ø     | Ø     | Ø     | Ø               |
+| ShipiboKonibo | to bury   | 0     | m     | i     | i     | ∼               |
+| Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø               |
+| Yawanawa      |           |       | Ø     | Ø     | Ø     | Ø               |
+| Fuzzy         |           |       | m:100 | a:100 | i:100 | rⁿ:60¦n:30¦∼:10 |
+| ProtoPanoan   |           |       | m     | a     | i     | rⁿ              |
 
 ## COGID 503 / «to catch»
 
@@ -2178,34 +2309,34 @@ header-includes: |
 | ShipiboKonibo | to cry    | 0     | w     | i     | n          |
 | Yaminawa      | to cry    | 0     | w     | i     | -          |
 | Yawanawa      |           |       | Ø     | Ø     | Ø          |
-| Fuzzy         |           |       | w:100 | i:100 | rⁿ:80¦n:20 |
+| Fuzzy         |           |       | w:100 | i:100 | rⁿ:70¦n:30 |
 | ProtoPanoan   |           |       | w     | i     | rⁿ         |
 
 ## COGID 58 / «to desire»
 
-| language      | concept   | pos   | S1     | S2    | S3    | S4         |
-|:--------------|:----------|:------|:-------|:------|:------|:-----------|
-| Amawaka       | to desire | 0     | k      | ɨ     | ɨ     | ~          |
-| Chakobo       | to desire | 0     | k      | ɨ     | ɨ     | -          |
-| Chaninawa     |           |       | Ø      | Ø     | Ø     | Ø          |
-| Kakataibo     | to desire | 0     | kʷ     | ɨ     | ɨ     | ~          |
-| Kapanawa      | to desire | 0     | k      | ɨ     | ɨ     | n          |
-| Katukina      |           |       | Ø      | Ø     | Ø     | Ø          |
-| Kaxarari      |           |       | Ø      | Ø     | Ø     | Ø          |
-| Kaxinawa      | to desire | 0     | k      | ɨ     | ~     | -          |
-| Korubo        |           |       | Ø      | Ø     | Ø     | Ø          |
-| Marinawa      | to desire | 0     | k      | ɨ     | ɨ     | ~          |
-| Marubo        |           |       | Ø      | Ø     | Ø     | Ø          |
-| Matis         |           |       | Ø      | Ø     | Ø     | Ø          |
-| Mayoruna      |           |       | Ø      | Ø     | Ø     | Ø          |
-| Poyanawa      |           |       | Ø      | Ø     | Ø     | Ø          |
-| Shanenawa     |           |       | Ø      | Ø     | Ø     | Ø          |
-| Sharanawa     |           |       | Ø      | Ø     | Ø     | Ø          |
-| ShipiboKonibo | to desire | 0     | k      | ɨ     | ɨ     | ~          |
-| Yaminawa      |           |       | Ø      | Ø     | Ø     | Ø          |
-| Yawanawa      |           |       | Ø      | Ø     | Ø     | Ø          |
-| Fuzzy         |           |       | kʷ:100 | ɨ:100 | ɨ:100 | rⁿ:90¦~:10 |
-| ProtoPanoan   |           |       | kʷ     | ɨ     | ɨ     | ~          |
+| language      | concept   | pos   | S1     | S2    | S3    | S4     |
+|:--------------|:----------|:------|:-------|:------|:------|:-------|
+| Amawaka       | to desire | 0     | k      | ɨ     | ɨ     | ∼      |
+| Chakobo       | to desire | 0     | k      | ɨ     | ɨ     | -      |
+| Chaninawa     |           |       | Ø      | Ø     | Ø     | Ø      |
+| Kakataibo     | to desire | 0     | kʷ     | ɨ     | ɨ     | ∼      |
+| Kapanawa      | to desire | 0     | k      | ɨ     | ɨ     | n      |
+| Katukina      |           |       | Ø      | Ø     | Ø     | Ø      |
+| Kaxarari      |           |       | Ø      | Ø     | Ø     | Ø      |
+| Kaxinawa      | to desire | 0     | k      | ɨ     | -     | ∼      |
+| Korubo        |           |       | Ø      | Ø     | Ø     | Ø      |
+| Marinawa      | to desire | 0     | k      | ɨ     | ɨ     | ∼      |
+| Marubo        |           |       | Ø      | Ø     | Ø     | Ø      |
+| Matis         |           |       | Ø      | Ø     | Ø     | Ø      |
+| Mayoruna      |           |       | Ø      | Ø     | Ø     | Ø      |
+| Poyanawa      |           |       | Ø      | Ø     | Ø     | Ø      |
+| Shanenawa     |           |       | Ø      | Ø     | Ø     | Ø      |
+| Sharanawa     |           |       | Ø      | Ø     | Ø     | Ø      |
+| ShipiboKonibo | to desire | 0     | k      | ɨ     | ɨ     | ∼      |
+| Yaminawa      |           |       | Ø      | Ø     | Ø     | Ø      |
+| Yawanawa      |           |       | Ø      | Ø     | Ø     | Ø      |
+| Fuzzy         |           |       | kʷ:100 | ɨ:100 | ɨ:100 | rⁿ:100 |
+| ProtoPanoan   |           |       | kʷ     | ɨ     | ɨ     | ∼      |
 
 ## COGID 2 / «to devour»
 
@@ -2282,7 +2413,7 @@ header-includes: |
 | ShipiboKonibo | to fear               | 0     | r     | a     | k      | ɨ     | -          |
 | Yaminawa      |                       |       | Ø     | Ø     | Ø      | Ø     | Ø          |
 | Yawanawa      |                       |       | Ø     | Ø     | Ø      | Ø     | Ø          |
-| Fuzzy         |                       |       | ɽ:100 | a:100 | kʷ:100 | ɨ:100 | -:80¦tʳ:20 |
+| Fuzzy         |                       |       | ɽ:100 | a:100 | kʷ:100 | ɨ:100 | -:60¦tʳ:40 |
 | ProtoPanoan   |                       |       | ɽ     | a     | kʷ     | ɨ     |            |
 
 ## COGID 135 / «to feel longing»
@@ -2310,6 +2441,32 @@ header-includes: |
 | Yawanawa      |                 |       | Ø     | Ø     | Ø      | Ø       |      |
 | Fuzzy         |                 |       | m:100 | a:100 | rⁿ:100 | o.t:100 |      |
 | ProtoPanoan   |                 |       | m     | a     | rⁿ     | o       | t    |
+
+## COGID 221 / «to fly»
+
+| language      | concept   | pos   | S1     | S2    | S3    | S4        | S5    |
+|:--------------|:----------|:------|:-------|:------|:------|:----------|:------|
+| Amawaka       |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Chakobo       | to fly    | 0     | n      | o     | j     | a         |       |
+| Chaninawa     |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Kakataibo     | to fly    | 0     | n      | o     | ∼     | a         |       |
+| Kapanawa      | to fly    | 0     | n      | o     | j     | a         |       |
+| Katukina      |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Kaxarari      |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Kaxinawa      | to fly    | 0     | n      | u     | j     | a         |       |
+| Korubo        |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Marinawa      | to fly    | 0     | n      | o     | j     | a         |       |
+| Marubo        | to fly    | 0     | n      | u     | j     | a         |       |
+| Matis         |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Mayoruna      |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Poyanawa      |           |       | Ø      | Ø     | Ø     | Ø         |       |
+| Shanenawa     | to fly    | 0     | n      | u     | j     | a         |       |
+| Sharanawa     | to fly    | 0     | n      | o     | j     | a         |       |
+| ShipiboKonibo | to fly    | 0     | n      | o     | j     | a         |       |
+| Yaminawa      | to fly    | 0     | j      | o     | j     | a         |       |
+| Yawanawa      | to fly    | 0     | n      | u     | -.i   | a         |       |
+| Fuzzy         |           |       | rⁿ:100 | o:100 | j:100 | -:80¦k:20 | a:100 |
+| ProtoPanoan   |           |       | rⁿ     | o     | j     | a         |       |
 
 ## COGID 487 / «to forget, to lose»
 
@@ -2360,31 +2517,31 @@ header-includes: |
 | ShipiboKonibo | to get drunk, drunk | 0     | p     | a     | -     | ɨ     | -               |
 | Yaminawa      | to get drunk, drunk | 0     | p     | a     | -     | ɨ     | -               |
 | Yawanawa      |                     |       | Ø     | Ø     | Ø     | Ø     | Ø               |
-| Fuzzy         |                     |       | p:100 | a:100 | ʔ:100 | ɨ:100 | n:80¦rⁿ:10¦-:10 |
+| Fuzzy         |                     |       | p:100 | a:100 | ʔ:100 | ɨ:100 | n:70¦rⁿ:20¦-:10 |
 | ProtoPanoan   |                     |       | p     | a     | ʔ     | ɨ     | n               |
 
 ## COGID 115 / «to give»
 
 | language      | concept   | pos   | S1    | S2    | S3    | S4    | S5                   |
 |:--------------|:----------|:------|:------|:------|:------|:------|:---------------------|
-| Amawaka       | to give   | 0     | -     | i     | n     | a     | ~                    |
+| Amawaka       | to give   | 0     | -     | i     | n     | a     | ∼                    |
 | Chakobo       | to give   | 0     | ʔ     | i     | n     | a     | -                    |
 | Chaninawa     | to give   | 0     | -     | i     | n     | a     | -                    |
-| Kakataibo     | to give   | 0     | ʔ     | i     | n     | a     | ~                    |
+| Kakataibo     | to give   | 0     | ʔ     | i     | n     | a     | ∼                    |
 | Kapanawa      | to give   | 0     | ʔ     | i     | n     | a     | n                    |
 | Katukina      | to give   | 0     | -     | i     | n     | a     | -                    |
 | Kaxarari      | to give   | 0     | j     | a     | l     | -     | -                    |
-| Kaxinawa      | to give   | 0     | -     | i     | n     | a     | ~                    |
+| Kaxinawa      | to give   | 0     | -     | i     | n     | a     | ∼                    |
 | Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Marinawa      | to give   | 0     | -     | i     | n     | a     | ~                    |
-| Marubo        | to give   | 0     | -     | i     | n     | a     | ~                    |
+| Marinawa      | to give   | 0     | -     | i     | n     | a     | ∼                    |
+| Marubo        | to give   | 0     | -     | i     | n     | a     | ∼                    |
 | Matis         |           |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
 | Mayoruna      |           |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
 | Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
 | Shanenawa     | to give   | 0     | -     | i     | n     | a     | n                    |
 | Sharanawa     | to give   | 0     | -     | i     | n     | a     | n                    |
-| ShipiboKonibo | to give   | 0     | ʔ     | i     | n     | a     | ~                    |
-| Yaminawa      | to give   | 0     | -     | i     | n     | a     | ~                    |
+| ShipiboKonibo | to give   | 0     | ʔ     | i     | n     | a     | ∼                    |
+| Yaminawa      | to give   | 0     | -     | i     | n     | a     | ∼                    |
 | Yawanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø                    |
 | Fuzzy         |           |       | ʔ:100 | i:100 | r:100 | a:100 | rⁿ:40¦n:30¦r:20¦-:10 |
 | ProtoPanoan   |           |       | ʔ     | i     | n     | a     | r                    |
@@ -2464,7 +2621,7 @@ header-includes: |
 | ShipiboKonibo | to run    | 0     | h     | a     | β     | a     | -         |
 | Yaminawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
 | Yawanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø         |
-| Fuzzy         |           |       | h:100 | a:100 | β:100 | a:100 | t:90¦-:10 |
+| Fuzzy         |           |       | h:100 | a:100 | β:100 | a:100 | t:80¦-:20 |
 | ProtoPanoan   |           |       | h     | a     | β     | a     | t         |
 
 ## COGID 392 / «to step»
@@ -2519,6 +2676,32 @@ header-includes: |
 | Fuzzy         |           |       | rⁿ:100 | o:100 | rⁿ:100 | o:100 |
 | ProtoPanoan   |           |       | n      | o     | n      | o     |
 
+## COGID 322 / «to think»
+
+| language      | concept   | pos   | S1    | S2    | S3    | S4    | S5         |
+|:--------------|:----------|:------|:------|:------|:------|:------|:-----------|
+| Amawaka       | to think  | 0     | ʃ     | i     | n     | a     | ∼          |
+| Chakobo       | to think  | 0     | ʃ     | i     | n     | a     | -          |
+| Chaninawa     |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Kakataibo     | to think  | 0     | s     | i     | n     | a     | ∼          |
+| Kapanawa      | to think  | 0     | ʃ     | i     | n     | a     | n          |
+| Katukina      | to think  | 0     | ʃ     | i     | n     | a     | -          |
+| Kaxarari      | to think  | 0     | ʃ     | i     | n     | ɐ     | -          |
+| Kaxinawa      | to think  | 0     | ʃ     | i     | n     | a     | ∼          |
+| Korubo        |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Marinawa      | to think  | 0     | ʃ     | i     | n     | a     | ∼          |
+| Marubo        | to think  | 0     | ʃ     | i     | n     | a     | ∼          |
+| Matis         | to think  | 0     | s     | i     | n     | a     | n          |
+| Mayoruna      | to think  | 0     | s     | i     | n     | a     | n          |
+| Poyanawa      |           |       | Ø     | Ø     | Ø     | Ø     | Ø          |
+| Shanenawa     | to think  | 0     | ʂ     | i     | n     | a     | n          |
+| Sharanawa     | to think  | 0     | ʃ     | i     | n     | a     | -          |
+| ShipiboKonibo | to think  | 0     | ʃ     | i     | n     | a     | ∼          |
+| Yaminawa      | to think  | 0     | ʃ     | i     | n     | a     | ∼          |
+| Yawanawa      | to think  | 0     | ʃ     | i     | n     | a     | n          |
+| Fuzzy         |           |       | s:100 | i:100 | n:100 | a:100 | rⁿ:90¦r:10 |
+| ProtoPanoan   |           |       | s     | i     | n     | a     | rⁿ         |
+
 ## COGID 156 / «to wet, wet»
 
 | language      | concept     | pos   | S1    | S2          | S3    | S4     | S5    |
@@ -2552,9 +2735,9 @@ header-includes: |
 | Amawaka       | transitive concordance suffix | 0     | x     | o     | -          |
 | Chakobo       | transitive concordance suffix | 0     | ʂ     | o     | -          |
 | Chaninawa     |                               |       | Ø     | Ø     | Ø          |
-| Kakataibo     | transitive concordance suffix | 0     | ʂ     | o     | ~          |
+| Kakataibo     | transitive concordance suffix | 0     | ʂ     | o     | ∼          |
 | Kapanawa      | transitive concordance suffix | 0     | ʂ     | o     | n          |
-| Katukina      | transitive concordance suffix | 0     | ʂ     | o     | ~          |
+| Katukina      | transitive concordance suffix | 0     | ʂ     | o     | ∼          |
 | Kaxarari      | transitive concordance suffix | 0     | ʃ     | u     | -          |
 | Kaxinawa      | transitive concordance suffix | 0     | ʂ     | u     | -          |
 | Korubo        | transitive concordance suffix | 0     | ʂ     | u     | n          |
@@ -2565,8 +2748,8 @@ header-includes: |
 | Poyanawa      |                               |       | Ø     | Ø     | Ø          |
 | Shanenawa     | transitive concordance suffix | 0     | ʂ     | u     | n          |
 | Sharanawa     |                               |       | Ø     | Ø     | Ø          |
-| ShipiboKonibo | transitive concordance suffix | 0     | ʂ     | o     | ~          |
-| Yaminawa      | transitive concordance suffix | 0     | ʂ     | o     | ~          |
+| ShipiboKonibo | transitive concordance suffix | 0     | ʂ     | o     | ∼          |
+| Yaminawa      | transitive concordance suffix | 0     | ʂ     | o     | ∼          |
 | Yawanawa      |                               |       | Ø     | Ø     | Ø          |
 | Fuzzy         |                               |       | ʂ:100 | o:100 | n:90¦rⁿ:10 |
 | ProtoPanoan   |                               |       | ʂ     | o     | n          |
@@ -2594,7 +2777,7 @@ header-includes: |
 | ShipiboKonibo | tree stump | 0     | β     | o     | -          | ɾ     | o            |      |
 | Yaminawa      |            |       | Ø     | Ø     | Ø          | Ø     | Ø            |      |
 | Yawanawa      |            |       | Ø     | Ø     | Ø          | Ø     | Ø            |      |
-| Fuzzy         |            |       | β:100 | o:100 | ʔ:80¦tʳ:20 | ɽ:100 | o:90¦o.tʳ:10 |      |
+| Fuzzy         |            |       | β:100 | o:100 | ʔ:90¦tʳ:10 | ɽ:100 | o:90¦o.tʳ:10 |      |
 | ProtoPanoan   |            |       | β     | o     | ʔ          | ɽ     | o            | tʳ   |
 
 ## COGID 284 / «two»
@@ -2653,24 +2836,24 @@ header-includes: |
 
 | language      | concept       | pos   | S1    | S2    | S3    | S4    | S5         |
 |:--------------|:--------------|:------|:------|:------|:------|:------|:-----------|
-| Amawaka       | type of venom | 0     | ʔ     | a     | x     | a     | ~          |
+| Amawaka       | type of venom | 0     | ʔ     | a     | x     | a     | ∼          |
 | Chakobo       | type of venom | 0     | ʔ     | a     | ʂ     | a     | -          |
 | Chaninawa     |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Kakataibo     | type of venom | 0     | ʔ     | a     | ʂ     | a     | ~          |
+| Kakataibo     | type of venom | 0     | ʔ     | a     | ʂ     | a     | ∼          |
 | Kapanawa      | type of venom | 0     | ʔ     | a     | ʂ     | a     | n          |
 | Katukina      |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Kaxarari      |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Kaxinawa      | type of venom | 0     | -     | a     | ʂ     | a     | -          |
 | Korubo        |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
-| Marinawa      | type of venom | 0     | -     | a     | ʂ     | a     | ~          |
+| Marinawa      | type of venom | 0     | -     | a     | ʂ     | a     | ∼          |
 | Marubo        |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Matis         | type of venom | 0     | -     | a     | ʂ     | -     | -          |
 | Mayoruna      |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Poyanawa      |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Shanenawa     |               |       | Ø     | Ø     | Ø     | Ø     | Ø          |
 | Sharanawa     | type of venom | 0     | -     | a     | ʂ     | a     | n          |
-| ShipiboKonibo | type of venom | 0     | ʔ     | a     | ʂ     | a     | ~          |
-| Yaminawa      | type of venom | 0     | -     | a     | ʂ     | a     | ~          |
+| ShipiboKonibo | type of venom | 0     | ʔ     | a     | ʂ     | a     | ∼          |
+| Yaminawa      | type of venom | 0     | -     | a     | ʂ     | a     | ∼          |
 | Yawanawa      | type of venom | 0     | -     | a     | ʃ     | a     | n          |
 | Fuzzy         |               |       | ʔ:100 | a:100 | ʂ:100 | a:100 | n:90¦rⁿ:10 |
 | ProtoPanoan   |               |       | ʔ     | a     | ʂ     | a     | n          |

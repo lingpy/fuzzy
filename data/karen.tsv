@@ -1690,7 +1690,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 3109	WesternBwe	long (of time)	jɪ¹¹	jɪ¹¹	j ɪ ¹¹		2098
 177	ProtoKaren	look after (things)	*pəᴮ	*pəᴮ	p ə ¹¹		2111
 502	Kayah	look after (things)	po¹¹	po¹¹	p o ¹¹		2111
-794	Kayan	look after (things)	pəɨ¹¹	pəɨ¹¹	p əɨ ¹¹		2111
+794	Kayan	look after (things)	pəɨ¹¹	pəɨ¹¹	b əɨ ¹¹		2111
 1098	Kayaw	look after (things)	pə¹¹	pə¹¹	p ə ¹¹		2111
 1394	NorthernPao	look after (things)	pə⁵⁵	pə⁵⁵	p ə ⁵⁵		2111
 2259	SouthernPao	look after (things)	pə³³	pə³³	p ə ³³		2111
@@ -1730,7 +1730,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 1102	Kayaw	lung	su¹¹	su¹¹	s u ¹¹		2166
 1684	NorthernPwo	lung	soɁ⁴⁵	soɁ⁴⁵	s u ʔ ⁴⁵		2166
 1976	NorthernSgaw	lung	pə³³so³¹῀	pə³³so³¹῀	p ə ³³ + s o ³¹		2167 2166
-2545	SouthernPwo	lung	bu³³θuɁ²¹	bu³³θuɁ²¹	b u ³³ + θ u ʔ ²¹		2167 2166
+2545	SouthernPwo	lung	bu³³θuɁ²¹	bu³³θuɁ²¹	p u ³³ + θ u ʔ ²¹		2167 2166
 2845	SouthernSgaw	lung	su⁴⁵’	su⁴⁵’	s u ⁴⁵		2166
 3113	WesternBwe	lung	θə⁵⁵’o⁵⁵	θə⁵⁵’o⁵⁵	θ ə ⁵⁵ + o ⁵⁵		1540 2168
 182	ProtoKaren	maggot	*hloŋᴮ	*hloŋᴮ	l̥ o ŋ ¹¹		2180
@@ -2217,7 +2217,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 1724	NorthernPwo	rabbit, hare	pa³³dɛ⁵⁵	pa³³dɛ⁵⁵	p a ³³ + d ɛ ⁵⁵		2792 2791
 2022	NorthernSgaw	rabbit, hare	pə¹¹dɛ³³	pə¹¹dɛ³³	p ə ¹¹ + d ɛ ³³		2792 2791
 2590	SouthernPwo	rabbit, hare	pə³¹ ̈dɛ³³	pə³¹̈dɛ³³	p ə ɦ ³¹ + d ɛ ³³		2792 4
-3153	WesternBwe	rabbit, hare	pə³³dɛ³³	pə³³dɛ³³	p ə ³³ + ɗ ɛ ³³		2792 2791
+3153	WesternBwe	rabbit, hare	pə³³dɛ³³	pə³³dɛ³³	b ə ³³ + ɗ ɛ ³³		2792 2791
 234	ProtoKaren	raise, feed (animals)	*Ɂbəᴮ	*Ɂbəᴮ	ˀb ə ¹¹		2804
 553	Kayah	raise, feed (animals)	bo¹¹	bo¹¹	b o ¹¹		2804
 843	Kayan	raise, feed (animals)	bəɨ¹¹	bəɨ¹¹	b əɨ ¹¹		2804
