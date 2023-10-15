@@ -19,18 +19,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3887	ShipiboKonibo	abandoned rock	náwɨ	náwɨ	n a w ɨ	None	190	n a w ɨ	C V C V	190
 3896	Yawanawa	abandoned rock	nauɨ	nauɨ	n a w ɨ	None	190	n a w ɨ	C V C V	190
 5412	Katukina	abandoned rock	ɾumɨ	ɾumɨ	ɾ u m ɨ	None	308	ɾ u m ɨ	C V C V	308
-3187	Amawaka	above	manã-	manã-	m a n a ~	II	132	m a n a ~	C V C V 0	132
+3187	Amawaka	above	manã-	manã-	m a n a ∼	II	132	m a n a ∼	C V C V C	132
 3181	Chakobo	above	mana	mana	m a n a	None	132	m a n a -	C V C V	132
-3177	Kakataibo	above	manã́	manã́	m a n a ~	None	132	m a n a ~	C V C V 0	132
+3177	Kakataibo	above	manã́	manã́	m a n a ∼	None	132	m a n a ∼	C V C V C	132
 3180	Kapanawa	above	manán	manán	m a n a n	None	132	m a n a n	C V C V C	132
-3188	Kaxinawa	above	mãnã	mãnã	m a n a ~	None	132	m a n a ~	C V C V 0	132
-3189	Marinawa	above	mãnãkírí	mãnãkírí	m a n a ~	None	132	m a n a ~	C V C V 0	132
+3188	Kaxinawa	above	mãnã	mãnã	m a n a ∼	None	132	m a n a ∼	C V C V C	132
+3189	Marinawa	above	mãnãkírí	mãnãkírí	m a n a ∼	None	132	m a n a ∼	C V C V C	132
 3190	Mayoruna	above	mannan	mannan	m a n a n	None	132	m a n a n	C V C V C	132
 3176	ProtoPanoan	above	ma[n]a[n]	ma[n]a[n]	m a rⁿ a rⁿ	None	132	m a rⁿ a rⁿ	C V C V C	132
 3186	Shanenawa	above	manaun	manaun	m a n a	None	132	m a n a -	C V C V	132
 3185	Sharanawa	above	mananun	mananun	m a n a n	None	132	m a n a n	C V C V C	132
-3178	ShipiboKonibo	above	manã́	manã́	m a n a ~	None	132	m a n a ~	C V C V 0	132
-3182	Yaminawa	above	manaõ	manaõ	m a n a ~	None	132	m a n a ~	C V C V 0	132
+3178	ShipiboKonibo	above	manã́	manã́	m a n a ∼	None	132	m a n a ∼	C V C V C	132
+3182	Yaminawa	above	manaõ	manaõ	m a n a ∼	None	132	m a n a ∼	C V C V C	132
 3363	Amawaka	achiote	maxɨ	maxɨ	m a x ɨ	II	146	m a x ɨ	C V C V	146
 3360	Chakobo	achiote	maʂɨ	maʂɨ	m a ʂ ɨ	None	146	m a ʂ ɨ	C V C V	146
 3361	Chaninawa	achiote	baʃɨ	baʃɨ	b a ʃ ɨ	None	146	b a ʃ ɨ	C V C V	146
@@ -44,26 +44,26 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3357	ShipiboKonibo	achiote	maʂɨ	maʂɨ	m a ʂ ɨ	None	146	m a ʂ ɨ	C V C V	146
 4412	Korubo	achiote	ʃinte	ʃinte	ʃ i n	None	233	- - ʃ i n	C V C	233
 4617	Korubo	achiote	ʃinte	ʃinte	ʃ i n	None	247	- - ʃ i n	C V C	247
-6568	Amawaka	adam's apple	tɨtõ	tɨtõ	t ɨ t o ~	II	400	t ɨ t o ~	C V C V 0	400
+6568	Amawaka	adam's apple	tɨtõ	tɨtõ	t ɨ t o ∼	II	400	t ɨ t o ∼	C V C V C	400
 6564	Chakobo	adam's apple	tɨto	tɨto	t ɨ t o	None	400	t ɨ t o -	C V C V	400
-6560	Kakataibo	adam's apple	tɨtṍ	tɨtṍ	t ɨ t o ~	None	400	t ɨ t o ~	C V C V 0	400
+6560	Kakataibo	adam's apple	tɨtṍ	tɨtṍ	t ɨ t o ∼	None	400	t ɨ t o ∼	C V C V C	400
 6562	Kapanawa	adam's apple	tɨtón	tɨtón	t ɨ t o n	None	400	t ɨ t o n	C V C V C	400
 6570	Kaxinawa	adam's apple	tɨtuku	tɨtuku	t ɨ t u	None	400	t ɨ t u -	C V C V	400
-6571	Marinawa	adam's apple	tɨ́ś_tõ	tɨ́ś_tõ	t ɨ t o ~	None	400	t ɨ t o ~	C V C V 0	400
+6571	Marinawa	adam's apple	tɨ́ś_tõ	tɨ́ś_tõ	t ɨ t o ∼	None	400	t ɨ t o ∼	C V C V C	400
 6563	Marubo	adam's apple	tə̃ˈto	tə̃ˈto	t ə t o	None	400	t ə t o -	C V C V	400
 6559	ProtoPanoan	adam's apple	tɨto[n]	tɨto[n]	t ɨ t o rⁿ	None	400	t ɨ t o rⁿ	C V C V C	400
 6566	Sharanawa	adam's apple	tɨtoko	tɨtoko	t ɨ t o	None	400	t ɨ t o -	C V C V	400
-6561	ShipiboKonibo	adam's apple	tɨtṍ	tɨtṍ	t ɨ t o ~	None	400	t ɨ t o ~	C V C V 0	400
-7079	Amawaka	afternoon	yãtã	yãtã	j a ~ t a ~	II	445	j a ~ t a ~	C V 0 C V 0	445
+6561	ShipiboKonibo	adam's apple	tɨtṍ	tɨtṍ	t ɨ t o ∼	None	400	t ɨ t o ∼	C V C V C	400
+7079	Amawaka	afternoon	yãtã	yãtã	j a ∼ t a ∼	II	445	j a ∼ t a ∼	C V C C V C	445
 7075	Chakobo	afternoon	yáta	yáta	j a t a	None	445	j a - t a -	C V C V	445
-7072	Kakataibo	afternoon	atã́	atã́	a t a ~	None	445	- a - t a ~	V C V 0	445
+7072	Kakataibo	afternoon	atã́	atã́	a t a ∼	None	445	- a - t a ∼	V C V C	445
 7074	Kapanawa	afternoon	yantán	yantán	j a n t a n	None	445	j a n t a n	C V C C V C	445
-7080	Marinawa	afternoon	yátã	yátã	j a t a ~	None	445	j a - t a ~	C V C V 0	445
-7071	ProtoPanoan	afternoon	yãtan	yãtan	j a ~ t a n	None	445	j a ~ t a n	C V 0 C V C	445
+7080	Marinawa	afternoon	yátã	yátã	j a t a ∼	None	445	j a - t a ∼	C V C V C	445
+7071	ProtoPanoan	afternoon	yãtan	yãtan	j a ∼ t a n	None	445	j a ∼ t a n	C V C C V C	445
 7078	Sharanawa	afternoon	yatan	yatan	j a t a n	None	445	j a - t a n	C V C V C	445
-7073	ShipiboKonibo	afternoon	yãtã́	yãtã́	j a ~ t a ~	None	445	j a ~ t a ~	C V 0 C V 0	445
-7077	Yaminawa	afternoon	yãta	yãta	j a ~ t a	None	445	j a ~ t a -	C V 0 C V	445
-7081	Yawanawa	afternoon	jãˈtã	jãˈtã	j a ~ t a ~	None	445	j a ~ t a ~	C V 0 C V 0	445
+7073	ShipiboKonibo	afternoon	yãtã́	yãtã́	j a ∼ t a ∼	None	445	j a ∼ t a ∼	C V C C V C	445
+7077	Yaminawa	afternoon	yãta	yãta	j a ∼ t a	None	445	j a ∼ t a -	C V C C V	445
+7081	Yawanawa	afternoon	jãˈtã	jãˈtã	j a ∼ t a ∼	None	445	j a ∼ t a ∼	C V C C V C	445
 1744	Chakobo	amber	tsisto	tsisto	ts i s t o	None	18	ts i s t o	C V C C V	18
 1745	Mayoruna	amber	tsisu	tsisu	ts i s u	None	18	ts i s - u	C V C V	18
 1742	ProtoPanoan	amber	[ts]is[t]o	[ts]is[t]o	ts i s t o	None	18	ts i s t o	C V C C V	18
@@ -81,30 +81,30 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 7142	Kapanawa	animal	yoʔina	yoʔina	j o ʔ i n a	None	451	j o ʔ i n a	C V C V C V	451
 7150	Kaxinawa	animal	yuina	yuina	j u i n a	None	451	j u - i n a	C V V C V	451
 7152	Marinawa	animal	yóíná	yóíná	j o i n a	None	451	j o - i n a	C V V C V	451
-7143	Marubo	animal	yoĩ	yoĩ	j o i ~	None	451	j o - i ~ -	C V V 0	451
-7148	Poyanawa	animal	iũĩda	iũĩda	j u i ~.d a	None	451	j u - i ~.d a	C V V 0 V	451
+7143	Marubo	animal	yoĩ	yoĩ	j o i ∼	None	451	j o - i ∼ -	C V V C	451
+7148	Poyanawa	animal	iũĩda	iũĩda	j u i ∼.d a	None	451	j u - i ∼.d a	C V V C V	451
 7139	ProtoPanoan	animal	yoʔi[n]a	yoʔi[n]a	j o ʔ i rⁿ a	None	451	j o ʔ i rⁿ a	C V C V C V	451
 7147	Shanenawa	animal	yuina	yuina	j u i n a	None	451	j u - i n a	C V V C V	451
 7145	Sharanawa	animal	yoina	yoina	j o i n a	None	451	j o - i n a	C V V C V	451
 7141	ShipiboKonibo	animal	yoina	yoina	j o i n a	None	451	j o - i n a	C V V C V	451
 7153	Yawanawa	animal	iuina	iuina	j u i n a	None	451	j u - i n a	C V V C V	451
-3065	Amawaka	animal horn	matʃã	matʃã	m a tʃ a ~	None	122	m a - tʃ a ~	C V C V 0	122
+3065	Amawaka	animal horn	matʃã	matʃã	m a tʃ a ∼	None	122	m a - tʃ a ∼	C V C V C	122
 3060	Kapanawa	animal horn	mantʃán	mantʃán	m a n tʃ a n	None	122	m a n tʃ a n	C V C C V C	122
-3057	ProtoPanoan	animal horn	mãtʃa[n]	mãtʃa[n]	m a ~ tʃ a rⁿ	None	122	m a ~ tʃ a rⁿ	C V 0 C V C	122
-3059	ShipiboKonibo	animal horn	mãtʃã́	mãtʃã́	m a ~ tʃ a ~	None	122	m a ~ tʃ a ~	C V 0 C V 0	122
+3057	ProtoPanoan	animal horn	mãtʃa[n]	mãtʃa[n]	m a ∼ tʃ a rⁿ	None	122	m a ∼ tʃ a rⁿ	C V C C V C	122
+3059	ShipiboKonibo	animal horn	mãtʃã́	mãtʃã́	m a ∼ tʃ a ∼	None	122	m a ∼ tʃ a ∼	C V C C V C	122
 3066	Yawanawa	animal horn	matʃan	matʃan	m a tʃ a n	None	122	m a - tʃ a n	C V C V C	122
 3399	Amawaka	animal horn	máxo	máxo	m a x o	II	150	m a - x o	C V C V	150
 3391	Chakobo	animal horn	maʃoˈʃo	maʃoˈʃo	m a ʃ o	None	150	m a - ʃ o	C V C V	150
 3398	Kaxarari	animal horn	maʂaˈɦu	maʂaˈɦu	m a ʂ a	None	150	m a - ʂ a	C V C V	150
 3400	Kaxinawa	animal horn	maʂu	maʂu	m a ʂ u	None	150	m a - ʂ u	C V C V	150
 3401	Marinawa	animal horn	máʂo	máʂo	m a ʂ o	None	150	m a - ʂ o	C V C V	150
-3390	Marubo	animal horn	mãˈʃũ	mãˈʃũ	m a ~ ʃ u	None	150	m a ~ ʃ u	C V 0 C V	150
+3390	Marubo	animal horn	mãˈʃũ	mãˈʃũ	m a ∼ ʃ u	None	150	m a ∼ ʃ u	C V C C V	150
 3404	Mayoruna	animal horn	maˈʂukud	maˈʂukud	m a ʂ u	None	150	m a - ʂ u	C V C V	150
-3397	Poyanawa	animal horn	mãhũ	mãhũ	m a ~ h u	None	150	m a ~ h u	C V 0 C V	150
-3388	ProtoPanoan	animal horn	mãʂo	mãʂo	m a ~ ʂ o	None	150	m a ~ ʂ o	C V 0 C V	150
+3397	Poyanawa	animal horn	mãhũ	mãhũ	m a ∼ h u	None	150	m a ∼ h u	C V C C V	150
+3388	ProtoPanoan	animal horn	mãʂo	mãʂo	m a ∼ ʂ o	None	150	m a ∼ ʂ o	C V C C V	150
 3396	Shanenawa	animal horn	maʂu	maʂu	m a ʂ u	None	150	m a - ʂ u	C V C V	150
 3394	Sharanawa	animal horn	maʂo	maʂo	m a ʂ o	None	150	m a - ʂ o	C V C V	150
-3392	Yaminawa	animal horn	mãʂo	mãʂo	m a ~ ʂ o	None	150	m a ~ ʂ o	C V 0 C V	150
+3392	Yaminawa	animal horn	mãʂo	mãʂo	m a ∼ ʂ o	None	150	m a ∼ ʂ o	C V C C V	150
 3402	Yawanawa	animal horn	manʃun	manʃun	m a n ʃ u	None	150	m a n ʃ u	C V C C V	150
 4965	Amawaka	ankle	hopoxko	hopoxko	p o x k o	II	276	p o x k o	C V C C V	276
 4962	Chaninawa	ankle	opoʃko	opoʃko	p o ʃ k o	None	276	p o ʃ k o	C V C C V	276
@@ -133,21 +133,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5643	Sharanawa	anteater	ʂaɨ	ʂaɨ	ʂ a ɨ	None	328	ʂ a - ɨ	C V V	328
 5639	ShipiboKonibo	anteater	ʂaɨ	ʂaɨ	ʂ a ɨ	None	328	ʂ a - ɨ	C V V	328
 5651	Yawanawa	anteater	ʂaˈɨ	ʂaˈɨ	ʂ a ɨ	None	328	ʂ a - ɨ	C V V	328
-5011	Amawaka	arm	põyã_I	põyã_I	p o j a ~	None	279	p o j a ~	C V C V 0	279
+5011	Amawaka	arm	põyã_I	põyã_I	p o j a ∼	None	279	p o j a ∼	C V C V C	279
 5002	Chakobo	arm	poyámɨ	poyámɨ	p o j a m	None	279	p o j a m	C V C V C	279
 5005	Chaninawa	arm	póyan	póyan	p o j a n	None	279	p o j a n	C V C V C	279
 5000	Kapanawa	arm	poyán	poyán	p o j a n	None	279	p o j a n	C V C V C	279
 5008	Katukina	arm	puyan	puyan	p u j a n	None	279	p u j a n	C V C V C	279
-5012	Kaxinawa	arm	puyã	puyã	p u j a ~	None	279	p u j a ~	C V C V 0	279
-5013	Marinawa	arm	poyã	poyã	p o j a ~	None	279	p o j a ~	C V C V 0	279
-5001	Marubo	arm	puˈɐ̃	puˈɐ̃	p u ɐ ~	None	279	p u - ɐ ~	C V V 0	279
-5010	Poyanawa	arm	puyã	puyã	p u j a ~	None	279	p u j a ~	C V C V 0	279
+5012	Kaxinawa	arm	puyã	puyã	p u j a ∼	None	279	p u j a ∼	C V C V C	279
+5013	Marinawa	arm	poyã	poyã	p o j a ∼	None	279	p o j a ∼	C V C V C	279
+5001	Marubo	arm	puˈɐ̃	puˈɐ̃	p u ɐ ∼	None	279	p u - ɐ ∼	C V V C	279
+5010	Poyanawa	arm	puyã	puyã	p u j a ∼	None	279	p u j a ∼	C V C V C	279
 4997	ProtoPanoan	arm	poyam	poyam	p o j a m	None	279	p o j a m	C V C V C	279
 5006	Sharanawa	arm	poyan	poyan	p o j a n	None	279	p o j a n	C V C V C	279
-4999	ShipiboKonibo	arm	poyã_o_põyã	poyã_o_põyã	p o j a ~	None	279	p o j a ~	C V C V 0	279
+4999	ShipiboKonibo	arm	poyã_o_põyã	poyã_o_põyã	p o j a ∼	None	279	p o j a ∼	C V C V C	279
 5003	Yaminawa	arm	põya	põya	p o j a	None	279	p o j a -	C V C V	279
 5016	Yawanawa	arm	puia-uma	puia-uma	p u j a	None	279	p u j a -	C V C V	279
-2497	Marubo	arrow	kãti	kãti	k a ~	None	77	k a ~ -	C V 0	77
+2497	Marubo	arrow	kãti	kãti	k a ∼	None	77	k a ∼ -	C V C	77
 4737	Amawaka	arrow	piya_I	piya_I	p i j a	None	257	p i j a	C V C V	257
 4728	Chakobo	arrow	pia	pia	p i a	None	257	p i - a	C V V	257
 4732	Chaninawa	arrow	pia	pia	p i a	None	257	p i - a	C V V	257
@@ -335,32 +335,32 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1584	Mayoruna	bee wax	buˈid	buˈid	b u i d	None	4	b u i d	C V V C	4
 1572	ProtoPanoan	bee wax	βoi[Cc]	βoi[Cc]	β o i tʳ	None	4	β o i tʳ	C V V C	4
 1583	Yawanawa	bee wax	mui_ʃuma	mui_ʃuma	m u i	None	4	m u i -	C V V	4
-3747	Amawaka	below, under	nãmã	nãmã	n a m a ~	None	179	n a m a ~	C V C V 0	179
+3747	Amawaka	below, under	nãmã	nãmã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
 3741	Chakobo	below, under	nama	nama	n a m a	None	179	n a m a -	C V C V	179
-3735	Kakataibo	below, under	namã	namã	n a m a ~	None	179	n a m a ~	C V C V 0	179
+3735	Kakataibo	below, under	namã	namã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
 3738	Kapanawa	below, under	namán	namán	n a m a n	None	179	n a m a n	C V C V C	179
-3748	Kaxinawa	below, under	namã	namã	n a m a ~	None	179	n a m a ~	C V C V 0	179
-3749	Marinawa	below, under	nãmã	nãmã	n a m a ~	None	179	n a m a ~	C V C V 0	179
-3739	Marubo	below, under	-namã	-namã	n a m a ~	None	179	n a m a ~	C V C V 0	179
+3748	Kaxinawa	below, under	namã	namã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
+3749	Marinawa	below, under	nãmã	nãmã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
+3739	Marubo	below, under	-namã	-namã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
 3734	ProtoPanoan	below, under	nama	nama	n a m a	None	179	n a m a -	C V C V	179
 3746	Shanenawa	below, under	naman	naman	n a m a n	None	179	n a m a n	C V C V C	179
 3745	Sharanawa	below, under	naman	naman	n a m a n	None	179	n a m a n	C V C V C	179
-3737	ShipiboKonibo	below, under	namã	namã	n a m a ~	None	179	n a m a ~	C V C V 0	179
-3744	Yaminawa	below, under	namã	namã	n a m a ~	None	179	n a m a ~	C V C V 0	179
+3737	ShipiboKonibo	below, under	namã	namã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
+3744	Yaminawa	below, under	namã	namã	n a m a ∼	None	179	n a m a ∼	C V C V C	179
 3750	Yawanawa	below, under	nɨmɨri	nɨmɨri	n ɨ m ɨ	None	179	n ɨ m ɨ -	C V C V	179
-6020	Amawaka	benefactive	xõ	xõ	x o ~	None	357	x o ~	C V 0	357
-6010	Kakataibo	benefactive	-ʂõ	-ʂõ	ʂ o ~	None	357	ʂ o ~	C V 0	357
+6020	Amawaka	benefactive	xõ	xõ	x o ∼	None	357	x o ∼	C V C	357
+6010	Kakataibo	benefactive	-ʂõ	-ʂõ	ʂ o ∼	None	357	ʂ o ∼	C V C	357
 6012	Kapanawa	benefactive	-ʂon	-ʂon	ʂ o n	None	357	ʂ o n	C V C	357
-6018	Katukina	benefactive	-ʂũ	-ʂũ	ʂ u ~	None	357	ʂ u ~	C V 0	357
+6018	Katukina	benefactive	-ʂũ	-ʂũ	ʂ u ∼	None	357	ʂ u ∼	C V C	357
 6021	Kaxinawa	benefactive	-ʂu	-ʂu	ʂ u	None	357	ʂ u -	C V	357
 6024	Korubo	benefactive	-ʃun	-ʃun	ʃ u n	None	357	ʃ u n	C V C	357
-6022	Marinawa	benefactive	-ʂõ	-ʂõ	ʂ o ~	None	357	ʂ o ~	C V 0	357
+6022	Marinawa	benefactive	-ʂõ	-ʂõ	ʂ o ∼	None	357	ʂ o ∼	C V C	357
 6013	Marubo	benefactive	ʂo	ʂo	ʂ o	None	357	ʂ o -	C V	357
 6025	Matis	benefactive	-ʂun	-ʂun	ʂ u n	None	357	ʂ u n	C V C	357
 6009	ProtoPanoan	benefactive	-ʂo[n]	-ʂo[n]	ʂ o rⁿ	None	357	ʂ o rⁿ	C V C	357
 6016	Shanenawa	benefactive	-ʂun	-ʂun	ʂ u n	None	357	ʂ u n	C V C	357
 6015	Sharanawa	benefactive	-ʂon-	-ʂon-	ʂ o n	None	357	ʂ o n	C V C	357
-6011	ShipiboKonibo	benefactive	-ʂõ	-ʂõ	ʂ o ~	None	357	ʂ o ~	C V 0	357
+6011	ShipiboKonibo	benefactive	-ʂõ	-ʂõ	ʂ o ∼	None	357	ʂ o ∼	C V C	357
 6014	Yaminawa	benefactive	ʂon	ʂon	ʂ o n	None	357	ʂ o n	C V C	357
 6023	Yawanawa	benefactive	-ʃun	-ʃun	ʃ u n	None	357	ʃ u n	C V C	357
 55	Chakobo	big	ʔani_hɨnɨ	ʔani_hɨnɨ	ʔ a n i	None	336	ʔ a n i	C V C V	336
@@ -391,7 +391,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 204	Yawanawa	big	iua-pa	iua-pa	i w a	None	24	- i w a	V C V	24
 6706	Amawaka	big	waka	waka	w a k a	II	412	w a k a	C V C V	412
 4118	Korubo	big	nua	nua	n u a	None	209	n u a	C V V	209
-6656	Kakataibo	black	tonã́	tonã́	t o n a ~	None	408	t o n a ~	C V C V 0	408
+6656	Kakataibo	black	tonã́	tonã́	t o n a ∼	None	408	t o n a ∼	C V C V C	408
 6935	Chakobo	black	wiso	wiso	w i s o	None	435	w i s o	C V C V	435
 6937	Chaninawa	black	ɸiso	ɸiso	ɸ i s o	None	435	ɸ i s o	C V C V	435
 6934	Kapanawa	black	wiso	wiso	w i s o	None	435	w i s o	C V C V	435
@@ -430,7 +430,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2084	Marubo	blood	ˈĩmbi	ˈĩmbi	i m.b i	None	47	- i m.b i	V C V	47
 2099	Matis	blood	imi	imi	i m i	None	47	- i m i	V C V	47
 2100	Mayoruna	blood	imi	imi	i m i	None	47	- i m i	V C V	47
-2093	Poyanawa	blood	ĩbi	ĩbi	i ~.b i	None	47	- i ~.b i	V 0 V	47
+2093	Poyanawa	blood	ĩbi	ĩbi	i ∼.b i	None	47	- i ∼.b i	V C V	47
 2080	ProtoPanoan	blood	himi	himi	h i m i	None	47	h i m i	C V C V	47
 2091	Shanenawa	blood	imi	imi	i m i	None	47	- i m i	V C V	47
 2089	Sharanawa	blood	imi	imi	i m i	None	47	- i m i	V C V	47
@@ -472,10 +472,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5723	ShipiboKonibo	bone	ʂao	ʂao	ʂ a o	None	334	ʂ a o	C V V	334
 5728	Yaminawa	bone	ʂao	ʂao	ʂ a o	None	334	ʂ a o	C V V	334
 5740	Yawanawa	bone	ʃau	ʃau	ʃ a u	None	334	ʃ a u	C V V	334
-2506	Amawaka	bow	piyakãti	piyakãti	k a ~	II	77	k a ~ -	C V 0	77
+2506	Amawaka	bow	piyakãti	piyakãti	k a ∼	II	77	k a ∼ -	C V C	77
 2498	Chakobo	bow	kanatí	kanatí	k a n a	None	77	k a n a	C V C V	77
 2501	Chaninawa	bow	kati	kati	k a	None	77	k a - -	C V	77
-2495	Kakataibo	bow	kãti	kãti	k a ~	None	77	k a ~ -	C V 0	77
+2495	Kakataibo	bow	kãti	kãti	k a ∼	None	77	k a ∼ -	C V C	77
 2505	Katukina	bow	kanti	kanti	k a n	None	77	k a n -	C V C	77
 2499	Kaxarari	bow	kɐnataˈɦi	kɐnataˈɦi	k ɐ n a	None	77	k ɐ n a	C V C V	77
 2507	Kaxinawa	bow	kanũ	kanũ	k a n u	None	77	k a n u	C V C V	77
@@ -490,14 +490,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4727	Kapanawa	bow	piʔa	piʔa	p i ʔ a	(posiblemente de *pia <<flecha>> + *ʔa- <<hacer>>, juego 1	257	p i ʔ a	C V C V	257
 4741	Korubo	bow	pia	pia	p i a	None	257	p i - a	C V V	257
 4742	Matis	bow	pia	pia	p i a	None	257	p i - a	C V V	257
-2667	Amawaka	bowl, plate	kɨt̃_ʃa_I	kɨt̃_ʃa_I	k ɨ ~ tʃ a	None	87	k ɨ ~ tʃ a -	C V 0 C V	87
-2662	Kakataibo	bowl, plate	kɨ̃tʃá	kɨ̃tʃá	k ɨ ~ tʃ a	None	87	k ɨ ~ tʃ a -	C V 0 C V	87
+2667	Amawaka	bowl, plate	kɨt̃_ʃa_I	kɨt̃_ʃa_I	k ɨ ∼ tʃ a	None	87	k ɨ ∼ tʃ a -	C V C C V	87
+2662	Kakataibo	bowl, plate	kɨ̃tʃá	kɨ̃tʃá	k ɨ ∼ tʃ a	None	87	k ɨ ∼ tʃ a -	C V C C V	87
 2664	Kapanawa	bowl, plate	kɨntʃá	kɨntʃá	k ɨ n tʃ a	None	87	k ɨ n tʃ a -	C V C C V	87
-2668	Kaxinawa	bowl, plate	kɨ̃tʃa	kɨ̃tʃa	k ɨ ~ tʃ a	None	87	k ɨ ~ tʃ a -	C V 0 C V	87
-2669	Marinawa	bowl, plate	kɨ́tʃã	kɨ́tʃã	k ɨ tʃ a ~	None	87	k ɨ - tʃ a ~	C V C V 0	87
-2661	ProtoPanoan	bowl, plate	kɨt̃_ʃa[C]	kɨt̃_ʃa[C]	k ɨ ~ tʃ a n	None	87	k ɨ ~ tʃ a n	C V 0 C V C	87
+2668	Kaxinawa	bowl, plate	kɨ̃tʃa	kɨ̃tʃa	k ɨ ∼ tʃ a	None	87	k ɨ ∼ tʃ a -	C V C C V	87
+2669	Marinawa	bowl, plate	kɨ́tʃã	kɨ́tʃã	k ɨ tʃ a ∼	None	87	k ɨ - tʃ a ∼	C V C V C	87
+2661	ProtoPanoan	bowl, plate	kɨt̃_ʃa[C]	kɨt̃_ʃa[C]	k ɨ ∼ tʃ a n	None	87	k ɨ ∼ tʃ a n	C V C C V C	87
 2665	Sharanawa	bowl, plate	kɨtʃan	kɨtʃan	k ɨ tʃ a n	None	87	k ɨ - tʃ a n	C V C V C	87
-2663	ShipiboKonibo	bowl, plate	kɨ̃tʃá	kɨ̃tʃá	k ɨ ~ tʃ a	None	87	k ɨ ~ tʃ a -	C V 0 C V	87
+2663	ShipiboKonibo	bowl, plate	kɨ̃tʃá	kɨ̃tʃá	k ɨ ∼ tʃ a	None	87	k ɨ ∼ tʃ a -	C V C C V	87
 4635	Amawaka	branch of tree	paxko	paxko	p a x k o	II	250	p a x k o	C V C C V	250
 4632	Kakataibo	branch of tree	paʂko	paʂko	p a ʂ k o	None	250	p a ʂ k o	C V C C V	250
 4636	Kaxinawa	branch of tree	paʂku	paʂku	p a ʂ k u	None	250	p a ʂ k u	C V C C V	250
@@ -532,7 +532,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6181	Marinawa	breasts, milk	ʂómá	ʂómá	ʂ o m a	None	369	ʂ o m a	C V C V	369
 6184	Matis	breasts, milk	ʂuma	ʂuma	ʂ u m a	None	369	ʂ u m a	C V C V	369
 6185	Mayoruna	breasts, milk	ʂuma	ʂuma	ʂ u m a	None	369	ʂ u m a	C V C V	369
-6178	Poyanawa	breasts, milk	hũba	hũba	h u ~.b a	None	369	h u ~.b a	C V 0 V	369
+6178	Poyanawa	breasts, milk	hũba	hũba	h u ∼.b a	None	369	h u ∼.b a	C V C V	369
 6166	ProtoPanoan	breasts, milk	ʂoma	ʂoma	ʂ o m a	None	369	ʂ o m a	C V C V	369
 6176	Shanenawa	breasts, milk	ʂuma	ʂuma	ʂ u m a	None	369	ʂ u m a	C V C V	369
 6174	Sharanawa	breasts, milk	ʂoma	ʂoma	ʂ o m a	None	369	ʂ o m a	C V C V	369
@@ -545,10 +545,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 321	ProtoPanoan	breeding, domestic animal	ʔinak	ʔinak	ʔ i n a k	None	103	ʔ i n a k	C V C V C	103
 326	Sharanawa	breeding, domestic animal	ina	ina	i n a	None	103	- i n a -	V C V	103
 322	ShipiboKonibo	breeding, domestic animal	ʔiná	ʔiná	ʔ i n a	None	103	ʔ i n a -	C V C V	103
-2432	Kakataibo	breeding, domestic animal	kamõ	kamõ	k a m o ~	(sendo substituído pelo empréstimo SK, ʔotʃíti, que por sua vez é um empréstimo Kampa otʃiti, SHELL, [1965]	73	k a m o ~	C V C V 0	73
-2447	Kaxinawa	breeding, domestic animal	kamã	kamã	k a m a ~	None	73	k a m a ~	C V C V 0	73
-2448	Marinawa	breeding, domestic animal	kámã	kámã	k a m a ~	None	73	k a m a ~	C V C V 0	73
-2435	Marubo	breeding, domestic animal	kaˈmã	kaˈmã	k a m a ~	None	73	k a m a ~	C V C V 0	73
+2432	Kakataibo	breeding, domestic animal	kamõ	kamõ	k a m o ∼	(sendo substituído pelo empréstimo SK, ʔotʃíti, que por sua vez é um empréstimo Kampa otʃiti, SHELL, [1965]	73	k a m o ∼	C V C V C	73
+2447	Kaxinawa	breeding, domestic animal	kamã	kamã	k a m a ∼	None	73	k a m a ∼	C V C V C	73
+2448	Marinawa	breeding, domestic animal	kámã	kámã	k a m a ∼	None	73	k a m a ∼	C V C V C	73
+2435	Marubo	breeding, domestic animal	kaˈmã	kaˈmã	k a m a ∼	None	73	k a m a ∼	C V C V C	73
 4011	Amawaka	breeze	niwiI	niwiI	n i w i	None	199	n i w i -	C V C V	199
 4005	Chakobo	breeze	niˈbi	niˈbi	n i b i	None	199	n i b i -	C V C V	199
 4002	Kakataibo	breeze	niβí	niβí	n i β i	None	199	n i β i -	C V C V	199
@@ -576,16 +576,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6404	Yawanawa	bridge, platform	tapu	tapu	t a p u	None	385	t a p u	C V C V	385
 44	Amawaka	cabybara	ʔamɨn	ʔamɨn	ʔ a m ɨ n	None	226	ʔ a m ɨ n	C V C V C	226
 39	Chakobo	cabybara	amɨno	amɨno	a m ɨ n	None	226	- a m ɨ n	V C V C	226
-35	Kakataibo	cabybara	ʔaˈmɨ̃	ʔaˈmɨ̃	ʔ a m ɨ ~	None	226	ʔ a m ɨ ~	C V C V 0	226
+35	Kakataibo	cabybara	ʔaˈmɨ̃	ʔaˈmɨ̃	ʔ a m ɨ ∼	None	226	ʔ a m ɨ ∼	C V C V C	226
 37	Kapanawa	cabybara	ʔaˈmɨn	ʔaˈmɨn	ʔ a m ɨ n	None	226	ʔ a m ɨ n	C V C V C	226
 43	Katukina	cabybara	amɨn	amɨn	a m ɨ n	None	226	- a m ɨ n	V C V C	226
-45	Kaxinawa	cabybara	amɨ̃	amɨ̃	a m ɨ ~	None	226	- a m ɨ ~	V C V 0	226
-46	Marinawa	cabybara	ˈamɨ̃	ˈamɨ̃	ʔ a m ɨ ~	None	226	ʔ a m ɨ ~	C V C V 0	226
+45	Kaxinawa	cabybara	amɨ̃	amɨ̃	a m ɨ ∼	None	226	- a m ɨ ∼	V C V C	226
+46	Marinawa	cabybara	ˈamɨ̃	ˈamɨ̃	ʔ a m ɨ ∼	None	226	ʔ a m ɨ ∼	C V C V C	226
 38	Marubo	cabybara	amɨ	amɨ	a m ɨ	MNTB- LOOS, s.d.	226	- a m ɨ -	V C V	226
 34	ProtoPanoan	cabybara	ʔamɨ[n]	ʔamɨ[n]	ʔ a m ɨ rⁿ	None	226	ʔ a m ɨ rⁿ	C V C V C	226
 42	Shanenawa	cabybara	aman	aman	a m a n	None	226	- a m a n	V C V C	226
 41	Sharanawa	cabybara	amɨn	amɨn	a m ɨ n	None	226	- a m ɨ n	V C V C	226
-36	ShipiboKonibo	cabybara	ʔaˈmɨ̃	ʔaˈmɨ̃	ʔ a m ɨ ~	None	226	ʔ a m ɨ ~	C V C V 0	226
+36	ShipiboKonibo	cabybara	ʔaˈmɨ̃	ʔaˈmɨ̃	ʔ a m ɨ ∼	None	226	ʔ a m ɨ ∼	C V C V C	226
 48	Yawanawa	cabybara	aman	aman	a m a n	None	226	- a m a n	V C V C	226
 50	Kakataibo	cabybara	ʔani	ʔani	ʔ a n i	None	336	ʔ a n i	C V C V	336
 2545	Amawaka	caiman	kapɨɨ_I	kapɨɨ_I	k a p ɨ	None	80	k a p ɨ -	C V C V	80
@@ -612,23 +612,23 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6925	ShipiboKonibo	calf	wipoko	wipoko	w i p o k o	None	434	w i p o k o	C V C V C V	434
 4200	Amawaka	canoe	nónti	nónti	n o n	None	217	n o n -	C V C	217
 4190	Kakataibo	canoe	nun-ti	nun-ti	n u n	None	217	n u n -	C V C	217
-4236	Amawaka	canoe	nõti_I	nõti_I	n o ~ t i	None	220	n o ~ t i	C V 0 C V	220
+4236	Amawaka	canoe	nõti_I	nõti_I	n o ∼ t i	None	220	n o ∼ t i	C V C C V	220
 4234	Chakobo	canoe	notí	notí	n o t i	None	220	n o - t i	C V C V	220
-4231	Kakataibo	canoe	nõti	nõti	n o ~ t i	None	220	n o ~ t i	C V 0 C V	220
+4231	Kakataibo	canoe	nõti	nõti	n o ∼ t i	None	220	n o ∼ t i	C V C C V	220
 4233	Kapanawa	canoe	nonti	nonti	n o n t i	None	220	n o n t i	C V C C V	220
 4235	Katukina	canoe	nunti	nunti	n u n t i	None	220	n u n t i	C V C C V	220
 4238	Korubo	canoe	nunte	nunte	n u n t e	None	220	n u n t e	C V C C V	220
 4237	Marinawa	canoe	noti	noti	n o t i	None	220	n o - t i	C V C V	220
 4239	Matis	canoe	nunte	nunte	n u n t e	None	220	n u n t e	C V C C V	220
 4240	Mayoruna	canoe	nunte	nunte	n u n t e	None	220	n u n t e	C V C C V	220
-4230	ProtoPanoan	canoe	[n]õti	[n]õti	rⁿ o ~ t i	None	220	rⁿ o ~ t i	C V 0 C V	220
-4232	ShipiboKonibo	canoe	nõti	nõti	n o ~ t i	None	220	n o ~ t i	C V 0 C V	220
+4230	ProtoPanoan	canoe	[n]õti	[n]õti	rⁿ o ∼ t i	None	220	rⁿ o ∼ t i	C V C C V	220
+4232	ShipiboKonibo	canoe	nõti	nõti	n o ∼ t i	None	220	n o ∼ t i	C V C C V	220
 5761	Chaninawa	canoe	ʃaʃo	ʃaʃo	ʃ a ʃ o	None	338	ʃ a ʃ o	C V C V	338
 5768	Marinawa	canoe	ʂaʂo	ʂaʂo	ʂ a ʂ o	None	338	ʂ a ʂ o	C V C V	338
 5764	Shanenawa	canoe	ʂaʂu	ʂaʂu	ʂ a ʂ u	None	338	ʂ a ʂ u	C V C V	338
 5769	Yawanawa	canoe	ʂaʂu	ʂaʂu	ʂ a ʂ u	None	338	ʂ a ʂ u	C V C V	338
-2967	Amawaka	cedrela odorata	kõxã_I	kõxã_I	k o x ~ a	None	113	k o x ~ a	C V C 0 V	113
-2959	Kakataibo	cedrela odorata	kõʂã́	kõʂã́	k o ʂ ~ a	None	113	k o ʂ ~ a	C V C 0 V	113
+2967	Amawaka	cedrela odorata	kõxã_I	kõxã_I	k o x ∼ a	None	113	k o x ∼ a	C V C C V	113
+2959	Kakataibo	cedrela odorata	kõʂã́	kõʂã́	k o ʂ ∼ a	None	113	k o ʂ ∼ a	C V C C V	113
 2961	Kapanawa	cedrela odorata	koʂán	koʂán	k o ʂ a	None	113	k o ʂ - a	C V C V	113
 2962	Kaxarari	cedrela odorata	ʃakwaˈʂa	ʃakwaˈʂa	kʷ a ʂ a	None	113	kʷ a ʂ - a	C V C V	113
 2968	Kaxinawa	cedrela odorata	kuʂa	kuʂa	k u ʂ a	None	113	k u ʂ - a	C V C V	113
@@ -636,7 +636,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2958	ProtoPanoan	cedrela odorata	[k]oʂna	[k]oʂna	k o ʂ n a	None	113	k o ʂ n a	C V C C V	113
 2966	Shanenawa	cedrela odorata	kuˈʂa	kuˈʂa	k u ʂ a	None	113	k u ʂ - a	C V C V	113
 2964	Sharanawa	cedrela odorata	koʂa	koʂa	k o ʂ a	None	113	k o ʂ - a	C V C V	113
-2960	ShipiboKonibo	cedrela odorata	kõʂã́	kõʂã́	k o ʂ ~ a	None	113	k o ʂ ~ a	C V C 0 V	113
+2960	ShipiboKonibo	cedrela odorata	kõʂã́	kõʂã́	k o ʂ ∼ a	None	113	k o ʂ ∼ a	C V C C V	113
 2963	Yaminawa	cedrela odorata	koʂa	koʂa	k o ʂ a	None	113	k o ʂ - a	C V C V	113
 4023	Amawaka	centipede, scorpion	niwo	niwo	n i w o	II	200	n i w o	C V C V	200
 4020	Chakobo	centipede, scorpion	niβo	niβo	n i β o	None	200	n i β o	C V C V	200
@@ -657,7 +657,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6356	Marinawa	cheek	tamo	tamo	t a m o	None	382	t a m o	C V C V	382
 6345	Marubo	cheek	tɐm̃_bo	tɐm̃_bo	t ɐ m.b o	None	382	t ɐ m.b o	C V C V	382
 6357	Mayoruna	cheek	tamˈbu	tamˈbu	t a m.b u	(provavelmente tam <<mejilla>> + bu <<pêlo>>	382	t a m.b u	C V C V	382
-6353	Poyanawa	cheek	tãbu	tãbu	t a ~.b u	None	382	t a ~.b u	C V 0 V	382
+6353	Poyanawa	cheek	tãbu	tãbu	t a ∼.b u	None	382	t a ∼.b u	C V C V	382
 6341	ProtoPanoan	cheek	tamβo	tamβo	t a m.β o	None	382	t a m.β o	C V C V	382
 6350	Sharanawa	cheek	tamo	tamo	t a m o	None	382	t a m o	C V C V	382
 6343	ShipiboKonibo	cheek	tamo	tamo	t a m o	None	382	t a m o	C V C V	382
@@ -876,7 +876,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6798	Chakobo	cotton	waʂmɨ́́nɨ	waʂmɨ́́nɨ	w a ʂ m ɨ n	None	421	w a ʂ m ɨ n	C V C C V C	421
 6795	Kapanawa	cotton	waʂmɨ́́n	waʂmɨ́́n	w a ʂ m ɨ n	None	421	w a ʂ m ɨ n	C V C C V C	421
 6800	Katukina	cotton	waʃiman	waʃiman	w a ʃ m a n	None	421	w a ʃ m a n	C V C C V C	421
-6796	Marubo	cotton	waʂmɨ̃	waʂmɨ̃	w a ʂ m ɨ ~	None	421	w a ʂ m ɨ ~	C V C C V 0	421
+6796	Marubo	cotton	waʂmɨ̃	waʂmɨ̃	w a ʂ m ɨ ∼	None	421	w a ʂ m ɨ ∼	C V C C V C	421
 6793	ProtoPanoan	cotton	waʂmɨ[n]	waʂmɨ[n]	w a ʂ m ɨ rⁿ	None	421	w a ʂ m ɨ rⁿ	C V C C V C	421
 6794	ShipiboKonibo	cotton	waʂmɨ	waʂmɨ	w a ʂ m ɨ	None	421	w a ʂ m ɨ -	C V C C V	421
 2979	Amawaka	cujubim	koxo_I	koxo_I	k o x o	None	116	k o x o	C V C V	116
@@ -894,20 +894,20 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2976	Sharanawa	cujubim	koʂo	koʂo	k o ʂ o	None	116	k o ʂ o	C V C V	116
 2972	ShipiboKonibo	cujubim	koʂo	koʂo	k o ʂ o	None	116	k o ʂ o	C V C V	116
 2982	Yawanawa	cujubim	kuʃu	kuʃu	k u ʃ u	None	116	k u ʃ u	C V C V	116
-819	Amawaka	curassow	hãsĩ_I	hãsĩ_I	h a ~ s i ~	None	437	h a ~ s i ~	C V 0 C V 0	437
+819	Amawaka	curassow	hãsĩ_I	hãsĩ_I	h a ∼ s i ∼	None	437	h a ∼ s i ∼	C V C C V C	437
 810	Chakobo	curassow	hasíni	hasíni	h a s i n	None	437	h a - s i n	C V C V C	437
-806	Kakataibo	curassow	asĩ_o_ãsĩ	asĩ_o_ãsĩ	a s i ~	None	437	- a - s i ~	V C V 0	437
+806	Kakataibo	curassow	asĩ_o_ãsĩ	asĩ_o_ãsĩ	a s i ∼	None	437	- a - s i ∼	V C V C	437
 808	Kapanawa	curassow	hasín	hasín	h a s i n	None	437	h a - s i n	C V C V C	437
 817	Katukina	curassow	ansin	ansin	a n s i n	None	437	- a n s i n	V C C V C	437
-821	Kaxinawa	curassow	hasĩ	hasĩ	h a s i ~	None	437	h a - s i ~	C V C V 0	437
-822	Marinawa	curassow	ásĩ	ásĩ	a s i ~	None	437	- a - s i ~	V C V 0	437
-809	Marubo	curassow	ãsĩ̊	ãsĩ̊	a ~ s i ~	None	437	- a ~ s i ~	V 0 C V 0	437
-818	Poyanawa	curassow	ãsĩ	ãsĩ	a ~ s i ~	None	437	- a ~ s i ~	V 0 C V 0	437
-805	ProtoPanoan	curassow	hãsi[n]	hãsi[n]	h a ~ s i rⁿ	None	437	h a ~ s i rⁿ	C V 0 C V C	437
+821	Kaxinawa	curassow	hasĩ	hasĩ	h a s i ∼	None	437	h a - s i ∼	C V C V C	437
+822	Marinawa	curassow	ásĩ	ásĩ	a s i ∼	None	437	- a - s i ∼	V C V C	437
+809	Marubo	curassow	ãsĩ̊	ãsĩ̊	a ∼ s i ∼	None	437	- a ∼ s i ∼	V C C V C	437
+818	Poyanawa	curassow	ãsĩ	ãsĩ	a ∼ s i ∼	None	437	- a ∼ s i ∼	V C C V C	437
+805	ProtoPanoan	curassow	hãsi[n]	hãsi[n]	h a ∼ s i rⁿ	None	437	h a ∼ s i rⁿ	C V C C V C	437
 816	Shanenawa	curassow	aʂin	aʂin	a ʂ i n	None	437	- a - ʂ i n	V C V C	437
 814	Sharanawa	curassow	asin	asin	a s i n	None	437	- a - s i n	V C V C	437
-807	ShipiboKonibo	curassow	hasĩ	hasĩ	h a s i ~	None	437	h a - s i ~	C V C V 0	437
-813	Yaminawa	curassow	ãsi	ãsi	a ~ s i	None	437	- a ~ s i -	V 0 C V	437
+807	ShipiboKonibo	curassow	hasĩ	hasĩ	h a s i ∼	None	437	h a - s i ∼	C V C V C	437
+813	Yaminawa	curassow	ãsi	ãsi	a ∼ s i	None	437	- a ∼ s i -	V C C V	437
 79	Amawaka	cutia (species of rodent)	ʔanó	ʔanó	ʔ a n o	None	448	ʔ a n o	C V C V	448
 71	Chakobo	cutia (species of rodent)	ʔano	ʔano	ʔ a n o	None	448	ʔ a n o	C V C V	448
 68	Kakataibo	cutia (species of rodent)	ʔano	ʔano	ʔ a n o	None	448	ʔ a n o	C V C V	448
@@ -939,11 +939,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3301	ShipiboKonibo	cutia (species of rodent)	mari	mari	m a r i	None	142	m a r i	C V C V	142
 3305	Yaminawa	cutia (species of rodent)	mari	mari	m a r i	None	142	m a r i	C V C V	142
 3315	Yawanawa	cutia (species of rodent)	maɾi	maɾi	m a ɾ i	None	142	m a ɾ i	C V C V	142
-6662	Kaxinawa	dark blue	tunã	tunã	t u n a ~	None	408	t u n a ~	C V C V 0	408
-6663	Marinawa	dark blue	tóñã	tóñã	t o ɲ a ~	None	408	t o ɲ a ~	C V C V 0	408
+6662	Kaxinawa	dark blue	tunã	tunã	t u n a ∼	None	408	t u n a ∼	C V C V C	408
+6663	Marinawa	dark blue	tóñã	tóñã	t o ɲ a ∼	None	408	t o ɲ a ∼	C V C V C	408
 6655	ProtoPanoan	dark blue	to[n]a[n]	to[n]a[n]	t o rⁿ a rⁿ	None	408	t o rⁿ a rⁿ	C V C V C	408
 6659	Sharanawa	dark blue	tonan	tonan	t o n a n	None	408	t o n a n	C V C V C	408
-6657	ShipiboKonibo	dark blue	tonã́	tonã́	t o n a ~	None	408	t o n a ~	C V C V 0	408
+6657	ShipiboKonibo	dark blue	tonã́	tonã́	t o n a ∼	None	408	t o n a ∼	C V C V C	408
 6658	Yaminawa	dark blue	nana	nana	n a n	None	408	- - n a n	C V C	408
 7039	Amawaka	dark, night	yamɨɨ	yamɨɨ	j a m ɨ	II	442	j a m ɨ -	C V C V	442
 7033	Chaninawa	dark, night	yabɨ	yabɨ	j a b ɨ	None	442	j a b ɨ -	C V C V	442
@@ -1005,20 +1005,20 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3724	Sharanawa	dream	namai	namai	n a m a	None	178	n a m a	C V C V	178
 3720	ShipiboKonibo	dream	nama-	nama-	n a m a	None	178	n a m a	C V C V	178
 3731	Yawanawa	dream	nama	nama	n a m a	None	178	n a m a	C V C V	178
-4226	Amawaka	duck	nõnõ_I	nõnõ_I	n o n o ~	None	219	n o n o ~	C V C V 0	219
+4226	Amawaka	duck	nõnõ_I	nõnõ_I	n o n o ∼	None	219	n o n o ∼	C V C V C	219
 4216	Chakobo	duck	noˈnoma	noˈnoma	n o n o m	None	219	n o n o m	C V C V C	219
 4220	Chaninawa	duck	nono	nono	n o n o	None	219	n o n o -	C V C V	219
-4213	Kakataibo	duck	nonṍ	nonṍ	n o n o ~	None	219	n o n o ~	C V C V 0	219
+4213	Kakataibo	duck	nonṍ	nonṍ	n o n o ∼	None	219	n o n o ∼	C V C V C	219
 4215	Kapanawa	duck	nonón	nonón	n o n o n	None	219	n o n o n	C V C V C	219
 4224	Katukina	duck	nunun	nunun	n u n u n	None	219	n u n u n	C V C V C	219
 4219	Kaxarari	duck	luluˈma	luluˈma	l u l u m	None	219	l u l u m	C V C V C	219
 4227	Kaxinawa	duck	nunu	nunu	n u n u	None	219	n u n u -	C V C V	219
-4228	Marinawa	duck	nṍnṍ	nṍnṍ	n o n o ~	None	219	n o n o ~	C V C V 0	219
-4225	Poyanawa	duck	nũnũ	nũnũ	n u n u ~	None	219	n u n u ~	C V C V 0	219
+4228	Marinawa	duck	nṍnṍ	nṍnṍ	n o n o ∼	None	219	n o n o ∼	C V C V C	219
+4225	Poyanawa	duck	nũnũ	nũnũ	n u n u ∼	None	219	n u n u ∼	C V C V C	219
 4212	ProtoPanoan	duck	rorom	rorom	r o r o m	None	219	r o r o m	C V C V C	219
 4223	Shanenawa	duck	nunun	nunun	n u n u n	None	219	n u n u n	C V C V C	219
 4221	Sharanawa	duck	nonon	nonon	n o n o n	None	219	n o n o n	C V C V C	219
-4214	ShipiboKonibo	duck	nonṍ	nonṍ	n o n o ~	None	219	n o n o ~	C V C V 0	219
+4214	ShipiboKonibo	duck	nonṍ	nonṍ	n o n o ∼	None	219	n o n o ∼	C V C V C	219
 4229	Yawanawa	duck	nunun	nunun	n u n u n	None	219	n u n u n	C V C V C	219
 4993	Amawaka	dust	poto	poto	p o t o	II	278	p o t o	C V C V	278
 4984	Kakataibo	dust	putu	putu	p u t u	None	278	p u t u	C V C V	278
@@ -1055,7 +1055,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3072	ShipiboKonibo	earth	mai	mai	m a i	None	123	m a i	C V V	123
 3077	Yaminawa	earth	mai	mai	m a i	None	123	m a i	C V V	123
 3087	Yawanawa	earth	mai	mai	m a i	None	123	m a i	C V V	123
-3179	Marubo	earth	manã	manã	m a n a ~	None	132	m a n a ~	C V C V 0	132
+3179	Marubo	earth	manã	manã	m a n a ∼	None	132	m a n a ∼	C V C V C	132
 4145	Amawaka	earthworm	nõʔi_I	nõʔi_I	n o ʔ i	None	211	n o ʔ i -	C V C V	211
 4135	Chakobo	earthworm	noˈʔini	noˈʔini	n o ʔ i n	None	211	n o ʔ i n	C V C V C	211
 4130	Kakataibo	earthworm	noi	noi	n o i	None	211	n o - i -	C V V	211
@@ -1064,7 +1064,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4137	Kaxarari	earthworm	njuˈ'i	njuˈ'i	n.j u i	None	211	n.j u - i -	C V V	211
 4146	Kaxinawa	earthworm	nui	nui	n u i	None	211	n u - i -	C V V	211
 4147	Marinawa	earthworm	noi	noi	n o i	None	211	n o - i -	C V V	211
-4134	Marubo	earthworm	nuˈĩ	nuˈĩ	n u i ~	None	211	n u - i ~	C V V 0	211
+4134	Marubo	earthworm	nuˈĩ	nuˈĩ	n u i ∼	None	211	n u - i ∼	C V V C	211
 4148	Matis	earthworm	nowen	nowen	n o w e n	None	211	n o w e n	C V C V C	211
 4149	Mayoruna	earthworm	nwén	nwén	n u e n	None	211	n u - e n	C V V C	211
 4144	Poyanawa	earthworm	nũy	nũy	n u i	None	211	n u - i -	C V V	211
@@ -1185,7 +1185,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5931	Korubo	fat, oil	ʃɨni	ʃɨni	ʃ ɨ n i	None	351	ʃ ɨ n i	C V C V	351
 5929	Marinawa	fat, oil	ʂɨni	ʂɨni	ʂ ɨ n i	None	351	ʂ ɨ n i	C V C V	351
 5916	Marubo	fat, oil	ʃɨni	ʃɨni	ʃ ɨ n i	None	351	ʃ ɨ n i	C V C V	351
-5926	Poyanawa	fat, oil	hãdi	hãdi	h a ~.d i	None	351	h a ~.d i	C V 0 V	351
+5926	Poyanawa	fat, oil	hãdi	hãdi	h a ∼.d i	None	351	h a ∼.d i	C V C V	351
 5912	ProtoPanoan	fat, oil	ʂɨ[n]i	ʂɨ[n]i	ʂ ɨ rⁿ i	None	351	ʂ ɨ rⁿ i	C V C V	351
 5924	Shanenawa	fat, oil	ʂɨni	ʂɨni	ʂ ɨ n i	None	351	ʂ ɨ n i	C V C V	351
 5914	ShipiboKonibo	fat, oil	ʂɨni	ʂɨni	ʂ ɨ n i	None	351	ʂ ɨ n i	C V C V	351
@@ -1232,11 +1232,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3500	Chaninawa	fingernail	bitsis	bitsis	b i ts i s	None	158	b i - ts i s	C V C V C	158
 3487	Kakataibo	fingernail	untsis	untsis	u n ts i s	None	158	- u n ts i s	V C C V C	158
 3492	Kapanawa	fingernail	mɨntsís	mɨntsís	m ɨ n ts i s	None	158	m ɨ n ts i s	C V C C V C	158
-3505	Katukina	fingernail	məˈ̃tʃiʃi	məˈ̃tʃiʃi	m ə ~ tʃ i ʃ	None	158	m ə ~ tʃ i ʃ	C V 0 C V C	158
+3505	Katukina	fingernail	məˈ̃tʃiʃi	məˈ̃tʃiʃi	m ə ∼ tʃ i ʃ	None	158	m ə ∼ tʃ i ʃ	C V C C V C	158
 3497	Kaxarari	fingernail	mɨtʃiˈsi	mɨtʃiˈsi	m ɨ tʃ i s	None	158	m ɨ - tʃ i s	C V C V C	158
 3509	Kaxinawa	fingernail	mɨtsís	mɨtsís	m ɨ ts i s	None	158	m ɨ - ts i s	C V C V C	158
 3510	Marinawa	fingernail	mɨtsisi	mɨtsisi	m ɨ ts i s	None	158	m ɨ - ts i s	C V C V C	158
-3493	Marubo	fingernail	mɨ̃ˈtsisi	mɨ̃ˈtsisi	m ɨ ~ ts i s	None	158	m ɨ ~ ts i s	C V 0 C V C	158
+3493	Marubo	fingernail	mɨ̃ˈtsisi	mɨ̃ˈtsisi	m ɨ ∼ ts i s	None	158	m ɨ ∼ ts i s	C V C C V C	158
 3513	Matis	fingernail	mɨntis	mɨntis	m ɨ n t i s	None	158	m ɨ n t i s	C V C C V C	158
 3514	Mayoruna	fingernail	mɨnˈtsis	mɨnˈtsis	m ɨ n ts i s	None	158	m ɨ n ts i s	C V C C V C	158
 3486	ProtoPanoan	fingernail	mɨtsis	mɨtsis	m ɨ ts i s	None	158	m ɨ - ts i s	C V C V C	158
@@ -1385,17 +1385,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1225	Kakataibo	forehead, face	βɨmána	βɨmána	β ɨ m a n a	None	490	β ɨ m a n a -	C V C V C V	490
 1229	Kapanawa	forehead, face	βɨmana	βɨmana	β ɨ m a n a	None	490	β ɨ m a n a -	C V C V C V	490
 1239	Katukina	forehead, face	βɨmɐˈna	βɨmɐˈna	β ɨ m ɐ n a	None	490	β ɨ m ɐ n a -	C V C V C V	490
-1241	Kaxinawa	forehead, face	bɨmãnã	bɨmãnã	b ɨ m a n a ~	None	490	b ɨ m a n a ~	C V C V C V 0	490
+1241	Kaxinawa	forehead, face	bɨmãnã	bɨmãnã	b ɨ m a n a ∼	None	490	b ɨ m a n a ∼	C V C V C V C	490
 1244	Korubo	forehead, face	βɨmanan	βɨmanan	β ɨ m a n a n	None	490	β ɨ m a n a n	C V C V C V C	490
-1242	Marinawa	forehead, face	ɸɨ́mã́nã́	ɸɨ́mã́nã́	ɸ ɨ m a n a ~	None	490	ɸ ɨ m a n a ~	C V C V C V 0	490
+1242	Marinawa	forehead, face	ɸɨ́mã́nã́	ɸɨ́mã́nã́	ɸ ɨ m a n a ∼	None	490	ɸ ɨ m a n a ∼	C V C V C V C	490
 1230	Marubo	forehead, face	βɨˈmanɨ	βɨˈmanɨ	β ɨ m a n ɨ	None	490	β ɨ m a n ɨ -	C V C V C V	490
 1245	Matis	forehead, face	bɨmanan	bɨmanan	b ɨ m a n a n	None	490	b ɨ m a n a n	C V C V C V C	490
 1224	ProtoPanoan	forehead, face	βɨmãnan	βɨmãnan	β ɨ m a n a n	None	490	β ɨ m a n a n	C V C V C V C	490
 1238	Shanenawa	forehead, face	fumana	fumana	f u m a n a	None	490	f u m a n a -	C V C V C V	490
 1236	Sharanawa	forehead, face	ɸɨmanan	ɸɨmanan	ɸ ɨ m a n a n	None	490	ɸ ɨ m a n a n	C V C V C V C	490
 1226	ShipiboKonibo	forehead, face	ˈβɨmanan	ˈβɨmanan	β ɨ m a n a n	None	490	β ɨ m a n a n	C V C V C V C	490
-1232	Yaminawa	forehead, face	ɸɨmãnã	ɸɨmãnã	ɸ ɨ m a n a ~	None	490	ɸ ɨ m a n a ~	C V C V C V 0	490
-1243	Yawanawa	forehead, face	βɨmaˈnɐ̃	βɨmaˈnɐ̃	β ɨ m a n ɐ ~	None	490	β ɨ m a n ɐ ~	C V C V C V 0	490
+1232	Yaminawa	forehead, face	ɸɨmãnã	ɸɨmãnã	ɸ ɨ m a n a ∼	None	490	ɸ ɨ m a n a ∼	C V C V C V C	490
+1243	Yawanawa	forehead, face	βɨmaˈnɐ̃	βɨmaˈnɐ̃	β ɨ m a n ɐ ∼	None	490	β ɨ m a n ɐ ∼	C V C V C V C	490
 1380	Amawaka	forehead, face	wɨ-mãko	wɨ-mãko	w ɨ	None	502	w ɨ	C V	502
 3994	Amawaka	forest	niʔi	niʔi	n i ʔ i	II	198	n i ʔ i	C V C V	198
 3984	Chakobo	forest	niʔi	niʔi	n i ʔ i	None	198	n i ʔ i	C V C V	198
@@ -1416,12 +1416,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3985	Yaminawa	forest	nii	nii	n i i	None	198	n i - i	C V V	198
 3997	Yawanawa	forest	ni	ni	n i	None	198	n i - -	C V	198
 609	Chakobo	fresh water	hɨnɨ_paʂa	hɨnɨ_paʂa	h ɨ n ɨ p a ʂ a	None	292	h ɨ n ɨ p a ʂ a	C V C V C V C V	292
-603	Kakataibo	fresh water	ʔõpáʂ	ʔõpáʂ	ʔ o ~ p a ʂ	None	292	ʔ o ~ - p a ʂ -	C V 0 C V C	292
-611	Kaxinawa	fresh water	ũpaʂ	ũpaʂ	u ~ p a ʂ	None	292	- u ~ - p a ʂ -	V 0 C V C	292
+603	Kakataibo	fresh water	ʔõpáʂ	ʔõpáʂ	ʔ o ∼ p a ʂ	None	292	ʔ o ∼ - p a ʂ -	C V C C V C	292
+611	Kaxinawa	fresh water	ũpaʂ	ũpaʂ	u ∼ p a ʂ	None	292	- u ∼ - p a ʂ -	V C C V C	292
 606	Marubo	fresh water	ˈwakapaʃa	ˈwakapaʃa	p a ʃ a	None	292	- - - - p a ʃ a	C V C V	292
 602	ProtoPanoan	fresh water	ʔoma-paʂa	ʔoma-paʂa	ʔ o m a p a ʂ a	None	292	ʔ o m a p a ʂ a	C V C V C V C V	292
-604	ShipiboKonibo	fresh water	ʔõpáʂ	ʔõpáʂ	ʔ o ~ p a ʂ	None	292	ʔ o ~ - p a ʂ -	C V 0 C V C	292
-610	Yaminawa	fresh water	ɞ̃ˈpaʂ	ɞ̃ˈpaʂ	o ~ p a ʂ	None	292	- o ~ - p a ʂ -	V 0 C V C	292
+604	ShipiboKonibo	fresh water	ʔõpáʂ	ʔõpáʂ	ʔ o ∼ p a ʂ	None	292	ʔ o ∼ - p a ʂ -	C V C C V C	292
+610	Yaminawa	fresh water	ɞ̃ˈpaʂ	ɞ̃ˈpaʂ	o ∼ p a ʂ	None	292	- o ∼ - p a ʂ -	V C C V C	292
 6704	Katukina	fresh water	waka	waka	w a k a	None	412	w a k a	C V C V	412
 6711	Matis	fresh water	waka	waka	w a k a	None	412	w a k a	C V C V	412
 6702	Yaminawa	fresh water	ɸaka	ɸaka	ɸ a k a	None	412	ɸ a k a	C V C V	412
@@ -1468,13 +1468,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 7182	Marubo	ghost	yovɨ	yovɨ	j o v ɨ	None	454	j o v ɨ - -	C V C V	454
 7287	Amawaka	ghost	yoʃi	yoʃi	j o ʃ i	II	463	j o ʃ i -	C V C V	463
 7280	Chakobo	ghost	yoʃini	yoʃini	j o ʃ i n	None	463	j o ʃ i n	C V C V C	463
-7275	Kakataibo	ghost	uʃĩ	uʃĩ	u ʃ i ~	None	463	- u ʃ i ~	V C V 0	463
+7275	Kakataibo	ghost	uʃĩ	uʃĩ	u ʃ i ∼	None	463	- u ʃ i ∼	V C V C	463
 7279	Kapanawa	ghost	yoʃín	yoʃín	j o ʃ i n	None	463	j o ʃ i n	C V C V C	463
 7288	Kaxinawa	ghost	yuʃi	yuʃi	j u ʃ i	None	463	j u ʃ i -	C V C V	463
 7291	Korubo	ghost	tsusin	tsusin	ts u s i n	None	463	ts u s i n	C V C V C	463
 7289	Marinawa	ghost	yóʃi	yóʃi	j o ʃ i	None	463	j o ʃ i -	C V C V	463
 7292	Matis	ghost	tsunsin	tsunsin	ts u s i n	None	463	ts u s i n	C V C V C	463
-7286	Poyanawa	ghost	iũʃĩ	iũʃĩ	i u ʃ i ~	None	463	i u ʃ i ~	V V C V 0	463
+7286	Poyanawa	ghost	iũʃĩ	iũʃĩ	i u ʃ i ∼	None	463	i u ʃ i ∼	V V C V C	463
 7274	ProtoPanoan	ghost	yosi[n]	yosi[n]	j o s i rⁿ	None	463	j o s i rⁿ	C V C V C	463
 7285	Shanenawa	ghost	yuʂin	yuʂin	j u ʂ i n	None	463	j u ʂ i n	C V C V C	463
 7283	Sharanawa	ghost	yoʂi	yoʂi	j o ʂ i	None	463	j o ʂ i -	C V C V	463
@@ -1504,17 +1504,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6770	ShipiboKonibo	grass	wási	wási	w a s i	None	419	w a s i	C V C V	419
 6776	Yaminawa	grass	ɸasi	ɸasi	ɸ a s i	None	419	ɸ a s i	C V C V	419
 6782	Yawanawa	grass	uasi	uasi	w a s i	None	419	w a s i	C V C V	419
-1825	Amawaka	grasshopper	tʃãpó_I	tʃãpó_I	tʃ a ~ p o	None	26	tʃ a ~ p o	C V 0 C V	26
+1825	Amawaka	grasshopper	tʃãpó_I	tʃãpó_I	tʃ a ∼ p o	None	26	tʃ a ∼ p o	C V C C V	26
 1820	Chakobo	grasshopper	tʃapo	tʃapo	tʃ a p o	None	26	tʃ a - p o	C V C V	26
-1817	Kakataibo	grasshopper	tʃãpo	tʃãpo	tʃ a ~ p o	None	26	tʃ a ~ p o	C V 0 C V	26
+1817	Kakataibo	grasshopper	tʃãpo	tʃãpo	tʃ a ∼ p o	None	26	tʃ a ∼ p o	C V C C V	26
 1819	Kapanawa	grasshopper	tʃampo	tʃampo	tʃ a m p o	None	26	tʃ a m p o	C V C C V	26
 1824	Katukina	grasshopper	tʃanpu	tʃanpu	tʃ a n p u	None	26	tʃ a n p u	C V C C V	26
-1826	Kaxinawa	grasshopper	tʃãpu	tʃãpu	tʃ a ~ p u	None	26	tʃ a ~ p u	C V 0 C V	26
+1826	Kaxinawa	grasshopper	tʃãpu	tʃãpu	tʃ a ∼ p u	None	26	tʃ a ∼ p u	C V C C V	26
 1828	Matis	grasshopper	tʂanpi	tʂanpi	ʈʂ a n p i	None	26	ʈʂ a n p i	C V C C V	26
-1816	ProtoPanoan	grasshopper	tʂãpo	tʂãpo	ʈʂ a ~ p o	None	26	ʈʂ a ~ p o	C V 0 C V	26
+1816	ProtoPanoan	grasshopper	tʂãpo	tʂãpo	ʈʂ a ∼ p o	None	26	ʈʂ a ∼ p o	C V C C V	26
 1823	Shanenawa	grasshopper	tʃapu	tʃapu	tʃ a p u	None	26	tʃ a - p u	C V C V	26
 1822	Sharanawa	grasshopper	tʃapo	tʃapo	tʃ a p o	None	26	tʃ a - p o	C V C V	26
-1818	ShipiboKonibo	grasshopper	tʃãpo	tʃãpo	tʃ a ~ p o	None	26	tʃ a ~ p o	C V 0 C V	26
+1818	ShipiboKonibo	grasshopper	tʃãpo	tʃãpo	tʃ a ∼ p o	None	26	tʃ a ∼ p o	C V C C V	26
 6196	Amawaka	green, unripe	xoo_I	xoo_I	x o o	None	371	x o o	C V V	371
 6190	Chakobo	green, unripe	ʂoo	ʂoo	ʂ o o	None	371	ʂ o o	C V V	371
 6191	Chaninawa	green, unripe	ʃoo	ʃoo	ʃ o o	None	371	ʃ o o	C V V	371
@@ -1606,7 +1606,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3515	ProtoPanoan	hand	mɨkɨr	mɨkɨr	m ɨ k ɨ r	None	159	m ɨ k ɨ r	C V C V C	159
 3524	Sharanawa	hand	mɨkɨ	mɨkɨ	m ɨ k ɨ	None	159	m ɨ k ɨ -	C V C V	159
 3517	ShipiboKonibo	hand	mɨkɨ	mɨkɨ	m ɨ k ɨ	None	159	m ɨ k ɨ -	C V C V	159
-3522	Yaminawa	hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ ~	None	159	m ɨ k ɨ ~	C V C V 0	159
+3522	Yaminawa	hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ ∼	None	159	m ɨ k ɨ ∼	C V C V C	159
 1940	Kapanawa	hard, strong	tʃoɾíʃ	tʃoɾíʃ	tʃ o ɾ i ʃ	None	36	tʃ o ɾ i ʃ	C V C V C	36
 1946	Korubo	hard, strong	tʃɨɬɨʃ	tʃɨɬɨʃ	tʃ ɨ ɬ ɨ ʃ	None	36	tʃ ɨ ɬ ɨ ʃ	C V C V C	36
 1945	Marinawa	hard, strong	tʃóɾiʃi	tʃóɾiʃi	tʃ o ɾ i ʃ	None	36	tʃ o ɾ i ʃ	C V C V C	36
@@ -1699,8 +1699,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4332	Shanenawa	heart	uinti	uinti	u i n t i	None	229	- u i n t i	V V C C V	229
 4330	Sharanawa	heart	ointi	ointi	o i n t i	None	229	- o i n t i	V V C C V	229
 4323	ShipiboKonibo	heart	hoiti	hoiti	h o i t i	None	229	h o i - t i	C V V C V	229
-4327	Yaminawa	heart	oĩti	oĩti	o i ~ t i	None	229	- o i ~ t i	V V 0 C V	229
-4337	Yawanawa	heart	ũĩti	ũĩti	u i ~ t i	None	229	- u i ~ t i	V V 0 C V	229
+4327	Yaminawa	heart	oĩti	oĩti	o i ∼ t i	None	229	- o i ∼ t i	V V C C V	229
+4337	Yawanawa	heart	ũĩti	ũĩti	u i ∼ t i	None	229	- u i ∼ t i	V V C C V	229
 7162	Amawaka	heat, hot	yoʔo-	yoʔo-	j o ʔ o	II	452	j o ʔ o	C V C V	452
 7158	Chakobo	heat, hot	yoʔo	yoʔo	j o ʔ o	None	452	j o ʔ o	C V C V	452
 7157	Kapanawa	heat, hot	yoʔo	yoʔo	j o ʔ o	None	452	j o ʔ o	C V C V	452
@@ -1749,15 +1749,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 901	Kapanawa	his, her, of him, of her	hawɨ́n	hawɨ́n	h a w ɨ n	None	467	h a w ɨ n	C V C V C	467
 909	Katukina	his, her, of him, of her	hawɨn	hawɨn	h a w ɨ n	None	467	h a w ɨ n	C V C V C	467
 905	Kaxarari	his, her, of him, of her	hawa	hawa	h a w a	None	467	h a w a -	C V C V	467
-910	Kaxinawa	his, her, of him, of her	hawɨ̃	hawɨ̃	h a w ɨ ~	None	467	h a w ɨ ~	C V C V 0	467
+910	Kaxinawa	his, her, of him, of her	hawɨ̃	hawɨ̃	h a w ɨ ∼	None	467	h a w ɨ ∼	C V C V C	467
 912	Korubo	his, her, of him, of her	awɨn	awɨn	a w ɨ n	None	467	- a w ɨ n	V C V C	467
 902	Marubo	his, her, of him, of her	awɨ_ˈrɨkĩ	awɨ_ˈrɨkĩ	a w ɨ	None	467	- a w ɨ -	V C V	467
 913	Matis	his, her, of him, of her	awɨn	awɨn	a w ɨ n	None	467	- a w ɨ n	V C V C	467
 898	ProtoPanoan	his, her, of him, of her	hawɨn	hawɨn	h a w ɨ n	None	467	h a w ɨ n	C V C V C	467
 908	Shanenawa	his, her, of him, of her	awɨn	awɨn	a w ɨ n	None	467	- a w ɨ n	V C V C	467
 907	Sharanawa	his, her, of him, of her	awɨn	awɨn	a w ɨ n	None	467	- a w ɨ n	V C V C	467
-900	ShipiboKonibo	his, her, of him, of her	hawɨ̃	hawɨ̃	h a w ɨ ~	None	467	h a w ɨ ~	C V C V 0	467
-906	Yaminawa	his, her, of him, of her	aɸɨ̃	aɸɨ̃	a ɸ ɨ ~	None	467	- a ɸ ɨ ~	V C V 0	467
+900	ShipiboKonibo	his, her, of him, of her	hawɨ̃	hawɨ̃	h a w ɨ ∼	None	467	h a w ɨ ∼	C V C V C	467
+906	Yaminawa	his, her, of him, of her	aɸɨ̃	aɸɨ̃	a ɸ ɨ ∼	None	467	- a ɸ ɨ ∼	V C V C	467
 911	Yawanawa	his, her, of him, of her	auan	auan	a w a n	None	467	- a w a n	V C V C	467
 2760	Amawaka	hole	kiní_I	kiní_I	k i n i	None	95	k i n i	C V C V	95
 2753	Chakobo	hole	kini	kini	k i n i	None	95	k i n i	C V C V	95
@@ -2030,21 +2030,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1797	Mayoruna	knead, hit, strike	ˈtʂok.ka	ˈtʂok.ka	tʂ o k a	None	22	tʂ o k a	C V C V	22
 1788	ProtoPanoan	knead, hit, strike	tʂaka-	tʂaka-	ʈʂ a k a	None	22	ʈʂ a k a	C V C V	22
 1790	ShipiboKonibo	knead, hit, strike	tʃaka-	tʃaka-	tʃ a k a	None	22	tʃ a k a	C V C V	22
-5178	Amawaka	knee	rãtõko	rãtõko	r a ~ t o k o	II	291	r a ~ t o k o	C V 0 C V C V	291
+5178	Amawaka	knee	rãtõko	rãtõko	r a ∼ t o k o	II	291	r a ∼ t o k o	C V C C V C V	291
 5173	Chaninawa	knee	ratoko	ratoko	r a t o k o	None	291	r a - t o k o	C V C V C V	291
-5165	Kakataibo	knee	rãtũ-ti	rãtũ-ti	r a ~ t u	None	291	r a ~ t u - -	C V 0 C V	291
+5165	Kakataibo	knee	rãtũ-ti	rãtũ-ti	r a ∼ t u	None	291	r a ∼ t u - -	C V C C V	291
 5169	Kapanawa	knee	ranton	ranton	r a n t o	None	291	r a n t o - -	C V C C V	291
-5172	Kaxarari	knee	tʃɐ̃buˈɾu	tʃɐ̃buˈɾu	tʃ ɐ ~ b u ɾ u	None	291	tʃ ɐ ~ b u ɾ u	C V 0 C V C V	291
-5179	Kaxinawa	knee	dãtuku	dãtuku	d a ~ t u k u	None	291	d a ~ t u k u	C V 0 C V C V	291
+5172	Kaxarari	knee	tʃɐ̃buˈɾu	tʃɐ̃buˈɾu	tʃ ɐ ∼ b u ɾ u	None	291	tʃ ɐ ∼ b u ɾ u	C V C C V C V	291
+5179	Kaxinawa	knee	dãtuku	dãtuku	d a ∼ t u k u	None	291	d a ∼ t u k u	C V C C V C V	291
 5182	Korubo	knee	ɬanɨʃ	ɬanɨʃ	ɬ a	None	291	ɬ a - - - - -	C V	291
 5180	Marinawa	knee	rátoko	rátoko	r a t o k o	None	291	r a - t o k o	C V C V C V	291
 5183	Matis	knee	danbɨdu	danbɨdu	d a n b ɨ d u	None	291	d a n b ɨ d u	C V C C V C V	291
 5184	Mayoruna	knee	dannɨʂ	dannɨʂ	d a n	None	291	d a n - - - -	C V C	291
-5177	Poyanawa	knee	rãtuhku	rãtuhku	r a ~ t u k u	None	291	r a ~ t u k u	C V 0 C V C V	291
+5177	Poyanawa	knee	rãtuhku	rãtuhku	r a ∼ t u k u	None	291	r a ∼ t u k u	C V C C V C V	291
 5164	ProtoPanoan	knee	ɽa[n]toko-	ɽa[n]toko-	ɽ a rⁿ t o k o	None	291	ɽ a rⁿ t o k o	C V C C V C V	291
 5176	Shanenawa	knee	ɾatunku	ɾatunku	ɾ a t u k u	None	291	ɾ a - t u k u	C V C V C V	291
 5174	Sharanawa	knee	ratoko	ratoko	r a t o k o	None	291	r a - t o k o	C V C V C V	291
-5166	ShipiboKonibo	knee	rãtõko	rãtõko	r a ~ t o k o	None	291	r a ~ t o k o	C V 0 C V C V	291
+5166	ShipiboKonibo	knee	rãtõko	rãtõko	r a ∼ t o k o	None	291	r a ∼ t o k o	C V C C V C V	291
 5181	Yawanawa	knee	ɾatunku	ɾatunku	ɾ a t u k u	None	291	ɾ a - t u k u	C V C V C V	291
 6297	Mayoruna	knee	taɨ	taɨ	t a ɨ	None	377	t a - ɨ	C V V	377
 5108	Amawaka	kneecap, knee	rawoxko	rawoxko	r a w o x k o	II	286	r a w o x - k o	C V C V C C V	286
@@ -2057,21 +2057,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5103	ShipiboKonibo	kneecap, knee	rãβoʂo	rãβoʂo	r a β o ʂ o	None	286	r a β o ʂ o - -	C V C V C V	286
 237	Amawaka	lake	ʔí̃yan	ʔí̃yan	ʔ i a n	<hínyan>, HYDE, 1980	46	ʔ i a n	C V V C	46
 230	Chakobo	lake	iá	iá	i a	None	46	- i a -	V V	46
-225	Kakataibo	lake	ʔiã́	ʔiã́	ʔ i a ~	None	46	ʔ i a ~	C V V 0	46
+225	Kakataibo	lake	ʔiã́	ʔiã́	ʔ i a ∼	None	46	ʔ i a ∼	C V V C	46
 227	Kapanawa	lake	ʔián	ʔián	ʔ i a n	None	46	ʔ i a n	C V V C	46
 236	Katukina	lake	ian	ian	i a n	None	46	- i a n	V V C	46
 231	Kaxarari	lake	iaˈnɨ	iaˈnɨ	i a n	None	46	- i a n	V V C	46
-239	Kaxinawa	lake	ĩã	ĩã	i a ~	None	46	- i a ~	V V 0	46
+239	Kaxinawa	lake	ĩã	ĩã	i a ∼	None	46	- i a ∼	V V C	46
 242	Korubo	lake	tʃan	tʃan	tʃ a n	None	46	tʃ - a n	C V C	46
-240	Marinawa	lake	ĩã	ĩã	i a ~	None	46	- i a ~	V V 0	46
-228	Marubo	lake	ˈĩˈɐ̃	ˈĩˈɐ̃	i ɐ ~	None	46	- i ɐ ~	V V 0	46
+240	Marinawa	lake	ĩã	ĩã	i a ∼	None	46	- i a ∼	V V C	46
+228	Marubo	lake	ˈĩˈɐ̃	ˈĩˈɐ̃	i ɐ ∼	None	46	- i ɐ ∼	V V C	46
 243	Matis	lake	tʃan	tʃan	tʃ a n	None	46	tʃ - a n	C V C	46
 244	Mayoruna	lake	tʃiˈna	tʃiˈna	tʃ i n	None	46	tʃ i - n	C V C	46
 224	ProtoPanoan	lake	ʔian	ʔian	ʔ i a n	None	46	ʔ i a n	C V V C	46
 235	Shanenawa	lake	yan	yan	i a n	None	46	- i a n	V V C	46
 234	Sharanawa	lake	ian	ian	i a n	None	46	- i a n	V V C	46
-226	ShipiboKonibo	lake	ʔiã́	ʔiã́	ʔ i a ~	None	46	ʔ i a ~	C V V 0	46
-232	Yaminawa	lake	iã	iã	i a ~	None	46	- i a ~	V V 0	46
+226	ShipiboKonibo	lake	ʔiã́	ʔiã́	ʔ i a ∼	None	46	ʔ i a ∼	C V V C	46
+232	Yaminawa	lake	iã	iã	i a ∼	None	46	- i a ∼	V V C	46
 241	Yawanawa	lake	ian	ian	i a n	None	46	- i a n	V V C	46
 2491	Amawaka	lightning	kanáa_I	kanáa_I	k a n a	None	76	k a n a -	C V C V	76
 2485	Chakobo	lightning	kanápa	kanápa	k a n a	None	76	k a n a -	C V C V	76
@@ -2092,13 +2092,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2344	Katukina	lips	kɨˈʂa	kɨˈʂa	k ɨ ʂ a	None	65	k ɨ ʂ a -	C V C V	65
 2336	Kaxarari	lips	kɨʂaˈka	kɨʂaˈka	k ɨ ʂ a	None	65	k ɨ ʂ a -	C V C V	65
 2347	Kaxinawa	lips	kɨʂa	kɨʂa	k ɨ ʂ a	None	65	k ɨ ʂ a -	C V C V	65
-2348	Marinawa	lips	kĩʂã	kĩʂã	k i ʂ a ~	None	65	k i ʂ a ~	C V C V 0	65
+2348	Marinawa	lips	kĩʂã	kĩʂã	k i ʂ a ∼	None	65	k i ʂ a ∼	C V C V C	65
 2335	Marubo	lips	kɨˈʃa	kɨˈʃa	k ɨ ʃ a	None	65	k ɨ ʃ a -	C V C V	65
 2331	ProtoPanoan	lips	kwɨʂa[n]	kwɨʂa[n]	kʷ ɨ ʂ a rⁿ	None	65	kʷ ɨ ʂ a rⁿ	C V C V C	65
 2343	Shanenawa	lips	kɨʂa	kɨʂa	k ɨ ʂ a	None	65	k ɨ ʂ a -	C V C V	65
 2341	Sharanawa	lips	kɨʂa	kɨʂa	k ɨ ʂ a	None	65	k ɨ ʂ a -	C V C V	65
 2333	ShipiboKonibo	lips	kɨʂá	kɨʂá	k ɨ ʂ a	None	65	k ɨ ʂ a -	C V C V	65
-2337	Yaminawa	lips	kɨʂã	kɨʂã	k ɨ ʂ a ~	None	65	k ɨ ʂ a ~	C V C V 0	65
+2337	Yaminawa	lips	kɨʂã	kɨʂã	k ɨ ʂ a ∼	None	65	k ɨ ʂ a ∼	C V C V C	65
 2349	Yawanawa	lips	kɨʃa	kɨʃa	k ɨ ʃ a	None	65	k ɨ ʃ a -	C V C V	65
 1961	Amawaka	liquid, water	hɨnɨ_I	hɨnɨ_I	h ɨ n ɨ	None	37	h ɨ n ɨ	C V C V	37
 1952	Chakobo	liquid, water	ˈhɨnɨ	ˈhɨnɨ	h ɨ n ɨ	None	37	h ɨ n ɨ	C V C V	37
@@ -2264,7 +2264,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3755	Marubo	meat	ˈnami	ˈnami	n a m i	None	180	n a m i	C V C V	180
 3771	Matis	meat	nami	nami	n a m i	None	180	n a m i	C V C V	180
 3772	Mayoruna	meat	naˈmi	naˈmi	n a m i	None	180	n a m i	C V C V	180
-3766	Poyanawa	meat	nãbi	nãbi	n a ~.b i	None	180	n a ~.b i	C V 0 V	180
+3766	Poyanawa	meat	nãbi	nãbi	n a ∼.b i	None	180	n a ∼.b i	C V C V	180
 3751	ProtoPanoan	meat	rami	rami	r a m i	None	180	r a m i	C V C V	180
 3764	Shanenawa	meat	nami	nami	n a m i	None	180	n a m i	C V C V	180
 3762	Sharanawa	meat	nami	nami	n a m i	None	180	n a m i	C V C V	180
@@ -2291,13 +2291,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3195	Kaxinawa	metal	manɨ	manɨ	m a n ɨ	None	133	m a n ɨ	C V C V	133
 3193	Marubo	metal	manɨ	manɨ	m a n ɨ	None	133	m a n ɨ	C V C V	133
 3191	ProtoPanoan	metal	ma[n]ɨ	ma[n]ɨ	m a rⁿ ɨ	None	133	m a rⁿ ɨ	C V C V	133
-1488	Amawaka	miriti palm	winõ_I	winõ_I	w i n o ~	None	510	w i n o ~	C V C V 0	510
+1488	Amawaka	miriti palm	winõ_I	winõ_I	w i n o ∼	None	510	w i n o ∼	C V C V C	510
 1484	Chakobo	miriti palm	ˈβinona	ˈβinona	β i n o n	None	510	β i n o n	C V C V C	510
-1480	Kakataibo	miriti palm	βinṍ	βinṍ	β i n o ~	None	510	β i n o ~	C V C V 0	510
+1480	Kakataibo	miriti palm	βinṍ	βinṍ	β i n o ∼	None	510	β i n o ∼	C V C V C	510
 1482	Kapanawa	miriti palm	βinon	βinon	β i n o n	None	510	β i n o n	C V C V C	510
-1487	Katukina	miriti palm	vĩoʔ	vĩoʔ	v i ~ o ʔ	None	510	v i ~ o ʔ	C V 0 V C	510
+1487	Katukina	miriti palm	vĩoʔ	vĩoʔ	v i ∼ o ʔ	None	510	v i ∼ o ʔ	C V C V C	510
 1486	Kaxarari	miriti palm	binuˈni	binuˈni	b i n u n	None	510	b i n u n	C V C V C	510
-1483	Marubo	miriti palm	βinõ	βinõ	β i n o ~	None	510	β i n o ~	C V C V 0	510
+1483	Marubo	miriti palm	βinõ	βinõ	β i n o ∼	None	510	β i n o ∼	C V C V C	510
 1479	ProtoPanoan	miriti palm	βinon	βinon	β i n o n	None	510	β i n o n	C V C V C	510
 1481	ShipiboKonibo	miriti palm	βinó	βinó	β i n o	None	510	β i n o -	C V C V	510
 1489	Yawanawa	miriti palm	βinun-	βinun-	β i n u n	None	510	β i n u n	C V C V C	510
@@ -2356,7 +2356,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 801	Marinawa	name	anɨ	anɨ	a n ɨ	None	425	- a n ɨ	V C V	425
 790	Marubo	name	anɨ	anɨ	a n ɨ	None	425	- a n ɨ	V C V	425
 804	Matis	name	anɨ	anɨ	a n ɨ	None	425	- a n ɨ	V C V	425
-799	Poyanawa	name	ãdɨ	ãdɨ	a ~.d ɨ	None	425	- a ~.d ɨ	V 0 V	425
+799	Poyanawa	name	ãdɨ	ãdɨ	a ∼.d ɨ	None	425	- a ∼.d ɨ	V C V	425
 786	ProtoPanoan	name	harɨ	harɨ	h a r ɨ	None	425	h a r ɨ	C V C V	425
 798	Shanenawa	name	anɨ	anɨ	a n ɨ	None	425	- a n ɨ	V C V	425
 796	Sharanawa	name	anɨ	anɨ	a n ɨ	None	425	- a n ɨ	V C V	425
@@ -2483,7 +2483,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 7041	Marinawa	night, dark	yámɨ	yámɨ	j a m ɨ	None	442	j a m ɨ -	C V C V	442
 7030	Marubo	night, dark	yaˈmɨ	yaˈmɨ	j a m ɨ	None	442	j a m ɨ -	C V C V	442
 7044	Matis	night, dark	imɨd	imɨd	i m ɨ d	None	442	- i m ɨ d	V C V C	442
-7038	Poyanawa	night, dark	iãvu	iãvu	j a ~.v u	None	442	j a ~.v u -	C V 0 V	442
+7038	Poyanawa	night, dark	iãvu	iãvu	j a ∼.v u	None	442	j a ∼.v u -	C V C V	442
 7042	Yawanawa	night, dark	iamɨ	iamɨ	j a m ɨ	None	442	j a m ɨ -	C V C V	442
 6580	Chakobo	nominalizer for instruments	tí	tí	t i	None	401	t i	C V	401
 6576	Kakataibo	nominalizer for instruments	-ti	-ti	t i	None	401	t i	C V	401
@@ -2505,12 +2505,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5240	Chakobo	nose hole, nostril	rɨʂakí	rɨʂakí	r ɨ k i	None	296	r ɨ k i -	C V C V	296
 5236	Kakataibo	nose hole, nostril	rɨkí	rɨkí	r ɨ k i	None	296	r ɨ k i -	C V C V	296
 5238	Kapanawa	nose hole, nostril	rɨkín	rɨkín	r ɨ k i n	None	296	r ɨ k i n	C V C V C	296
-5249	Katukina	nose hole, nostril	ɾɨˈkĩ	ɾɨˈkĩ	ɾ ɨ k i ~	None	296	ɾ ɨ k i ~	C V C V 0	296
+5249	Katukina	nose hole, nostril	ɾɨˈkĩ	ɾɨˈkĩ	ɾ ɨ k i ∼	None	296	ɾ ɨ k i ∼	C V C V C	296
 5242	Kaxarari	nose hole, nostril	[tʃɨkɐˈni]	[tʃɨkɐˈni]	tʃ ɨ k ɐ n	None	296	tʃ ɨ k ɐ n	C V C V C	296
 5252	Kaxinawa	nose hole, nostril	dɨkí	dɨkí	d ɨ k i	None	296	d ɨ k i -	C V C V	296
-5239	Marubo	nose hole, nostril	ɾɨˈkĩ	ɾɨˈkĩ	ɾ ɨ k i ~	None	296	ɾ ɨ k i ~	C V C V 0	296
+5239	Marubo	nose hole, nostril	ɾɨˈkĩ	ɾɨˈkĩ	ɾ ɨ k i ∼	None	296	ɾ ɨ k i ∼	C V C V C	296
 5257	Matis	nose hole, nostril	dɨʂɨn	dɨʂɨn	d ɨ	None	296	d ɨ - - -	C V	296
-5250	Poyanawa	nose hole, nostril	rãkĩ	rãkĩ	r a k i ~	None	296	r a k i ~	C V C V 0	296
+5250	Poyanawa	nose hole, nostril	rãkĩ	rãkĩ	r a k i ∼	None	296	r a k i ∼	C V C V C	296
 5235	ProtoPanoan	nose hole, nostril	ɽɨ+kini	ɽɨ+kini	ɽ ɨ k i n	None	296	ɽ ɨ k i n	C V C V C	296
 5248	Shanenawa	nose hole, nostril	ɾukin	ɾukin	ɾ u k i n	None	296	ɾ u k i n	C V C V C	296
 5237	ShipiboKonibo	nose hole, nostril	rɨkí	rɨkí	r ɨ k i	None	296	r ɨ k i -	C V C V	296
@@ -2562,14 +2562,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6431	Marinawa	old stick, rotten stick	tárã́	tárã́	t a r a	None	387	t a r a	C V C V	387
 6423	ProtoPanoan	old stick, rotten stick	taɽa	taɽa	t a ɽ a	None	387	t a ɽ a	C V C V	387
 6427	Sharanawa	old stick, rotten stick	tara	tara	t a r a	None	387	t a r a	C V C V	387
-3094	Amawaka	on earth	mãĩ	mãĩ	m a i ~	None	124	m a i ~	C V V 0	124
+3094	Amawaka	on earth	mãĩ	mãĩ	m a i ∼	None	124	m a i ∼	C V V C	124
 3093	Chakobo	on earth	mai	mai	m a i	None	124	m a i -	C V V	124
-3089	Kakataibo	on earth	meẽ́	meẽ́	m e e ~	None	124	m e e ~	C V V 0	124
+3089	Kakataibo	on earth	meẽ́	meẽ́	m e e ∼	None	124	m e e ∼	C V V C	124
 3091	Kapanawa	on earth	maín	maín	m a i n	None	124	m a i n	C V V C	124
-3095	Kaxinawa	on earth	mãĩ	mãĩ	m a i ~	None	124	m a i ~	C V V 0	124
-3092	Marubo	on earth	maˈĩ	maˈĩ	m a i ~	None	124	m a i ~	C V V 0	124
+3095	Kaxinawa	on earth	mãĩ	mãĩ	m a i ∼	None	124	m a i ∼	C V V C	124
+3092	Marubo	on earth	maˈĩ	maˈĩ	m a i ∼	None	124	m a i ∼	C V V C	124
 3088	ProtoPanoan	on earth	mai[n]	mai[n]	m a i rⁿ	None	124	m a i rⁿ	C V V C	124
-3090	ShipiboKonibo	on earth	maĩ	maĩ	m a i ~	None	124	m a i ~	C V V 0	124
+3090	ShipiboKonibo	on earth	maĩ	maĩ	m a i ∼	None	124	m a i ∼	C V V C	124
 6849	Amawaka	one	-stii	-stii	s t i	None	426	- - s t i	C C V	426
 6841	Chakobo	one	wɨsti	wɨsti	w ɨ s t i	None	426	w ɨ s t i	C V C C V	426
 6845	Chaninawa	one	ɸɨsti	ɸɨsti	ɸ ɨ s t i	None	426	ɸ ɨ s t i	C V C C V	426
@@ -2584,12 +2584,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6846	Sharanawa	one	ɸɨsti	ɸɨsti	ɸ ɨ s t i	None	426	ɸ ɨ s t i	C V C C V	426
 6838	ShipiboKonibo	one	wɨstíora	wɨstíora	w ɨ s t i	None	426	w ɨ s t i	C V C C V	426
 6853	Yawanawa	one	uɨsti	uɨsti	u ɨ s t i	None	426	u ɨ s t i	V V C C V	426
-825	Kakataibo	opening	ãʂaβa	ãʂaβa	a ~ ʂ a β a	None	449	- a ~ ʂ a β a	V 0 C V C V	449
+825	Kakataibo	opening	ãʂaβa	ãʂaβa	a ∼ ʂ a β a	None	449	- a ∼ ʂ a β a	V C C V C V	449
 827	Kapanawa	opening	hanʂβá-	hanʂβá-	h a n ʂ β a	None	449	h a n ʂ - β a	C V C C C V	449
 832	Kaxinawa	opening	haʂpa	haʂpa	h a ʂ p a	None	449	h a - ʂ - p a	C V C C V	449
-824	ProtoPanoan	opening	hãʂaβa	hãʂaβa	h a ~ ʂ a β a	None	449	h a ~ ʂ a β a	C V 0 C V C V	449
+824	ProtoPanoan	opening	hãʂaβa	hãʂaβa	h a ∼ ʂ a β a	None	449	h a ∼ ʂ a β a	C V C C V C V	449
 830	Sharanawa	opening	aʂɸa	aʂɸa	a ʂ ɸ a	None	449	- a - ʂ - ɸ a	V C C V	449
-826	ShipiboKonibo	opening	hãʂβá	hãʂβá	h a ~ ʂ β a	None	449	h a ~ ʂ - β a	C V 0 C C V	449
+826	ShipiboKonibo	opening	hãʂβá	hãʂβá	h a ∼ ʂ β a	None	449	h a ∼ ʂ - β a	C V C C C V	449
 828	Yaminawa	opening	aʂɸã	aʂɸã	a ʂ ɸ a	None	449	- a - ʂ - ɸ a	V C C V	449
 6831	Amawaka	other	wɨtsa_I	wɨtsa_I	w ɨ ts a	None	424	w ɨ ts a	C V C V	424
 6827	Chakobo	other	wɨtsa	wɨtsa	w ɨ ts a	None	424	w ɨ ts a	C V C V	424
@@ -2633,17 +2633,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 257	Yawanawa	owner	ihu	ihu	i h u	None	57	- i h - u	V C V	57
 400	Amawaka	pain, to hurt	ʔísin	ʔísin	ʔ i s i n	None	149	ʔ i s i n	C V C V C	149
 393	Chakobo	pain, to hurt	ʔisi-	ʔisi-	ʔ i s i	None	149	ʔ i s i -	C V C V	149
-388	Kakataibo	pain, to hurt	ʔisĩ	ʔisĩ	ʔ i s i ~	None	149	ʔ i s i ~	C V C V 0	149
+388	Kakataibo	pain, to hurt	ʔisĩ	ʔisĩ	ʔ i s i ∼	None	149	ʔ i s i ∼	C V C V C	149
 391	Kapanawa	pain, to hurt	ʔisín-	ʔisín-	ʔ i s i n	None	149	ʔ i s i n	C V C V C	149
 398	Katukina	pain, to hurt	isinai	isinai	i s i n	None	149	- i s i n	V C V C	149
 394	Kaxarari	pain, to hurt	isali	isali	i s a l	COUTO, 2005; PICKERING,  s.d.	149	- i s a l	V C V C	149
 403	Kaxinawa	pain, to hurt	isinkiki	isinkiki	i s i n	None	149	- i s i n	V C V C	149
-404	Marinawa	pain, to hurt	ísĩ-	ísĩ-	i s i ~	None	149	- i s i ~	V C V 0	149
-392	Marubo	pain, to hurt	isĩ	isĩ	i s i ~	None	149	- i s i ~	V C V 0	149
+404	Marinawa	pain, to hurt	ísĩ-	ísĩ-	i s i ∼	None	149	- i s i ∼	V C V C	149
+392	Marubo	pain, to hurt	isĩ	isĩ	i s i ∼	None	149	- i s i ∼	V C V C	149
 387	ProtoPanoan	pain, to hurt	ʔĩsir-	ʔĩsir-	ʔ i s i r	None	149	ʔ i s i r	C V C V C	149
 397	Shanenawa	pain, to hurt	isin	isin	i s i n	None	149	- i s i n	V C V C	149
 395	Sharanawa	pain, to hurt	isin	isin	i s i n	None	149	- i s i n	V C V C	149
-390	ShipiboKonibo	pain, to hurt	ʔisĩ-	ʔisĩ-	ʔ i s i ~	None	149	ʔ i s i ~	C V C V 0	149
+390	ShipiboKonibo	pain, to hurt	ʔisĩ-	ʔisĩ-	ʔ i s i ∼	None	149	ʔ i s i ∼	C V C V C	149
 406	Yawanawa	pain, to hurt	isin	isin	i s i n	None	149	- i s i n	V C V C	149
 7172	Yaminawa	pain, to hurt	yona-	yona-	j o n a	None	453	j o n a	C V C V	453
 3613	Amawaka	pamonha	misi	misi	m i s i	II	168	m i s i	C V C V	168
@@ -2655,16 +2655,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3612	Shanenawa	pamonha	misi	misi	m i s i	None	168	m i s i	C V C V	168
 3610	Sharanawa	pamonha	misi	misi	m i s i	None	168	m i s i	C V C V	168
 3608	ShipiboKonibo	pamonha	misi	misi	m i s i	None	168	m i s i	C V C V	168
-6210	Amawaka	papaya	xopã	xopã	x o p a ~	II	372	x o p a ~	C V C V 0	372
-6202	Kakataibo	papaya	ʂopã́	ʂopã́	ʂ o p a ~	None	372	ʂ o p a ~	C V C V 0	372
+6210	Amawaka	papaya	xopã	xopã	x o p a ∼	II	372	x o p a ∼	C V C V C	372
+6202	Kakataibo	papaya	ʂopã́	ʂopã́	ʂ o p a ∼	None	372	ʂ o p a ∼	C V C V C	372
 6204	Kapanawa	papaya	ʂopán	ʂopán	ʂ o p a n	None	372	ʂ o p a n	C V C V C	372
 6209	Katukina	papaya	ʂũmˈba	ʂũmˈba	ʂ u m.b a	None	372	ʂ u m.b a -	C V C V	372
-6211	Kaxinawa	papaya	ʂupã	ʂupã	ʂ u p a ~	None	372	ʂ u p a ~	C V C V 0	372
+6211	Kaxinawa	papaya	ʂupã	ʂupã	ʂ u p a ∼	None	372	ʂ u p a ∼	C V C V C	372
 6212	Marinawa	papaya	ʂopa	ʂopa	ʂ o p a	None	372	ʂ o p a -	C V C V	372
 6201	ProtoPanoan	papaya	ʂopa[n]	ʂopa[n]	ʂ o p a rⁿ	None	372	ʂ o p a rⁿ	C V C V C	372
 6208	Shanenawa	papaya	supa	supa	s u p a	None	372	s u p a -	C V C V	372
 6206	Sharanawa	papaya	ʂopa	ʂopa	ʂ o p a	None	372	ʂ o p a -	C V C V	372
-6203	ShipiboKonibo	papaya	ʂopã́	ʂopã́	ʂ o p a ~	None	372	ʂ o p a ~	C V C V 0	372
+6203	ShipiboKonibo	papaya	ʂopã́	ʂopã́	ʂ o p a ∼	None	372	ʂ o p a ∼	C V C V C	372
 6205	Yaminawa	papaya	ʂopa	ʂopa	ʂ o p a	None	372	ʂ o p a -	C V C V	372
 6213	Yawanawa	papaya	ʂupa	ʂupa	ʂ u p a	None	372	ʂ u p a -	C V C V	372
 6743	Korubo	papaya	waɬa	waɬa	w a ɬ a	None	416	w a ɬ a -	C V C V	416
@@ -2705,7 +2705,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6727	Katukina	peach palm	wanin	wanin	w a n i n	None	415	w a n i n	C V C V C	415
 6726	Kaxarari	peach palm	waniˈma	waniˈma	w a n i m	None	415	w a n i m	C V C V C	415
 6729	Kaxinawa	peach palm	bani	bani	b a n i	None	415	b a n i -	C V C V	415
-6723	Marubo	peach palm	wanĩ	wanĩ	w a n i ~	None	415	w a n i ~	C V C V 0	415
+6723	Marubo	peach palm	wanĩ	wanĩ	w a n i ∼	None	415	w a n i ∼	C V C V C	415
 6730	Matis	peach palm	wanin	wanin	w a n i n	None	415	w a n i n	C V C V C	415
 6731	Mayoruna	peach palm	uanin	uanin	w a n i n	None	415	w a n i n	C V C V C	415
 6719	ProtoPanoan	peach palm	wani[m]	wani[m]	w a n i m	None	415	w a n i m	C V C V C	415
@@ -2739,18 +2739,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2695	Kaxinawa	piece, shard	pakɨʂ	pakɨʂ	k ɨ ʂ	None	89	k ɨ ʂ -	C V C	89
 2685	ProtoPanoan	piece, shard	kɨʂɨ	kɨʂɨ	k ɨ ʂ ɨ	None	89	k ɨ ʂ ɨ	C V C V	89
 2687	ShipiboKonibo	piece, shard	kɨk̃_ɨ́ʂ	kɨk̃_ɨ́ʂ	k ɨ ʂ	None	89	k ɨ ʂ -	C V C	89
-2426	Amawaka	pineapple	kãkã_I	kãkã_I	k a ~	None	72	k a ~	C V 0	72
+2426	Amawaka	pineapple	kãkã_I	kãkã_I	k a ∼	None	72	k a ∼	C V C	72
 2421	Chakobo	pineapple	kákama	kákama	k a	None	72	k a -	C V	72
-2415	Kakataibo	pineapple	kãkã́	kãkã́	k a ~	None	72	k a ~	C V 0	72
+2415	Kakataibo	pineapple	kãkã́	kãkã́	k a ∼	None	72	k a ∼	C V C	72
 2420	Kapanawa	pineapple	kankán	kankán	k a n	None	72	k a n	C V C	72
 2425	Katukina	pineapple	kankan	kankan	k a n	None	72	k a n	C V C	72
-2427	Kaxinawa	pineapple	kãkã	kãkã	k a ~	None	72	k a ~	C V 0	72
+2427	Kaxinawa	pineapple	kãkã	kãkã	k a ∼	None	72	k a ∼	C V C	72
 2428	Korubo	pineapple	kantʃi	kantʃi	k a n	None	72	k a n	C V C	72
 2429	Matis	pineapple	kantʃi	kantʃi	k a n	None	72	k a n	C V C	72
 2430	Mayoruna	pineapple	kantʃi	kantʃi	k a n	None	72	k a n	C V C	72
 2414	ProtoPanoan	pineapple	ka[n]	ka[n]	k a rⁿ	None	72	k a rⁿ	C V C	72
 2424	Shanenawa	pineapple	kakan	kakan	k a	None	72	k a -	C V	72
-2417	ShipiboKonibo	pineapple	kãkã_́	kãkã_́	k a ~	None	72	k a ~	C V 0	72
+2417	ShipiboKonibo	pineapple	kãkã_́	kãkã_́	k a ∼	None	72	k a ∼	C V C	72
 3158	Amawaka	piranha	makɨ	makɨ	m a k ɨ	None	130	m a k ɨ	C V C V	130
 3152	Chakobo	piranha	mákɨ	mákɨ	m a k ɨ	None	130	m a k ɨ	C V C V	130
 3146	Kakataibo	piranha	makɨ	makɨ	m a k ɨ	None	130	m a k ɨ	C V C V	130
@@ -2889,20 +2889,20 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4401	Kaxarari	red	pɯˈʂɨ	pɯˈʂɨ	p ɯ ʂ ɨ	None	233	p ɯ ʂ ɨ -	C V C V	233
 4409	Kaxinawa	red	huʃi	huʃi	h u ʃ i	None	233	h u ʃ i -	C V C V	233
 4410	Marinawa	red	óʃi	óʃi	o ʃ i	None	233	- o ʃ i -	V C V	233
-4395	Marubo	red	ũˈʃĩ-ga	ũˈʃĩ-ga	u ʃ i ~	None	233	- u ʃ i ~	V C V 0	233
+4395	Marubo	red	ũˈʃĩ-ga	ũˈʃĩ-ga	u ʃ i ∼	None	233	- u ʃ i ∼	V C V C	233
 4414	Mayoruna	red	ʃin	ʃin	ʃ i n	(Ver também a etimologia 319. *pãʃini	233	- - ʃ i n	C V C	233
 4390	ProtoPanoan	red	hoʃin	hoʃin	h o ʃ i n	None	233	h o ʃ i n	C V C V C	233
 4406	Shanenawa	red	uʂin	uʂin	u ʂ i n	None	233	- u ʂ i n	V C V C	233
 4405	Sharanawa	red	oʃin	oʃin	o ʃ i n	None	233	- o ʃ i n	V C V C	233
 4391	ShipiboKonibo	red	hoʃi	hoʃi	h o ʃ i	None	233	h o ʃ i -	C V C V	233
-4402	Yaminawa	red	oʃĩ	oʃĩ	o ʃ i ~	None	233	- o ʃ i ~	V C V 0	233
-4411	Yawanawa	red	uʃĩ	uʃĩ	u ʃ i ~	None	233	- u ʃ i ~	V C V 0	233
+4402	Yaminawa	red	oʃĩ	oʃĩ	o ʃ i ∼	None	233	- o ʃ i ∼	V C V C	233
+4411	Yawanawa	red	uʃĩ	uʃĩ	u ʃ i ∼	None	233	- u ʃ i ∼	V C V C	233
 4605	Chakobo	red	ʃini	ʃini	ʃ i n	None	247	- - ʃ i n	C V C	247
 2398	Amawaka	relatives	kaiwo	kaiwo	k a i w o	None	70	k a - i w o	C V V C V	70
 2395	Chakobo	relatives	kai	kai	k a i	None	70	k a - i - -	C V V	70
 2392	Kakataibo	relatives	kaiβo	kaiβo	k a i β o	None	70	k a - i β o	C V V C V	70
 2394	Kapanawa	relatives	kaiβo	kaiβo	k a i β o	None	70	k a - i β o	C V V C V	70
-2400	Kaxinawa	relatives	kaĩ	kaĩ	k a ~ i	None	70	k a ~ i - -	C V 0 V	70
+2400	Kaxinawa	relatives	kaĩ	kaĩ	k a ∼ i	None	70	k a ∼ i - -	C V C V	70
 2401	Korubo	relatives	kaniwa	kaniwa	k a n i w a	None	70	k a n i w a	C V C V C V	70
 2399	Marinawa	relatives	káíɸó	káíɸó	k a i ɸ o	None	70	k a - i ɸ o	C V V C V	70
 2402	Matis	relatives	kaniwa	kaniwa	k a n i w a	None	70	k a n i w a	C V C V C V	70
@@ -2938,10 +2938,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6002	Sharanawa	roof made of straw	ʂɨwai	ʂɨwai	ʂ ɨ w a	None	356	ʂ ɨ w a	C V C V	356
 5999	ShipiboKonibo	roof made of straw	ʂɨwa-	ʂɨwa-	ʂ ɨ w a	None	356	ʂ ɨ w a	C V C V	356
 6007	Yawanawa	roof made of straw	ʂɨw-	ʂɨw-	ʂ ɨ w	None	356	ʂ ɨ w -	C V C	356
-6417	Amawaka	root	tapõ	tapõ	t a p o ~	II	386	t a p o ~	C V C V 0	386
+6417	Amawaka	root	tapõ	tapõ	t a p o ∼	II	386	t a p o ∼	C V C V C	386
 6411	Chakobo	root	tapóno	tapóno	t a p o n	None	386	t a p o n	C V C V C	386
 6413	Chaninawa	root	tapon	tapon	t a p o n	None	386	t a p o n	C V C V C	386
-6407	Kakataibo	root	tapṍ	tapṍ	t a p o ~	None	386	t a p o ~	C V C V 0	386
+6407	Kakataibo	root	tapṍ	tapṍ	t a p o ∼	None	386	t a p o ∼	C V C V C	386
 6409	Kapanawa	root	tapón	tapón	t a p o n	None	386	t a p o n	C V C V C	386
 6418	Kaxinawa	root	tapu	tapu	t a p u	None	386	t a p u -	C V C V	386
 6419	Marinawa	root	tápo	tápo	t a p o	None	386	t a p o -	C V C V	386
@@ -2951,7 +2951,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6406	ProtoPanoan	root	tapon	tapon	t a p o n	None	386	t a p o n	C V C V C	386
 6416	Shanenawa	root	tapu	tapu	t a p u	None	386	t a p u -	C V C V	386
 6414	Sharanawa	root	tapon	tapon	t a p o n	None	386	t a p o n	C V C V C	386
-6408	ShipiboKonibo	root	tapṍ	tapṍ	t a p o ~	None	386	t a p o ~	C V C V 0	386
+6408	ShipiboKonibo	root	tapṍ	tapṍ	t a p o ∼	None	386	t a p o ∼	C V C V C	386
 6420	Yawanawa	root	tapun	tapun	t a p u n	None	386	t a p u n	C V C V C	386
 4658	Amawaka	rotten	payo	payo	p a j o	II	253	p a j o	C V C V	253
 4657	Kapanawa	rotten	payo	payo	p a j o	None	253	p a j o	C V C V	253
@@ -3140,23 +3140,23 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6874	Marinawa	smell	ɸia	ɸia	ɸ i a	None	428	ɸ i a	C V V	428
 6868	ProtoPanoan	smell	wia	wia	w i a	None	428	w i a	C V V	428
 6870	ShipiboKonibo	smell	wia	wia	w i a	None	428	w i a	C V V	428
-2802	Amawaka	smoke	kõʔĩ	kõʔĩ	k o ʔ i ~	II	97	k o ʔ i ~	C V C V 0	97
+2802	Amawaka	smoke	kõʔĩ	kõʔĩ	k o ʔ i ∼	II	97	k o ʔ i ∼	C V C V C	97
 2791	Chakobo	smoke	koˈʔini	koˈʔini	k o ʔ i n	None	97	k o ʔ i n	C V C V C	97
 2796	Chaninawa	smoke	koin	koin	k o i n	None	97	k o - i n	C V V C	97
 2786	Kakataibo	smoke	koi	koi	k o i	None	97	k o - i -	C V V	97
 2789	Kapanawa	smoke	koʔín	koʔín	k o ʔ i n	None	97	k o ʔ i n	C V C V C	97
 2800	Katukina	smoke	kuin	kuin	k u i n	None	97	k u - i n	C V V C	97
 2794	Kaxarari	smoke	kwaˈni	kwaˈni	kʷ a n	None	97	kʷ a - - n	C V C	97
-2803	Kaxinawa	smoke	kũĩ	kũĩ	k u i ~	None	97	k u - i ~	C V V 0	97
+2803	Kaxinawa	smoke	kũĩ	kũĩ	k u i ∼	None	97	k u - i ∼	C V V C	97
 2805	Korubo	smoke	kwain	kwain	kʷ a i n	None	97	kʷ a - i n	C V V C	97
-2804	Marinawa	smoke	kṍĩ	kṍĩ	k o i ~	None	97	k o - i ~	C V V 0	97
-2790	Marubo	smoke	koĩ	koĩ	k o i ~	None	97	k o - i ~	C V V 0	97
+2804	Marinawa	smoke	kṍĩ	kṍĩ	k o i ∼	None	97	k o - i ∼	C V V C	97
+2790	Marubo	smoke	koĩ	koĩ	k o i ∼	None	97	k o - i ∼	C V V C	97
 2806	Matis	smoke	kuain	kuain	kʷ a i n	None	97	kʷ a - i n	C V V C	97
-2801	Poyanawa	smoke	kũĩ	kũĩ	k u i ~	None	97	k u - i ~	C V V 0	97
+2801	Poyanawa	smoke	kũĩ	kũĩ	k u i ∼	None	97	k u - i ∼	C V V C	97
 2785	ProtoPanoan	smoke	kwaʔin	kwaʔin	kʷ a ʔ i n	None	97	kʷ a ʔ i n	C V C V C	97
 2799	Shanenawa	smoke	kuin	kuin	k u i n	None	97	k u - i n	C V V C	97
 2797	Sharanawa	smoke	koin	koin	k o i n	None	97	k o - i n	C V V C	97
-2788	ShipiboKonibo	smoke	koĩ	koĩ	k o i ~	None	97	k o - i ~	C V V 0	97
+2788	ShipiboKonibo	smoke	koĩ	koĩ	k o i ∼	None	97	k o - i ∼	C V V C	97
 5431	Amawaka	snake	ronó_I	ronó_I	r o n o	None	309	r o n o	C V C V	309
 5421	Chakobo	snake	rono	rono	r o n o	None	309	r o n o	C V C V	309
 5425	Chaninawa	snake	rodo	rodo	r o d o	None	309	r o d o	C V C V	309
@@ -3169,7 +3169,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5420	Marubo	snake	runu	runu	r u n u	None	309	r u n u	C V C V	309
 5435	Matis	snake	dunu	dunu	d u n u	None	309	d u n u	C V C V	309
 5436	Mayoruna	snake	du.ˈnu	du.ˈnu	d u n u	None	309	d u n u	C V C V	309
-5430	Poyanawa	snake	ɾũdu	ɾũdu	ɾ u ~.d u	None	309	ɾ u ~.d u	C V 0 V	309
+5430	Poyanawa	snake	ɾũdu	ɾũdu	ɾ u ∼.d u	None	309	ɾ u ∼.d u	C V C V	309
 5416	ProtoPanoan	snake	ɽoro	ɽoro	ɽ o r o	None	309	ɽ o r o	C V C V	309
 5428	Shanenawa	snake	ɾunu	ɾunu	ɾ u n u	None	309	ɾ u n u	C V C V	309
 5426	Sharanawa	snake	rono	rono	r o n o	None	309	r o n o	C V C V	309
@@ -3182,17 +3182,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 7187	Marinawa	sorcerer	yóɸɨ	yóɸɨ	j o ɸ ɨ	None	454	j o ɸ ɨ - -	C V C V	454
 7179	ProtoPanoan	sorcerer	yoβɨ[ka]	yoβɨ[ka]	j o β ɨ k a	None	454	j o β ɨ k a	C V C V C V	454
 7180	ShipiboKonibo	sorcerer	yoβɨ́́	yoβɨ́́	j o β ɨ	None	454	j o β ɨ - -	C V C V	454
-1368	Amawaka	soup, broth	wɨtɨ̃	wɨtɨ̃	w ɨ t ɨ ~	II	501	w ɨ t ɨ ~	C V C V 0	501
+1368	Amawaka	soup, broth	wɨtɨ̃	wɨtɨ̃	w ɨ t ɨ ∼	II	501	w ɨ t ɨ ∼	C V C V C	501
 1365	Chakobo	soup, broth	βɨtɨ́mɨ	βɨtɨ́mɨ	β ɨ t ɨ m	None	501	β ɨ t ɨ m	C V C V C	501
-1362	Kakataibo	soup, broth	βɨtɨ̃	βɨtɨ̃	β ɨ t ɨ ~	None	501	β ɨ t ɨ ~	C V C V 0	501
+1362	Kakataibo	soup, broth	βɨtɨ̃	βɨtɨ̃	β ɨ t ɨ ∼	None	501	β ɨ t ɨ ∼	C V C V C	501
 1364	Kapanawa	soup, broth	βɨtɨn	βɨtɨn	β ɨ t ɨ n	None	501	β ɨ t ɨ n	C V C V C	501
-1369	Kaxinawa	soup, broth	bɨtɨ̃	bɨtɨ̃	b ɨ t ɨ ~	None	501	b ɨ t ɨ ~	C V C V 0	501
+1369	Kaxinawa	soup, broth	bɨtɨ̃	bɨtɨ̃	b ɨ t ɨ ∼	None	501	b ɨ t ɨ ∼	C V C V C	501
 1371	Korubo	soup, broth	βɨtɨn	βɨtɨn	β ɨ t ɨ n	None	501	β ɨ t ɨ n	C V C V C	501
-1370	Marinawa	soup, broth	ɸɨ́tɨ̃	ɸɨ́tɨ̃	ɸ ɨ t ɨ ~	None	501	ɸ ɨ t ɨ ~	C V C V 0	501
+1370	Marinawa	soup, broth	ɸɨ́tɨ̃	ɸɨ́tɨ̃	ɸ ɨ t ɨ ∼	None	501	ɸ ɨ t ɨ ∼	C V C V C	501
 1372	Matis	soup, broth	bɨtɨn	bɨtɨn	b ɨ t ɨ n	None	501	b ɨ t ɨ n	C V C V C	501
 1361	ProtoPanoan	soup, broth	βɨtɨm	βɨtɨm	β ɨ t ɨ m	None	501	β ɨ t ɨ m	C V C V C	501
 1366	Sharanawa	soup, broth	ɸɨtɨn	ɸɨtɨn	ɸ ɨ t ɨ n	None	501	ɸ ɨ t ɨ n	C V C V C	501
-1363	ShipiboKonibo	soup, broth	βɨtɨ̃	βɨtɨ̃	β ɨ t ɨ ~	None	501	β ɨ t ɨ ~	C V C V 0	501
+1363	ShipiboKonibo	soup, broth	βɨtɨ̃	βɨtɨ̃	β ɨ t ɨ ∼	None	501	β ɨ t ɨ ∼	C V C V C	501
 2065	Amawaka	species of ant	hima	hima	h i m a	II	44	h i - - m a	C V C V	44
 2059	Chakobo	species of ant	hiʔima	hiʔima	h i ʔ i m a	None	44	h i ʔ i m a	C V C V C V	44
 2057	Kapanawa	species of ant	hiín	hiín	h i i n	None	44	h i - i n -	C V V C	44
@@ -3220,17 +3220,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3430	Mayoruna	species of ant	maˈwes	maˈwes	m a w e s	None	153	m a w e s	C V C V C	153
 3421	ProtoPanoan	species of ant	mawis	mawis	m a w i s	None	153	m a w i s	C V C V C	153
 3424	ShipiboKonibo	species of ant	mawís	mawís	m a w i s	None	153	m a w i s	C V C V C	153
-2373	Amawaka	species of arara	kãʔĩ	kãʔĩ	k a ʔ i ~	II	67	k a ʔ i ~	C V C V 0	67
+2373	Amawaka	species of arara	kãʔĩ	kãʔĩ	k a ʔ i ∼	II	67	k a ʔ i ∼	C V C V C	67
 2367	Chakobo	species of arara	kaʔíni	kaʔíni	k a ʔ i n	None	67	k a ʔ i n	C V C V C	67
-2364	Kakataibo	species of arara	kaĩ	kaĩ	k a i ~	None	67	k a - i ~	C V V 0	67
-2374	Kaxinawa	species of arara	kãĩ	kãĩ	k a i ~	None	67	k a - i ~	C V V 0	67
-2375	Marinawa	species of arara	kã́ĩ	kã́ĩ	k a i ~	None	67	k a - i ~	C V V 0	67
-2366	Marubo	species of arara	kaĩ	kaĩ	k a i ~	None	67	k a - i ~	C V V 0	67
+2364	Kakataibo	species of arara	kaĩ	kaĩ	k a i ∼	None	67	k a - i ∼	C V V C	67
+2374	Kaxinawa	species of arara	kãĩ	kãĩ	k a i ∼	None	67	k a - i ∼	C V V C	67
+2375	Marinawa	species of arara	kã́ĩ	kã́ĩ	k a i ∼	None	67	k a - i ∼	C V V C	67
+2366	Marubo	species of arara	kaĩ	kaĩ	k a i ∼	None	67	k a - i ∼	C V V C	67
 2376	Matis	species of arara	kuenad	kuenad	k u e n	None	67	k u - e n	C V V C	67
 2363	ProtoPanoan	species of arara	kaʔi[n]	kaʔi[n]	k a ʔ i rⁿ	None	67	k a ʔ i rⁿ	C V C V C	67
 2371	Sharanawa	species of arara	kain	kain	k a i n	None	67	k a - i n	C V V C	67
-2365	ShipiboKonibo	species of arara	Kaĩ	Kaĩ	k a i ~	None	67	k a - i ~	C V V 0	67
-2369	Yaminawa	species of arara	kaĩ	kaĩ	k a i ~	None	67	k a - i ~	C V V 0	67
+2365	ShipiboKonibo	species of arara	Kaĩ	Kaĩ	k a i ∼	None	67	k a - i ∼	C V V C	67
+2369	Yaminawa	species of arara	kaĩ	kaĩ	k a i ∼	None	67	k a - i ∼	C V V C	67
 2476	Amawaka	species of arara	kana_I	kana_I	k a n a	None	75	k a n a	C V C V	75
 2471	Chakobo	species of arara	kana	kana	k a n a	None	75	k a n a	C V C V	75
 2467	Kakataibo	species of arara	kana	kana	k a n a	None	75	k a n a	C V C V	75
@@ -3244,16 +3244,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2466	ProtoPanoan	species of arara	kara	kara	k a r a	None	75	k a r a	C V C V	75
 2473	Sharanawa	species of arara	kana	kana	k a n a	None	75	k a n a	C V C V	75
 2468	ShipiboKonibo	species of arara	kana	kana	k a n a	None	75	k a n a	C V C V	75
-5793	Amawaka	species of arara	xãã	xãã	x a a ~	II	340	x a - a ~	C V V 0	340
+5793	Amawaka	species of arara	xãã	xãã	x a a ∼	II	340	x a - a ∼	C V V C	340
 5790	Chakobo	species of arara	ʂawáni	ʂawáni	ʂ a w a n	None	340	ʂ a w a n	C V C V C	340
 5786	Kakataibo	species of arara	ʂɔɔ	ʂɔɔ	ʂ ɔ ɔ	None	340	ʂ ɔ - ɔ -	C V V	340
 5788	Kapanawa	species of arara	ʂawán	ʂawán	ʂ a w a n	None	340	ʂ a w a n	C V C V C	340
 5792	Katukina	species of arara	ʃawan	ʃawan	ʃ a w a n	None	340	ʃ a w a n	C V C V C	340
-5794	Kaxinawa	species of arara	ʂawã	ʂawã	ʂ a w a ~	None	340	ʂ a w a ~	C V C V 0	340
-5795	Marinawa	species of arara	ʂã́wã	ʂã́wã	ʂ a w a ~	None	340	ʂ a w a ~	C V C V 0	340
-5789	Marubo	species of arara	ˈʃawã	ˈʃawã	ʃ a w a ~	None	340	ʃ a w a ~	C V C V 0	340
+5794	Kaxinawa	species of arara	ʂawã	ʂawã	ʂ a w a ∼	None	340	ʂ a w a ∼	C V C V C	340
+5795	Marinawa	species of arara	ʂã́wã	ʂã́wã	ʂ a w a ∼	None	340	ʂ a w a ∼	C V C V C	340
+5789	Marubo	species of arara	ˈʃawã	ˈʃawã	ʃ a w a ∼	None	340	ʃ a w a ∼	C V C V C	340
 5785	ProtoPanoan	species of arara	ʂawar	ʂawar	ʂ a w a r	None	340	ʂ a w a r	C V C V C	340
-5787	ShipiboKonibo	species of arara	ʂawã́	ʂawã́	ʂ a w a ~	None	340	ʂ a w a ~	C V C V 0	340
+5787	ShipiboKonibo	species of arara	ʂawã́	ʂawã́	ʂ a w a ∼	None	340	ʂ a w a ∼	C V C V C	340
 4546	Amawaka	species of armadillo	pano_I	pano_I	p a n o	None	242	p a - n o	C V C V	242
 4539	Kakataibo	species of armadillo	paɨ	paɨ	p a ɨ	None	242	p a ɨ - -	C V V	242
 4544	Katukina	species of armadillo	panu	panu	p a n u	None	242	p a - n u	C V C V	242
@@ -3372,27 +3372,27 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1851	Sharanawa	species of deer	tʃaʂo	tʃaʂo	tʃ a ʂ o	None	28	tʃ a ʂ o	C V C V	28
 1838	ShipiboKonibo	species of deer	tʃaʂo	tʃaʂo	tʃ a ʂ o	None	28	tʃ a ʂ o	C V C V	28
 1849	Yaminawa	species of deer	tʃaʂo	tʃaʂo	tʃ a ʂ o	None	28	tʃ a ʂ o	C V C V	28
-1087	Amawaka	species of fish	watõ	watõ	w a t o ~	II	480	w a t o ~	C V C V 0	480
+1087	Amawaka	species of fish	watõ	watõ	w a t o ∼	II	480	w a t o ∼	C V C V C	480
 1082	Chakobo	species of fish	ˈβatoma	ˈβatoma	β a t o m	None	480	β a t o m	C V C V C	480
-1079	Kakataibo	species of fish	βatṍ	βatṍ	β a t o ~	None	480	β a t o ~	C V C V 0	480
+1079	Kakataibo	species of fish	βatṍ	βatṍ	β a t o ∼	None	480	β a t o ∼	C V C V C	480
 1081	Kapanawa	species of fish	βatón	βatón	β a t o n	None	480	β a t o n	C V C V C	480
 1086	Katukina	species of fish	βatun	βatun	β a t u n	None	480	β a t u n	C V C V C	480
-1088	Kaxinawa	species of fish	batũ	batũ	b a t u ~	None	480	b a t u ~	C V C V 0	480
+1088	Kaxinawa	species of fish	batũ	batũ	b a t u ∼	None	480	b a t u ∼	C V C V C	480
 1078	ProtoPanoan	species of fish	βato[m]	βato[m]	β a t o m	None	480	β a t o m	C V C V C	480
 1084	Sharanawa	species of fish	ɸato	ɸato	ɸ a t o	None	480	ɸ a t o -	C V C V	480
-1080	ShipiboKonibo	species of fish	βatṍ	βatṍ	β a t o ~	None	480	β a t o ~	C V C V 0	480
+1080	ShipiboKonibo	species of fish	βatṍ	βatṍ	β a t o ∼	None	480	β a t o ∼	C V C V C	480
 1709	Amawaka	species of fish	ʂaʂɨ̃tsatsa	ʂaʂɨ̃tsatsa	ts a ts a	II	14	ts a ts a	C V C V	14
 1703	Kakataibo	species of fish	tsatsa	tsatsa	ts a ts a	None	14	ts a ts a	C V C V	14
 1707	Kapanawa	species of fish	tsatsa	tsatsa	ts a ts a	None	14	ts a ts a	C V C V	14
 1702	ProtoPanoan	species of fish	tsatsa	tsatsa	ts a ts a	None	14	ts a ts a	C V C V	14
 1704	ShipiboKonibo	species of fish	tsátsa	tsátsa	ts a ts a	None	14	ts a ts a	C V C V	14
-3023	Amawaka	species of fish	mãʔĩ	mãʔĩ	m a ʔ i ~	II	119	m a ʔ i ~	C V C V 0	119
-3018	Kakataibo	species of fish	maĩ	maĩ	m a i ~	None	119	m a - i ~	C V V 0	119
+3023	Amawaka	species of fish	mãʔĩ	mãʔĩ	m a ʔ i ∼	II	119	m a ʔ i ∼	C V C V C	119
+3018	Kakataibo	species of fish	maĩ	maĩ	m a i ∼	None	119	m a - i ∼	C V V C	119
 3024	Kaxinawa	species of fish	mai	mai	m a i	None	119	m a - i -	C V V	119
-3025	Marinawa	species of fish	mã́ĩ	mã́ĩ	m a i ~	None	119	m a - i ~	C V V 0	119
+3025	Marinawa	species of fish	mã́ĩ	mã́ĩ	m a i ∼	None	119	m a - i ∼	C V V C	119
 3017	ProtoPanoan	species of fish	maʔi[r]	maʔi[r]	m a ʔ i r	None	119	m a ʔ i r	C V C V C	119
 3021	Sharanawa	species of fish	main	main	m a i n	None	119	m a - i n	C V V C	119
-3019	ShipiboKonibo	species of fish	maĩ	maĩ	m a i ~	None	119	m a - i ~	C V V 0	119
+3019	ShipiboKonibo	species of fish	maĩ	maĩ	m a i ∼	None	119	m a - i ∼	C V V C	119
 5466	Amawaka	species of fish	sanin	sanin	s a n i n	None	313	s a n i n	C V C V C	313
 5463	Chakobo	species of fish	saˈnino	saˈnino	s a n i n	None	313	s a n i n	C V C V C	313
 5460	Kakataibo	species of fish	sanin	sanin	s a n i n	None	313	s a n i n	C V C V C	313
@@ -3424,19 +3424,19 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 372	ProtoPanoan	species of fish (Loricariidae)	ʔipo	ʔipo	ʔ i p o	None	138	ʔ i p o	C V C V	138
 379	Sharanawa	species of fish (Loricariidae)	ipo	ipo	i p o	None	138	- i p o	V C V	138
 374	ShipiboKonibo	species of fish (Loricariidae)	ʔipo	ʔipo	ʔ i p o	None	138	ʔ i p o	C V C V	138
-1089	Marinawa	species of fish (Loricariidae)	ɸátõ	ɸátõ	ɸ a t o ~	None	480	ɸ a t o ~	C V C V 0	480
-1122	Marinawa	species of fish (Loricariidae)	ɸã́wĩ	ɸã́wĩ	ɸ a w i ~	None	482	ɸ a w i ~	C V C V 0	482
+1089	Marinawa	species of fish (Loricariidae)	ɸátõ	ɸátõ	ɸ a t o ∼	None	480	ɸ a t o ∼	C V C V C	480
+1122	Marinawa	species of fish (Loricariidae)	ɸã́wĩ	ɸã́wĩ	ɸ a w i ∼	None	482	ɸ a w i ∼	C V C V C	482
 1710	Kaxinawa	species of fish (Loricariidae)	tsatsa	tsatsa	ts a ts a	None	14	ts a ts a	C V C V	14
-1120	Amawaka	species of fish (Pimelididae)	wãĩ	wãĩ	w a i ~	II	482	w a - i ~	C V V 0	482
+1120	Amawaka	species of fish (Pimelididae)	wãĩ	wãĩ	w a i ∼	II	482	w a - i ∼	C V V C	482
 1113	Chakobo	species of fish (Pimelididae)	baˈwino	baˈwino	b a w i n	None	482	b a w i n	C V C V C	482
-1110	Kakataibo	species of fish (Pimelididae)	βaĩ	βaĩ	β a i ~	None	482	β a - i ~	C V V 0	482
+1110	Kakataibo	species of fish (Pimelididae)	βaĩ	βaĩ	β a i ∼	None	482	β a - i ∼	C V V C	482
 1112	Kapanawa	species of fish (Pimelididae)	βawín	βawín	β a w i n	None	482	β a w i n	C V C V C	482
 1118	Katukina	species of fish (Pimelididae)	βain	βain	β a i n	None	482	β a - i n	C V V C	482
-1121	Kaxinawa	species of fish (Pimelididae)	bãĩ	bãĩ	b a i ~	None	482	b a - i ~	C V V 0	482
+1121	Kaxinawa	species of fish (Pimelididae)	bãĩ	bãĩ	b a i ∼	None	482	b a - i ∼	C V V C	482
 1109	ProtoPanoan	species of fish (Pimelididae)	βawi[n]	βawi[n]	β a w i rⁿ	None	482	β a w i rⁿ	C V C V C	482
 1117	Shanenawa	species of fish (Pimelididae)	faɨ	faɨ	f a ɨ	None	482	f a - ɨ -	C V V	482
-1111	ShipiboKonibo	species of fish (Pimelididae)	βawĩ	βawĩ	β a w i ~	None	482	β a w i ~	C V C V 0	482
-1115	Yaminawa	species of fish (Pimelididae)	ɸaɸĩ	ɸaɸĩ	ɸ a ɸ i ~	None	482	ɸ a ɸ i ~	C V C V 0	482
+1111	ShipiboKonibo	species of fish (Pimelididae)	βawĩ	βawĩ	β a w i ∼	None	482	β a w i ∼	C V C V C	482
+1115	Yaminawa	species of fish (Pimelididae)	ɸaɸĩ	ɸaɸĩ	ɸ a ɸ i ∼	None	482	ɸ a ɸ i ∼	C V C V C	482
 1569	Amawaka	species of fish (Pimelididae)	wowɨ_I	wowɨ_I	w o ɨ	None	3	w o ɨ	C V V	3
 1565	Chakobo	species of fish (Pimelididae)	βoɨ	βoɨ	β o ɨ	None	3	β o ɨ	C V V	3
 1562	Kakataibo	species of fish (Pimelididae)	βuɨ	βuɨ	β u ɨ	None	3	β u ɨ	C V V	3
@@ -3471,15 +3471,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2901	ProtoPanoan	species of funghi	ko[n]o	ko[n]o	k o rⁿ o	None	109	k o rⁿ o	C V C V	109
 2907	Sharanawa	species of funghi	kono	kono	k o n o	None	109	k o n o	C V C V	109
 2904	ShipiboKonibo	species of funghi	kono	kono	k o n o	None	109	k o n o	C V C V	109
-3325	Amawaka	species of gourd	mãsɨ̃	mãsɨ̃	m a s ɨ ~	None	143	m a s ɨ ~	C V C V 0	143
-3319	Kakataibo	species of gourd	masɨ̃	masɨ̃	m a s ɨ ~	None	143	m a s ɨ ~	C V C V 0	143
+3325	Amawaka	species of gourd	mãsɨ̃	mãsɨ̃	m a s ɨ ∼	None	143	m a s ɨ ∼	C V C V C	143
+3319	Kakataibo	species of gourd	masɨ̃	masɨ̃	m a s ɨ ∼	None	143	m a s ɨ ∼	C V C V C	143
 3321	Kapanawa	species of gourd	maʂɨn	maʂɨn	m a ʂ ɨ n	None	143	m a ʂ ɨ n	C V C V C	143
 3326	Marinawa	species of gourd	máʂɨ	máʂɨ	m a ʂ ɨ	None	143	m a ʂ ɨ -	C V C V	143
-3322	Marubo	species of gourd	mãˈsɨ̃	mãˈsɨ̃	m a s ɨ ~	None	143	m a s ɨ ~	C V C V 0	143
+3322	Marubo	species of gourd	mãˈsɨ̃	mãˈsɨ̃	m a s ɨ ∼	None	143	m a s ɨ ∼	C V C V C	143
 3327	Matis	species of gourd	masɨn	masɨn	m a s ɨ n	None	143	m a s ɨ n	C V C V C	143
 3318	ProtoPanoan	species of gourd	masɨ[n]	masɨ[n]	m a s ɨ rⁿ	None	143	m a s ɨ rⁿ	C V C V C	143
 3323	Sharanawa	species of gourd	masɨ	masɨ	m a s ɨ	None	143	m a s ɨ -	C V C V	143
-3320	ShipiboKonibo	species of gourd	masɨ̃	masɨ̃	m a s ɨ ~	None	143	m a s ɨ ~	C V C V 0	143
+3320	ShipiboKonibo	species of gourd	masɨ̃	masɨ̃	m a s ɨ ∼	None	143	m a s ɨ ∼	C V C V C	143
 5782	Amawaka	species of gourd	xatã	xatã	x a t a	None	339	x a t a -	C V C V	339
 5777	Chakobo	species of gourd	ʂaˈta	ʂaˈta	ʂ a t a	None	339	ʂ a t a -	C V C V	339
 5776	Kapanawa	species of gourd	ʂatan	ʂatan	ʂ a t a n	None	339	ʂ a t a n	C V C V C	339
@@ -3529,7 +3529,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 364	Sharanawa	species of jaguar	ino	ino	i n o	None	127	- i n o	V C V	127
 358	ShipiboKonibo	species of jaguar	ʔino	ʔino	ʔ i n o	None	127	ʔ i n o	C V C V	127
 362	Yaminawa	species of jaguar	ino_ɸãɸi	ino_ɸãɸi	i n o	None	127	- i n o	V C V	127
-2444	Amawaka	species of jaguar	kámã	kámã	k a m a ~	None	73	k a m a ~	C V C V 0	73
+2444	Amawaka	species of jaguar	kámã	kámã	k a m a ∼	None	73	k a m a ∼	C V C V C	73
 2436	Chakobo	species of jaguar	kaˈmano	kaˈmano	k a m a n	None	73	k a m a n	C V C V C	73
 2434	Kapanawa	species of jaguar	kaman_ʔino	kaman_ʔino	k a m a n	None	73	k a m a n	C V C V C	73
 2443	Katukina	species of jaguar	kaˈman	kaˈman	k a m a n	None	73	k a m a n	C V C V C	73
@@ -3541,7 +3541,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2431	ProtoPanoan	species of jaguar	kamar	kamar	k a m a r	None	73	k a m a r	C V C V C	73
 2442	Shanenawa	species of jaguar	kaman	kaman	k a m a n	None	73	k a m a n	C V C V C	73
 2440	Sharanawa	species of jaguar	kaman	kaman	k a m a n	None	73	k a m a n	C V C V C	73
-2433	ShipiboKonibo	species of jaguar	kamã́	kamã́	k a m a ~	None	73	k a m a ~	C V C V 0	73
+2433	ShipiboKonibo	species of jaguar	kamã́	kamã́	k a m a ∼	None	73	k a m a ∼	C V C V C	73
 2449	Yawanawa	species of jaguar	kaman	kaman	k a m a n	None	73	k a m a n	C V C V C	73
 6135	Amawaka	species of large tucan	xokɨ	xokɨ	x o k ɨ	II	366	x o k ɨ	C V C V	366
 6128	Chakobo	species of large tucan	ʂokɨ	ʂokɨ	ʂ o k ɨ	None	366	ʂ o k ɨ	C V C V	366
@@ -3571,9 +3571,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5860	Yaminawa	species of lizard	ʂɨkɨ	ʂɨkɨ	ʂ ɨ k ɨ	None	346	ʂ ɨ k ɨ -	C V C V	346
 5791	Kaxarari	species of macaw	ʃawaˈlɨ	ʃawaˈlɨ	ʃ a w a l	None	340	ʃ a w a l	C V C V C	340
 1813	Amawaka	species of mollusc	tʃanpíʃ	tʃanpíʃ	tʃ a n p i ʃ	None	25	tʃ a n p i ʃ	C V C C V C	25
-1810	Kakataibo	species of mollusc	tʃãpíʃ	tʃãpíʃ	tʃ a ~ p i ʃ	None	25	tʃ a ~ p i ʃ	C V 0 C V C	25
-1814	Kaxinawa	species of mollusc	tʃãpiʃ	tʃãpiʃ	tʃ a ~ p i ʃ	None	25	tʃ a ~ p i ʃ	C V 0 C V C	25
-1809	ProtoPanoan	species of mollusc	tʃãpiʃ	tʃãpiʃ	tʃ a ~ p i ʃ	None	25	tʃ a ~ p i ʃ	C V 0 C V C	25
+1810	Kakataibo	species of mollusc	tʃãpíʃ	tʃãpíʃ	tʃ a ∼ p i ʃ	None	25	tʃ a ∼ p i ʃ	C V C C V C	25
+1814	Kaxinawa	species of mollusc	tʃãpiʃ	tʃãpiʃ	tʃ a ∼ p i ʃ	None	25	tʃ a ∼ p i ʃ	C V C C V C	25
+1809	ProtoPanoan	species of mollusc	tʃãpiʃ	tʃãpiʃ	tʃ a ∼ p i ʃ	None	25	tʃ a ∼ p i ʃ	C V C C V C	25
 1815	Yawanawa	species of mollusc	tʃapiʃi	tʃapiʃi	tʃ a p i ʃ	None	25	tʃ a - p i ʃ	C V C V C	25
 3667	Amawaka	species of monkey	nãʔi	nãʔi	n a ʔ i	II	174	n a ʔ i -	C V C V	174
 3663	Kapanawa	species of monkey	naʔín	naʔín	n a ʔ i n	None	174	n a ʔ i n	C V C V C	174
@@ -3601,12 +3601,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5580	Chakobo	species of monkey	ʃino	ʃino	ʃ i n o	None	323	ʃ i n o	C V C V	323
 5582	Chaninawa	species of monkey	ʃido	ʃido	ʃ i d o	None	323	ʃ i d o	C V C V	323
 5578	Kapanawa	species of monkey	ʃino	ʃino	ʃ i n o	None	323	ʃ i n o	C V C V	323
-5586	Katukina	species of monkey	ʃĩˈoʔ	ʃĩˈoʔ	ʃ i ~ o	None	323	ʃ i ~ o	C V 0 V	323
+5586	Katukina	species of monkey	ʃĩˈoʔ	ʃĩˈoʔ	ʃ i ∼ o	None	323	ʃ i ∼ o	C V C V	323
 5581	Kaxarari	species of monkey	ʃiluˈa	ʃiluˈa	ʃ i l u	None	323	ʃ i l u	C V C V	323
 5589	Kaxinawa	species of monkey	ʃinu	ʃinu	ʃ i n u	None	323	ʃ i n u	C V C V	323
 5590	Marinawa	species of monkey	ʃino	ʃino	ʃ i n o	None	323	ʃ i n o	C V C V	323
 5579	Marubo	species of monkey	ʂino	ʂino	ʂ i n o	None	323	ʂ i n o	C V C V	323
-5587	Poyanawa	species of monkey	ʃĩdu	ʃĩdu	ʃ i ~.d u	None	323	ʃ i ~.d u	C V 0 V	323
+5587	Poyanawa	species of monkey	ʃĩdu	ʃĩdu	ʃ i ∼.d u	None	323	ʃ i ∼.d u	C V C V	323
 5576	ProtoPanoan	species of monkey	ʃiro	ʃiro	ʃ i r o	None	323	ʃ i r o	C V C V	323
 5585	Shanenawa	species of monkey	ʂinu	ʂinu	ʂ i n u	None	323	ʂ i n u	C V C V	323
 5583	Sharanawa	species of monkey	ʃino	ʃino	ʃ i n o	None	323	ʃ i n o	C V C V	323
@@ -3633,17 +3633,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3691	ProtoPanoan	species of mosquito	[n]akwa	[n]akwa	rⁿ a kʷ a	None	176	rⁿ a kʷ a	C V C V	176
 3697	Sharanawa	species of mosquito	naka	naka	n a k a	None	176	n a k a	C V C V	176
 3693	ShipiboKonibo	species of mosquito	naka	naka	n a k a	None	176	n a k a	C V C V	176
-1659	Amawaka	species of otter	wõsĩ	wõsĩ	w o s i ~	II	10	w o s i ~	C V C V 0	10
+1659	Amawaka	species of otter	wõsĩ	wõsĩ	w o s i ∼	II	10	w o s i ∼	C V C V C	10
 1652	Kakataibo	species of otter	βõsime	βõsime	β o s i m	None	10	β o s i m	C V C V C	10
 1654	Kapanawa	species of otter	hɨnɨ_βosi	hɨnɨ_βosi	β o s i	None	10	β o s i -	C V C V	10
-1660	Marinawa	species of otter	ɸósĩ	ɸósĩ	ɸ o s i ~	None	10	ɸ o s i ~	C V C V 0	10
+1660	Marinawa	species of otter	ɸósĩ	ɸósĩ	ɸ o s i ∼	None	10	ɸ o s i ∼	C V C V C	10
 1661	Matis	species of otter	bonsen	bonsen	b o s e n	None	10	b o s e n	C V C V C	10
 1662	Mayoruna	species of otter	bosen	bosen	b o s e n	None	10	b o s e n	C V C V C	10
-1658	Poyanawa	species of otter	βũsĩ	βũsĩ	β u s i ~	None	10	β u s i ~	C V C V 0	10
+1658	Poyanawa	species of otter	βũsĩ	βũsĩ	β u s i ∼	None	10	β u s i ∼	C V C V C	10
 1651	ProtoPanoan	species of otter	βõsi[m]	βõsi[m]	β o s i m	None	10	β o s i m	C V C V C	10
 1657	Shanenawa	species of otter	fuˈsiʔ	fuˈsiʔ	f u s i ʔ	None	10	f u s i ʔ	C V C V C	10
 1655	Sharanawa	species of otter	ɸosi	ɸosi	ɸ o s i	None	10	ɸ o s i -	C V C V	10
-1653	ShipiboKonibo	species of otter	βõsĩ	βõsĩ	β o s i ~	None	10	β o s i ~	C V C V 0	10
+1653	ShipiboKonibo	species of otter	βõsĩ	βõsĩ	β o s i ∼	None	10	β o s i ∼	C V C V C	10
 1977	Kaxinawa	species of otter	hɨnɨ_inu	hɨnɨ_inu	h ɨ n ɨ i n u	None	38	h ɨ n ɨ - i n u	C V C V V C V	38
 4939	Amawaka	species of owl	popó_I	popó_I	p o p o	None	274	p o p o	C V C V	274
 4934	Chakobo	species of owl	popo	popo	p o p o	None	274	p o p o	C V C V	274
@@ -3665,7 +3665,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1541	Kapanawa	species of palm	βoʔɾɨ́	βoʔɾɨ́	β o ʔ ɾ ɨ	None	515	β o ʔ ɾ ɨ -	C V C C V	515
 1545	Kaxinawa	species of palm	budɨ	budɨ	b u d ɨ	None	515	b u - d ɨ -	C V C V	515
 1547	Korubo	species of palm	βoɬɨt	βoɬɨt	β o ɬ ɨ t	None	515	β o - ɬ ɨ t	C V C V C	515
-1546	Marinawa	species of palm	ɸóɾɨ̃	ɸóɾɨ̃	ɸ o ɾ ɨ ~	None	515	ɸ o - ɾ ɨ ~	C V C V 0	515
+1546	Marinawa	species of palm	ɸóɾɨ̃	ɸóɾɨ̃	ɸ o ɾ ɨ ∼	None	515	ɸ o - ɾ ɨ ∼	C V C V C	515
 1548	Mayoruna	species of palm	buˈɾɨd	buˈɾɨd	b u ɾ ɨ d	None	515	b u - ɾ ɨ d	C V C V C	515
 1537	ProtoPanoan	species of palm	βoʔɽɨ[t]	βoʔɽɨ[t]	β o ʔ ɽ ɨ t	None	515	β o ʔ ɽ ɨ t	C V C C V C	515
 1544	Shanenawa	species of palm	ɸuɾɨ	ɸuɾɨ	ɸ u ɾ ɨ	None	515	ɸ u - ɾ ɨ -	C V C V	515
@@ -3683,15 +3683,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1998	ShipiboKonibo	species of palm	hɨpɨ	hɨpɨ	h ɨ p ɨ	None	40	h ɨ p ɨ	C V C V	40
 2002	Yaminawa	species of palm	ɨpɨ	ɨpɨ	ɨ p ɨ	None	40	- ɨ p ɨ	V C V	40
 4067	Kakataibo	species of palm	nisi	nisi	n i s i	None	205	n i s i	C V C V	205
-5849	Amawaka	species of palm	xɨwõ	xɨwõ	x ɨ w o ~	None	345	x ɨ w o ~	C V C V 0	345
+5849	Amawaka	species of palm	xɨwõ	xɨwõ	x ɨ w o ∼	None	345	x ɨ w o ∼	C V C V C	345
 5844	Kakataibo	species of palm	ʂɨβin	ʂɨβin	ʂ ɨ β i n	None	345	ʂ ɨ β i n	C V C V C	345
 5846	Kapanawa	species of palm	ʂɨβón	ʂɨβón	ʂ ɨ β o n	None	345	ʂ ɨ β o n	C V C V C	345
 5850	Kaxinawa	species of palm	ʂibu	ʂibu	ʂ i b u	None	345	ʂ i b u -	C V C V	345
-5851	Marinawa	species of palm	ʂɨ́́ɸõ	ʂɨ́́ɸõ	ʂ ɨ ɸ o ~	None	345	ʂ ɨ ɸ o ~	C V C V 0	345
+5851	Marinawa	species of palm	ʂɨ́́ɸõ	ʂɨ́́ɸõ	ʂ ɨ ɸ o ∼	None	345	ʂ ɨ ɸ o ∼	C V C V C	345
 5853	Mayoruna	species of palm	ʂɨˈbin	ʂɨˈbin	ʂ ɨ b i n	None	345	ʂ ɨ b i n	C V C V C	345
 5843	ProtoPanoan	species of palm	ʂɨβo[n]	ʂɨβo[n]	ʂ ɨ β o rⁿ	None	345	ʂ ɨ β o rⁿ	C V C V C	345
 5847	Sharanawa	species of palm	ʂɨɸo	ʂɨɸo	ʂ ɨ ɸ o	None	345	ʂ ɨ ɸ o -	C V C V	345
-5845	ShipiboKonibo	species of palm	ʂɨβṍ	ʂɨβṍ	ʂ ɨ β o ~	None	345	ʂ ɨ β o ~	C V C V 0	345
+5845	ShipiboKonibo	species of palm	ʂɨβṍ	ʂɨβṍ	ʂ ɨ β o ∼	None	345	ʂ ɨ β o ∼	C V C V C	345
 5852	Yawanawa	species of palm	ʂɨhu	ʂɨhu	ʂ ɨ h u	None	345	ʂ ɨ h u -	C V C V	345
 6386	Amawaka	species of palm	tao_I	tao_I	t a o	None	384	t a o - -	C V V	384
 6380	Chakobo	species of palm	taˈwawa	taˈwawa	t a o a	None	384	t a o a -	C V V V	384
@@ -3717,22 +3717,22 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 7195	Shanenawa	species of pepper	yutʃi	yutʃi	j u tʃ i	None	455	j u tʃ i	C V C V	455
 7193	Sharanawa	species of pepper	yotʃi	yotʃi	j o tʃ i	None	455	j o tʃ i	C V C V	455
 7189	ShipiboKonibo	species of pepper	yotʃi	yotʃi	j o tʃ i	None	455	j o tʃ i	C V C V	455
-1525	Amawaka	species of picapau (Picidae)	wowĩ_I	wowĩ_I	w o i ~	None	513	w o i ~	C V V 0	513
+1525	Amawaka	species of picapau (Picidae)	wowĩ_I	wowĩ_I	w o i ∼	None	513	w o i ∼	C V V C	513
 1518	Chakobo	species of picapau (Picidae)	βoíno	βoíno	β o i n	None	513	β o i n	C V V C	513
-1514	Kakataibo	species of picapau (Picidae)	βoĩ	βoĩ	β o i ~	None	513	β o i ~	C V V 0	513
+1514	Kakataibo	species of picapau (Picidae)	βoĩ	βoĩ	β o i ∼	None	513	β o i ∼	C V V C	513
 1516	Kapanawa	species of picapau (Picidae)	βoin	βoin	β o i n	None	513	β o i n	C V V C	513
 1524	Katukina	species of picapau (Picidae)	βuin	βuin	β u i n	None	513	β u i n	C V V C	513
 1520	Kaxarari	species of picapau (Picidae)	bʊhiˈlʊ	bʊhiˈlʊ	b ʊ i l	None	513	b ʊ i l	C V V C	513
-1526	Kaxinawa	species of picapau (Picidae)	bũĩ	bũĩ	b u i ~	None	513	b u i ~	C V V 0	513
-1527	Marinawa	species of picapau (Picidae)	ɸṍĩ	ɸṍĩ	ɸ o i ~	None	513	ɸ o i ~	C V V 0	513
-1517	Marubo	species of picapau (Picidae)	voĩ	voĩ	v o i ~	None	513	v o i ~	C V V 0	513
+1526	Kaxinawa	species of picapau (Picidae)	bũĩ	bũĩ	b u i ∼	None	513	b u i ∼	C V V C	513
+1527	Marinawa	species of picapau (Picidae)	ɸṍĩ	ɸṍĩ	ɸ o i ∼	None	513	ɸ o i ∼	C V V C	513
+1517	Marubo	species of picapau (Picidae)	voĩ	voĩ	v o i ∼	None	513	v o i ∼	C V V C	513
 1513	ProtoPanoan	species of picapau (Picidae)	βoir	βoir	β o i r	None	513	β o i r	C V V C	513
 1523	Shanenawa	species of picapau (Picidae)	fuin	fuin	f u i n	None	513	f u i n	C V V C	513
 1521	Sharanawa	species of picapau (Picidae)	ɸoin	ɸoin	ɸ o i n	None	513	ɸ o i n	C V V C	513
-1515	ShipiboKonibo	species of picapau (Picidae)	βoĩ	βoĩ	β o i ~	None	513	β o i ~	C V V 0	513
+1515	ShipiboKonibo	species of picapau (Picidae)	βoĩ	βoĩ	β o i ∼	None	513	β o i ∼	C V V C	513
 4383	Amawaka	species of pig	hono	hono	h o n o	II	232	h o n o	C V C V	232
 4376	Chakobo	species of pig	hono	hono	h o n o	None	232	h o n o	C V C V	232
-4372	Kakataibo	species of pig	õki	õki	o ~.k i	None	232	- o ~.k i	V 0 V	232
+4372	Kakataibo	species of pig	õki	õki	o ∼.k i	None	232	- o ∼.k i	V C V	232
 4374	Kapanawa	species of pig	hono	hono	h o n o	None	232	h o n o	C V C V	232
 4381	Katukina	species of pig	huˈnoʔ	huˈnoʔ	h u n o	None	232	h u n o	C V C V	232
 4384	Kaxinawa	species of pig	hunu_yawa	hunu_yawa	h u n u	None	232	h u n u	C V C V	232
@@ -3741,7 +3741,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4375	Marubo	species of pig	ˈunu	ˈunu	u n u	None	232	- u n u	V C V	232
 4388	Matis	species of pig	unkin	unkin	u n.k i	None	232	- u n.k i	V C V	232
 4389	Mayoruna	species of pig	uŋ.ˈkin	uŋ.ˈkin	u ŋ.k i	None	232	- u ŋ.k i	V C V	232
-4382	Poyanawa	species of pig	ũdu	ũdu	u ~.d u	None	232	- u ~.d u	V 0 V	232
+4382	Poyanawa	species of pig	ũdu	ũdu	u ∼.d u	None	232	- u ∼.d u	V C V	232
 4371	ProtoPanoan	species of pig	ho[n]o	ho[n]o	h o rⁿ o	None	232	h o rⁿ o	C V C V	232
 4380	Shanenawa	species of pig	unu	unu	u n u	None	232	- u n u	V C V	232
 4378	Sharanawa	species of pig	ono	ono	o n o	None	232	- o n o	V C V	232
@@ -3771,7 +3771,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3213	Marinawa	species of plant	mã́nĩã	mã́nĩã	m a n i	None	134	m a n i	C V C V	134
 3200	Marubo	species of plant	mani	mani	m a n i	None	134	m a n i	C V C V	134
 3215	Mayoruna	species of plant	maˈni	maˈni	m a n i	None	134	m a n i	C V C V	134
-3210	Poyanawa	species of plant	mãdĩ	mãdĩ	m a ~.d i	None	134	m a ~.d i	C V 0 V	134
+3210	Poyanawa	species of plant	mãdĩ	mãdĩ	m a ∼.d i	None	134	m a ∼.d i	C V C V	134
 3196	ProtoPanoan	species of plant	ma[n]i	ma[n]i	m a rⁿ i	None	134	m a rⁿ i	C V C V	134
 3205	Sharanawa	species of plant	mani	mani	m a n i	None	134	m a n i	C V C V	134
 3197	ShipiboKonibo	species of plant	mani	mani	m a n i	None	134	m a n i	C V C V	134
@@ -3785,21 +3785,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4676	Katukina	species of plant	pɨi	pɨi	p ɨ i	None	254	p ɨ - i	C V V	254
 4681	Yawanawa	species of plant	pɨ.ˈi	pɨ.ˈi	p ɨ i	None	254	p ɨ - i	C V V	254
 5542	Amawaka	species of plant	ʃikoI	ʃikoI	ʃ i k o	None	320	ʃ i k o -	C V C V	320
-5540	Kakataibo	species of plant	ʃikṍ	ʃikṍ	ʃ i k o ~	None	320	ʃ i k o ~	C V C V 0	320
+5540	Kakataibo	species of plant	ʃikṍ	ʃikṍ	ʃ i k o ∼	None	320	ʃ i k o ∼	C V C V C	320
 5541	Kapanawa	species of plant	ʃinkon	ʃinkon	ʃ i k o n	None	320	ʃ i k o n	C V C V C	320
 5543	Kaxinawa	species of plant	ʃiku	ʃiku	ʃ i k u	None	320	ʃ i k u -	C V C V	320
 5539	ProtoPanoan	species of plant	ʃiko[n]	ʃiko[n]	ʃ i k o rⁿ	None	320	ʃ i k o rⁿ	C V C V C	320
-6740	Amawaka	species of pumpkin	wãrã	wãrã	w a r a ~	II	416	w a r a ~	C V C V 0	416
-6733	Kakataibo	species of pumpkin	βarã́	βarã́	β a r a ~	None	416	β a r a ~	C V C V 0	416
+6740	Amawaka	species of pumpkin	wãrã	wãrã	w a r a ∼	II	416	w a r a ∼	C V C V C	416
+6733	Kakataibo	species of pumpkin	βarã́	βarã́	β a r a ∼	None	416	β a r a ∼	C V C V C	416
 6735	Kapanawa	species of pumpkin	warán	warán	w a r a n	None	416	w a r a n	C V C V C	416
 6739	Katukina	species of pumpkin	waran	waran	w a r a n	None	416	w a r a n	C V C V C	416
-6741	Kaxinawa	species of pumpkin	barã	barã	b a r a ~	None	416	b a r a ~	C V C V 0	416
-6742	Marinawa	species of pumpkin	ɸárã	ɸárã	ɸ a r a ~	None	416	ɸ a r a ~	C V C V 0	416
+6741	Kaxinawa	species of pumpkin	barã	barã	b a r a ∼	None	416	b a r a ∼	C V C V C	416
+6742	Marinawa	species of pumpkin	ɸárã	ɸárã	ɸ a r a ∼	None	416	ɸ a r a ∼	C V C V C	416
 6745	Mayoruna	species of pumpkin	wada	wada	w a d a	None	416	w a d a -	C V C V	416
 6732	ProtoPanoan	species of pumpkin	waɽa[m]	waɽa[m]	w a ɽ a m	None	416	w a ɽ a m	C V C V C	416
 6738	Shanenawa	species of pumpkin	waɾa	waɾa	w a ɾ a	None	416	w a ɾ a -	C V C V	416
 6736	Sharanawa	species of pumpkin	ɸaran	ɸaran	ɸ a r a n	None	416	ɸ a r a n	C V C V C	416
-6734	ShipiboKonibo	species of pumpkin	warã́	warã́	w a r a ~	None	416	w a r a ~	C V C V 0	416
+6734	ShipiboKonibo	species of pumpkin	warã́	warã́	w a r a ∼	None	416	w a r a ∼	C V C V C	416
 4951	Amawaka	species of sloth	posɨ_I	posɨ_I	p o s ɨ	None	275	p o s ɨ -	C V C V	275
 4947	Kakataibo	species of sloth	posɨ	posɨ	p o s ɨ	None	275	p o s ɨ -	C V C V	275
 4950	Katukina	species of sloth	punsi	punsi	p u s i	None	275	p u s i -	C V C V	275
@@ -3808,7 +3808,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4954	Matis	species of sloth	pusɨn	pusɨn	p u s ɨ n	None	275	p u s ɨ n	C V C V C	275
 4955	Mayoruna	species of sloth	posɨn	posɨn	p o s ɨ n	None	275	p o s ɨ n	C V C V C	275
 4946	ProtoPanoan	species of sloth	posɨ[n]	posɨ[n]	p o s ɨ rⁿ	None	275	p o s ɨ rⁿ	C V C V C	275
-4949	Shanenawa	species of sloth	puˈsɜ̃	puˈsɜ̃	p u s ɜ ~	None	275	p u s ɜ ~	C V C V 0	275
+4949	Shanenawa	species of sloth	puˈsɜ̃	puˈsɜ̃	p u s ɜ ∼	None	275	p u s ɜ ∼	C V C V C	275
 4948	ShipiboKonibo	species of sloth	põsɨ	põsɨ	p o s ɨ	None	275	p o s ɨ -	C V C V	275
 4126	Amawaka	species of snail	notʃo	notʃo	n o tʃ o	II	210	n o - tʃ o	C V C V	210
 4121	Kakataibo	species of snail	notʃo	notʃo	n o tʃ o	None	210	n o - tʃ o	C V C V	210
@@ -3849,7 +3849,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5555	Yawanawa	species of spider	ʃina	ʃina	ʃ i n a	None	321	ʃ i n a	C V C V	321
 5896	Shanenawa	species of spider	ʂɨna	ʂɨna	ʂ ɨ n a	None	349	ʂ ɨ n a	C V C V	349
 6791	Kaxinawa	species of spider	basnɨ	basnɨ	b a s n ɨ	None	420	b a s n ɨ -	C V C C V	420
-6788	Marubo	species of spider	wasnõ	wasnõ	w a s n o ~	None	420	w a s n o ~	C V C C V 0	420
+6788	Marubo	species of spider	wasnõ	wasnõ	w a s n o ∼	None	420	w a s n o ∼	C V C C V C	420
 526	Amawaka	species of tick	hónpox	hónpox	h o p o x	None	238	h o - p o x	C V C V C	238
 521	Chakobo	species of tick	hoˈpɨʂ	hoˈpɨʂ	h o p ɨ ʂ	None	238	h o - p ɨ ʂ	C V C V C	238
 520	Kapanawa	species of tick	ʔoʔpóʂ	ʔoʔpóʂ	ʔ o ʔ p o ʂ	None	238	ʔ o ʔ p o ʂ	C V C C V C	238
@@ -3860,39 +3860,39 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 525	Sharanawa	species of tick	iposɨ	iposɨ	i p o s	None	238	- i - p o s	V C V C	238
 518	ShipiboKonibo	species of tick	hopóʂ	hopóʂ	h o p o ʂ	None	238	h o - p o ʂ	C V C V C	238
 524	Yaminawa	species of tick	ipoʂ	ipoʂ	i p o ʂ	None	238	- i - p o ʂ	V C V C	238
-6986	Amawaka	species of tick	yanã_I	yanã_I	j a n a ~	None	439	j a - n a ~	C V C V 0	439
+6986	Amawaka	species of tick	yanã_I	yanã_I	j a n a ∼	None	439	j a - n a ∼	C V C V C	439
 6980	Chakobo	species of tick	yaʔa	yaʔa	j a ʔ a	None	439	j a ʔ - a -	C V C V	439
 6977	Kakataibo	species of tick	aí	aí	a i	None	439	- a - - i -	V V	439
 6979	Kapanawa	species of tick	yaʔnán	yaʔnán	j a ʔ n a n	None	439	j a ʔ n a n	C V C C V C	439
 6983	Kaxarari	species of tick	jaˈlə	jaˈlə	j a l ə	None	439	j a - l ə -	C V C V	439
-6987	Kaxinawa	species of tick	yanã	yanã	j a n a ~	None	439	j a - n a ~	C V C V 0	439
-6988	Marinawa	species of tick	yánã	yánã	j a n a ~	None	439	j a - n a ~	C V C V 0	439
+6987	Kaxinawa	species of tick	yanã	yanã	j a n a ∼	None	439	j a - n a ∼	C V C V C	439
+6988	Marinawa	species of tick	yánã	yánã	j a n a ∼	None	439	j a - n a ∼	C V C V C	439
 6989	Mayoruna	species of tick	tʃaˈnɨn	tʃaˈnɨn	tʃ a n ɨ n	None	439	tʃ a - n ɨ n	C V C V C	439
 6976	ProtoPanoan	species of tick	yaʔra[n]	yaʔra[n]	j a ʔ r a rⁿ	None	439	j a ʔ r a rⁿ	C V C C V C	439
 6984	Sharanawa	species of tick	yanan	yanan	j a n a n	None	439	j a - n a n	C V C V C	439
-6978	ShipiboKonibo	species of tick	yaã́	yaã́	j a a ~	None	439	j a - - a ~	C V V 0	439
-1595	Amawaka	species of tree	wokõ_I	wokõ_I	w o k o ~	None	5	w o k o ~	C V C V 0	5
+6978	ShipiboKonibo	species of tick	yaã́	yaã́	j a a ∼	None	439	j a - - a ∼	C V V C	439
+1595	Amawaka	species of tree	wokõ_I	wokõ_I	w o k o ∼	None	5	w o k o ∼	C V C V C	5
 1589	Chakobo	species of tree	βokóno	βokóno	β o k o n	None	5	β o k o n	C V C V C	5
-1586	Kakataibo	species of tree	βokṍ	βokṍ	β o k o ~	None	5	β o k o ~	C V C V 0	5
+1586	Kakataibo	species of tree	βokṍ	βokṍ	β o k o ∼	None	5	β o k o ∼	C V C V C	5
 1588	Kapanawa	species of tree	βokón	βokón	β o k o n	None	5	β o k o n	C V C V C	5
 1593	Katukina	species of tree	βunkun	βunkun	β u k u n	None	5	β u k u n	C V C V C	5
-1596	Kaxinawa	species of tree	bukũ	bukũ	b u k u ~	None	5	b u k u ~	C V C V 0	5
-1597	Marinawa	species of tree	ɸókõ	ɸókõ	ɸ o k o ~	None	5	ɸ o k o ~	C V C V 0	5
+1596	Kaxinawa	species of tree	bukũ	bukũ	b u k u ∼	None	5	b u k u ∼	C V C V C	5
+1597	Marinawa	species of tree	ɸókõ	ɸókõ	ɸ o k o ∼	None	5	ɸ o k o ∼	C V C V C	5
 1598	Matis	species of tree	buˈku	buˈku	b u k u	None	5	b u k u -	C V C V	5
 1599	Mayoruna	species of tree	buˈku	buˈku	b u k u	None	5	b u k u -	C V C V	5
 1585	ProtoPanoan	species of tree	βoko[n]	βoko[n]	β o k o rⁿ	None	5	β o k o rⁿ	C V C V C	5
 1591	Sharanawa	species of tree	ɸoko	ɸoko	ɸ o k o	None	5	ɸ o k o -	C V C V	5
 1587	ShipiboKonibo	species of tree	βokó	βokó	β o k o	None	5	β o k o -	C V C V	5
-5909	Amawaka	species of tree	xɨnã	xɨnã	x ɨ n a ~	II	350	x ɨ n a ~	C V C V 0	350
-5902	Kakataibo	species of tree	ʂɨnã́	ʂɨnã́	ʂ ɨ n a ~	None	350	ʂ ɨ n a ~	C V C V 0	350
+5909	Amawaka	species of tree	xɨnã	xɨnã	x ɨ n a ∼	II	350	x ɨ n a ∼	C V C V C	350
+5902	Kakataibo	species of tree	ʂɨnã́	ʂɨnã́	ʂ ɨ n a ∼	None	350	ʂ ɨ n a ∼	C V C V C	350
 5904	Kapanawa	species of tree	ʂɨnán	ʂɨnán	ʂ ɨ n a n	None	350	ʂ ɨ n a n	C V C V C	350
 5908	Katukina	species of tree	ʃina	ʃina	ʃ i n a	None	350	ʃ i n a -	C V C V	350
-5910	Kaxinawa	species of tree	ʂɨnã	ʂɨnã	ʂ ɨ n a ~	None	350	ʂ ɨ n a ~	C V C V 0	350
-5911	Marinawa	species of tree	ʂɨnã	ʂɨnã	ʂ ɨ n a ~	None	350	ʂ ɨ n a ~	C V C V 0	350
+5910	Kaxinawa	species of tree	ʂɨnã	ʂɨnã	ʂ ɨ n a ∼	None	350	ʂ ɨ n a ∼	C V C V C	350
+5911	Marinawa	species of tree	ʂɨnã	ʂɨnã	ʂ ɨ n a ∼	None	350	ʂ ɨ n a ∼	C V C V C	350
 5905	Marubo	species of tree	ʃɨna	ʃɨna	ʃ ɨ n a	None	350	ʃ ɨ n a -	C V C V	350
 5901	ProtoPanoan	species of tree	ʂɨ[n]a[n]	ʂɨ[n]a[n]	ʂ ɨ rⁿ a rⁿ	None	350	ʂ ɨ rⁿ a rⁿ	C V C V C	350
 5906	Sharanawa	species of tree	ʂɨnan	ʂɨnan	ʂ ɨ n a n	None	350	ʂ ɨ n a n	C V C V C	350
-5903	ShipiboKonibo	species of tree	ʂɨnã́	ʂɨnã́	ʂ ɨ n a ~	None	350	ʂ ɨ n a ~	C V C V 0	350
+5903	ShipiboKonibo	species of tree	ʂɨnã́	ʂɨnã́	ʂ ɨ n a ∼	None	350	ʂ ɨ n a ∼	C V C V C	350
 1282	Amawaka	species of tree (Phyllanthaceae)	wɨpõ	wɨpõ	w ɨ p o ∼	II	493	w ɨ p o ∼	C V C V C	493
 1278	Chaninawa	species of tree (Phyllanthaceae)	ɸɨpo	ɸɨpo	ɸ ɨ p o	None	493	ɸ ɨ p o -	C V C V	493
 1271	Kakataibo	species of tree (Phyllanthaceae)	βɨpĩ	βɨpĩ	β ɨ p i ∼	None	493	β ɨ p i ∼	C V C V C	493
@@ -3902,7 +3902,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 1284	Marinawa	species of tree (Phyllanthaceae)	ɸɨ́po	ɸɨ́po	ɸ ɨ p o	None	493	ɸ ɨ p o -	C V C V	493
 1285	Mayoruna	species of tree (Phyllanthaceae)	bɨˈpin	bɨˈpin	b ɨ p i n	None	493	b ɨ p i n	C V C V C	493
 1270	ProtoPanoan	species of tree (Phyllanthaceae)	βɨp[on]	βɨp[on]	β ɨ p o n	None	493	β ɨ p o n	C V C V C	493
-1272	ShipiboKonibo	species of tree (Phyllanthaceae)	βɨpṍ	βɨpṍ	β ɨ p o ~	None	493	β ɨ p o ~	C V C V 0	493
+1272	ShipiboKonibo	species of tree (Phyllanthaceae)	βɨpṍ	βɨpṍ	β ɨ p o ∼	None	493	β ɨ p o ∼	C V C V C	493
 1276	Yaminawa	species of tree (Phyllanthaceae)	ɸɨpoi	ɸɨpoi	ɸ ɨ p o	None	493	ɸ ɨ p o -	C V C V	493
 1574	ShipiboKonibo	species of tree (Phyllanthaceae)	βoi	βoi	β o i	None	4	β o i -	C V V	4
 2170	Amawaka	species of tree and it's fruit	hɨtʃiwĩ	hɨtʃiwĩ	h ɨ tʃ i w i	II	52	h ɨ - tʃ i w i	C V C V C V	52
@@ -3935,16 +3935,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4773	ProtoPanoan	species of tucan	pisa	pisa	p i s a	None	261	p i s a	C V C V	261
 4778	Sharanawa	species of tucan	pisa	pisa	p i s a	None	261	p i s a	C V C V	261
 4775	ShipiboKonibo	species of tucan	pisa	pisa	p i s a	None	261	p i s a	C V C V	261
-6790	Amawaka	spider web	wasnõ	wasnõ	w a s n o ~	None	420	w a s n o ~	C V C C V 0	420
+6790	Amawaka	spider web	wasnõ	wasnõ	w a s n o ∼	None	420	w a s n o ∼	C V C C V C	420
 6789	Chakobo	spider web	βasnona	βasnona	β a s n o n	None	420	β a s n o n	C V C C V C	420
 6785	ProtoPanoan	spider web	was[n]o[n]	was[n]o[n]	w a s rⁿ o rⁿ	None	420	w a s rⁿ o rⁿ	C V C C V C	420
-6787	ShipiboKonibo	spider web	wasnṍ	wasnṍ	w a s n o ~	None	420	w a s n o ~	C V C C V 0	420
-6516	Amawaka	sprout	tɨxkã	tɨxkã	t ɨ x k a ~	II	397	t ɨ x k a ~	C V C C V 0	397
+6787	ShipiboKonibo	spider web	wasnṍ	wasnṍ	w a s n o ∼	None	420	w a s n o ∼	C V C C V C	420
+6516	Amawaka	sprout	tɨxkã	tɨxkã	t ɨ x k a ∼	II	397	t ɨ x k a ∼	C V C C V C	397
 6511	Chakobo	sprout	tɨʂˈka	tɨʂˈka	t ɨ ʂ k a	None	397	t ɨ ʂ k a -	C V C C V	397
-6508	Kakataibo	sprout	tɨʂkã́	tɨʂkã́	t ɨ ʂ k a ~	None	397	t ɨ ʂ k a ~	C V C C V 0	397
+6508	Kakataibo	sprout	tɨʂkã́	tɨʂkã́	t ɨ ʂ k a ∼	None	397	t ɨ ʂ k a ∼	C V C C V C	397
 6510	Kapanawa	sprout	tɨʂkán	tɨʂkán	t ɨ ʂ k a n	None	397	t ɨ ʂ k a n	C V C C V C	397
-6517	Kaxinawa	sprout	tiʂkã	tiʂkã	t i ʂ k a ~	None	397	t i ʂ k a ~	C V C C V 0	397
-6518	Marinawa	sprout	tɨ́́ʂkã	tɨ́́ʂkã	t ɨ ʂ k a ~	None	397	t ɨ ʂ k a ~	C V C C V 0	397
+6517	Kaxinawa	sprout	tiʂkã	tiʂkã	t i ʂ k a ∼	None	397	t i ʂ k a ∼	C V C C V C	397
+6518	Marinawa	sprout	tɨ́́ʂkã	tɨ́́ʂkã	t ɨ ʂ k a ∼	None	397	t ɨ ʂ k a ∼	C V C C V C	397
 6507	ProtoPanoan	sprout	tɨʂka[n]	tɨʂka[n]	t ɨ ʂ k a rⁿ	None	397	t ɨ ʂ k a rⁿ	C V C C V C	397
 6515	Shanenawa	sprout	tuʂka	tuʂka	t u ʂ k a	None	397	t u ʂ k a -	C V C C V	397
 6513	Sharanawa	sprout	tɨʂka	tɨʂka	t ɨ ʂ k a	None	397	t ɨ ʂ k a -	C V C C V	397
@@ -4145,18 +4145,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4163	Mayoruna	tasty, delicious	nuɨ	nuɨ	n u ɨ	None	213	n u ɨ	C V V	213
 4155	ProtoPanoan	tasty, delicious	[n]o[ɨ]	[n]o[ɨ]	rⁿ o ɨ	None	213	rⁿ o ɨ	C V V	213
 4156	ShipiboKonibo	tasty, delicious	noɨ	noɨ	n o ɨ	None	213	n o ɨ	C V V	213
-1209	Amawaka	tear	wɨ̃ʔõ-	wɨ̃ʔõ-	w ɨ ʔ o ~	None	488	w ɨ ʔ o ~	C V C V 0	488
+1209	Amawaka	tear	wɨ̃ʔõ-	wɨ̃ʔõ-	w ɨ ʔ o ∼	None	488	w ɨ ʔ o ∼	C V C V C	488
 1202	Chakobo	tear	βɨˈʔono	βɨˈʔono	β ɨ ʔ o n	None	488	β ɨ ʔ o n	C V C V C	488
 1206	Chaninawa	tear	ɸɨon	ɸɨon	ɸ ɨ o n	None	488	ɸ ɨ - o n	C V V C	488
-1200	Kakataibo	tear	βɨṍ	βɨṍ	β ɨ o ~	None	488	β ɨ - o ~	C V V 0	488
+1200	Kakataibo	tear	βɨṍ	βɨṍ	β ɨ o ∼	None	488	β ɨ - o ∼	C V V C	488
 1205	Kaxarari	tear	bɨwˈmi	bɨwˈmi	b ɨ o m	None	488	b ɨ - o m	C V V C	488
-1210	Kaxinawa	tear	bɨ́ũ	bɨ́ũ	b ɨ u ~	None	488	b ɨ - u ~	C V V 0	488
-1211	Marinawa	tear	ɸɨ́õ	ɸɨ́õ	ɸ ɨ o ~	None	488	ɸ ɨ - o ~	C V V 0	488
+1210	Kaxinawa	tear	bɨ́ũ	bɨ́ũ	b ɨ u ∼	None	488	b ɨ - u ∼	C V V C	488
+1211	Marinawa	tear	ɸɨ́õ	ɸɨ́õ	ɸ ɨ o ∼	None	488	ɸ ɨ - o ∼	C V V C	488
 1212	Matis	tear	bɨun	bɨun	b ɨ u n	None	488	b ɨ - u n	C V V C	488
 1213	Mayoruna	tear	bɨun	bɨun	b ɨ u n	None	488	b ɨ - u n	C V V C	488
 1199	ProtoPanoan	tear	βɨʔo[m]	βɨʔo[m]	β ɨ ʔ o m	None	488	β ɨ ʔ o m	C V C V C	488
 1207	Sharanawa	tear	ɸɨon	ɸɨon	ɸ ɨ o n	None	488	ɸ ɨ - o n	C V V C	488
-1201	ShipiboKonibo	tear	βɨṍ	βɨṍ	β ɨ o ~	None	488	β ɨ - o ~	C V V 0	488
+1201	ShipiboKonibo	tear	βɨṍ	βɨṍ	β ɨ o ∼	None	488	β ɨ - o ∼	C V V C	488
 3713	Amawaka	termite	nakax_I	nakax_I	n a k a x	None	177	n a k a x -	C V C V C	177
 3708	Chakobo	termite	nakaʂa	nakaʂa	n a k a ʂ a	None	177	n a k a ʂ a	C V C V C V	177
 3704	Kakataibo	termite	nakwáʂ	nakwáʂ	n a kʷ a ʂ	None	177	n a kʷ a ʂ -	C V C V C	177
@@ -4219,13 +4219,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2783	Yawanawa	thigh	ki.ˈʃi	ki.ˈʃi	k i ʃ i	None	96	k i ʃ i	C V C V	96
 6859	Yaminawa	thigh	ɸitaʂ	ɸitaʂ	ɸ i t a ʂ	None	427	ɸ i - t a ʂ -	C V C V C	427
 1356	Amawaka	thin, fine	wɨxna	wɨxna	w ɨ x n a	II	500	w ɨ x n a -	C V C C V	500
-1351	Kakataibo	thin, fine	βɨʂnã́	βɨʂnã́	β ɨ ʂ n a ~	None	500	β ɨ ʂ n a ~	C V C C V 0	500
+1351	Kakataibo	thin, fine	βɨʂnã́	βɨʂnã́	β ɨ ʂ n a ∼	None	500	β ɨ ʂ n a ∼	C V C C V C	500
 1354	Kapanawa	thin, fine	βɨʂnán	βɨʂnán	β ɨ ʂ n a n	None	500	β ɨ ʂ n a n	C V C C V C	500
-1359	Kaxinawa	thin, fine	bɨʂnã	bɨʂnã	b ɨ ʂ n a ~	None	500	b ɨ ʂ n a ~	C V C C V 0	500
-1360	Marinawa	thin, fine	ɸɨ́ʂnã	ɸɨ́ʂnã	ɸ ɨ ʂ n a ~	None	500	ɸ ɨ ʂ n a ~	C V C C V 0	500
+1359	Kaxinawa	thin, fine	bɨʂnã	bɨʂnã	b ɨ ʂ n a ∼	None	500	b ɨ ʂ n a ∼	C V C C V C	500
+1360	Marinawa	thin, fine	ɸɨ́ʂnã	ɸɨ́ʂnã	ɸ ɨ ʂ n a ∼	None	500	ɸ ɨ ʂ n a ∼	C V C C V C	500
 1350	ProtoPanoan	thin, fine	βɨʂ[n]a[n]	βɨʂ[n]a[n]	β ɨ ʂ rⁿ a rⁿ	None	500	β ɨ ʂ rⁿ a rⁿ	C V C C V C	500
 1355	Sharanawa	thin, fine	ɸɨʂnan	ɸɨʂnan	ɸ ɨ ʂ n a n	None	500	ɸ ɨ ʂ n a n	C V C C V C	500
-1353	ShipiboKonibo	thin, fine	βɨʂnã́	βɨʂnã́	β ɨ ʂ n a ~	None	500	β ɨ ʂ n a ~	C V C C V 0	500
+1353	ShipiboKonibo	thin, fine	βɨʂnã́	βɨʂnã́	β ɨ ʂ n a ∼	None	500	β ɨ ʂ n a ∼	C V C C V C	500
 868	Amawaka	third person plural	háto	háto	h a t o	None	465	h a t o	C V C V	465
 861	Chakobo	third person plural	hato	hato	h a t o	None	465	h a t o	C V C V	465
 857	Kakataibo	third person plural	ato	ato	a t o	None	465	- a t o	V C V	465
@@ -4263,14 +4263,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5370	Kaxinawa	thread	disi	disi	d i s i	None	305	d i s i -	C V C V	305
 5368	Poyanawa	thread	risi	risi	r i s i	None	305	r i s i -	C V C V	305
 5361	ProtoPanoan	thread	ɽisis	ɽisis	ɽ i s i s	None	305	ɽ i s i s	C V C V C	305
-7225	Amawaka	thread, line, rope	yomã	yomã	j o m a ~	None	458	j o m a ~	C V C V 0	458
-7220	Kakataibo	thread, line, rope	ñomã́	ñomã́	ɲ o m a ~	None	458	ɲ o m a ~	C V C V 0	458
+7225	Amawaka	thread, line, rope	yomã	yomã	j o m a ∼	None	458	j o m a ∼	C V C V C	458
+7220	Kakataibo	thread, line, rope	ñomã́	ñomã́	ɲ o m a ∼	None	458	ɲ o m a ∼	C V C V C	458
 7222	Kapanawa	thread, line, rope	yomɨ́́n	yomɨ́́n	j o m ɨ n	None	458	j o m ɨ n	C V C V C	458
 7227	Kaxinawa	thread, line, rope	yumɨ	yumɨ	j u m ɨ	None	458	j u m ɨ -	C V C V	458
 7228	Marinawa	thread, line, rope	yómɨ	yómɨ	j o m ɨ	None	458	j o m ɨ -	C V C V	458
 7219	ProtoPanoan	thread, line, rope	yoma[n]	yoma[n]	j o m a rⁿ	None	458	j o m a rⁿ	C V C V C	458
 7223	Sharanawa	thread, line, rope	yomɨn	yomɨn	j o m ɨ n	None	458	j o m ɨ n	C V C V C	458
-7221	ShipiboKonibo	thread, line, rope	yomã́	yomã́	j o m a ~	None	458	j o m a ~	C V C V 0	458
+7221	ShipiboKonibo	thread, line, rope	yomã́	yomã́	j o m a ∼	None	458	j o m a ∼	C V C V C	458
 5357	Amawaka	thread, rope	riswii_I	riswii_I	r i s w i i	None	304	r i s - w i - i	C V C C V V	304
 5350	Chakobo	thread, rope	risˈpitʃi	risˈpitʃi	r i s p i tʃ i	None	304	r i s - p i tʃ i	C V C C V C V	304
 5345	Kakataibo	thread, rope	risi	risi	r i s i	None	304	r i s i - - - -	C V C V	304
@@ -4294,7 +4294,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2898	Marinawa	tinamou	koma	koma	k o m a	None	108	k o m a	C V C V	108
 2890	Marubo	tinamou	koma	koma	k o m a	None	108	k o m a	C V C V	108
 2900	Matis	tinamou	kuma	kuma	k u m a	None	108	k u m a	C V C V	108
-2895	Poyanawa	tinamou	kũba	kũba	k u ~.b a	None	108	k u ~.b a	C V 0 V	108
+2895	Poyanawa	tinamou	kũba	kũba	k u ∼.b a	None	108	k u ∼.b a	C V C V	108
 2886	ProtoPanoan	tinamou	koma	koma	k o m a	None	108	k o m a	C V C V	108
 2892	Sharanawa	tinamou	koma	koma	k o m a	None	108	k o m a	C V C V	108
 2888	ShipiboKonibo	tinamou	koma	koma	k o m a	None	108	k o m a	C V C V	108
@@ -4365,7 +4365,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5087	ProtoPanoan	to be ashamed, to feel ashamed	ɽaβi[n]-	ɽaβi[n]-	ɽ a β i rⁿ	None	285	ɽ a β i rⁿ	C V C V C	285
 5093	Sharanawa	to be ashamed, to feel ashamed	raɸi	raɸi	r a ɸ i	None	285	r a ɸ i -	C V C V	285
 5089	ShipiboKonibo	to be ashamed, to feel ashamed	raβi-	raβi-	r a β i	None	285	r a β i -	C V C V	285
-5092	Yaminawa	to be ashamed, to feel ashamed	raɸĩ-kĩ	raɸĩ-kĩ	r a ɸ i ~	None	285	r a ɸ i ~	C V C V 0	285
+5092	Yaminawa	to be ashamed, to feel ashamed	raɸĩ-kĩ	raɸĩ-kĩ	r a ɸ i ∼	None	285	r a ɸ i ∼	C V C V C	285
 5099	Yawanawa	to be ashamed, to feel ashamed	ɾaβi	ɾaβi	ɾ a β i	None	285	ɾ a β i -	C V C V	285
 3855	Amawaka	to bite	natɨx-_I	natɨx-_I	n a t ɨ x	None	187	n a t ɨ x	C V C V C	187
 3854	Chakobo	to bite	tɨʂa-	tɨʂa-	t ɨ ʂ	None	187	- - t ɨ ʂ	C V C	187
@@ -4373,14 +4373,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3856	Kaxinawa	to bite	natɨʂ-	natɨʂ-	n a t ɨ ʂ	None	187	n a t ɨ ʂ	C V C V C	187
 3851	ProtoPanoan	to bite	[n]atɨʂ-	[n]atɨʂ-	rⁿ a t ɨ ʂ	None	187	rⁿ a t ɨ ʂ	C V C V C	187
 3853	ShipiboKonibo	to bite	natɨʂ-	natɨʂ-	n a t ɨ ʂ	None	187	n a t ɨ ʂ	C V C V C	187
-2813	Amawaka	to boil	kõwĩ_I	kõwĩ_I	k o w i ~	None	98	k o w i ~	C V C V 0	98
-2808	Kakataibo	to boil	koβĩ	koβĩ	k o β i ~	None	98	k o β i ~	C V C V 0	98
+2813	Amawaka	to boil	kõwĩ_I	kõwĩ_I	k o w i ∼	None	98	k o w i ∼	C V C V C	98
+2808	Kakataibo	to boil	koβĩ	koβĩ	k o β i ∼	None	98	k o β i ∼	C V C V C	98
 2810	Kapanawa	to boil	koβín-	koβín-	k o β i n	None	98	k o β i n	C V C V C	98
-2814	Kaxinawa	to boil	kubĩ	kubĩ	k u b i ~	None	98	k u b i ~	C V C V 0	98
-2815	Marinawa	to boil	Kofĩ	Kofĩ	k o f i ~	None	98	k o f i ~	C V C V 0	98
+2814	Kaxinawa	to boil	kubĩ	kubĩ	k u b i ∼	None	98	k u b i ∼	C V C V C	98
+2815	Marinawa	to boil	Kofĩ	Kofĩ	k o f i ∼	None	98	k o f i ∼	C V C V C	98
 2807	ProtoPanoan	to boil	koβi[n]-	koβi[n]-	k o β i rⁿ	None	98	k o β i rⁿ	C V C V C	98
 2811	Sharanawa	to boil	koɸin	koɸin	k o ɸ i n	None	98	k o ɸ i n	C V C V C	98
-2809	ShipiboKonibo	to boil	koβĩ	koβĩ	k o β i ~	None	98	k o β i ~	C V C V 0	98
+2809	ShipiboKonibo	to boil	koβĩ	koβĩ	k o β i ∼	None	98	k o β i ∼	C V C V C	98
 6496	Amawaka	to break	tɨkɨ-_I	tɨkɨ-_I	t ɨ k ɨ	None	395	t ɨ - k ɨ	C V C V	395
 6491	Chakobo	to break	tɨkɨ	tɨkɨ	t ɨ k ɨ	None	395	t ɨ - k ɨ	C V C V	395
 6488	Kakataibo	to break	tɨkɨ-́́	tɨkɨ-́́	t ɨ k ɨ	None	395	t ɨ - k ɨ	C V C V	395
@@ -4427,15 +4427,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3702	Mayoruna	to burn	naˈkwa	naˈkwa	n a kʷ a	None	176	n a kʷ a	C V C V	176
 3103	Amawaka	to bury	mai-	mai-	m a i	None	126	m a i -	C V V	126
 3100	Chakobo	to bury	mai-	mai-	m a i	None	126	m a i -	C V V	126
-3097	Kakataibo	to bury	maĩ-	maĩ-	m a i ~	None	126	m a i ~	C V V 0	126
+3097	Kakataibo	to bury	maĩ-	maĩ-	m a i ∼	None	126	m a i ∼	C V V C	126
 3099	Kapanawa	to bury	maín_maʔpó-	maín_maʔpó-	m a i n	None	126	m a i n	C V V C	126
 3104	Kaxinawa	to bury	maiwa-	maiwa-	m a i	None	126	m a i -	C V V	126
 3105	Marinawa	to bury	maiwa-	maiwa-	m a i	None	126	m a i -	C V V	126
 3096	ProtoPanoan	to bury	mai[n]-	mai[n]-	m a i rⁿ	None	126	m a i rⁿ	C V V C	126
-3098	ShipiboKonibo	to bury	miĩ-	miĩ-	m i i ~	None	126	m i i ~	C V V 0	126
+3098	ShipiboKonibo	to bury	miĩ-	miĩ-	m i i ∼	None	126	m i i ∼	C V V C	126
 2247	Amawaka	to call	kɨna-	kɨna-	k ɨ n a	None	59	k ɨ n a	C V C V	59
 2242	Chakobo	to call	kɨna-	kɨna-	k ɨ n a	None	59	k ɨ n a	C V C V	59
-2238	Kakataibo	to call	kwɨ̃-	kwɨ̃-	kʷ ɨ ~	None	59	kʷ ɨ ~ -	C V 0	59
+2238	Kakataibo	to call	kwɨ̃-	kwɨ̃-	kʷ ɨ ∼	None	59	kʷ ɨ ∼ -	C V C	59
 2240	Kapanawa	to call	kɨna-	kɨna-	k ɨ n a	None	59	k ɨ n a	C V C V	59
 2248	Kaxinawa	to call	kɨnã-	kɨnã-	k ɨ n a	None	59	k ɨ n a	C V C V	59
 2251	Korubo	to call	kwɨn	kwɨn	kʷ ɨ n	None	59	kʷ ɨ n -	C V C	59
@@ -4565,16 +4565,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3387	Marinawa	to cut hair	máʂkó	máʂkó	m a ʂ k o	None	148	m a ʂ k o -	C V C C V	148
 3377	ProtoPanoan	to cut hair	maʂkoɽ-	maʂkoɽ-	m a ʂ k o ɽ	None	148	m a ʂ k o ɽ	C V C C V C	148
 3379	ShipiboKonibo	to cut hair	maʂko-	maʂko-	m a ʂ k o	None	148	m a ʂ k o -	C V C C V	148
-4592	Amawaka	to deceive	pãrã-	pãrã-	p a r a ~	II	245	p a r a ~	C V C V 0	245
+4592	Amawaka	to deceive	pãrã-	pãrã-	p a r a ∼	II	245	p a r a ∼	C V C V C	245
 4589	Chakobo	to deceive	para-	para-	p a r a	None	245	p a r a -	C V C V	245
-4585	Kakataibo	to deceive	parã́-	parã́-	p a r a ~	None	245	p a r a ~	C V C V 0	245
+4585	Kakataibo	to deceive	parã́-	parã́-	p a r a ∼	None	245	p a r a ∼	C V C V C	245
 4587	Kapanawa	to deceive	parán-	parán-	p a r a n	None	245	p a r a n	C V C V C	245
-4593	Kaxinawa	to deceive	padã	padã	p a d a ~	None	245	p a d a ~	C V C V 0	245
-4594	Marinawa	to deceive	párã	párã	p a r a ~	None	245	p a r a ~	C V C V 0	245
-4588	Marubo	to deceive	parã	parã	p a r a ~	None	245	p a r a ~	C V C V 0	245
+4593	Kaxinawa	to deceive	padã	padã	p a d a ∼	None	245	p a d a ∼	C V C V C	245
+4594	Marinawa	to deceive	párã	párã	p a r a ∼	None	245	p a r a ∼	C V C V C	245
+4588	Marubo	to deceive	parã	parã	p a r a ∼	None	245	p a r a ∼	C V C V C	245
 4584	ProtoPanoan	to deceive	paɽa[n]-	paɽa[n]-	p a ɽ a rⁿ	None	245	p a ɽ a rⁿ	C V C V C	245
 4590	Sharanawa	to deceive	parai	parai	p a r a	None	245	p a r a -	C V C V	245
-4586	ShipiboKonibo	to deceive	parã-́	parã-́	p a r a ~	None	245	p a r a ~	C V C V 0	245
+4586	ShipiboKonibo	to deceive	parã-́	parã-́	p a r a ∼	None	245	p a r a ∼	C V C V C	245
 2276	Amawaka	to design, to paint	kɨnɨɨ-	kɨnɨɨ-	k ɨ n ɨ	None	61	k ɨ n ɨ	C V C V	61
 2271	Chakobo	to design, to paint	ˈkɨnɨ	ˈkɨnɨ	k ɨ n ɨ	None	61	k ɨ n ɨ	C V C V	61
 2267	Kakataibo	to design, to paint	kwɨnɨ	kwɨnɨ	kʷ ɨ n ɨ	None	61	kʷ ɨ n ɨ	C V C V	61
@@ -4587,14 +4587,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2268	ShipiboKonibo	to design, to paint	kɨnɨ́	kɨnɨ́	k ɨ n ɨ	None	61	k ɨ n ɨ	C V C V	61
 2273	Yaminawa	to design, to paint	kɨnɨ-kĩ	kɨnɨ-kĩ	k ɨ n ɨ	None	61	k ɨ n ɨ	C V C V	61
 2279	Yawanawa	to design, to paint	kɨnɨ	kɨnɨ	k ɨ n ɨ	None	61	k ɨ n ɨ	C V C V	61
-2232	Amawaka	to desire	kɨ̃ɨ̃-_I	kɨ̃ɨ̃-_I	k ɨ ɨ ~	None	58	k ɨ ɨ ~	C V V 0	58
+2232	Amawaka	to desire	kɨ̃ɨ̃-_I	kɨ̃ɨ̃-_I	k ɨ ɨ ∼	None	58	k ɨ ɨ ∼	C V V C	58
 2231	Chakobo	to desire	kɨɨ-	kɨɨ-	k ɨ ɨ	None	58	k ɨ ɨ -	C V V	58
-2228	Kakataibo	to desire	kwɨɨ̃	kwɨɨ̃	kʷ ɨ ɨ ~	None	58	kʷ ɨ ɨ ~	C V V 0	58
+2228	Kakataibo	to desire	kwɨɨ̃	kwɨɨ̃	kʷ ɨ ɨ ∼	None	58	kʷ ɨ ɨ ∼	C V V C	58
 2230	Kapanawa	to desire	kɨɨń_-	kɨɨń_-	k ɨ ɨ n	None	58	k ɨ ɨ n	C V V C	58
-2233	Kaxinawa	to desire	kɨ-̃	kɨ-̃	k ɨ ~	None	58	k ɨ - ~	C V 0	58
-2236	Marinawa	to desire	kɨ̃ɨ̃	kɨ̃ɨ̃	k ɨ ɨ ~	None	58	k ɨ ɨ ~	C V V 0	58
-2227	ProtoPanoan	to desire	kwɨɨ̃-	kwɨɨ̃-	kʷ ɨ ɨ ~	None	58	kʷ ɨ ɨ ~	C V V 0	58
-2229	ShipiboKonibo	to desire	kɨɨ̃	kɨɨ̃	k ɨ ɨ ~	None	58	k ɨ ɨ ~	C V V 0	58
+2233	Kaxinawa	to desire	kɨ-̃	kɨ-̃	k ɨ ∼	None	58	k ɨ - ∼	C V C	58
+2236	Marinawa	to desire	kɨ̃ɨ̃	kɨ̃ɨ̃	k ɨ ɨ ∼	None	58	k ɨ ɨ ∼	C V V C	58
+2227	ProtoPanoan	to desire	kwɨɨ̃-	kwɨɨ̃-	kʷ ɨ ɨ ∼	None	58	kʷ ɨ ɨ ∼	C V V C	58
+2229	ShipiboKonibo	to desire	kɨɨ̃	kɨɨ̃	k ɨ ɨ ∼	None	58	k ɨ ɨ ∼	C V V C	58
 161	Amawaka	to devour	ʔáya-_kin	ʔáya-_kin	ʔ a j a	None	2	ʔ a j a	C V C V	2
 160	Chakobo	to devour	a-kaina	a-kaina	a	None	2	- a - -	V	2
 169	Chaninawa	to devour	aya-i	aya-i	a j a	None	2	- a j a	V C V	2
@@ -4764,7 +4764,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2725	Yaminawa	to finish, to end	kɨyo-kĩ	kɨyo-kĩ	k ɨ j o	None	93	k ɨ j o	C V C V	93
 2733	Yawanawa	to finish, to end	kɨi-	kɨi-	k ɨ i	None	93	k ɨ - i	C V V	93
 4246	Chakobo	to fly	noya-	noya-	n o j a	None	221	n o j a	C V C V	221
-4242	Kakataibo	to fly	noã́	noã́	n o ~ a	None	221	n o ~ a	C V 0 V	221
+4242	Kakataibo	to fly	noã́	noã́	n o ∼ a	None	221	n o ∼ a	C V C V	221
 4244	Kapanawa	to fly	noya-	noya-	n o j a	None	221	n o j a	C V C V	221
 4251	Kaxinawa	to fly	nuya-	nuya-	n u j a	None	221	n u j a	C V C V	221
 4252	Marinawa	to fly	noya-	noya-	n o j a	None	221	n o j a	C V C V	221
@@ -4809,21 +4809,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4454	Sharanawa	to get drunk, drunk	paɨ	paɨ	p a ɨ	None	236	p a - ɨ -	C V V	236
 4449	ShipiboKonibo	to get drunk, drunk	paɨ-	paɨ-	p a ɨ	None	236	p a - ɨ -	C V V	236
 4453	Yaminawa	to get drunk, drunk	paɨ	paɨ	p a ɨ	None	236	p a - ɨ -	C V V	236
-349	Amawaka	to give	inã-	inã-	i n a ~	None	115	- i n a ~	V C V 0	115
+349	Amawaka	to give	inã-	inã-	i n a ∼	None	115	- i n a ∼	V C V C	115
 339	Chakobo	to give	ʔinia-	ʔinia-	ʔ i n a	None	115	ʔ i n a -	C V C V	115
 343	Chaninawa	to give	inai	inai	i n a	None	115	- i n a -	V C V	115
-335	Kakataibo	to give	ʔinã́-	ʔinã́-	ʔ i n a ~	None	115	ʔ i n a ~	C V C V 0	115
+335	Kakataibo	to give	ʔinã́-	ʔinã́-	ʔ i n a ∼	None	115	ʔ i n a ∼	C V C V C	115
 337	Kapanawa	to give	ʔinán	ʔinán	ʔ i n a n	None	115	ʔ i n a n	C V C V C	115
 347	Katukina	to give	inna-ai	inna-ai	i n a	None	115	- i n a -	V C V	115
 341	Kaxarari	to give	yali	yali	j a l	None	115	- - j a l	C V C	115
-351	Kaxinawa	to give	inã-	inã-	i n a ~	None	115	- i n a ~	V C V 0	115
-352	Marinawa	to give	ínã-	ínã-	i n a ~	None	115	- i n a ~	V C V 0	115
-338	Marubo	to give	ĩnã-	ĩnã-	i n a ~	None	115	- i n a ~	V C V 0	115
+351	Kaxinawa	to give	inã-	inã-	i n a ∼	None	115	- i n a ∼	V C V C	115
+352	Marinawa	to give	ínã-	ínã-	i n a ∼	None	115	- i n a ∼	V C V C	115
+338	Marubo	to give	ĩnã-	ĩnã-	i n a ∼	None	115	- i n a ∼	V C V C	115
 334	ProtoPanoan	to give	ʔinar-	ʔinar-	ʔ i n a r	None	115	ʔ i n a r	C V C V C	115
 346	Shanenawa	to give	inan	inan	i n a n	None	115	- i n a n	V C V C	115
 344	Sharanawa	to give	inain	inain	i n a n	None	115	- i n a n	V C V C	115
-336	ShipiboKonibo	to give	ʔinã-	ʔinã-	ʔ i n a ~	None	115	ʔ i n a ~	C V C V 0	115
-342	Yaminawa	to give	inã-	inã-	i n a ~	None	115	- i n a ~	V C V 0	115
+336	ShipiboKonibo	to give	ʔinã-	ʔinã-	ʔ i n a ∼	None	115	ʔ i n a ∼	C V C V C	115
+342	Yaminawa	to give	inã-	inã-	i n a ∼	None	115	- i n a ∼	V C V C	115
 314	Amawaka	to go up	ʔínaa-ʔí	ʔínaa-ʔí	ʔ i n a	None	102	ʔ i n a	C V C V	102
 307	Chakobo	to go up	ʔina-	ʔina-	ʔ i n a	None	102	ʔ i n a	C V C V	102
 310	Chaninawa	to go up	ida-	ida-	i d a	None	102	- i d a	V C V	102
@@ -4938,31 +4938,31 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5187	ShipiboKonibo	to kill	rɨtɨ-	rɨtɨ-	r ɨ t ɨ	None	293	r ɨ - t ɨ	C V C V	293
 5190	Yaminawa	to kill	rɨtɨ	rɨtɨ	r ɨ t ɨ	None	293	r ɨ - t ɨ	C V C V	293
 5199	Yawanawa	to kill	ɾɨtɨ	ɾɨtɨ	ɾ ɨ t ɨ	None	293	ɾ ɨ - t ɨ	C V C V	293
-623	Amawaka	to laugh	osã-_I	osã-_I	o s a ~	None	303	- o s a ~	V C V 0	303
+623	Amawaka	to laugh	osã-_I	osã-_I	o s a ∼	None	303	- o s a ∼	V C V C	303
 620	Chakobo	to laugh	ʔosa	ʔosa	ʔ o s a	None	303	ʔ o s a -	C V C V	303
-616	Kakataibo	to laugh	ʔosã́-	ʔosã́-	ʔ o s a ~	None	303	ʔ o s a ~	C V C V 0	303
+616	Kakataibo	to laugh	ʔosã́-	ʔosã́-	ʔ o s a ∼	None	303	ʔ o s a ∼	C V C V C	303
 618	Kapanawa	to laugh	ʔosán-	ʔosán-	ʔ o s a n	None	303	ʔ o s a n	C V C V C	303
-624	Kaxinawa	to laugh	usã-	usã-	u s a ~	None	303	- u s a ~	V C V 0	303
-625	Marinawa	to laugh	ósã	ósã	o s a ~	None	303	- o s a ~	V C V 0	303
-619	Marubo	to laugh	[ũˈsɐ̃ɐ]̃	[ũˈsɐ̃ɐ]̃	u s ɐ ~	None	303	- u s ɐ ~	V C V 0	303
+624	Kaxinawa	to laugh	usã-	usã-	u s a ∼	None	303	- u s a ∼	V C V C	303
+625	Marinawa	to laugh	ósã	ósã	o s a ∼	None	303	- o s a ∼	V C V C	303
+619	Marubo	to laugh	[ũˈsɐ̃ɐ]̃	[ũˈsɐ̃ɐ]̃	u s ɐ ∼	None	303	- u s ɐ ∼	V C V C	303
 615	ProtoPanoan	to laugh	ʔosa[n]-	ʔosa[n]-	ʔ o s a rⁿ	None	303	ʔ o s a rⁿ	C V C V C	303
 621	Sharanawa	to laugh	osain	osain	o s a n	None	303	- o s a n	V C V C	303
-617	ShipiboKonibo	to laugh	ʔosã́	ʔosã́	ʔ o s a ~	None	303	ʔ o s a ~	C V C V 0	303
+617	ShipiboKonibo	to laugh	ʔosã́	ʔosã́	ʔ o s a ∼	None	303	ʔ o s a ∼	C V C V C	303
 626	Yawanawa	to laugh	uʃan	uʃan	u ʃ a n	None	303	- u ʃ a n	V C V C	303
-597	Amawaka	to learn	onã-	onã-	o n a ~	None	281	- o n a ~	V C V 0	281
-589	Kakataibo	to learn	ʔonã́	ʔonã́	ʔ o n a ~	None	281	ʔ o n a ~	C V C V 0	281
+597	Amawaka	to learn	onã-	onã-	o n a ∼	None	281	- o n a ∼	V C V C	281
+589	Kakataibo	to learn	ʔonã́	ʔonã́	ʔ o n a ∼	None	281	ʔ o n a ∼	C V C V C	281
 591	Kapanawa	to learn	ʔonán-	ʔonán-	ʔ o n a n	None	281	ʔ o n a n	C V C V C	281
 596	Katukina	to learn	una-maska-ai	una-maska-ai	u n a	None	281	- u n a -	V C V	281
-598	Kaxinawa	to learn	unã-	unã-	u n a ~	None	281	- u n a ~	V C V 0	281
+598	Kaxinawa	to learn	unã-	unã-	u n a ∼	None	281	- u n a ∼	V C V C	281
 600	Korubo	to learn	unan	unan	u n a n	None	281	- u n a n	V C V C	281
-599	Marinawa	to learn	ṍnã	ṍnã	o n a ~	None	281	- o n a ~	V C V 0	281
+599	Marinawa	to learn	ṍnã	ṍnã	o n a ∼	None	281	- o n a ∼	V C V C	281
 601	Mayoruna	to learn	unan	unan	u n a n	None	281	- u n a n	V C V C	281
 588	ProtoPanoan	to learn	ʔo[n]a[n]-	ʔo[n]a[n]-	ʔ o rⁿ a rⁿ	None	281	ʔ o rⁿ a rⁿ	C V C V C	281
 594	Sharanawa	to learn	onain	onain	o n a n	None	281	- o n a n	V C V C	281
-590	ShipiboKonibo	to learn	ʔonã́	ʔonã́	ʔ o n a ~	None	281	ʔ o n a ~	C V C V 0	281
+590	ShipiboKonibo	to learn	ʔonã́	ʔonã́	ʔ o n a ∼	None	281	ʔ o n a ∼	C V C V C	281
 1991	Amawaka	to leave, to go away	hɨnɨ-	hɨnɨ-	h ɨ n ɨ	None	39	h ɨ n ɨ -	C V C V	39
 1988	Chakobo	to leave, to go away	hɨnɨ-	hɨnɨ-	h ɨ n ɨ	None	39	h ɨ n ɨ -	C V C V	39
-1984	Kakataibo	to leave, to go away	ɨ̃	ɨ̃	ɨ ~	None	39	- ɨ ~ - -	V 0	39
+1984	Kakataibo	to leave, to go away	ɨ̃	ɨ̃	ɨ ∼	None	39	- ɨ ∼ - -	V C	39
 1986	Kapanawa	to leave, to go away	hɨnɨ	hɨnɨ	h ɨ n ɨ	None	39	h ɨ n ɨ -	C V C V	39
 1992	Kaxinawa	to leave, to go away	hɨnɨ-	hɨnɨ-	h ɨ n ɨ	None	39	h ɨ n ɨ -	C V C V	39
 1993	Marinawa	to leave, to go away	ɨ́nɨ́-	ɨ́nɨ́-	ɨ n ɨ	None	39	- ɨ n ɨ -	V C V	39
@@ -4997,13 +4997,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5131	Sharanawa	to lie down	rakai	rakai	r a k a	None	288	r a k a	C V C V	288
 5125	ShipiboKonibo	to lie down	raka-	raka-	r a k a	None	288	r a k a	C V C V	288
 5129	Yaminawa	to lie down	rakakĩ	rakakĩ	r a k a	None	288	r a k a	C V C V	288
-5452	Kakataibo	to lift, to suspend	sanã́	sanã́	s a n a ~	None	311	s a n a ~	C V C V 0	311
-5456	Kaxinawa	to lift, to suspend	sãnã-	sãnã-	s a n a ~	None	311	s a n a ~	C V C V 0	311
-5457	Marinawa	to lift, to suspend	sánã	sánã	s a n a ~	None	311	s a n a ~	C V C V 0	311
+5452	Kakataibo	to lift, to suspend	sanã́	sanã́	s a n a ∼	None	311	s a n a ∼	C V C V C	311
+5456	Kaxinawa	to lift, to suspend	sãnã-	sãnã-	s a n a ∼	None	311	s a n a ∼	C V C V C	311
+5457	Marinawa	to lift, to suspend	sánã	sánã	s a n a ∼	None	311	s a n a ∼	C V C V C	311
 5454	Marubo	to lift, to suspend	sana	sana	s a n a	None	311	s a n a -	C V C V	311
 5458	Mayoruna	to lift, to suspend	sanan	sanan	s a n a n	None	311	s a n a n	C V C V C	311
 5451	ProtoPanoan	to lift, to suspend	sa[n]á[n]-	sa[n]á[n]-	s a rⁿ a rⁿ	None	311	s a rⁿ a rⁿ	C V C V C	311
-5453	ShipiboKonibo	to lift, to suspend	sanã́́-	sanã́́-	s a n a ~	None	311	s a n a ~	C V C V 0	311
+5453	ShipiboKonibo	to lift, to suspend	sanã́́-	sanã́́-	s a n a ∼	None	311	s a n a ∼	C V C V C	311
 4037	Amawaka	to listen, to hear	nika-	nika-	n i k a	II	201	n i k a	C V C V	201
 4031	Chakobo	to listen, to hear	nika-	nika-	n i k a	None	201	n i k a	C V C V	201
 4029	Kapanawa	to listen, to hear	ninka-	ninka-	n i k a	None	201	n i k a	C V C V	201
@@ -5019,14 +5019,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4040	Yawanawa	to listen, to hear	nika	nika	n i k a	None	201	n i k a	C V C V	201
 559	Chaninawa	to look	oin	oin	o i n	None	259	- o i n	V V C	259
 566	Katukina	to look	uin-nai	uin-nai	u i n	None	259	- u i n	V V C	259
-564	Kaxinawa	to look	ũĩ-	ũĩ-	u i ~	None	259	- u i ~	V V 0	259
-565	Marinawa	to look	ṍĩ	ṍĩ	o i ~	None	259	- o i ~	V V 0	259
-557	Marubo	to look	oĩ	oĩ	o i ~	None	259	- o i ~	V V 0	259
+564	Kaxinawa	to look	ũĩ-	ũĩ-	u i ∼	None	259	- u i ∼	V V C	259
+565	Marinawa	to look	ṍĩ	ṍĩ	o i ∼	None	259	- o i ∼	V V C	259
+557	Marubo	to look	oĩ	oĩ	o i ∼	None	259	- o i ∼	V V C	259
 555	ProtoPanoan	to look	ʔoi[n]-	ʔoi[n]-	ʔ o i rⁿ	None	259	ʔ o i rⁿ	C V V C	259
 567	Shanenawa	to look	uin	uin	u i n	None	259	- u i n	V V C	259
 560	Sharanawa	to look	oin	oin	o i n	None	259	- o i n	V V C	259
-556	ShipiboKonibo	to look	ʔoĩ-	ʔoĩ-	ʔ o i ~	None	259	ʔ o i ~	C V V 0	259
-558	Yaminawa	to look	oĩ-kĩ	oĩ-kĩ	o i ~	None	259	- o i ~	V V 0	259
+556	ShipiboKonibo	to look	ʔoĩ-	ʔoĩ-	ʔ o i ∼	None	259	ʔ o i ∼	C V V C	259
+558	Yaminawa	to look	oĩ-kĩ	oĩ-kĩ	o i ∼	None	259	- o i ∼	V V C	259
 568	Yawanawa	to look	uian	uian	u a n	None	259	- u a n	V V C	259
 2122	Kakataibo	to look	is-	is-	i s	None	49	- i s	V C	49
 2129	Korubo	to look	is-	is-	i s	None	49	- i s	V C	49
@@ -5148,7 +5148,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3797	Sharanawa	to put inside, to dive	nanɨi	nanɨi	n a n ɨ	None	183	n a n ɨ	C V C V	183
 3790	ShipiboKonibo	to put inside, to dive	nanɨ-	nanɨ-	n a n ɨ	None	183	n a n ɨ	C V C V	183
 3795	Yaminawa	to put inside, to dive	nánɨ́	nánɨ́	n a n ɨ	None	183	n a n ɨ	C V C V	183
-5455	Amawaka	to put inside, to dive	sanã-_I	sanã-_I	s a n a ~	None	311	s a n a ~	C V C V 0	311
+5455	Amawaka	to put inside, to dive	sanã-_I	sanã-_I	s a n a ∼	None	311	s a n a ∼	C V C V C	311
 6050	Amawaka	to roast	soʔi-	soʔi-	s o ʔ i	II	360	s o ʔ i	C V C V	360
 6045	Chakobo	to roast	ʂoʔi-	ʂoʔi-	ʂ o ʔ i	None	360	ʂ o ʔ i	C V C V	360
 6042	Kakataibo	to roast	ʂoi-	ʂoi-	ʂ o i	None	360	ʂ o - i	C V V	360
@@ -5188,15 +5188,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 721	ProtoPanoan	to run	haβa[t]-	haβa[t]-	h a β a t	None	370	h a β a t	C V C V C	370
 726	Sharanawa	to run	aɸai	aɸai	a ɸ a	None	370	- a ɸ a -	V C V	370
 723	ShipiboKonibo	to run	haβá-	haβá-	h a β a	None	370	h a β a -	C V C V	370
-6441	Amawaka	to run	tarã-_I	tarã-_I	t a r a ~	None	388	t a r a ~	C V C V 0	388
-6433	Kakataibo	to run	tarã́	tarã́	t a r a ~	None	388	t a r a ~	C V C V 0	388
+6441	Amawaka	to run	tarã-_I	tarã-_I	t a r a ∼	None	388	t a r a ∼	C V C V C	388
+6433	Kakataibo	to run	tarã́	tarã́	t a r a ∼	None	388	t a r a ∼	C V C V C	388
 6435	Kapanawa	to run	tarán	tarán	t a r a n	None	388	t a r a n	C V C V C	388
-6442	Kaxinawa	to run	tadã-	tadã-	t a d a ~	None	388	t a d a ~	C V C V 0	388
-6443	Marinawa	to run	tárã-	tárã-	t a r a ~	None	388	t a r a ~	C V C V 0	388
+6442	Kaxinawa	to run	tadã-	tadã-	t a d a ∼	None	388	t a d a ∼	C V C V C	388
+6443	Marinawa	to run	tárã-	tárã-	t a r a ∼	None	388	t a r a ∼	C V C V C	388
 6444	Mayoruna	to run	tadanka	tadanka	t a d a n	None	388	t a d a n	C V C V C	388
 6432	ProtoPanoan	to run	taɽá[n]-	taɽá[n]-	t a ɽ a rⁿ	None	388	t a ɽ a rⁿ	C V C V C	388
 6437	Sharanawa	to run	tarai	tarai	t a r a	None	388	t a r a -	C V C V	388
-6434	ShipiboKonibo	to run	tarã́-	tarã́-	t a r a ~	None	388	t a r a ~	C V C V 0	388
+6434	ShipiboKonibo	to run	tarã́-	tarã́-	t a r a ∼	None	388	t a r a ∼	C V C V C	388
 6436	Yaminawa	to run	tara	tara	t a r a	None	388	t a r a -	C V C V	388
 4308	Kaxarari	to say, to speak	ɦɯjaˈɦi	ɦɯjaˈɦi	ɦ ɯ i	None	225	ɦ ɯ i	C V V	225
 7132	Amawaka	to say, to speak	yoʔi-_I	yoʔi-_I	j o ʔ i	None	450	j o ʔ i	C V C V	450
@@ -5321,18 +5321,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 755	Matis	to step	amak	amak	a m a k	None	392	- a m a k	V C V C	392
 743	ProtoPanoan	to step	hamak-	hamak-	h a m a k	None	392	h a m a k	C V C V C	392
 745	ShipiboKonibo	to step	hamá	hamá	h a m a	None	392	h a m a -	C V C V	392
-2326	Amawaka	to string together	kɨõ-	kɨõ-	k ɨ o ~	None	64	k ɨ o ~	C V V 0	64
+2326	Amawaka	to string together	kɨõ-	kɨõ-	k ɨ o ∼	None	64	k ɨ o ∼	C V V C	64
 2322	Chakobo	to string together	kɨwɨ	kɨwɨ	k ɨ o	None	64	k ɨ o -	C V V	64
-2318	Kakataibo	to string together	kwɨṍ	kwɨṍ	kʷ ɨ o ~	None	64	kʷ ɨ o ~	C V V 0	64
+2318	Kakataibo	to string together	kwɨṍ	kwɨṍ	kʷ ɨ o ∼	None	64	kʷ ɨ o ∼	C V V C	64
 2320	Kapanawa	to string together	kɨon-kin	kɨon-kin	k ɨ o n	None	64	k ɨ o n	C V V C	64
-2327	Kaxinawa	to string together	kɨũ-	kɨũ-	k ɨ u ~	None	64	k ɨ u ~	C V V 0	64
+2327	Kaxinawa	to string together	kɨũ-	kɨũ-	k ɨ u ∼	None	64	k ɨ u ∼	C V V C	64
 2328	Marinawa	to string together	kɨ̃ɨwã	kɨ̃ɨwã	k ɨ o	None	64	k ɨ o -	C V V	64
 2321	Marubo	to string together	kɨwã	kɨwã	k ɨ o	None	64	k ɨ o -	C V V	64
 2329	Matis	to string together	kun-kin	kun-kin	k u n	None	64	k - u n	C V C	64
 2330	Mayoruna	to string together	an-kun	an-kun	k u n	None	64	k - u n	C V C	64
 2317	ProtoPanoan	to string together	kwɨo[n]-	kwɨo[n]-	kʷ ɨ o rⁿ	None	64	kʷ ɨ o rⁿ	C V V C	64
 2323	Sharanawa	to string together	kɨoin	kɨoin	k ɨ o	None	64	k ɨ o -	C V V	64
-2319	ShipiboKonibo	to string together	kɨṍ-	kɨṍ-	k ɨ o ~	None	64	k ɨ o ~	C V V 0	64
+2319	ShipiboKonibo	to string together	kɨṍ-	kɨṍ-	k ɨ o ∼	None	64	k ɨ o ∼	C V V C	64
 690	Amawaka	to suck	ʔóyo-kín	ʔóyo-kín	ʔ o j o	None	348	ʔ o j o	C V C V	348
 686	Kakataibo	to suck	ʔooka-	ʔooka-	ʔ o o	None	348	ʔ o - o	C V V	348
 688	Kapanawa	to suck	ʔoyo-	ʔoyo-	ʔ o j o	None	348	ʔ o j o	C V C V	348
@@ -5354,15 +5354,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5827	Shanenawa	to swallow	ʂia	ʂia	ʂ i a	None	343	ʂ i - a	C V V	343
 5824	Yaminawa	to swallow	ʂɨa-kĩ	ʂɨa-kĩ	ʂ ɨ a	None	343	ʂ ɨ - a	C V V	343
 5833	Yawanawa	to swallow	ʃɨ	ʃɨ	ʃ ɨ	None	343	ʃ ɨ - -	C V	343
-4060	Amawaka	to sweat	niskã-	niskã-	n i s k a ~	II	203	n i s k a ~	C V C C V 0	203
+4060	Amawaka	to sweat	niskã-	niskã-	n i s k a ∼	II	203	n i s k a ∼	C V C C V C	203
 4056	Chakobo	to sweat	niska-	niska-	n i s k a	None	203	n i s k a -	C V C C V	203
-4055	Kapanawa	to sweat	nikã́-	nikã́-	n i k a ~	None	203	n i - k a ~	C V C V 0	203
-4061	Kaxinawa	to sweat	niskã	niskã	n i s k a ~	None	203	n i s k a ~	C V C C V 0	203
-4062	Marinawa	to sweat	nískãi-	nískãi-	n i s k a ~	None	203	n i s k a ~	C V C C V 0	203
+4055	Kapanawa	to sweat	nikã́-	nikã́-	n i k a ∼	None	203	n i - k a ∼	C V C V C	203
+4061	Kaxinawa	to sweat	niskã	niskã	n i s k a ∼	None	203	n i s k a ∼	C V C C V C	203
+4062	Marinawa	to sweat	nískãi-	nískãi-	n i s k a ∼	None	203	n i s k a ∼	C V C C V C	203
 4053	ProtoPanoan	to sweat	[n]iska[n]-	[n]iska[n]-	rⁿ i s k a rⁿ	None	203	rⁿ i s k a rⁿ	C V C C V C	203
 4059	Shanenawa	to sweat	niska	niska	n i s k a	None	203	n i s k a -	C V C C V	203
 4057	Sharanawa	to sweat	niskai	niskai	n i s k a	None	203	n i s k a -	C V C C V	203
-4054	ShipiboKonibo	to sweat	niskã́-	niskã́-	n i s k a ~	None	203	n i s k a ~	C V C C V 0	203
+4054	ShipiboKonibo	to sweat	niskã́-	niskã́-	n i s k a ∼	None	203	n i s k a ∼	C V C C V C	203
 4063	Yawanawa	to sweat	niskan	niskan	n i s k a n	None	203	n i s k a n	C V C C V C	203
 3053	Amawaka	to sweep	matsoo-_I	matsoo-_I	m a ts o	None	121	m a ts o	C V C V	121
 3047	Chakobo	to sweep	matso	matso	m a ts o	None	121	m a ts o	C V C V	121
@@ -5407,22 +5407,22 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4206	ProtoPanoan	to swim	nono-	nono-	n o n o	None	218	n o n o	C V C V	218
 4208	ShipiboKonibo	to swim	nono-	nono-	n o n o	None	218	n o n o	C V C V	218
 5500	Matis	to think	sinan-kin	sinan-kin	s i n a	None	316	s i n a	C V C V	316
-5570	Amawaka	to think	ʃinã_I	ʃinã_I	ʃ i n a ~	None	322	ʃ i n a ~	C V C V 0	322
+5570	Amawaka	to think	ʃinã_I	ʃinã_I	ʃ i n a ∼	None	322	ʃ i n a ∼	C V C V C	322
 5562	Chakobo	to think	ʃina-	ʃina-	ʃ i n a	None	322	ʃ i n a -	C V C V	322
-5557	Kakataibo	to think	sinã́-	sinã́-	s i n a ~	None	322	s i n a ~	C V C V 0	322
+5557	Kakataibo	to think	sinã́-	sinã́-	s i n a ∼	None	322	s i n a ∼	C V C V C	322
 5559	Kapanawa	to think	ʃinán-	ʃinán-	ʃ i n a n	None	322	ʃ i n a n	C V C V C	322
 5569	Katukina	to think	ʃinna-_nai	ʃinna-_nai	ʃ i n a	None	322	ʃ i n a -	C V C V	322
 5564	Kaxarari	to think	ʃinɐˈxi	ʃinɐˈxi	ʃ i n ɐ	None	322	ʃ i n ɐ -	C V C V	322
-5571	Kaxinawa	to think	ʃinã-	ʃinã-	ʃ i n a ~	None	322	ʃ i n a ~	C V C V 0	322
-5572	Marinawa	to think	ʃínã-	ʃínã-	ʃ i n a ~	None	322	ʃ i n a ~	C V C V 0	322
-5560	Marubo	to think	ʃiˈnãã	ʃiˈnãã	ʃ i n a ~	None	322	ʃ i n a ~	C V C V 0	322
+5571	Kaxinawa	to think	ʃinã-	ʃinã-	ʃ i n a ∼	None	322	ʃ i n a ∼	C V C V C	322
+5572	Marinawa	to think	ʃínã-	ʃínã-	ʃ i n a ∼	None	322	ʃ i n a ∼	C V C V C	322
+5560	Marubo	to think	ʃiˈnãã	ʃiˈnãã	ʃ i n a ∼	None	322	ʃ i n a ∼	C V C V C	322
 5574	Matis	to think	sinankin	sinankin	s i n a n	None	322	s i n a n	C V C V C	322
 5575	Mayoruna	to think	sinan-	sinan-	s i n a n	None	322	s i n a n	C V C V C	322
 5556	ProtoPanoan	to think	sina[n]-	sina[n]-	s i n a rⁿ	None	322	s i n a rⁿ	C V C V C	322
 5568	Shanenawa	to think	ʂinan	ʂinan	ʂ i n a n	None	322	ʂ i n a n	C V C V C	322
 5566	Sharanawa	to think	ʃinain	ʃinain	ʃ i n a	None	322	ʃ i n a -	C V C V	322
-5558	ShipiboKonibo	to think	ʃinã́-	ʃinã́-	ʃ i n a ~	None	322	ʃ i n a ~	C V C V 0	322
-5565	Yaminawa	to think	ʃinã-	ʃinã-	ʃ i n a ~	None	322	ʃ i n a ~	C V C V 0	322
+5558	ShipiboKonibo	to think	ʃinã́-	ʃinã́-	ʃ i n a ∼	None	322	ʃ i n a ∼	C V C V C	322
+5565	Yaminawa	to think	ʃinã-	ʃinã-	ʃ i n a ∼	None	322	ʃ i n a ∼	C V C V C	322
 5573	Yawanawa	to think	ʃinan	ʃinan	ʃ i n a n	None	322	ʃ i n a n	C V C V C	322
 5840	Amawaka	to thresh the corn	xɨmɨ-	xɨmɨ-	x ɨ m ɨ	II	344	x ɨ - m ɨ	C V C V	344
 5837	Kakataibo	to thresh the corn	ʂɨmɨ-	ʂɨmɨ-	ʂ ɨ m ɨ	None	344	ʂ ɨ - m ɨ	C V C V	344
@@ -5461,7 +5461,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3452	Yawanawa	to touch, to stir with a hand, to grope	mɨ-	mɨ-	m ɨ	None	155	m ɨ - -	C V	155
 6369	Amawaka	to try	tana-	tana-	t a n a	II	383	t a n a	C V C V	383
 6364	Chakobo	to try	tana-	tana-	t a n a	None	383	t a n a	C V C V	383
-6359	Kakataibo	to try	tã-	tã-	t a ~	None	383	t a ~ -	C V 0	383
+6359	Kakataibo	to try	tã-	tã-	t a ∼	None	383	t a ∼ -	C V C	383
 6362	Kapanawa	to try	tana-	tana-	t a n a	None	383	t a n a	C V C V	383
 6365	Kaxarari	to try	taˈlahi	taˈlahi	t a l a	None	383	t a l a	C V C V	383
 6370	Kaxinawa	to try	tana-	tana-	t a n a	None	383	t a n a	C V C V	383
@@ -5482,12 +5482,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3433	ShipiboKonibo	to twist, to turn, to move in circles	maya-	maya-	m a j a	None	154	m a j a	C V C V	154
 585	Korubo	to vomit	uk	uk	u k	None	270	- u k -	V C	270
 586	Matis	to vomit	uk-kin	uk-kin	u k	None	270	- u k -	V C	270
-782	Amawaka	to vomit	hanã-	hanã-	h a n a ~	None	414	h a n a ~	C V C V 0	414
+782	Amawaka	to vomit	hanã-	hanã-	h a n a ∼	None	414	h a n a ∼	C V C V C	414
 779	Chakobo	to vomit	hana-	hana-	h a n a	None	414	h a n a -	C V C V	414
 776	Kakataibo	to vomit	aná-	aná-	a n a	None	414	- a n a -	V C V	414
 777	Kapanawa	to vomit	hanán-	hanán-	h a n a n	también kinán-	414	h a n a n	C V C V C	414
-783	Kaxinawa	to vomit	hanã-	hanã-	h a n a ~	None	414	h a n a ~	C V C V 0	414
-784	Marinawa	to vomit	ánã-	ánã-	a n a ~	None	414	- a n a ~	V C V 0	414
+783	Kaxinawa	to vomit	hanã-	hanã-	h a n a ∼	None	414	h a n a ∼	C V C V C	414
+784	Marinawa	to vomit	ánã-	ánã-	a n a ∼	None	414	- a n a ∼	V C V C	414
 775	ProtoPanoan	to vomit	ha[n]a[n]-	ha[n]a[n]-	h a rⁿ a rⁿ	None	414	h a rⁿ a rⁿ	C V C V C	414
 781	Shanenawa	to vomit	anain	anain	a n a n	None	414	- a n a n	V C V C	414
 780	Sharanawa	to vomit	anain	anain	a n a n	None	414	- a n a n	V C V C	414
@@ -5607,7 +5607,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 771	Marinawa	tongue	ana	ana	a n a	None	403	- a n a	V C V	403
 760	Marubo	tongue	ˈana	ˈana	a n a	None	403	- a n a	V C V	403
 774	Matis	tongue	ana	ana	a n a	None	403	- a n a	V C V	403
-768	Poyanawa	tongue	ãda	ãda	a ~.d a	None	403	- a ~.d a	V 0 V	403
+768	Poyanawa	tongue	ãda	ãda	a ∼.d a	None	403	- a ∼.d a	V C V	403
 756	ProtoPanoan	tongue	hana	hana	h a n a	None	403	h a n a	C V C V	403
 766	Shanenawa	tongue	ana	ana	a n a	None	403	- a n a	V C V	403
 765	Sharanawa	tongue	ana	ana	a n a	None	403	- a n a	V C V	403
@@ -5639,9 +5639,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5966	Yawanawa	tooth, beak of bird	ʂɨta	ʂɨta	ʂ ɨ t a	None	353	ʂ ɨ t a	C V C V	353
 6036	Amawaka	transitive concordance suffix	-xo	-xo	x o	None	358	x o -	C V	358
 6031	Chakobo	transitive concordance suffix	ʂo	ʂo	ʂ o	None	358	ʂ o -	C V	358
-6027	Kakataibo	transitive concordance suffix	-ʂõ	-ʂõ	ʂ o ~	None	358	ʂ o ~	C V 0	358
+6027	Kakataibo	transitive concordance suffix	-ʂõ	-ʂõ	ʂ o ∼	None	358	ʂ o ∼	C V C	358
 6029	Kapanawa	transitive concordance suffix	-ʂon	-ʂon	ʂ o n	None	358	ʂ o n	C V C	358
-6035	Katukina	transitive concordance suffix	ʂõ	ʂõ	ʂ o ~	None	358	ʂ o ~	C V 0	358
+6035	Katukina	transitive concordance suffix	ʂõ	ʂõ	ʂ o ∼	None	358	ʂ o ∼	C V C	358
 6032	Kaxarari	transitive concordance suffix	-ʃu	-ʃu	ʃ u	None	358	ʃ u -	C V	358
 6037	Kaxinawa	transitive concordance suffix	-ʂu	-ʂu	ʂ u	None	358	ʂ u -	C V	358
 6038	Korubo	transitive concordance suffix	ʂun	ʂun	ʂ u n	None	358	ʂ u n	C V C	358
@@ -5650,8 +5650,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6040	Mayoruna	transitive concordance suffix	-ʂun	-ʂun	ʂ u n	None	358	ʂ u n	C V C	358
 6026	ProtoPanoan	transitive concordance suffix	-ʂon	-ʂon	ʂ o n	None	358	ʂ o n	C V C	358
 6034	Shanenawa	transitive concordance suffix	-ʂun	-ʂun	ʂ u n	None	358	ʂ u n	C V C	358
-6028	ShipiboKonibo	transitive concordance suffix	-ʂõ	-ʂõ	ʂ o ~	None	358	ʂ o ~	C V 0	358
-6033	Yaminawa	transitive concordance suffix	-ʂõ	-ʂõ	ʂ o ~	None	358	ʂ o ~	C V 0	358
+6028	ShipiboKonibo	transitive concordance suffix	-ʂõ	-ʂõ	ʂ o ∼	None	358	ʂ o ∼	C V C	358
+6033	Yaminawa	transitive concordance suffix	-ʂõ	-ʂõ	ʂ o ∼	None	358	ʂ o ∼	C V C	358
 1557	Amawaka	tree stump	woɾoo	woɾoo	w o ɾ o	II	516	w o - ɾ o -	C V C V	516
 1550	Kakataibo	tree stump	βuɾú	βuɾú	β u ɾ u	None	516	β u - ɾ u -	C V C V	516
 1553	Kapanawa	tree stump	hiwi_βoʔɾo	hiwi_βoʔɾo	β o ʔ ɾ o	None	516	β o ʔ ɾ o -	C V C C V	516
@@ -5699,16 +5699,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 5067	ShipiboKonibo	two	raβɨ́́	raβɨ́́	r a β ɨ	None	284	r a β ɨ -	C V C V	284
 5074	Yaminawa	two	raɸɨ	raɸɨ	r a ɸ ɨ	None	284	r a ɸ ɨ -	C V C V	284
 5083	Yawanawa	two	ɾaβɨ	ɾaβɨ	ɾ a β ɨ	None	284	ɾ a β ɨ -	C V C V	284
-2263	Amawaka	type of bank	kɨnã_I	kɨnã_I	k ɨ n a ~	None	60	k ɨ n a ~	C V C V 0	60
+2263	Amawaka	type of bank	kɨnã_I	kɨnã_I	k ɨ n a ∼	None	60	k ɨ n a ∼	C V C V C	60
 2259	Chakobo	type of bank	kɨˈnanɨ	kɨˈnanɨ	k ɨ n a n	None	60	k ɨ n a n	C V C V C	60
-2255	Kakataibo	type of bank	kwɨnã	kwɨnã	kʷ ɨ n a ~	None	60	kʷ ɨ n a ~	C V C V 0	60
+2255	Kakataibo	type of bank	kwɨnã	kwɨnã	kʷ ɨ n a ∼	None	60	kʷ ɨ n a ∼	C V C V C	60
 2257	Kapanawa	type of bank	kɨnan	kɨnan	k ɨ n a n	None	60	k ɨ n a n	C V C V C	60
-2264	Kaxinawa	type of bank	kɨnã	kɨnã	k ɨ n a ~	None	60	k ɨ n a ~	C V C V 0	60
-2265	Marinawa	type of bank	kɨ́nã	kɨ́nã	k ɨ n a ~	None	60	k ɨ n a ~	C V C V 0	60
-2258	Marubo	type of bank	kɨnã	kɨnã	k ɨ n a ~	None	60	k ɨ n a ~	C V C V 0	60
+2264	Kaxinawa	type of bank	kɨnã	kɨnã	k ɨ n a ∼	None	60	k ɨ n a ∼	C V C V C	60
+2265	Marinawa	type of bank	kɨ́nã	kɨ́nã	k ɨ n a ∼	None	60	k ɨ n a ∼	C V C V C	60
+2258	Marubo	type of bank	kɨnã	kɨnã	k ɨ n a ∼	None	60	k ɨ n a ∼	C V C V C	60
 2254	ProtoPanoan	type of bank	kwɨ[n]a[n]	kwɨ[n]a[n]	kʷ ɨ rⁿ a rⁿ	None	60	kʷ ɨ rⁿ a rⁿ	C V C V C	60
 2261	Sharanawa	type of bank	kɨna	kɨna	k ɨ n a	None	60	k ɨ n a -	C V C V	60
-2256	ShipiboKonibo	type of bank	kɨnã́	kɨnã́	k ɨ n a ~	None	60	k ɨ n a ~	C V C V 0	60
+2256	ShipiboKonibo	type of bank	kɨnã́	kɨnã́	k ɨ n a ∼	None	60	k ɨ n a ∼	C V C V C	60
 2410	Amawaka	type of basket	kaká_I	kaká_I	k a k a	None	71	k a k a -	C V C V	71
 2407	Chakobo	type of basket	kákano	kákano	k a k a n	None	71	k a k a n	C V C V C	71
 2406	Kakataibo	type of basket	kaká	kaká	k a k a	None	71	k a k a -	C V C V	71
@@ -5722,15 +5722,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6458	Kapanawa	type of basket	tasa	tasa	t a s a	None	390	t a s a	C V C V	390
 6455	ProtoPanoan	type of basket	tasa	tasa	t a s a	None	390	t a s a	C V C V	390
 6457	ShipiboKonibo	type of basket	tasá	tasá	t a s a	None	390	t a s a	C V C V	390
-1534	Amawaka	type of box	wonãti	wonãti	w o n a ~ t i	II	514	w o - n a ~ t i	C V C V 0 C V	514
+1534	Amawaka	type of box	wonãti	wonãti	w o n a ∼ t i	II	514	w o - n a ∼ t i	C V C V C C V	514
 1532	Chakobo	type of box	βoˈna-naʔa	βoˈna-naʔa	β o n a	None	514	β o - n a - - -	C V C V	514
-1529	Kakataibo	type of box	βonã́-ti	βonã́-ti	β o n a ~ t i	None	514	β o - n a ~ t i	C V C V 0 C V	514
+1529	Kakataibo	type of box	βonã́-ti	βonã́-ti	β o n a ∼ t i	None	514	β o - n a ∼ t i	C V C V C C V	514
 1531	Kapanawa	type of box	βoʔnánti	βoʔnánti	β o ʔ n a n t i	None	514	β o ʔ n a n t i	C V C C V C C V	514
 1533	Katukina	type of box	βunati	βunati	β u n a t i	None	514	β u - n a - t i	C V C V C V	514
-1535	Kaxinawa	type of box	bunãti	bunãti	b u n a ~ t i	None	514	b u - n a ~ t i	C V C V 0 C V	514
-1536	Marinawa	type of box	ɸṍnãti	ɸṍnãti	ɸ o n a ~ t i	None	514	ɸ o - n a ~ t i	C V C V 0 C V	514
+1535	Kaxinawa	type of box	bunãti	bunãti	b u n a ∼ t i	None	514	b u - n a ∼ t i	C V C V C C V	514
+1536	Marinawa	type of box	ɸṍnãti	ɸṍnãti	ɸ o n a ∼ t i	None	514	ɸ o - n a ∼ t i	C V C V C C V	514
 1528	ProtoPanoan	type of box	βoʔ[n]a[n]-ti	βoʔ[n]a[n]-ti	β o ʔ rⁿ a rⁿ t i	None	514	β o ʔ rⁿ a rⁿ t i	C V C C V C C V	514
-1530	ShipiboKonibo	type of box	βonã́ti	βonã́ti	β o n a ~ t i	None	514	β o - n a ~ t i	C V C V 0 C V	514
+1530	ShipiboKonibo	type of box	βonã́ti	βonã́ti	β o n a ∼ t i	None	514	β o - n a ∼ t i	C V C V C C V	514
 2714	Amawaka	type of pot	kɨ̃tii_I	kɨ̃tii_I	k ɨ t i	None	92	k ɨ t i -	C V C V	92
 2709	Chaninawa	type of pot	kɨti	kɨti	k ɨ t i	None	92	k ɨ t i -	C V C V	92
 2706	Kakataibo	type of pot	manɨ_kɨ̃ti	manɨ_kɨ̃ti	k ɨ t i	None	92	k ɨ t i -	C V C V	92
@@ -5742,17 +5742,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 2711	Sharanawa	type of pot	kɨtin	kɨtin	k ɨ t i n	None	92	k ɨ t i n	C V C V C	92
 2707	ShipiboKonibo	type of pot	kɨt̃_í	kɨt̃_í	k ɨ t i	None	92	k ɨ t i -	C V C V	92
 2719	Yawanawa	type of pot	kɨti	kɨti	k ɨ t i	None	92	k ɨ t i -	C V C V	92
-100	Amawaka	type of venom	ʔaxã-_I	ʔaxã-_I	ʔ a x a ~	None	484	ʔ a x a ~	C V C V 0	484
+100	Amawaka	type of venom	ʔaxã-_I	ʔaxã-_I	ʔ a x a ∼	None	484	ʔ a x a ∼	C V C V C	484
 96	Chakobo	type of venom	ʔaʂa-	ʔaʂa-	ʔ a ʂ a	None	484	ʔ a ʂ a -	C V C V	484
-93	Kakataibo	type of venom	ʔaˈʂã-	ʔaˈʂã-	ʔ a ʂ a ~	None	484	ʔ a ʂ a ~	C V C V 0	484
+93	Kakataibo	type of venom	ʔaˈʂã-	ʔaˈʂã-	ʔ a ʂ a ∼	None	484	ʔ a ʂ a ∼	C V C V C	484
 95	Kapanawa	type of venom	ʔaˈʂan-	ʔaˈʂan-	ʔ a ʂ a n	None	484	ʔ a ʂ a n	C V C V C	484
 101	Kaxinawa	type of venom	aʂa-	aʂa-	a ʂ a	None	484	- a ʂ a -	V C V	484
-103	Marinawa	type of venom	ˈaʂã-	ˈaʂã-	a ʂ a ~	None	484	- a ʂ a ~	V C V 0	484
+103	Marinawa	type of venom	ˈaʂã-	ˈaʂã-	a ʂ a ∼	None	484	- a ʂ a ∼	V C V C	484
 105	Matis	type of venom	aʂ-kin	aʂ-kin	a ʂ	None	484	- a ʂ - -	V C	484
 92	ProtoPanoan	type of venom	ʔaʂ[an]-	ʔaʂ[an]-	ʔ a ʂ a n	None	484	ʔ a ʂ a n	C V C V C	484
 98	Sharanawa	type of venom	aʂain	aʂain	a ʂ a n	None	484	- a ʂ a n	V C V C	484
-94	ShipiboKonibo	type of venom	ʔaˈʂã-	ʔaˈʂã-	ʔ a ʂ a ~	None	484	ʔ a ʂ a ~	C V C V 0	484
-97	Yaminawa	type of venom	aʂã-	aʂã-	a ʂ a ~	None	484	- a ʂ a ~	V C V 0	484
+94	ShipiboKonibo	type of venom	ʔaˈʂã-	ʔaˈʂã-	ʔ a ʂ a ∼	None	484	ʔ a ʂ a ∼	C V C V C	484
+97	Yaminawa	type of venom	aʂã-	aʂã-	a ʂ a ∼	None	484	- a ʂ a ∼	V C V C	484
 104	Yawanawa	type of venom	aʃan	aʃan	a ʃ a n	None	484	- a ʃ a n	V C V C	484
 4071	Amawaka	unclear	niʃi_I	niʃi_I	n i ʃ i	None	205	n i ʃ i	C V C V	205
 4070	Chakobo	unclear	niʃi	niʃi	n i ʃ i	None	205	n i ʃ i	C V C V	205
@@ -5763,30 +5763,30 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4068	ShipiboKonibo	unclear	niʃi	niʃi	n i ʃ i	None	205	n i ʃ i	C V C V	205
 5369	Amawaka	unclear	risí_I	risí_I	r i s i	None	305	r i s i -	C V C V	305
 6005	Marinawa	unclear	ʂɨ́́wa	ʂɨ́́wa	ʂ ɨ w a	None	356	ʂ ɨ w a	C V C V	356
-2158	Amawaka	urine, to urinate	hĩsõ-_I	hĩsõ-_I	h i s o ~	None	51	h i s o ~	C V C V 0	51
+2158	Amawaka	urine, to urinate	hĩsõ-_I	hĩsõ-_I	h i s o ∼	None	51	h i s o ∼	C V C V C	51
 2151	Chakobo	urine, to urinate	hiso-	hiso-	h i s o	None	51	h i s o -	C V C V	51
 2153	Chaninawa	urine, to urinate	iso	iso	i s o	None	51	- i s o -	V C V	51
-2147	Kakataibo	urine, to urinate	isṍ	isṍ	i s o ~	None	51	- i s o ~	V C V 0	51
+2147	Kakataibo	urine, to urinate	isṍ	isṍ	i s o ∼	None	51	- i s o ∼	V C V C	51
 2149	Kapanawa	urine, to urinate	hisón-	hisón-	h i s o n	None	51	h i s o n	C V C V C	51
 2157	Katukina	urine, to urinate	isun	isun	i s u n	None	51	- i s u n	V C V C	51
 2152	Kaxarari	urine, to urinate	isuˈlu	isuˈlu	i s u l	None	51	- i s u l	V C V C	51
-2159	Kaxinawa	urine, to urinate	isũ̃	isũ̃	i s u ~	None	51	- i s u ~	V C V 0	51
+2159	Kaxinawa	urine, to urinate	isũ̃	isũ̃	i s u ∼	None	51	- i s u ∼	V C V C	51
 2161	Korubo	urine, to urinate	isun-	isun-	i s u n	None	51	- i s u n	V C V C	51
-2160	Marinawa	urine, to urinate	ísõ-	ísõ-	i s o ~	None	51	- i s o ~	V C V 0	51
-2150	Marubo	urine, to urinate	isõ	isõ	i s o ~	None	51	- i s o ~	V C V 0	51
+2160	Marinawa	urine, to urinate	ísõ-	ísõ-	i s o ∼	None	51	- i s o ∼	V C V C	51
+2150	Marubo	urine, to urinate	isõ	isõ	i s o ∼	None	51	- i s o ∼	V C V C	51
 2162	Matis	urine, to urinate	isun-	isun-	i s u n	None	51	- i s u n	V C V C	51
 2163	Mayoruna	urine, to urinate	isun	isun	i s u n	None	51	- i s u n	V C V C	51
 2146	ProtoPanoan	urine, to urinate	hisor-	hisor-	h i s o r	None	51	h i s o r	C V C V C	51
 2155	Sharanawa	urine, to urinate	isoin	isoin	i s o	None	51	- i s o -	V C V	51
-2148	ShipiboKonibo	urine, to urinate	hisṍ	hisṍ	h i s o ~	None	51	h i s o ~	C V C V 0	51
+2148	ShipiboKonibo	urine, to urinate	hisṍ	hisṍ	h i s o ∼	None	51	h i s o ∼	C V C V C	51
 472	Amawaka	urubu rei	ʔíʃmin	ʔíʃmin	ʔ i ʃ m i n	None	204	ʔ i ʃ m i n	C V C C V C	204
-467	Kakataibo	urubu rei	ʔiʃmĩ	ʔiʃmĩ	ʔ i ʃ m i ~	None	204	ʔ i ʃ m i ~	C V C C V 0	204
+467	Kakataibo	urubu rei	ʔiʃmĩ	ʔiʃmĩ	ʔ i ʃ m i ∼	None	204	ʔ i ʃ m i ∼	C V C C V C	204
 469	Kapanawa	urubu rei	ʔiʃmín	ʔiʃmín	ʔ i ʃ m i n	None	204	ʔ i ʃ m i n	C V C C V C	204
-474	Kaxinawa	urubu rei	iʃmĩ	iʃmĩ	i ʃ m i ~	None	204	- i ʃ m i ~	V C C V 0	204
-475	Marinawa	urubu rei	íʃmĩ	íʃmĩ	i ʃ m i ~	None	204	- i ʃ m i ~	V C C V 0	204
+474	Kaxinawa	urubu rei	iʃmĩ	iʃmĩ	i ʃ m i ∼	None	204	- i ʃ m i ∼	V C C V C	204
+475	Marinawa	urubu rei	íʃmĩ	íʃmĩ	i ʃ m i ∼	None	204	- i ʃ m i ∼	V C C V C	204
 466	ProtoPanoan	urubu rei	ʔiʃmi[n]	ʔiʃmi[n]	ʔ i ʃ m i rⁿ	None	204	ʔ i ʃ m i rⁿ	C V C C V C	204
 470	Sharanawa	urubu rei	iʃmin	iʃmin	i ʃ m i n	None	204	- i ʃ m i n	V C C V C	204
-468	ShipiboKonibo	urubu rei	ʔiʃmĩ	ʔiʃmĩ	ʔ i ʃ m i ~	None	204	ʔ i ʃ m i ~	C V C C V 0	204
+468	ShipiboKonibo	urubu rei	ʔiʃmĩ	ʔiʃmĩ	ʔ i ʃ m i ∼	None	204	ʔ i ʃ m i ∼	C V C C V C	204
 2938	Amawaka	value	kopi	kopi	k o p i	II	111	k o p i	C V C V	111
 2934	Chakobo	value	kopi	kopi	k o p i	None	111	k o p i	C V C V	111
 2929	Kakataibo	value	kopí	kopí	k o p i	None	111	k o p i	C V C V	111
@@ -5811,7 +5811,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4915	Marubo	vein	pono	pono	p o n o	None	273	p o n o	C V C V	273
 4927	Matis	vein	punu	punu	p u n u	None	273	p u n u	C V C V	273
 4928	Mayoruna	vein	punu	punu	p u n u	None	273	p u n u	C V C V	273
-4922	Poyanawa	vein	pũdu	pũdu	p u ~.d u	None	273	p u ~.d u	C V 0 V	273
+4922	Poyanawa	vein	pũdu	pũdu	p u ∼.d u	None	273	p u ∼.d u	C V C V	273
 4911	ProtoPanoan	vein	pono	pono	p o n o	None	273	p o n o	C V C V	273
 4919	Sharanawa	vein	pono	pono	p o n o	None	273	p o n o	C V C V	273
 4913	ShipiboKonibo	vein	pono	pono	p o n o	None	273	p o n o	C V C V	273
@@ -5877,14 +5877,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 6708	Marinawa	water, river	ɸaka	ɸaka	ɸ a k a	None	412	ɸ a k a	C V C V	412
 6695	ProtoPanoan	water, river	waka	waka	w a k a	None	412	w a k a	C V C V	412
 6697	ShipiboKonibo	water, river	waka_nawa	waka_nawa	w a k a	None	412	w a k a	C V C V	412
-1220	Amawaka	waves	wɨtʃõ_I	wɨtʃõ_I	w ɨ tʃ o ~	None	489	w ɨ tʃ o ~	C V C V 0	489
-1215	Kakataibo	waves	βɨtʃṍ	βɨtʃṍ	β ɨ tʃ o ~	None	489	β ɨ tʃ o ~	C V C V 0	489
+1220	Amawaka	waves	wɨtʃõ_I	wɨtʃõ_I	w ɨ tʃ o ∼	None	489	w ɨ tʃ o ∼	C V C V C	489
+1215	Kakataibo	waves	βɨtʃṍ	βɨtʃṍ	β ɨ tʃ o ∼	None	489	β ɨ tʃ o ∼	C V C V C	489
 1217	Kapanawa	waves	βɨtʃo	βɨtʃo	β ɨ tʃ o	None	489	β ɨ tʃ o -	C V C V	489
-1221	Kaxinawa	waves	bɨtʃũ-	bɨtʃũ-	b ɨ tʃ u ~	None	489	b ɨ tʃ u ~	C V C V 0	489
-1223	Marinawa	waves	ɨnɨ_ɸɨtʃõĩ	ɨnɨ_ɸɨtʃõĩ	ɸ ɨ tʃ o ~	None	489	ɸ ɨ tʃ o ~	C V C V 0	489
+1221	Kaxinawa	waves	bɨtʃũ-	bɨtʃũ-	b ɨ tʃ u ∼	None	489	b ɨ tʃ u ∼	C V C V C	489
+1223	Marinawa	waves	ɨnɨ_ɸɨtʃõĩ	ɨnɨ_ɸɨtʃõĩ	ɸ ɨ tʃ o ∼	None	489	ɸ ɨ tʃ o ∼	C V C V C	489
 1214	ProtoPanoan	waves	βɨtʃo[n]	βɨtʃo[n]	β ɨ tʃ o rⁿ	None	489	β ɨ tʃ o rⁿ	C V C V C	489
 1218	Sharanawa	waves	ɸɨtʃo	ɸɨtʃo	ɸ ɨ tʃ o	None	489	ɸ ɨ tʃ o -	C V C V	489
-1216	ShipiboKonibo	waves	βɨtʃṍ	βɨtʃṍ	β ɨ tʃ o ~	None	489	β ɨ tʃ o ~	C V C V 0	489
+1216	ShipiboKonibo	waves	βɨtʃṍ	βɨtʃṍ	β ɨ tʃ o ∼	None	489	β ɨ tʃ o ∼	C V C V C	489
 927	Amawaka	way, path	waʔi	waʔi	w a ʔ i	II	468	w a ʔ i	C V C V	468
 919	Chakobo	way, path	βaʔi	βaʔi	β a ʔ i	None	468	β a ʔ i	C V C V	468
 922	Chaninawa	way, path	ɸai	ɸai	ɸ a i	None	468	ɸ a - i	C V V	468
@@ -6025,17 +6025,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 135	Chakobo	woman, wife	ʔaˈwini	ʔaˈwini	ʔ a w i n	(ver etimologias 3, 386,  498	506	ʔ a w i n	C V C V C	506
 131	Kapanawa	woman, wife	ʔaˈwin	ʔaˈwin	ʔ a w i n	None	506	ʔ a w i n	C V C V C	506
 140	Katukina	woman, wife	ain	ain	a i	None	506	- a - i -	V V	506
-145	Kaxinawa	woman, wife	ãĩ	ãĩ	a i ~	None	506	- a - i ~	V V 0	506
+145	Kaxinawa	woman, wife	ãĩ	ãĩ	a i ∼	None	506	- a - i ∼	V V C	506
 148	Korubo	woman, wife	awin	awin	a w i n	None	506	- a w i n	V C V C	506
-146	Marinawa	woman, wife	ˈãwĩ	ˈãwĩ	a w i ~	None	506	- a w i ~	V C V 0	506
-132	Marubo	woman, wife	aĩ	aĩ	a i ~	None	506	- a - i ~	V V 0	506
+146	Marinawa	woman, wife	ˈãwĩ	ˈãwĩ	a w i ∼	None	506	- a w i ∼	V C V C	506
+132	Marubo	woman, wife	aĩ	aĩ	a i ∼	None	506	- a - i ∼	V V C	506
 149	Matis	woman, wife	awin	awin	a w i n	None	506	- a w i n	V C V C	506
 150	Mayoruna	woman, wife	awin	awin	a w i n	None	506	- a w i n	V C V C	506
-141	Poyanawa	woman, wife	awĩ	awĩ	a w i ~	None	506	- a w i ~	V C V 0	506
+141	Poyanawa	woman, wife	awĩ	awĩ	a w i ∼	None	506	- a w i ∼	V C V C	506
 129	ProtoPanoan	woman, wife	ʔawi[n]	ʔawi[n]	ʔ a w i rⁿ	None	506	ʔ a w i rⁿ	C V C V C	506
 139	Shanenawa	woman, wife	awin	awin	a w i n	None	506	- a w i n	V C V C	506
-130	ShipiboKonibo	woman, wife	aˈwĩ	aˈwĩ	a w i ~	None	506	- a w i ~	V C V 0	506
-137	Yaminawa	woman, wife	aɸĩ	aɸĩ	a ɸ i ~	None	506	- a ɸ i ~	V C V 0	506
+130	ShipiboKonibo	woman, wife	aˈwĩ	aˈwĩ	a w i ∼	None	506	- a w i ∼	V C V C	506
+137	Yaminawa	woman, wife	aɸĩ	aɸĩ	a ɸ i ∼	None	506	- a ɸ i ∼	V C V C	506
 147	Yawanawa	woman, wife	auin	auin	a w i n	None	506	- a w i n	V C V C	506
 153	Kapanawa	woman, wife	aíβo	aíβo	a i β o	None	517	- a - i β o	V V C V	517
 154	Kaxinawa	woman, wife	ãĩbu	ãĩbu	a i b u	None	517	- a - i b u	V V C V	517
@@ -6065,12 +6065,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 4872	Marubo	yam	ˈpua	ˈpua	p u a	None	269	p u a	C V V	269
 4413	Matis	yellow	ʃin	ʃin	ʃ i n	None	233	- - ʃ i n	C V C	233
 4612	Amawaka	yellow	pãʃiI	pãʃiI	p a ʃ i	None	247	p a ʃ i -	C V C V	247
-4603	Kakataibo	yellow	pãʃiã	pãʃiã	p a ʃ i ~	None	247	p a ʃ i ~	C V C V 0	247
+4603	Kakataibo	yellow	pãʃiã	pãʃiã	p a ʃ i ∼	None	247	p a ʃ i ∼	C V C V C	247
 4607	Kaxarari	yellow	ʃiˈni	ʃiˈni	ʃ i n	None	247	- - ʃ i n	C V C	247
 4613	Kaxinawa	yellow	paʃi	paʃi	p a ʃ i	None	247	p a ʃ i -	C V C V	247
 4615	Marinawa	yellow	pãʃi	pãʃi	p a ʃ i	None	247	p a ʃ i -	C V C V	247
 4618	Matis	yellow	ʃin	ʃin	ʃ i n	None	247	- - ʃ i n	C V C	247
-4611	Poyanawa	yellow	pãʃĩ	pãʃĩ	p a ʃ i ~	None	247	p a ʃ i ~	C V C V 0	247
+4611	Poyanawa	yellow	pãʃĩ	pãʃĩ	p a ʃ i ∼	None	247	p a ʃ i ∼	C V C V C	247
 4602	ProtoPanoan	yellow	pãʃin	pãʃin	p a ʃ i n	None	247	p a ʃ i n	C V C V C	247
 4609	Shanenawa	yellow	paʂin	paʂin	p a ʂ i n	None	247	p a ʂ i n	C V C V C	247
 4608	Sharanawa	yellow	paʂi	paʂi	p a ʂ i	None	247	p a ʂ i -	C V C V	247
@@ -6094,14 +6094,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS
 3591	Mayoruna	you (sg.)	mi-	mi-	m i	None	166	m i	C V	166
 3575	ProtoPanoan	you (sg.)	mi	mi	m i	None	166	m i	C V	166
 3577	ShipiboKonibo	you (sg.)	mia	mia	m i	None	166	m i	C V	166
-6253	Amawaka	young woman	xõtako	xõtako	x o ~ t a k o	II	375	x o ~ t a k o	C V 0 C V C V	375
+6253	Amawaka	young woman	xõtako	xõtako	x o ∼ t a k o	II	375	x o ∼ t a k o	C V C C V C V	375
 6245	Chakobo	young woman	ˈʂotako	ˈʂotako	ʂ o t a k o	None	375	ʂ o - t a k o	C V C V C V	375
-6242	Kakataibo	young woman	ʂõtako	ʂõtako	ʂ o ~ t a k o	None	375	ʂ o ~ t a k o	C V 0 C V C V	375
+6242	Kakataibo	young woman	ʂõtako	ʂõtako	ʂ o ∼ t a k o	None	375	ʂ o ∼ t a k o	C V C C V C V	375
 6244	Kapanawa	young woman	ʂontako	ʂontako	ʂ o n t a k o	None	375	ʂ o n t a k o	C V C C V C V	375
 6255	Marinawa	young woman	ʂótoko	ʂótoko	ʂ o t o k o	None	375	ʂ o - t o k o	C V C V C V	375
-6241	ProtoPanoan	young woman	ʂõtako	ʂõtako	ʂ o ~ t a k o	None	375	ʂ o ~ t a k o	C V 0 C V C V	375
+6241	ProtoPanoan	young woman	ʂõtako	ʂõtako	ʂ o ∼ t a k o	None	375	ʂ o ∼ t a k o	C V C C V C V	375
 6252	Shanenawa	young woman	ʂutakɨ_fakɨ	ʂutakɨ_fakɨ	ʂ u t a k ɨ	None	375	ʂ u - t a k ɨ	C V C V C V	375
 6250	Sharanawa	young woman	ʂotokoɸakɨ	ʂotokoɸakɨ	ʂ o t o k o	None	375	ʂ o - t o k o	C V C V C V	375
-6243	ShipiboKonibo	young woman	ʂõtako	ʂõtako	ʂ o ~ t a k o	None	375	ʂ o ~ t a k o	C V 0 C V C V	375
+6243	ShipiboKonibo	young woman	ʂõtako	ʂõtako	ʂ o ∼ t a k o	None	375	ʂ o ∼ t a k o	C V C C V C V	375
 6246	Yaminawa	young woman	ʂotoɸakɨ	ʂotoɸakɨ	ʂ o t o	None	375	ʂ o - t o - -	C V C V	375
 6256	Yawanawa	young woman	ʃutaku_βakɨ	ʃutaku_βakɨ	ʃ u t a k u	None	375	ʃ u - t a k u	C V C V C V	375

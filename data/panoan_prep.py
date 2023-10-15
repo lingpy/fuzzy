@@ -7,6 +7,7 @@ from lingpy.sequence.sound_classes import tokens2class
 def clean_slash(x):
     cleaned = []
     for segment in x:
+        segment = segment.replace("~", "∼")
         if "/" in segment:
             after_slash = re.split("/", segment)[1]
             cleaned.append(after_slash)

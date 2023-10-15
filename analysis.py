@@ -1,7 +1,9 @@
-from fuzzyrex import FuzzyReconstructor
-from lingpy import Wordlist, basictypes
+"""
+Analysis for the study on fuzzy reconstructions.
+"""
+from lingrex.fuzzy import FuzzyReconstructor, ntile
+from lingpy import Wordlist, basictypes, Alignments
 from lingrex.reconstruct import transform_alignment
-from pylexibank import progressbar
 from functools import partial
 from sklearn.svm import SVC
 from sys import argv
@@ -10,6 +12,7 @@ import random
 import itertools
 import networkx as nx
 from tqdm import tqdm as progressbar
+
 random.seed(1234)
 
 align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False, gap="/")
@@ -17,9 +20,10 @@ align_s = partial(transform_alignment, align=True, position=False, prosody=True,
 proto_language = "Proto"+argv[1]
 
 clf = lambda : SVC(kernel="linear")
-wl = Wordlist("data/{0}.tsv".format(argv[1].lower()))
+wl = Alignments("data/{0}.tsv".format(argv[1].lower()), ref="cogids",
+        transcription="form")
 print("[i] loaded wordlist")
-fr = FuzzyReconstructor(wl, ref="cogids", target=proto_language)
+fr = FuzzyReconstructor(wl, proto_language, ref="cogids")
 print("[i] loaded fuzzy reconstructor")
 fr.random_splits(10, retain=0.9)
 print("[i] carried out random splits")
@@ -32,6 +36,7 @@ hits, fails = 0, 0
 etd = wl.get_etymdict(ref="cogids")
 all_languages = [l for l in wl.cols if l != proto_language]
 confusion = nx.Graph()
+ntile_dict = {}
 for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
     idxs = []
     for idx in idxs_:
@@ -54,7 +59,8 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                 [y for x, y in zip(languages, tokens) if x == proto_language][0]
                 )
 
-        pred = fr.predict(selected_tokens, selected_languages)
+        words, pred = fr.predict(
+                selected_tokens, selected_languages, output="wp")
         sounds = []
         for i, snd in enumerate(pred):
             sound, score = snd.split("¦")[0].split(":")
@@ -75,7 +81,9 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
                                 sndB, vals=[(cogid, i, scoreA, scoreB)])
         if " ".join(sounds) == target_word:
             hits += 1
+            ntile_dict[cogid] = (1, target_word)
         else:
+            ntile_dict[cogid] = (0, ntile(words))
             fails += 1
             alm = align_s(selected_tokens, selected_languages,
                     all_languages)
@@ -97,6 +105,28 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
             almr += [["Fuzzy", "", "",]+pred]
             almr += [[proto_language, "", ""]+target_word.split(" ")]
             output += [[cogid, wl[idxs[0], "concept"], almr, len(almr[0])]]
+
+# create ntile output
+print("[i] writing quintiles to wordlist file")
+wl.add_entries("quintiles", "tokens", lambda x: x)
+# align data only for burmish and karen
+if argv[1] in ["Karen", "Burmish"]:
+    wl.align()
+for idx, doculect, tokens, cogids in wl.iter_rows("doculect", "tokens", "cogids"):
+    if doculect == "Proto" + argv[1]:
+        words = []
+        for i, cogid in enumerate(cogids):
+            if cogid in ntile_dict:
+                success, value = ntile_dict[cogid]
+                if success:
+                    words += ["( "+value+" )"]
+                else:
+                    words += [value]
+            else:
+                words += [" ".join(["?" + t for t in tokens.n[i]])]
+        wl[idx, "quintiles"] = " + ".join(words)
+wl.output('tsv', filename=argv[1].lower()+"-quintiles", prettify=False, ignore="all")
+print("[i] quintiles have been written to wordlist file.")
 
 table = []
 for nA, nB, data in confusion.edges(data=True):

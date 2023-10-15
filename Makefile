@@ -1,6 +1,8 @@
-download:
+download-burmish:
 	git clone https://github.com/lexibank/hillburmish/ --branch v0.2 cldf-data/hillburmish/
+download-karen:
 	git clone https://github.com/lexibank/luangthongkumkaren/ --branch v0.2 cldf-data/luangthongkumkaren/
+download-pano:
 	git clone https://github.com/pano-tacanan-history/oliveiraprotopanoan/ cldf-data/oliveiraprotopanoan/
 
 burmish-wordlist:
@@ -17,15 +19,20 @@ karen-reconstruction:
 	python analysis.py Karen
 karen-pdf:
 	pandoc -i karen.md -o karen.pdf --pdf-engine=xelatex
+
 karen: karen-wordlist karen-reconstruction karen-pdf
 
 pano-wordlist:
 	edictor wordlist --data=cldf-data/oliveiraprotopanoan/cldf/cldf-metadata.json --preprocessing=data/panoan_prep.py --addon="cognacy:cogid","alignment:alignment" --name=data/panoan
+	
 pano-reconstruction:
 	python analysis.py Panoan
 pano-pdf:
 	pandoc -i panoan.md -o panoan.pdf --pdf-engine=xelatex
 pano: pano-wordlist pano-reconstruction pano-pdf
 
+download: download-burmish download-karen download-pano
+
 analysis: burmish karen pano
+
 full: download prepare analysis
