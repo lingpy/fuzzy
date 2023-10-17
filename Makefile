@@ -35,4 +35,7 @@ download: download-burmish download-karen download-pano
 
 analysis: burmish karen pano
 
-full: download prepare analysis
+stats:
+	python stats.py
+
+full: download prepare analysis stats
