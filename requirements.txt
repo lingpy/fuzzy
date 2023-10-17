@@ -21,7 +21,7 @@ language-tags==1.2.0
 latexcodec==2.0.1
 lexibase==0.1.0
 lingpy==2.6.10
-lingrex==1.4.0
+lingrex==1.4.1
 lxml==4.8.0
 Markdown==3.5
 MarkupSafe==2.1.3

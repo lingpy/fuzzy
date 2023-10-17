@@ -26,3 +26,27 @@ $ make burmish
 $ make panoan
 ```
 This will run all analyses and specifically create Markdown and PDF files that show the output of the analyses. All results are also provided here.
+
+The statistics reported in our study can be computed with the following command:
+
+```
+$ make stats
+```
+
+The result we obtain is:
+
+| Dataset   | Prediction   |   Count |   Proportion |   Alignment Size |
+|:----------|:-------------|--------:|-------------:|-----------------:|
+| Karen     | correct      |     246 |         0.65 |             4.03 |
+| Karen     | false        |     133 |         0.35 |             4.27 |
+| Karen     | certain      |     310 |         0.82 |             4.05 |
+| Karen     | uncertain    |      69 |         0.18 |             4.41 |
+| Burmish   | correct      |     154 |         0.57 |             4.13 |
+| Burmish   | false        |     115 |         0.43 |             4.29 |
+| Burmish   | certain      |     199 |         0.74 |             4.13 |
+| Burmish   | uncertain    |      70 |         0.26 |             4.39 |
+| Panoan    | correct      |     405 |         0.79 |             4.25 |
+| Panoan    | false        |     109 |         0.21 |             5.14 |
+| Panoan    | certain      |     465 |         0.9  |             4.37 |
+| Panoan    | uncertain    |      49 |         0.1  |             5.14 |
+
