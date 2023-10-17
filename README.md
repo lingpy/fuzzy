@@ -2,7 +2,7 @@
 
 This repository provides code and data accompanying our study on the representation and computation of uncertainty in phonological reconstruction.
 
-> List, J.-M.; Hill, N. W.; Blum, F.; and Forkel, R. (forthcoming): A New Framework for the Representation and Computation of Uncertainty in Phonological Reconstruction. To appear in: Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change.
+> List, J.-M.; Hill, N. W.; Blum, F.; and Forkel, R. (forthcoming): Representing and Computing Uncertainty in Phonological Reconstruction. To appear in: Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change.
 
 To get started, install all required packages:
 
