@@ -38,6 +38,7 @@ header-includes: |
 | i         | ei        |             3 | 1921 3727 3726                                                                     |
 | ⁵¹        | ⁰         |             2 | 444 2505                                                                           |
 | w         | l         |             2 | 1720 1907                                                                          |
+| p         | b         |             2 | 2531 3236                                                                          |
 | n         | m         |             2 | 1755 3752                                                                          |
 | i         | e         |             2 | 6 2813                                                                             |
 | ˀd        | ˀd.w      |             1 | 3511                                                                               |
@@ -1097,7 +1098,7 @@ header-includes: |
 | SouthernPwo  | listen to | 0     | n          | a     | ⁵⁵     |
 | SouthernSgaw | listen to | 0     | n          | a     | ⁴⁵     |
 | WesternBwe   | listen to | 1     | n          | ɛ     | ³³     |
-| Fuzzy        |           |       | n̥:50¦n:50 | a:100 | ¹¹:100 |
+| Fuzzy        |           |       | n:50¦n̥:50 | a:100 | ¹¹:100 |
 | ProtoKaren   |           |       | n̥         | a     | ¹¹     |
 
 ## COGID 2059 / «live, stay»
@@ -1179,7 +1180,7 @@ header-includes: |
 | NorthernPwo  |           |       | Ø     | Ø     | Ø          |
 | NorthernSgaw | lung      | 0     | p     | ə     | ³³         |
 | SouthernPao  |           |       | Ø     | Ø     | Ø          |
-| SouthernPwo  | lung      | 0     | p     | u     | ³³         |
+| SouthernPwo  | lung      | 0     | b     | u     | ³³         |
 | SouthernSgaw |           |       | Ø     | Ø     | Ø          |
 | WesternBwe   |           |       | Ø     | Ø     | Ø          |
 | Fuzzy        |           |       | p:100 | ə:100 | ⁰:90¦⁵⁵:10 |
@@ -1457,6 +1458,23 @@ header-includes: |
 | Fuzzy        |                  |       | ʔ:100 | a:100 | ɴ:90¦n:10 | -:100 | ⁵⁵:100 |
 | ProtoKaren   |                  |       | ʔ     | a     | ɴ         | ⁵⁵    |        |
 
+## COGID 2531 / «ox, bull, cow»
+
+| language     | concept       | pos   | S1        | S2    | S3     |
+|:-------------|:--------------|:------|:----------|:------|:-------|
+| Kayah        | ox, bull, cow | 0     | p         | u     | ¹¹     |
+| Kayan        | ox, bull, cow | 0     | p         | au    | ¹¹     |
+| Kayaw        | ox, bull, cow | 0     | p         | u     | ¹¹     |
+| NorthernPao  | ox, bull, cow | 0     | pʰ        | o     | ⁵³     |
+| NorthernPwo  |               |       | Ø         | Ø     | Ø      |
+| NorthernSgaw |               |       | Ø         | Ø     | Ø      |
+| SouthernPao  | ox, bull, cow | 0     | p         | o     | ⁵⁵     |
+| SouthernPwo  |               |       | Ø         | Ø     | Ø      |
+| SouthernSgaw |               |       | Ø         | Ø     | Ø      |
+| WesternBwe   | ox, bull, cow | 0     | b         | o     | ³³     |
+| Fuzzy        |               |       | b:90¦p:10 | o:100 | ¹¹:100 |
+| ProtoKaren   |               |       | b         | o     | ¹¹     |
+
 ## COGID 2570 / «path, trail, way»
 
 | language     | concept          | pos   | S1    | S2         | S3    | S4     |
@@ -1505,7 +1523,7 @@ header-includes: |
 | SouthernPwo  |           |       | Ø     | Ø     | Ø     | Ø         | Ø      |
 | SouthernSgaw | porcupine | 0     | s     | -     | u     | -         | ⁴⁵     |
 | WesternBwe   | porcupine | 0     | θ     | -     | u     | -         | ³³     |
-| Fuzzy        |           |       | s:100 | -:100 | u:100 | ɴ:50¦n:50 | ¹¹:100 |
+| Fuzzy        |           |       | s:100 | -:100 | u:100 | n:50¦ɴ:50 | ¹¹:100 |
 | ProtoKaren   |           |       | s     | u     | n     | ¹¹        |        |
 
 ## COGID 2682 / «porcupine (brush-tailed~)»
@@ -1641,7 +1659,7 @@ header-includes: |
 | SouthernPwo  | seven     | 0     | n          | w     | ɛ     | ɦ      | ³¹     |
 | SouthernSgaw | seven     | 0     | n          | w     | i     | -      | ⁵⁵     |
 | WesternBwe   | seven     | 0     | n          | w     | e     | -      | ⁵⁵     |
-| Fuzzy        |           |       | n̥:50¦n:50 | w:100 | e:100 | t̚:100 | ⁵¹:100 |
+| Fuzzy        |           |       | n:50¦n̥:50 | w:100 | e:100 | t̚:100 | ⁵¹:100 |
 | ProtoKaren   |           |       | ˀn         | w     | e     | t̚     | ⁵¹     |
 
 ## COGID 3018 / «shivering»
@@ -1692,7 +1710,7 @@ header-includes: |
 | SouthernPwo  |           |       | Ø     | Ø                 | Ø          | Ø          |
 | SouthernSgaw |           |       | Ø     | Ø                 | Ø          | Ø          |
 | WesternBwe   |           |       | Ø     | Ø                 | Ø          | Ø          |
-| Fuzzy        |           |       | t:100 | a:80¦ə.ʔ̚:10¦ə:10 | ʔ̚:80¦-:20 | ⁰:70¦⁵⁵:30 |
+| Fuzzy        |           |       | t:100 | a:80¦ə:10¦ə.ʔ̚:10 | ʔ̚:80¦-:20 | ⁰:70¦⁵⁵:30 |
 | ProtoKaren   |           |       | t     | ə                 | ʔ̚         | ⁰          |
 
 ## COGID 3067 / «shove (with the foot)»
@@ -1760,7 +1778,7 @@ header-includes: |
 | SouthernPwo  | smell (v.) | 0     | n          | -         | ə̤̃ɨ  | -     | ⁵³     |
 | SouthernSgaw | smell (v.) | 0     | n          | -         | ɨ     | -     | ⁵⁵     |
 | WesternBwe   | smell (v.) | 0     | n          | -         | u     | -     | ⁵⁵     |
-| Fuzzy        |            |       | n̥:50¦n:50 | -:70¦w:30 | ɨ:100 | m:100 | ⁵⁵:100 |
+| Fuzzy        |            |       | n:50¦n̥:50 | -:70¦w:30 | ɨ:100 | m:100 | ⁵⁵:100 |
 | ProtoKaren   |            |       | n          | ɨ         | m     | ⁵⁵    |        |
 
 ## COGID 3167 / «son-in-law»
@@ -1830,6 +1848,23 @@ header-includes: |
 | WesternBwe   | split (bamboo strip) | 0     | p     | l          | ɛ     | ³³     |
 | Fuzzy        |                      |       | p:100 | l:90¦l̥:10 | a:100 | ¹¹:100 |
 | ProtoKaren   |                      |       | p     | l          | a     | ¹¹     |
+
+## COGID 3236 / «spray (v.)»
+
+| language     | concept    | pos   | S1        | S2    | S3    | S4    | S5     |
+|:-------------|:-----------|:------|:----------|:------|:------|:------|:-------|
+| Kayah        |            |       | Ø         | Ø     | Ø     | Ø     | Ø      |
+| Kayan        | spray (v.) | 0     | pʰ        | r     | u     | -     | ⁵³     |
+| Kayaw        | spray (v.) | 0     | pʰ        | r     | u     | -     | ⁵⁵     |
+| NorthernPao  | spray (v.) | 0     | pʰ        | r     | u     | ɦ     | ³¹     |
+| NorthernPwo  | spray (v.) | 0     | pʰ        | j     | u     | -     | ⁵⁵     |
+| NorthernSgaw |            |       | Ø         | Ø     | Ø     | Ø     | Ø      |
+| SouthernPao  | spray (v.) | 0     | p         | r     | u     | ɦ     | ³¹     |
+| SouthernPwo  | spray (v.) | 0     | p         | r     | u     | ɦ     | ³¹     |
+| SouthernSgaw | spray (v.) | 0     | p         | r     | u     | -     | ⁵⁵     |
+| WesternBwe   | spray (v.) | 0     | pʰ        | r     | u     | -     | ³³     |
+| Fuzzy        |            |       | p:90¦b:10 | r:100 | u:100 | -:100 | ⁵⁵:100 |
+| ProtoKaren   |            |       | p         | r     | u     | ⁵⁵    |        |
 
 ## COGID 3259 / «squeeze, massage»
 
@@ -2049,7 +2084,7 @@ header-includes: |
 | SouthernPwo  | two       | 0     | n         | ei         | -     | ⁵³     |
 | SouthernSgaw |           |       | Ø         | Ø          | Ø     | Ø      |
 | WesternBwe   |           |       | Ø         | Ø          | Ø     | Ø      |
-| Fuzzy        |           |       | ɴ:50¦n:50 | ei:90¦i:10 | -:100 | ⁵⁵:100 |
+| Fuzzy        |           |       | n:50¦ɴ:50 | ei:90¦i:10 | -:100 | ⁵⁵:100 |
 | ProtoKaren   |           |       | n̥        | ei         | ⁵⁵    |        |
 
 ## COGID 3752 / «vagina»
@@ -2236,7 +2271,7 @@ header-includes: |
 | SouthernPwo  | yam, potato | 0     | n          | -     | ɛ     | -     | ⁵⁵     |
 | SouthernSgaw | yam, potato | 0     | n          | w     | ɛ     | -     | ⁴⁵     |
 | WesternBwe   | yam, potato | 0     | n          | w     | ɛ     | -     | ³³     |
-| Fuzzy        |             |       | n̥:50¦n:50 | w:100 | ɛ:100 | -:100 | ¹¹:100 |
+| Fuzzy        |             |       | n:50¦n̥:50 | w:100 | ɛ:100 | -:100 | ¹¹:100 |
 | ProtoKaren   |             |       | n̥         | w     | ɛ     | ¹¹    |        |
 
 ## COGID 4051 / «year»
