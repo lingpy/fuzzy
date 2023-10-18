@@ -1402,7 +1402,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2513	SouthernPwo	horn	nõu³¹ ̈	nõu³¹̈	n õu ɦ ³¹		1742	n õu ɦ ³¹	n õu ɦ ³¹
 2813	SouthernSgaw	horn	nə³³	nə³³	n ɨ ³³		1742	n ɨ - ³³	n ɨ ³³
 3088	WesternBwe	horn	-no¹¹	-no¹¹	n o ¹¹		1742	n o - ¹¹	n o ¹¹
-148	ProtoKaren	hornet	*phrɨNᴬ	*phrɨNᴬ	pʰ r ɨ ɴ ⁵⁵		1755	pʰ r ɨ ɴ - ⁵⁵	pʰ|pʰ|pʰ|pʰ|pʰ r|r|r|r|r ɨ|ɨ|ɨ|ɨ|ɨ ɴ|ɴ|ɴ|ɴ|m -|-|-|-|- ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
+148	ProtoKaren	hornet	*phrɨNᴬ	*phrɨNᴬ	pʰ r ɨ ɴ ⁵⁵		1755	pʰ r ɨ ɴ - ⁵⁵	pʰ|pʰ|pʰ|pʰ|pʰ r|r|r|r|r ɨ|ɨ|ɨ|ɨ|ɨ ɴ|ɴ|ɴ|ɴ|n -|-|-|-|- ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
 477	Kayah	hornet	phlɨ³³	phlɨ³³	pʰ l ɨ ³³		1755	pʰ l ɨ - - ³³	pʰ l ɨ ³³
 768	Kayan	hornet	phrɨ⁵³	phrɨ⁵³	pʰ r ɨ ⁵³		1755	pʰ r ɨ - - ⁵³	pʰ r ɨ ⁵³
 1072	Kayaw	hornet	phrɨ⁵⁵	phrɨ⁵⁵	pʰ r ɨ ⁵⁵		1755	pʰ r ɨ - - ⁵⁵	pʰ r ɨ ⁵⁵
@@ -1634,7 +1634,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2253	SouthernPao	linear measure of about two yards	khlɛŋ³¹ ̈	khlɛŋ³¹̈	kʰ l ɛ ŋ ɦ ³¹		2036	kʰ l ɛ ŋ ɦ ³¹	kʰ l ɛ ŋ ɦ ³¹
 2536	SouthernPwo	linear measure of about two yards	khlãi⁵³	khlãi⁵³	kʰ l ãi ⁵³		2036	kʰ l ãi - - ⁵³	kʰ l ãi ⁵³
 2836	SouthernSgaw	linear measure of about two yards	khli⁵⁵	khli⁵⁵	kʰ l i ⁵⁵		2036	kʰ l i - - ⁵⁵	kʰ l i ⁵⁵
-172	ProtoKaren	listen to	*-hnaᴮ	*-hnaᴮ	n̥ a ¹¹		2046	n̥ a ¹¹	n̥|n̥|n̥|n|n a|a|a|a|a ¹¹|¹¹|¹¹|¹¹|¹¹
+172	ProtoKaren	listen to	*-hnaᴮ	*-hnaᴮ	n̥ a ¹¹		2046	n̥ a ¹¹	n|n|n|n̥|n̥ a|a|a|a|a ¹¹|¹¹|¹¹|¹¹|¹¹
 789	Kayan	listen to	na¹¹	na¹¹	n a ¹¹		2046	n a ¹¹	n a ¹¹
 1093	Kayaw	listen to	na¹¹	na¹¹	n a ¹¹		2046	n a ¹¹	n a ¹¹
 1389	NorthernPao	listen to	na⁵⁵	na⁵⁵	n a ⁵⁵		2046	n a ⁵⁵	n a ⁵⁵
@@ -1690,7 +1690,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 3109	WesternBwe	long (of time)	jɪ¹¹	jɪ¹¹	j ɪ ¹¹		2098	- j ɪ - - ¹¹	j ɪ ¹¹
 177	ProtoKaren	look after (things)	*pəᴮ	*pəᴮ	p ə ¹¹		2111	p ə ¹¹	( p ə ¹¹ )
 502	Kayah	look after (things)	po¹¹	po¹¹	p o ¹¹		2111	p o ¹¹	p o ¹¹
-794	Kayan	look after (things)	pəɨ¹¹	pəɨ¹¹	b əɨ ¹¹		2111	b əɨ ¹¹	b əɨ ¹¹
+794	Kayan	look after (things)	pəɨ¹¹	pəɨ¹¹	p əɨ ¹¹		2111	p əɨ ¹¹	p əɨ ¹¹
 1098	Kayaw	look after (things)	pə¹¹	pə¹¹	p ə ¹¹		2111	p ə ¹¹	p ə ¹¹
 1394	NorthernPao	look after (things)	pə⁵⁵	pə⁵⁵	p ə ⁵⁵		2111	p ə ⁵⁵	p ə ⁵⁵
 2259	SouthernPao	look after (things)	pə³³	pə³³	p ə ³³		2111	p ə ³³	p ə ³³
@@ -1730,7 +1730,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 1102	Kayaw	lung	su¹¹	su¹¹	s u ¹¹		2166	s u - ¹¹	s u ¹¹
 1684	NorthernPwo	lung	soɁ⁴⁵	soɁ⁴⁵	s u ʔ ⁴⁵		2166	s u ʔ ⁴⁵	s u ʔ ⁴⁵
 1976	NorthernSgaw	lung	pə³³so³¹῀	pə³³so³¹῀	p ə ³³ + s o ³¹		2167 2166	p ə ³³ + s o - ³¹	p ə ³³ + s o ³¹
-2545	SouthernPwo	lung	bu³³θuɁ²¹	bu³³θuɁ²¹	p u ³³ + θ u ʔ ²¹		2167 2166	p u ³³ + θ u ʔ ²¹	p u ³³ + θ u ʔ ²¹
+2545	SouthernPwo	lung	bu³³θuɁ²¹	bu³³θuɁ²¹	b u ³³ + θ u ʔ ²¹		2167 2166	b u ³³ + θ u ʔ ²¹	b u ³³ + θ u ʔ ²¹
 2845	SouthernSgaw	lung	su⁴⁵’	su⁴⁵’	s u ⁴⁵		2166	s u - ⁴⁵	s u ⁴⁵
 3113	WesternBwe	lung	θə⁵⁵’o⁵⁵	θə⁵⁵’o⁵⁵	θ ə ⁵⁵ + o ⁵⁵		1540 2168	θ ə ⁵⁵ + o ⁵⁵	θ ə ⁵⁵ + o ⁵⁵
 182	ProtoKaren	maggot	*hloŋᴮ	*hloŋᴮ	l̥ o ŋ ¹¹		2180	l̥ o ŋ ¹¹	l|l|l|l|l o|o|o|o|o ŋ|ŋ|ŋ|ŋ|ŋ ¹¹|¹¹|¹¹|¹¹|¹¹
@@ -1996,7 +1996,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2283	SouthernPao	open (the mouth)	Ɂan³¹ ̈	Ɂan³¹̈	ʔ a n ɦ ³¹		2520	ʔ a n ɦ ³¹	ʔ a n ɦ ³¹
 2568	SouthernPwo	open (the mouth)	Ɂɔ̃³¹ ̈	Ɂɔ̃³¹̈	ʔ ɔ̃ ɦ ³¹		2520	ʔ ɔ̃ - ɦ ³¹	ʔ ɔ̃ ɦ ³¹
 3137	WesternBwe	open (the mouth)	a⁵⁵-tha³³	a⁵⁵-tha³³	a ⁵⁵ + tʰ a ³³		471 2522	a ⁵⁵ + tʰ a ³³	a ⁵⁵ + tʰ a ³³
-209	ProtoKaren	ox, bull, cow	*boᴮ	*boᴮ	b o ¹¹		2531	b o ¹¹	( b o ¹¹ )
+209	ProtoKaren	ox, bull, cow	*boᴮ	*boᴮ	b o ¹¹		2531	b o ¹¹	b|b|b|b|b o|o|o|o|o ¹¹|¹¹|¹¹|¹¹|¹¹
 532	Kayah	ox, bull, cow	pu¹¹	pu¹¹	p u ¹¹		2531	p u ¹¹	p u ¹¹
 823	Kayan	ox, bull, cow	pau¹¹	pau¹¹	p au ¹¹		2531	p au ¹¹	p au ¹¹
 1128	Kayaw	ox, bull, cow	pu¹¹	pu¹¹	p u ¹¹		2531	p u ¹¹	p u ¹¹
@@ -2115,7 +2115,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2292	SouthernPao	pole	thuə̯ m³³	thuə̯_m³³	tʰ w ə m ³³		2662	tʰ w ə m ³³	tʰ w ə m ³³
 2579	SouthernPwo	pole	thə̃ɨ⁵⁵	thə̃ɨ⁵⁵	tʰ ə̃ɨ ɦ ⁵⁵		2662	tʰ - ə̃ɨ ɦ ⁵⁵	tʰ ə̃ɨ ɦ ⁵⁵
 2878	SouthernSgaw	pole	thu⁴⁵’	thu⁴⁵’	tʰ u ⁴⁵		2662	tʰ - u - ⁴⁵	tʰ u ⁴⁵
-222	ProtoKaren	porcupine	*sunᴮ	*sunᴮ	s u n ¹¹		2673	s - u n ¹¹	s|s|s|s|s -|-|-|-|- u|u|u|u|u ɴ|ɴ|ɴ|n|n ¹¹|¹¹|¹¹|¹¹|¹¹
+222	ProtoKaren	porcupine	*sunᴮ	*sunᴮ	s u n ¹¹		2673	s - u n ¹¹	s|s|s|s|s -|-|-|-|- u|u|u|u|u n|n|n|ɴ|ɴ ¹¹|¹¹|¹¹|¹¹|¹¹
 544	Kayah	porcupine	sɨ¹¹	sɨ¹¹	s ɨ ¹¹		2673	s - ɨ - ¹¹	s ɨ ¹¹
 834	Kayan	porcupine	θwaŋ¹¹	θwaŋ¹¹	θ w a ŋ ¹¹		2673	θ w a ŋ ¹¹	θ w a ŋ ¹¹
 1140	Kayaw	porcupine	su¹¹	su¹¹	s u ¹¹		2673	s - u - ¹¹	s u ¹¹
@@ -2217,7 +2217,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 1724	NorthernPwo	rabbit, hare	pa³³dɛ⁵⁵	pa³³dɛ⁵⁵	p a ³³ + d ɛ ⁵⁵		2792 2791	p a - ³³ + d ɛ ⁵⁵	p a ³³ + d ɛ ⁵⁵
 2022	NorthernSgaw	rabbit, hare	pə¹¹dɛ³³	pə¹¹dɛ³³	p ə ¹¹ + d ɛ ³³		2792 2791	p ə - ¹¹ + d ɛ ³³	p ə ¹¹ + d ɛ ³³
 2590	SouthernPwo	rabbit, hare	pə³¹ ̈dɛ³³	pə³¹̈dɛ³³	p ə ɦ ³¹ + d ɛ ³³		2792 4	p ə ɦ ³¹ + d ɛ ³³	p ə ɦ ³¹ + d ɛ ³³
-3153	WesternBwe	rabbit, hare	pə³³dɛ³³	pə³³dɛ³³	b ə ³³ + ɗ ɛ ³³		2792 2791	b ə - ³³ + ɗ ɛ ³³	b ə ³³ + ɗ ɛ ³³
+3153	WesternBwe	rabbit, hare	pə³³dɛ³³	pə³³dɛ³³	p ə ³³ + ɗ ɛ ³³		2792 2791	p ə - ³³ + ɗ ɛ ³³	p ə ³³ + ɗ ɛ ³³
 234	ProtoKaren	raise, feed (animals)	*Ɂbəᴮ	*Ɂbəᴮ	ˀb ə ¹¹		2804	ˀb ə ¹¹	( ˀb ə ¹¹ )
 553	Kayah	raise, feed (animals)	bo¹¹	bo¹¹	b o ¹¹		2804	b o ¹¹	b o ¹¹
 843	Kayan	raise, feed (animals)	bəɨ¹¹	bəɨ¹¹	b əɨ ¹¹		2804	b əɨ ¹¹	b əɨ ¹¹
@@ -2360,8 +2360,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 1167	Kayaw	serow, mountain goat	ji³³	ji³³	j i ³³		2966	j i ³³	j i ³³
 1449	NorthernPao	serow, mountain goat	jai³³	jai³³	j ai ³³		2966	j ai ³³	j ai ³³
 3162	WesternBwe	serow, mountain goat	ji³³	ji³³	j i ³³		2966	j i ³³	j i ³³
-250	ProtoKaren	seven	*Ɂnwetᴰ, *Ɂnweᴬ	*Ɂnwetᴰ	ˀn w e t̚ ⁵¹		2973	ˀn w e t̚ ⁵¹	n̥|n̥|n̥|n|n w|w|w|w|w e|e|e|e|e t̚|t̚|t̚|t̚|t̚ ⁵¹|⁵¹|⁵¹|⁵¹|⁵¹
-251	ProtoKaren	seven	*Ɂnwetᴰ, *Ɂnweᴬ	*Ɂnweᴬ	ˀn w e ⁵⁵		2973	ˀn w e - ⁵⁵	n̥|n̥|n̥|n|n w|w|w|w|w e|e|e|e|e t̚|t̚|t̚|t̚|t̚ ⁵¹|⁵¹|⁵¹|⁵¹|⁵¹
+250	ProtoKaren	seven	*Ɂnwetᴰ, *Ɂnweᴬ	*Ɂnwetᴰ	ˀn w e t̚ ⁵¹		2973	ˀn w e t̚ ⁵¹	n|n|n|n̥|n̥ w|w|w|w|w e|e|e|e|e t̚|t̚|t̚|t̚|t̚ ⁵¹|⁵¹|⁵¹|⁵¹|⁵¹
+251	ProtoKaren	seven	*Ɂnwetᴰ, *Ɂnweᴬ	*Ɂnweᴬ	ˀn w e ⁵⁵		2973	ˀn w e - ⁵⁵	n|n|n|n̥|n̥ w|w|w|w|w e|e|e|e|e t̚|t̚|t̚|t̚|t̚ ⁵¹|⁵¹|⁵¹|⁵¹|⁵¹
 858	Kayan	seven	nwɛ⁵³	nwɛ⁵³	n w ɛ ⁵³		2973	n w ɛ - ⁵³	n w ɛ ⁵³
 1168	Kayaw	seven	sɔ³³ne⁵⁵	sɔ³³ne⁵⁵	s ɔ ³³ + n e ⁵⁵		2974 2973	s ɔ ³³ + n - e - ⁵⁵	s ɔ ³³ + n e ⁵⁵
 1450	NorthernPao	seven	nɨt²¹	nɨt²¹	n ɨ t ²¹		2973	n - ɨ t ²¹	n ɨ t ²¹
@@ -2405,7 +2405,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2040	NorthernSgaw	shivering	tə¹¹nɔɁ⁴⁵	tə¹¹nɔɁ⁴⁵	t ə ¹¹ + n ɔ ʔ ⁴⁵		14 3017	t ə - ¹¹ + n ɔ ʔ ⁴⁵	t ə ¹¹ + n ɔ ʔ ⁴⁵
 2312	SouthernPao	shivering	ta¹¹nəɁ²¹	ta¹¹nəɁ²¹	t a ¹¹ + n ə ʔ ²¹		14 3017	t a - ¹¹ + n ə ʔ ²¹	t a ¹¹ + n ə ʔ ²¹
 2906	SouthernSgaw	shivering	kə¹¹noɁ²¹	kə¹¹noɁ²¹	k ə ¹¹ + n o ʔ ²¹		3018 3017	k ə - ¹¹ + n o ʔ ²¹	k ə ¹¹ + n o ʔ ²¹
-3230	ProtoKaren	shivering	*t/k-hnɔɁᴰ	*t-hnɔɁᴰ	t ə ʔ̚ ⁰ + n̥ ɔ ʔ̚ ⁵¹		14 3017	t ə ʔ̚ ⁰ + n̥ ɔ ʔ̚ ⁵¹	t|t|t|t|t a|a|a|a|ə.ʔ̚ ʔ̚|ʔ̚|ʔ̚|ʔ̚|- ⁰|⁰|⁰|⁰|⁵⁵ + n|n|n|n|n ɔ|ɔ|ɔ|ɔ|ɔ ʔ̚|ʔ̚|ʔ̚|ʔ̚|ʔ̚ ⁵¹|⁵¹|⁵¹|⁵¹|⁵¹
+3230	ProtoKaren	shivering	*t/k-hnɔɁᴰ	*t-hnɔɁᴰ	t ə ʔ̚ ⁰ + n̥ ɔ ʔ̚ ⁵¹		14 3017	t ə ʔ̚ ⁰ + n̥ ɔ ʔ̚ ⁵¹	t|t|t|t|t a|a|a|a|ə ʔ̚|ʔ̚|ʔ̚|ʔ̚|- ⁰|⁰|⁰|⁰|⁵⁵ + n|n|n|n|n ɔ|ɔ|ɔ|ɔ|ɔ ʔ̚|ʔ̚|ʔ̚|ʔ̚|ʔ̚ ⁵¹|⁵¹|⁵¹|⁵¹|⁵¹
 256	ProtoKaren	shoot (v.)	*khaɁᴰ	*khaɁᴰ	kʰ a ʔ̚ ⁵¹		3034	kʰ a ʔ̚ ⁵¹	( kʰ a ʔ̚ ⁵¹ )
 571	Kayah	shoot (v.)	khe⁵⁵	khe⁵⁵	kʰ e ⁵⁵		3034	kʰ e - ⁵⁵	kʰ e ⁵⁵
 862	Kayan	shoot (v.)	khaɁ⁴⁵	khaɁ⁴⁵	kʰ a ʔ ⁴⁵		3034	kʰ a ʔ ⁴⁵	kʰ a ʔ ⁴⁵
@@ -2478,7 +2478,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2612	SouthernPwo	slippery	phli⁵³	phli⁵³	pʰ l i ⁵³		3113	pʰ l i - ⁵³	pʰ l i ⁵³
 2913	SouthernSgaw	slippery	ble⁵⁵	ble⁵⁵	b l e ⁵⁵		3113	b l e - ⁵⁵	b l e ⁵⁵
 3171	WesternBwe	slippery	pli⁵⁵	pli⁵⁵	p l i ⁵⁵		3113	p l i - ⁵⁵	p l i ⁵⁵
-264	ProtoKaren	smell (v.)	*(h)nɨmᴬ	*nɨmᴬ	n ɨ m ⁵⁵		3125	n - ɨ m ⁵⁵	n̥|n̥|n̥|n|n ɨ|ɨ|ɨ|ɨ|ɨ m|m|m|m|m ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
+264	ProtoKaren	smell (v.)	*(h)nɨmᴬ	*nɨmᴬ	n ɨ m ⁵⁵		3125	n - ɨ m ⁵⁵	n|n|n|n̥|n̥ ɨ|ɨ|ɨ|ɨ|ɨ m|m|m|m|m ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
 869	Kayan	smell (v.)	nɨ³³	nɨ³³	n ɨ ³³		3125	n - ɨ - ³³	n ɨ ³³
 1180	Kayaw	smell (v.)	nɨ³³	nɨ³³	n ɨ ³³		3125	n - ɨ - ³³	n ɨ ³³
 1462	NorthernPao	smell (v.)	num³³	num³³	n u m ³³		3125	n - u m ³³	n u m ³³
@@ -2564,7 +2564,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2621	SouthernPwo	split (bamboo strip)	bla⁵⁵	bla⁵⁵	b l a ⁵⁵		3227	b l a ⁵⁵	b l a ⁵⁵
 2921	SouthernSgaw	split (bamboo strip)	bla⁴⁵’	bla⁴⁵’	b l a ⁴⁵		3227	b l a ⁴⁵	b l a ⁴⁵
 3180	WesternBwe	split (bamboo strip)	plɛ³³	plɛ³³	p l ɛ ³³		3227	p l ɛ ³³	p l ɛ ³³
-274	ProtoKaren	spray (v.)	*pruᴬ	*pruᴬ	p r u ⁵⁵		3236	p r u - ⁵⁵	( p r u ⁵⁵ )
+274	ProtoKaren	spray (v.)	*pruᴬ	*pruᴬ	p r u ⁵⁵		3236	p r u - ⁵⁵	p|p|p|p|p r|r|r|r|r u|u|u|u|u -|-|-|-|- ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
 876	Kayan	spray (v.)	phru⁵³	phru⁵³	pʰ r u ⁵³		3236	pʰ r u - ⁵³	pʰ r u ⁵³
 1188	Kayaw	spray (v.)	phru⁵⁵	phru⁵⁵	pʰ r u ⁵⁵		3236	pʰ r u - ⁵⁵	pʰ r u ⁵⁵
 1469	NorthernPao	spray (v.)	phru³¹ ̈	phru³¹̈	pʰ r u ɦ ³¹		3236	pʰ r u ɦ ³¹	pʰ r u ɦ ³¹
@@ -2950,7 +2950,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2656	SouthernPwo	trunk (of an elephant)	mlõ³¹ ̈	mlõ³¹̈	m l õ ɦ ³¹		3713	m l õ ɦ ³¹	m l õ ɦ ³¹
 2954	SouthernSgaw	trunk (of an elephant)	mlu³³	mlu³³	m l u ³³		3713	m l u - ³³	m l u ³³
 3210	WesternBwe	trunk (of an elephant)	-blɔ¹¹	-blɔ¹¹	b l ɔ ¹¹		3713	b l ɔ - ¹¹	b l ɔ ¹¹
-316	ProtoKaren	two	*k-hnejᴬ	*k-hnejᴬ	kʰ ə ⁰ + n̥ ei ⁵⁵		3727 3726	kʰ ə ⁰ + n̥ ei - ⁵⁵	kʰ|kʰ|kʰ|kʰ|kʰ i|i|i|i|ei ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵ + ɴ|ɴ|ɴ|n|n ei|ei|ei|ei|ei -|-|-|-|- ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
+316	ProtoKaren	two	*k-hnejᴬ	*k-hnejᴬ	kʰ ə ⁰ + n̥ ei ⁵⁵		3727 3726	kʰ ə ⁰ + n̥ ei - ⁵⁵	kʰ|kʰ|kʰ|kʰ|kʰ i|i|i|i|ei ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵ + n|n|n|ɴ|ɴ ei|ei|ei|ei|ei -|-|-|-|- ⁵⁵|⁵⁵|⁵⁵|⁵⁵|⁵⁵
 617	Kayah	two	nə³³	nə³³	n ə ³³		3726	n ə - ³³	n ə ³³
 913	Kayan	two	ŋɨ⁵³	ŋɨ⁵³	ŋ ɨ ⁵³		3726	ŋ ɨ - ⁵³	ŋ ɨ ⁵³
 1222	Kayaw	two	ki⁵⁵	ki⁵⁵	kʰ i ⁵⁵		3727	kʰ i ⁵⁵	kʰ i ⁵⁵
@@ -3185,7 +3185,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS	ALIGNMENT	QUINTILES
 2679	SouthernPwo	wrong, mistake, error	ma⁵⁵	ma⁵⁵	m a ⁵⁵		4025	m a ⁵⁵	m a ⁵⁵
 2978	SouthernSgaw	wrong, mistake, error	ma⁴⁵’	ma⁴⁵’	m a ⁴⁵		4025	m a ⁴⁵	m a ⁴⁵
 3225	WesternBwe	wrong, mistake, error	gə³³ mɛ³³	gə³³_mɛ³³	g ə ³³ + m ɛ ³³		1787 4025	g ə ³³ + m ɛ ³³	g ə ³³ + m ɛ ³³
-340	ProtoKaren	yam, potato	*hnwɛᴮ	*hnwɛᴮ	n̥ w ɛ ¹¹		4039	n̥ w ɛ - ¹¹	n̥|n̥|n̥|n|n w|w|w|w|w ɛ|ɛ|ɛ|ɛ|ɛ -|-|-|-|- ¹¹|¹¹|¹¹|¹¹|¹¹
+340	ProtoKaren	yam, potato	*hnwɛᴮ	*hnwɛᴮ	n̥ w ɛ ¹¹		4039	n̥ w ɛ - ¹¹	n|n|n|n̥|n̥ w|w|w|w|w ɛ|ɛ|ɛ|ɛ|ɛ -|-|-|-|- ¹¹|¹¹|¹¹|¹¹|¹¹
 930	Kayan	yam, potato	nwɛ¹¹	nwɛ¹¹	n w ɛ ¹¹		4039	n w ɛ - ¹¹	n w ɛ ¹¹
 1244	Kayaw	yam, potato	nɛ¹¹	nɛ¹¹	n ɛ ¹¹		4039	n - ɛ - ¹¹	n ɛ ¹¹
 1524	NorthernPao	yam, potato	nwɛ⁵⁵	nwɛ⁵⁵	n w ɛ ⁵⁵		4039	n w ɛ - ⁵⁵	n w ɛ ⁵⁵

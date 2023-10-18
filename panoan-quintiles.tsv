@@ -66,7 +66,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 7081	Yawanawa	afternoon	jãˈtã	jãˈtã	j a ∼ t a ∼	None	445	j a ∼ t a ∼	C V C C V C	445	j a ∼ t a ∼
 1744	Chakobo	amber	tsisto	tsisto	ts i s t o	None	18	ts i s t o	C V C C V	18	ts i s t o
 1745	Mayoruna	amber	tsisu	tsisu	ts i s u	None	18	ts i s - u	C V C V	18	ts i s u
-1742	ProtoPanoan	amber	[ts]is[t]o	[ts]is[t]o	ts i s t o	None	18	ts i s t o	C V C C V	18	ts|ts|ts|ts|ts i|i|i|i|i s|s|s|s|s t|t|t|t|w o|o|o|o|o
+1742	ProtoPanoan	amber	[ts]is[t]o	[ts]is[t]o	ts i s t o	None	18	ts i s t o	C V C C V	18	ts|ts|ts|ts|ts i|i|i|i|i s|s|s|s|s t|t|t|t|k o|o|o|o|o
 1735	Chakobo	amber, coal	tsistɨ	tsistɨ	ts i s t ɨ	None	17	ts i s t ɨ	C V C C V	17	ts i s t ɨ
 1734	Kapanawa	amber, coal	tsistɨ	tsistɨ	ts i s t ɨ	None	17	ts i s t ɨ	C V C C V	17	ts i s t ɨ
 1739	Kaxinawa	amber, coal	tsistɨ	tsistɨ	ts i s t ɨ	None	17	ts i s t ɨ	C V C C V	17	ts i s t ɨ
@@ -542,7 +542,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 323	Kapanawa	breeding, domestic animal	ʔiˈna	ʔiˈna	ʔ i n a	None	103	ʔ i n a -	C V C V	103	ʔ i n a
 325	Kaxarari	breeding, domestic animal	iˈnaβɨ	iˈnaβɨ	i n a	None	103	- i n a -	V C V	103	i n a
 333	Kaxinawa	breeding, domestic animal	iná	iná	i n a	None	103	- i n a -	V C V	103	i n a
-321	ProtoPanoan	breeding, domestic animal	ʔinak	ʔinak	ʔ i n a k	None	103	ʔ i n a k	C V C V C	103	ʔ|ʔ|ʔ|ʔ|ʔ i|i|i|i|i n|n|n|n|n a|a|a|a.k|a.k
+321	ProtoPanoan	breeding, domestic animal	ʔinak	ʔinak	ʔ i n a k	None	103	ʔ i n a k	C V C V C	103	ʔ|ʔ|ʔ|ʔ|ʔ i|i|i|i|i n|n|n|n|n a.k|a.k|a.k|a|a
 326	Sharanawa	breeding, domestic animal	ina	ina	i n a	None	103	- i n a -	V C V	103	i n a
 322	ShipiboKonibo	breeding, domestic animal	ʔiná	ʔiná	ʔ i n a	None	103	ʔ i n a -	C V C V	103	ʔ i n a
 2432	Kakataibo	breeding, domestic animal	kamõ	kamõ	k a m o ∼	(sendo substituído pelo empréstimo SK, ʔotʃíti, que por sua vez é um empréstimo Kampa otʃiti, SHELL, [1965]	73	k a m o ∼	C V C V C	73	k a m o ∼
@@ -729,7 +729,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 6929	Matis	cinnamon, lower part of leg	wipuku	wipuku	w i p u k u	None	434	w i p u k u	C V C V C V	434	w i p u k u
 6995	Chakobo	city, settlement	yaˈka	yaˈka	j a k a	None	440	j a k a -	C V C V	440	j a k a
 6991	Kakataibo	city, settlement	akáitsi	akáitsi	a k a ts	(βɨtsi <<otro>>, SHELL, 1987	440	- a k a ts	V C V C	440	a k a ts
-6990	ProtoPanoan	city, settlement	yakat-	yakat-	j a k a t	None	440	j a k a t	C V C V C	440	j|j|j|j|j a|a|a|a|a k|k|k|k|k a|a|a|a|a t|t|t|t|ɽ
+6990	ProtoPanoan	city, settlement	yakat-	yakat-	j a k a t	None	440	j a k a t	C V C V C	440	j|j|j|j|j a|a|a|a|a k|k|k|k|k a|a|a|a|a t|t|t|t|ɨ
 6992	ShipiboKonibo	city, settlement	yaká-	yaká-	j a k a	None	440	j a k a -	C V C V	440	j a k a
 5632	Amawaka	clarity	xawã	xawã	x a w a	II	327	x a - w a -	C V C V	327	x a w a
 5625	Chakobo	clarity	ʂaβáka	ʂaβáka	ʂ a β a k	None	327	ʂ a - β a k	C V C V C	327	ʂ a β a k
@@ -822,7 +822,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 6623	Chakobo	colander	toʔatí	toʔatí	t o ʔ a t i	None	405	t o ʔ a t i	C V C V C V	405	t o ʔ a t i
 6620	Kakataibo	colander	toati	toati	t o a t i	None	405	t o - a t i	C V V C V	405	t o a t i
 6622	Kapanawa	colander	toʔati	toʔati	t o ʔ a t i	None	405	t o ʔ a t i	C V C V C V	405	t o ʔ a t i
-6628	Kaxinawa	colander	tati	tati	t a t i	None	405	t a - - t i	C V C V	405	t a t i
+6628	Kaxinawa	colander	tati	tati	t a t i	None	405	t - - a t i	C V C V	405	t a t i
 6619	ProtoPanoan	colander	toʔati	toʔati	t o ʔ a t i	None	405	t o ʔ a t i	C V C V C V	405	( t o ʔ a t i )
 6624	Sharanawa	colander	toati	toati	t o a t i	None	405	t o - a t i	C V V C V	405	t o a t i
 6621	ShipiboKonibo	colander	toati	toati	t o a t i	None	405	t o - a t i	C V V C V	405	t o a t i
@@ -3099,7 +3099,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 3688	Kaxinawa	sky	nai	nai	n a i	None	175	n a i -	C V V	175	n a i
 3689	Marinawa	sky	nai	nai	n a i	None	175	n a i -	C V V	175	n a i
 3675	Marubo	sky	ˈnai	ˈnai	n a i	None	175	n a i -	C V V	175	n a i
-3671	ProtoPanoan	sky	naiɽ	naiɽ	n a i ɽ	None	175	n a i ɽ	C V V C	175	n|n|n|n|n a|a|a|a|a i|i|i|i|i ɽ|ɽ|ɽ|tʳ|k
+3671	ProtoPanoan	sky	naiɽ	naiɽ	n a i ɽ	None	175	n a i ɽ	C V V C	175	n|n|n|n|n a|a|a|a|a i|i|i|i|i ɽ|ɽ|ɽ|k|-
 3685	Shanenawa	sky	nai	nai	n a i	None	175	n a i -	C V V	175	n a i
 3683	Sharanawa	sky	nai	nai	n a i	None	175	n a i -	C V V	175	n a i
 3673	ShipiboKonibo	sky	naí	naí	n a i	None	175	n a i -	C V V	175	n a i
@@ -3702,7 +3702,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 6390	Korubo	species of palm	tawad	tawad	t a o a d	None	384	t a o a d	C V V V C	384	t a o a d
 6388	Marinawa	species of palm	tao	tao	t a o	None	384	t a o - -	C V V	384	t a o
 6391	Matis	species of palm	tawad	tawad	t a o a d	None	384	t a o a d	C V V V C	384	t a o a d
-6375	ProtoPanoan	species of palm	taoaCc	taoaCc	t a o a tʳ	None	384	t a o a tʳ	C V V V C	384	t|t|t|t|t a|a|a|a|a o|o|o|o|tʳ a|a|a|a|o tʳ|tʳ|tʳ|tʳ|tʳ
+6375	ProtoPanoan	species of palm	taoaCc	taoaCc	t a o a tʳ	None	384	t a o a tʳ	C V V V C	384	t|t|t|t|t a|a|a|a|a o|o|o|o|ʔ a|a|a|a|o tʳ|tʳ|tʳ|tʳ|tʳ
 6383	Sharanawa	species of palm	tao	tao	t a o	None	384	t a o - -	C V V	384	t a o
 6378	ShipiboKonibo	species of palm	taó	taó	t a o	None	384	t a o - -	C V V	384	t a o
 6381	Yaminawa	species of palm	tao	tao	t a o	None	384	t a o - -	C V V	384	t a o
@@ -4805,7 +4805,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 4463	Marinawa	to get drunk, drunk	pãɨ-	pãɨ-	p a ɨ	None	236	p a - ɨ -	C V V	236	p a ɨ
 4451	Marubo	to get drunk, drunk	paɨ	paɨ	p a ɨ	None	236	p a - ɨ -	C V V	236	p a ɨ
 4464	Mayoruna	to get drunk, drunk	paˈɨ	paˈɨ	p a ɨ	None	236	p a - ɨ -	C V V	236	p a ɨ
-4447	ProtoPanoan	to get drunk, drunk	paʔɨn-	paʔɨn-	p a ʔ ɨ n	None	236	p a ʔ ɨ n	C V C V C	236	p|p|p|p|p a|a|a|a|a ʔ|ʔ|ʔ|ʔ|ʔ ɨ|ɨ|ɨ|ɨ|ɨ n|n|n|n|rⁿ
+4447	ProtoPanoan	to get drunk, drunk	paʔɨn-	paʔɨn-	p a ʔ ɨ n	None	236	p a ʔ ɨ n	C V C V C	236	p|p|p|p|p a|a|a|a|a ʔ|ʔ|ʔ|ʔ|ʔ ɨ|ɨ|ɨ|ɨ|ɨ n|n|n|n|-
 4454	Sharanawa	to get drunk, drunk	paɨ	paɨ	p a ɨ	None	236	p a - ɨ -	C V V	236	p a ɨ
 4449	ShipiboKonibo	to get drunk, drunk	paɨ-	paɨ-	p a ɨ	None	236	p a - ɨ -	C V V	236	p a ɨ
 4453	Yaminawa	to get drunk, drunk	paɨ	paɨ	p a ɨ	None	236	p a - ɨ -	C V V	236	p a ɨ
@@ -4819,7 +4819,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 351	Kaxinawa	to give	inã-	inã-	i n a ∼	None	115	- i n a ∼	V C V C	115	i n a ∼
 352	Marinawa	to give	ínã-	ínã-	i n a ∼	None	115	- i n a ∼	V C V C	115	i n a ∼
 338	Marubo	to give	ĩnã-	ĩnã-	i n a ∼	None	115	- i n a ∼	V C V C	115	i n a ∼
-334	ProtoPanoan	to give	ʔinar-	ʔinar-	ʔ i n a r	None	115	ʔ i n a r	C V C V C	115	ʔ|ʔ|ʔ|ʔ|ʔ i|i|i|i|i r|r|r|r|r a|a|a|a|a n|n|rⁿ|rⁿ|r
+334	ProtoPanoan	to give	ʔinar-	ʔinar-	ʔ i n a r	None	115	ʔ i n a r	C V C V C	115	ʔ|ʔ|ʔ|ʔ|ʔ i|i|i|i|i r|r|r|r|r a|a|a|a|a n|n|rⁿ|rⁿ|-
 346	Shanenawa	to give	inan	inan	i n a n	None	115	- i n a n	V C V C	115	i n a n
 344	Sharanawa	to give	inain	inain	i n a n	None	115	- i n a n	V C V C	115	i n a n
 336	ShipiboKonibo	to give	ʔinã-	ʔinã-	ʔ i n a ∼	None	115	ʔ i n a ∼	C V C V C	115	ʔ i n a ∼
@@ -5737,7 +5737,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 2708	Kapanawa	type of pot	kɨntí	kɨntí	k ɨ n.t i	None	92	k ɨ n.t i -	C V C V	92	k ɨ n.t i
 2716	Kaxinawa	type of pot	kɨt̃_i	kɨt̃_i	k ɨ t i	None	92	k ɨ t i -	C V C V	92	k ɨ t i
 2718	Marinawa	type of pot	kɨ́tɨ	kɨ́tɨ	k ɨ t ɨ	None	92	k ɨ t ɨ -	C V C V	92	k ɨ t ɨ
-2705	ProtoPanoan	type of pot	kɨt̃_i[C]	kɨt̃_i[C]	k ɨ t i n	None	92	k ɨ t i n	C V C V C	92	k|k|k|k|k ɨ|ɨ|ɨ|ɨ|ɨ t|t|t|t|t i|i|i|i|i n|n|n|n|-
+2705	ProtoPanoan	type of pot	kɨt̃_i[C]	kɨt̃_i[C]	k ɨ t i n	None	92	k ɨ t i n	C V C V C	92	k|k|k|k|k ɨ|ɨ|ɨ|ɨ|ɨ t|t|t|t|t i|i|i|i|i n|n|n|n|k
 2713	Shanenawa	type of pot	kɨtɨ	kɨtɨ	k ɨ t ɨ	None	92	k ɨ t ɨ -	C V C V	92	k ɨ t ɨ
 2711	Sharanawa	type of pot	kɨtin	kɨtin	k ɨ t i n	None	92	k ɨ t i n	C V C V C	92	k ɨ t i n
 2707	ShipiboKonibo	type of pot	kɨt̃_í	kɨt̃_í	k ɨ t i	None	92	k ɨ t i -	C V C V	92	k ɨ t i
@@ -5980,7 +5980,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	ALIGNMENT	STRUCTURE	COGIDS	QUIN
 4081	Kakataibo	wind	niɨ	niɨ	n i ɨ	None	207	n i - ɨ	C V V	207	n i ɨ
 4088	Katukina	wind	niwi	niwi	n i w i	None	207	n i w i	C V C V	207	n i w i
 4092	Marinawa	wind	niwɨ-	niwɨ-	n i w ɨ	None	207	n i w ɨ	C V C V	207	n i w ɨ
-4080	ProtoPanoan	wind	[n]iwɨ	[n]iwɨ	rⁿ i w ɨ	None	207	rⁿ i w ɨ	C V C V	207	rⁿ|rⁿ|rⁿ|rⁿ|rⁿ i|i|i|i|i w|w|w|w|w k|k|ʔ|ʔ|tʳ ɨ|ɨ|ɨ|ɨ|ɨ
+4080	ProtoPanoan	wind	[n]iwɨ	[n]iwɨ	rⁿ i w ɨ	None	207	rⁿ i w ɨ	C V C V	207	rⁿ|rⁿ|rⁿ|rⁿ|rⁿ i|i|i|i|i w|w|w|w|w ʔ|ʔ|k|k|- ɨ|ɨ|ɨ|ɨ|ɨ
 4087	Shanenawa	wind	nifu	nifu	n i f u	None	207	n i f u	C V C V	207	n i f u
 4085	Sharanawa	wind	niwɨ	niwɨ	n i w ɨ	None	207	n i w ɨ	C V C V	207	n i w ɨ
 4083	ShipiboKonibo	wind	niwɨ	niwɨ	n i w ɨ	None	207	n i w ɨ	C V C V	207	n i w ɨ

@@ -15,7 +15,12 @@ from tqdm import tqdm as progressbar
 
 random.seed(1234)
 
-align_s = partial(transform_alignment, align=True, position=False, prosody=True, startend=False, gap="/")
+# switch if you want to use alignment in the source
+align_data = True
+
+align_s = partial(
+        transform_alignment, align=align_data, position=False, 
+        prosody=True, startend=False, gap="-")
 
 proto_language = "Proto"+argv[1]
 
@@ -27,7 +32,8 @@ fr = FuzzyReconstructor(wl, proto_language, ref="cogids")
 print("[i] loaded fuzzy reconstructor")
 fr.random_splits(10, retain=0.9)
 print("[i] carried out random splits")
-fr.fit_samples(clf=clf, onehot=True, func=align_s, aligned=False, pb=True)
+fr.fit_samples(clf=clf, onehot=True, func=align_s, aligned=True if not
+        align_data else False, pb=True)
 
 output = []
 
@@ -45,7 +51,7 @@ for cogid, idxs_ in progressbar(etd.items(), desc="predictions"):
     languages = [wl[idx, "doculect"] for idx in idxs]
     tokens = []
     for idx in idxs:
-        tokens += [basictypes.lists(wl[idx, "tokens"]).n[
+        tokens += [basictypes.lists(wl[idx, "tokens" if align_data else "alignment"]).n[
             wl[idx, "cogids"].index(cogid)]]
 
     if proto_language in languages and len(languages) > 2:

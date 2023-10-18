@@ -59,7 +59,6 @@ header-includes: |
 | ɨ         | ɽ         |             1 | 440                                                                                            |
 | ɨ         | ɨ.ʔ       |             1 | 156                                                                                            |
 | ɨ         | k.ɨ.r     |             1 | 161                                                                                            |
-| w         | k         |             1 | 18                                                                                             |
 | tʳ        | tʃ        |             1 | 304                                                                                            |
 | tʳ        | o         |             1 | 384                                                                                            |
 | t         | ʔ         |             1 | 167                                                                                            |
@@ -83,6 +82,7 @@ header-includes: |
 | n         | ʔ         |             1 | 199                                                                                            |
 | k         | ʔ         |             1 | 207                                                                                            |
 | k         | ɽ         |             1 | 175                                                                                            |
+| k         | w         |             1 | 18                                                                                             |
 | k         | o         |             1 | 286                                                                                            |
 | i         | i.ʔ       |             1 | 301                                                                                            |
 | i         | i.ʃ       |             1 | 52                                                                                             |
@@ -177,7 +177,7 @@ header-includes: |
 | ShipiboKonibo |             |       | Ø      | Ø     | Ø           | Ø              | Ø     |
 | Yaminawa      |             |       | Ø      | Ø     | Ø           | Ø              | Ø     |
 | Yawanawa      |             |       | Ø      | Ø     | Ø           | Ø              | Ø     |
-| Fuzzy         |             |       | ts:100 | i:100 | s:90¦s.t:10 | t:80¦w:10¦k:10 | o:100 |
+| Fuzzy         |             |       | ts:100 | i:100 | s:90¦s.t:10 | t:80¦k:10¦w:10 | o:100 |
 | ProtoPanoan   |             |       | ts     | i     | s           | t              | o     |
 
 ## COGID 122 / «animal horn»
@@ -489,7 +489,7 @@ header-includes: |
 | ShipiboKonibo | breeding, domestic animal | 0     | ʔ     | i     | n     | a           |      |
 | Yaminawa      |                           |       | Ø     | Ø     | Ø     | Ø           |      |
 | Yawanawa      |                           |       | Ø     | Ø     | Ø     | Ø           |      |
-| Fuzzy         |                           |       | ʔ:100 | i:100 | n:100 | a:50¦a.k:50 |      |
+| Fuzzy         |                           |       | ʔ:100 | i:100 | n:100 | a.k:50¦a:50 |      |
 | ProtoPanoan   |                           |       | ʔ     | i     | n     | a           | k    |
 
 ## COGID 199 / «breeze»
@@ -671,7 +671,7 @@ header-includes: |
 | ShipiboKonibo | city, settlement | 0     | j     | a     | k     | a     | -              |
 | Yaminawa      |                  |       | Ø     | Ø     | Ø     | Ø     | Ø              |
 | Yawanawa      |                  |       | Ø     | Ø     | Ø     | Ø     | Ø              |
-| Fuzzy         |                  |       | j:100 | a:100 | k:100 | a:100 | t:80¦ɽ:10¦ɨ:10 |
+| Fuzzy         |                  |       | j:100 | a:100 | k:100 | a:100 | t:80¦ɨ:10¦ɽ:10 |
 | ProtoPanoan   |                  |       | j     | a     | k     | a     | t              |
 
 ## COGID 327 / «clarity»
@@ -1607,7 +1607,7 @@ header-includes: |
 | ShipiboKonibo | rat       | 0     | ʂ     | o     | j     | -              | a     |
 | Yaminawa      | rat       | 0     | ʂ     | o     | j     | -              | a     |
 | Yawanawa      |           |       | Ø     | Ø     | Ø     | Ø              | Ø     |
-| Fuzzy         |           |       | ʂ:100 | o:100 | j:100 | -:80¦n:10¦k:10 | a:100 |
+| Fuzzy         |           |       | ʂ:100 | o:100 | j:100 | -:80¦k:10¦n:10 | a:100 |
 | ProtoPanoan   |           |       | ʂ     | o     | j     | a              |       |
 
 ## COGID 70 / «relatives»
@@ -1737,7 +1737,7 @@ header-includes: |
 | ShipiboKonibo | sky       | 0     | n     | a     | i     | -                    |
 | Yaminawa      | sky       | 0     | n     | a     | i     | -                    |
 | Yawanawa      | sky       | 0     | n     | a     | i     | -                    |
-| Fuzzy         |           |       | n:100 | a:100 | i:100 | ɽ:60¦-:20¦tʳ:10¦k:10 |
+| Fuzzy         |           |       | n:100 | a:100 | i:100 | ɽ:60¦-:20¦k:10¦tʳ:10 |
 | ProtoPanoan   |           |       | n     | a     | i     | ɽ                    |
 
 ## COGID 97 / «smoke»
@@ -1945,7 +1945,7 @@ header-includes: |
 | ShipiboKonibo | species of palm | 0     | β     | o           | -     | r     | ɨ     | -     | -                    |
 | Yaminawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
 | Yawanawa      |                 |       | Ø     | Ø           | Ø     | Ø     | Ø     | Ø     | Ø                    |
-| Fuzzy         |                 |       | β:100 | o:90¦o.ʔ:10 | ʔ:100 | ɽ:100 | ɨ:100 | t:100 | -:70¦n:10¦rⁿ:10¦t:10 |
+| Fuzzy         |                 |       | β:100 | o:90¦o.ʔ:10 | ʔ:100 | ɽ:100 | ɨ:100 | t:100 | -:70¦t:10¦n:10¦rⁿ:10 |
 | ProtoPanoan   |                 |       | β     | o           | ʔ     | ɽ     | ɨ     | t     |                      |
 
 ## COGID 384 / «species of palm»
@@ -1971,7 +1971,7 @@ header-includes: |
 | ShipiboKonibo | species of palm | 0     | t     | a     | -               | o                 | -      |
 | Yaminawa      | species of palm | 0     | t     | a     | -               | o                 | -      |
 | Yawanawa      | species of palm | 0     | t     | a     | -               | o                 | -      |
-| Fuzzy         |                 |       | t:100 | a:100 | o:80¦tʳ:10¦ʔ:10 | a:80¦o:10¦a.tʳ:10 | tʳ:100 |
+| Fuzzy         |                 |       | t:100 | a:100 | o:80¦ʔ:10¦tʳ:10 | a:80¦o:10¦a.tʳ:10 | tʳ:100 |
 | ProtoPanoan   |                 |       | t     | a     | o               | a                 | tʳ     |
 
 ## COGID 74 / «species of snake»

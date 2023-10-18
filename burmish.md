@@ -21,10 +21,10 @@ header-includes: |
 |:----------|:----------|--------------:|:-----------------------------------------------------|
 | ⁴         | ¹         |            14 | 487 589 80 281 46 161 386 119 858 314 217 140 706 36 |
 | ⁴         | ³         |             9 | 589 118 119 477 169 414 333 880 36                   |
-| -         | ʔ         |             9 | 779 935 52 727 386 635 595 920 12                    |
 | i         | e         |             8 | 729 394 22 414 105 646 400 12                        |
 | ŋ         | -         |             7 | 61 72 93 727 781 36 164                              |
 | ²         | ³         |             7 | 283 118 565 477 595 646 793                          |
+| -         | ʔ         |             7 | 779 935 52 386 119 920 12                            |
 | ˀs        | s         |             6 | 536 569 574 580 735 541                              |
 | ˀk        | g         |             6 | 180 246 140 788 793 190                              |
 | ²         | ⁴         |             6 | 72 180 80 618 118 477                                |
@@ -50,7 +50,6 @@ header-includes: |
 | u         | ʊ         |             2 | 125 232                                              |
 | u         | o         |             2 | 618 797                                              |
 | m         | p         |             2 | 94 94                                                |
-| k         | ʔ         |             2 | 52 635                                               |
 | k         | ŋ         |             2 | 589 36                                               |
 | k         | t         |             2 | 858 580                                              |
 | j         | ˀj        |             2 | 221 555                                              |
@@ -65,7 +64,6 @@ header-includes: |
 | ˀk        | ˀtʃ       |             1 | 635                                                  |
 | ˀk        | ˀm        |             1 | 288                                                  |
 | ŋ         | ˀr        |             1 | 614                                                  |
-| ŋ         | ʔ         |             1 | 727                                                  |
 | ŋ         | t         |             1 | 72                                                   |
 | tʃ        | ˀts       |             1 | 647                                                  |
 | tʃ        | dz        |             1 | 636                                                  |
@@ -77,14 +75,15 @@ header-includes: |
 | r         | m         |             1 | 94                                                   |
 | p         | b         |             1 | 36                                                   |
 | n         | -         |             1 | 61                                                   |
+| m         | ʔ         |             1 | 119                                                  |
 | m         | t         |             1 | 72                                                   |
 | m         | dʒ        |             1 | 94                                                   |
+| k         | ʔ         |             1 | 52                                                   |
 | k         | tʃ        |             1 | 636                                                  |
 | k         | p         |             1 | 858                                                  |
 | k         | m         |             1 | 36                                                   |
 | k         | g         |             1 | 148                                                  |
 | k         | dz        |             1 | 636                                                  |
-| j         | ʔ         |             1 | 400                                                  |
 | i         | ʊ         |             1 | 714                                                  |
 | i         | ɛ         |             1 | 735                                                  |
 | i         | ui        |             1 | 52                                                   |
@@ -106,6 +105,8 @@ header-includes: |
 | -         | ˀɲ        |             1 | 220                                                  |
 | -         | ˀtʃ       |             1 | 635                                                  |
 | -         | ˀk        |             1 | 635                                                  |
+| -         | ¹         |             1 | 683                                                  |
+| -         | p         |             1 | 477                                                  |
 
 # Individual Alignments with Fuzzy Reconstructions
 
@@ -141,18 +142,18 @@ header-includes: |
 
 ## COGID 536 / «shy, be / bashful»
 
-| language        | concept           | pos   | S1         | S2    | S3    | S4    |
-|:----------------|:------------------|:------|:-----------|:------|:------|:------|
-| AchangLongchuan | shy, be / bashful | 1     | s          | ɔ     | ʔ     | ⁵⁵    |
-| Atsi            | all / whole, the  | 0     | p          | a     | n     | ²¹    |
-| Bola            | shy, be / bashful | 0     | x          | a     | ʔ     | ⁵⁵    |
-| Lashi           | all / everything  | 1     | ʃ          | ɔ̱    | ʔ     | ⁵⁵    |
-| Maru            | steam             | 0     | s          | o     | ʔ     | ⁵⁵    |
-| OldBurmese      |                   |       | Ø          | Ø     | Ø     | Ø     |
-| Rangoon         | all / everything  | 1     | tθ         | ɑ     | -     | ⁵³    |
-| Xiandao         | steam             | 0     | s          | ɔ     | ʔ     | ⁵⁵    |
-| Fuzzy           |                   |       | ˀs:70¦s:30 | a:100 | k:100 | ⁴:100 |
-| ProtoBurmish    |                   |       | ˀs         | a     | k     | ⁴     |
+| language        | concept           | pos   | S1    | S2         | S3    | S4    | S5    |
+|:----------------|:------------------|:------|:------|:-----------|:------|:------|:------|
+| AchangLongchuan | shy, be / bashful | 1     | -     | s          | ɔ     | ʔ     | ⁵⁵    |
+| Atsi            | all / whole, the  | 0     | -     | p          | a     | n     | ²¹    |
+| Bola            | shy, be / bashful | 0     | -     | x          | a     | ʔ     | ⁵⁵    |
+| Lashi           | all / everything  | 1     | -     | ʃ          | ɔ̱    | ʔ     | ⁵⁵    |
+| Maru            | steam             | 0     | -     | s          | o     | ʔ     | ⁵⁵    |
+| OldBurmese      |                   |       | Ø     | Ø          | Ø     | Ø     | Ø     |
+| Rangoon         | all / everything  | 1     | t     | θ          | ɑ     | -     | ⁵³    |
+| Xiandao         | steam             | 0     | -     | s          | ɔ     | ʔ     | ⁵⁵    |
+| Fuzzy           |                   |       | -:100 | ˀs:70¦s:30 | a:100 | k:100 | ⁴:100 |
+| ProtoBurmish    |                   |       | ˀs    | a          | k     | ⁴     |       |
 
 ## COGID 6 / «all / everything»
 
@@ -171,18 +172,18 @@ header-includes: |
 
 ## COGID 838 / «classifier for age»
 
-| language        | concept                  | pos   | S1     | S2        | S3        | S4    |
-|:----------------|:-------------------------|:------|:-------|:----------|:----------|:------|
-| AchangLongchuan | classifier for age       | 0     | n̥     | ə         | k         | ⁵⁵    |
-| Atsi            | angry, be / take offense | 1     | j      | o         | -         | ²¹    |
-| Bola            | heart                    | 1     | l      | a         | m         | ³¹    |
-| Lashi           | angry, be / take offense | 1     | j      | ɔː        | -         | ³³    |
-| Maru            | angry, be / take offense | 1     | j      | o         | -         | ³¹    |
-| OldBurmese      | heart                    | 0     | nʰ     | a         | c         | -     |
-| Rangoon         | classifier for age       | 0     | n̥     | i         | ʔ         | ⁴     |
-| Xiandao         | classifier for age       | 0     | n̥     | ɤ         | k         | ⁵⁵    |
-| Fuzzy           |                          |       | ˀn:100 | i:60¦a:40 | k:70¦-:30 | ⁴:100 |
-| ProtoBurmish    |                          |       | ˀn     | i         | k         | ⁴     |
+| language        | concept                  | pos   | S1    | S2     | S3        | S4        | S5    |
+|:----------------|:-------------------------|:------|:------|:-------|:----------|:----------|:------|
+| AchangLongchuan | classifier for age       | 0     | -     | n̥     | ə         | k         | ⁵⁵    |
+| Atsi            | angry, be / take offense | 1     | -     | j      | o         | -         | ²¹    |
+| Bola            | heart                    | 1     | -     | l      | a         | m         | ³¹    |
+| Lashi           | angry, be / take offense | 1     | -     | j      | ɔː        | -         | ³³    |
+| Maru            | angry, be / take offense | 1     | -     | j      | o         | -         | ³¹    |
+| OldBurmese      | heart                    | 0     | -     | nʰ     | a         | c         | -     |
+| Rangoon         | classifier for age       | 0     | h     | n      | i         | ʔ         | ⁴     |
+| Xiandao         | classifier for age       | 0     | -     | n̥     | ɤ         | k         | ⁵⁵    |
+| Fuzzy           |                          |       | -:100 | ˀn:100 | i:60¦a:40 | k:60¦-:40 | ⁴:100 |
+| ProtoBurmish    |                          |       | ˀn    | i      | k         | ⁴         |       |
 
 ## COGID 438 / «eye»
 
@@ -216,18 +217,18 @@ header-includes: |
 
 ## COGID 729 / «dead»
 
-| language        | concept   | pos   | S1    | S2        | S3    | S4    |
-|:----------------|:----------|:------|:------|:----------|:------|:------|
-| AchangLongchuan |           |       | Ø     | Ø         | Ø     | Ø     |
-| Atsi            | dead      | 0     | ʃ     | i         | -     | ⁵¹    |
-| Bola            | arrow     | 1     | ʃ     | ɿ         | -     | ³⁵    |
-| Lashi           | dead      | 0     | ʃ     | ə̱i       | -     | ³³    |
-| Maru            | dead      | 0     | ʃ     | i̱        | k     | ³¹    |
-| OldBurmese      |           |       | Ø     | Ø         | Ø     | Ø     |
-| Rangoon         | die       | 0     | tθ    | e         | -     | ²²    |
-| Xiandao         | dead      | 0     | ʂ     | ɿ         | -     | ⁵⁵    |
-| Fuzzy           |           |       | ʃ:100 | i:90¦e:10 | -:100 | ³:100 |
-| ProtoBurmish    |           |       | ʃ     | i         | ³     |       |
+| language        | concept   | pos   | S1    | S2    | S3        | S4    | S5    |
+|:----------------|:----------|:------|:------|:------|:----------|:------|:------|
+| AchangLongchuan |           |       | Ø     | Ø     | Ø         | Ø     | Ø     |
+| Atsi            | dead      | 0     | -     | ʃ     | i         | -     | ⁵¹    |
+| Bola            | arrow     | 1     | -     | ʃ     | ɿ         | -     | ³⁵    |
+| Lashi           | dead      | 0     | -     | ʃ     | ə̱i       | -     | ³³    |
+| Maru            | dead      | 0     | -     | ʃ     | i̱        | k     | ³¹    |
+| OldBurmese      |           |       | Ø     | Ø     | Ø         | Ø     | Ø     |
+| Rangoon         | die       | 0     | t     | θ     | e         | -     | ²²    |
+| Xiandao         | dead      | 0     | -     | ʂ     | ɿ         | -     | ⁵⁵    |
+| Fuzzy           |           |       | -:100 | ʃ:100 | i:90¦e:10 | -:100 | ³:100 |
+| ProtoBurmish    |           |       | ʃ     | i     | ³         |       |       |
 
 ## COGID 394 / «ask / question»
 
@@ -241,7 +242,7 @@ header-includes: |
 | OldBurmese      | hate           | 0     | m     | -     | u         | n     | ⁵     |
 | Rangoon         | ask / question | 0     | m     | -     | e         | -     | ⁵⁵    |
 | Xiandao         | ask / question | 0     | n     | -     | i         | -     | ³¹    |
-| Fuzzy           |                |       | m:100 | -:100 | i:50¦e:50 | -:100 | ²:100 |
+| Fuzzy           |                |       | m:100 | -:100 | e:50¦i:50 | -:100 | ²:100 |
 | ProtoBurmish    |                |       | n     | e     | ²         |       |       |
 
 ## COGID 72 / «ask s.b. to come here / fetch»
@@ -346,7 +347,7 @@ header-includes: |
 | OldBurmese      | brains    | 0     | -         | u     | ⁵     |
 | Rangoon         | brains    | 0     | -         | u     | ⁵⁵    |
 | Xiandao         | brains    | 0     | -         | u     | ³¹    |
-| Fuzzy           |           |       | ʔ:50¦-:50 | ʊ:100 | ²:100 |
+| Fuzzy           |           |       | -:60¦ʔ:40 | ʊ:100 | ²:100 |
 | ProtoBurmish    |           |       | ʔ         | ʊ     | ²     |
 
 ## COGID 93 / «granddaughter»
@@ -376,7 +377,7 @@ header-includes: |
 | OldBurmese      |                 |       | Ø     | Ø                | Ø         | Ø              |
 | Rangoon         | flight of steps | 2     | tʰ    | i                | ʔ         | ⁴              |
 | Xiandao         | back            | 1     | t     | u                | -         | ⁵¹             |
-| Fuzzy           |                 |       | t:100 | a.ŋ:40¦a:40¦e:20 | ŋ:90¦k:10 | ¹:70¦⁴:20¦³:10 |
+| Fuzzy           |                 |       | t:100 | a:40¦a.ŋ:40¦e:20 | ŋ:90¦k:10 | ¹:70¦⁴:20¦³:10 |
 | ProtoBurmish    |                 |       | t     | a                | ŋ         | ¹              |
 
 ## COGID 94 / «bee»
@@ -421,7 +422,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø     | Ø     |                |
 | Rangoon         |           |       | Ø          | Ø     | Ø     |                |
 | Xiandao         |           |       | Ø          | Ø     | Ø     |                |
-| Fuzzy           |           |       | d:80¦ˀt:20 | u:100 | -:100 | ⁴:80¦¹:10¦²:10 |
+| Fuzzy           |           |       | d:80¦ˀt:20 | u:100 | -:100 | ⁴:80¦²:10¦¹:10 |
 | ProtoBurmish    |           |       | d          | u     | ²     |                |
 
 ## COGID 52 / «east»
@@ -436,7 +437,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø          | Ø              | Ø     |
 | Rangoon         |           |       | Ø          | Ø          | Ø              | Ø     |
 | Xiandao         |           |       | Ø          | Ø          | Ø              | Ø     |
-| Fuzzy           |           |       | b:70¦tʃ:30 | ui:60¦i:40 | -:80¦k:10¦ʔ:10 | ¹:100 |
+| Fuzzy           |           |       | b:70¦tʃ:30 | ui:60¦i:40 | -:80¦ʔ:10¦k:10 | ¹:100 |
 | ProtoBurmish    |           |       | b          | ui         | ¹              |       |
 
 ## COGID 714 / «mow / cut (grass)»
@@ -451,7 +452,7 @@ header-includes: |
 | OldBurmese      | intestine         | 0     | -     | u               | -     | -     |
 | Rangoon         | intestine         | 0     | -     | u               | -     | ²²    |
 | Xiandao         | blacksmith        | 0     | ʂ     | a               | m     | ⁵⁵    |
-| Fuzzy           |                   |       | -:100 | ʊ:80¦ai:10¦i:10 | -:100 | ¹:100 |
+| Fuzzy           |                   |       | -:100 | ʊ:80¦i:10¦ai:10 | -:100 | ¹:100 |
 | ProtoBurmish    |                   |       | ʔ     | ʊ               | ¹     |       |
 
 ## COGID 253 / «put into a container / pack»
@@ -541,7 +542,7 @@ header-includes: |
 | OldBurmese      | borrow (money) | 0     | kʰ          | j              | i         | j     | ⁵     |
 | Rangoon         |                |       | Ø           | Ø              | Ø         | Ø     | Ø     |
 | Xiandao         |                |       | Ø           | Ø              | Ø         | Ø     | Ø     |
-| Fuzzy           |                |       | ˀm:70¦ˀk:30 | j:40¦r:30¦-:30 | i:80¦a:20 | -:100 | ²:100 |
+| Fuzzy           |                |       | ˀm:70¦ˀk:30 | -:40¦j:40¦r:20 | i:80¦a:20 | -:100 | ²:100 |
 | ProtoBurmish    |                |       | ˀk          | j              | i         | ²     |       |
 
 ## COGID 246 / «branch / twig»
@@ -651,18 +652,18 @@ header-includes: |
 
 ## COGID 727 / «child»
 
-| language        | concept      | pos   | S1    | S2    | S3             | S4        |
-|:----------------|:-------------|:------|:------|:------|:---------------|:----------|
-| AchangLongchuan | child        | 1     | -     | oi    | -              | ³¹        |
-| Atsi            | shepherd boy | 3     | ʃ     | a     | ŋ              | ⁵¹        |
-| Bola            | shepherd boy | 3     | ʃ     | ɔ̃    | -              | ⁵⁵        |
-| Lashi           | shepherd boy | 3     | s     | a     | ŋ              | ³¹        |
-| Maru            | child        | 1     | ʃ     | ɔ̃    | -              | ³¹        |
-| OldBurmese      |              |       | Ø     | Ø     | Ø              | Ø         |
-| Rangoon         | child        | 1     | l     | e     | -              | ⁵⁵        |
-| Xiandao         | shepherd boy | 3     | v     | ui    | -              | ³¹        |
-| Fuzzy           |              |       | ʃ:100 | a:100 | -:60¦ŋ:30¦ʔ:10 | ¹:90¦²:10 |
-| ProtoBurmish    |              |       | ʃ     | a     | ŋ              | ¹         |
+| language        | concept      | pos   | S1    | S2    | S3        | S4        |
+|:----------------|:-------------|:------|:------|:------|:----------|:----------|
+| AchangLongchuan | child        | 1     | -     | oi    | -         | ³¹        |
+| Atsi            | shepherd boy | 3     | ʃ     | a     | ŋ         | ⁵¹        |
+| Bola            | shepherd boy | 3     | ʃ     | ɔ̃    | -         | ⁵⁵        |
+| Lashi           | shepherd boy | 3     | s     | a     | ŋ         | ³¹        |
+| Maru            | child        | 1     | ʃ     | ɔ̃    | -         | ³¹        |
+| OldBurmese      |              |       | Ø     | Ø     | Ø         | Ø         |
+| Rangoon         | child        | 1     | l     | e     | -         | ⁵⁵        |
+| Xiandao         | shepherd boy | 3     | v     | ui    | -         | ³¹        |
+| Fuzzy           |              |       | ʃ:100 | a:100 | -:70¦ŋ:30 | ¹:90¦²:10 |
+| ProtoBurmish    |              |       | ʃ     | a     | ŋ         | ¹         |
 
 ## COGID 781 / «chin»
 
@@ -734,7 +735,7 @@ header-includes: |
 | Lashi           | claw / talon | 1     | -     | s     | ə̱        | ŋ         | ⁵⁵    |
 | Maru            | claw / talon | 1     | -     | s     | a         | ŋ         | ³⁵    |
 | OldBurmese      |              |       | Ø     | Ø     | Ø         | Ø         | Ø     |
-| Rangoon         | liver        | 1     | -     | tθ    | ɛ         | -         | ⁵⁵    |
+| Rangoon         | liver        | 1     | t     | θ     | ɛ         | -         | ⁵⁵    |
 | Xiandao         | liver        | 1     | -     | ʂ     | ɯ         | ŋ         | ³¹    |
 | Fuzzy           |              |       | -:100 | s:100 | i:70¦u:30 | ŋ:90¦n:10 | ²:100 |
 | ProtoBurmish    |              |       | s     | i     | ŋ         | ²         |       |
@@ -796,7 +797,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø          | Ø         | Ø     | Ø         |
 | Rangoon         | cough     | 1     | sʰ         | o         | -     | ⁵⁵        |
 | Xiandao         | cough     | 1     | ʈʂʰ        | au        | -     | ³¹        |
-| Fuzzy           |           |       | d:70¦tʃ:30 | u:90¦o:10 | -:100 | ²:90¦⁴:10 |
+| Fuzzy           |           |       | d:60¦tʃ:40 | u:90¦o:10 | -:100 | ²:90¦⁴:10 |
 | ProtoBurmish    |           |       | tʃ         | u         | ²     |           |
 
 ## COGID 118 / «thumb»
@@ -811,23 +812,23 @@ header-includes: |
 | OldBurmese      | cow                        | 1     | m     | a     | ʔ     | -              |
 | Rangoon         | thumb                      | 1     | m     | ɑ     | -     | ⁵³             |
 | Xiandao         | thumb                      | 1     | m     | ɔ     | -     | ³¹             |
-| Fuzzy           |                            |       | m:100 | a:100 | -:100 | ³:40¦⁴:30¦²:30 |
+| Fuzzy           |                            |       | m:100 | a:100 | -:100 | ³:40¦²:30¦⁴:30 |
 | ProtoBurmish    |                            |       | m     | a     | ³     |                |
 
 ## COGID 119 / «cow»
 
-| language        | concept   | pos   | S1        | S2     | S3        | S4         | S5             |
-|:----------------|:----------|:------|:----------|:-------|:----------|:-----------|:---------------|
-| AchangLongchuan | cow       | 1     | -         | ts     | e         | ŋ          | ³⁵             |
-| Atsi            | cow       | 1     | m         | j      | i̱        | -          | ⁵⁵             |
-| Bola            | cow       | 1     | -         | t      | a         | ŋ          | ⁵⁵             |
-| Lashi           | cow       | 1     | m         | j      | i         | -          | ⁵³             |
-| Maru            | cow       | 1     | -         | ts     | a         | ŋ          | ³¹             |
-| OldBurmese      | sickle    | 1     | -         | c      | a         | ɲ          | -              |
-| Rangoon         | cow       | 1     | m         | -      | ɑ         | -          | ⁵³             |
-| Xiandao         | cow       | 1     | m         | -      | ɔ         | -          | ³¹             |
-| Fuzzy           |           |       | -:90¦m:10 | dz:100 | a:60¦i:40 | ŋ:90¦ˀŋ:10 | ³:70¦¹:20¦⁴:10 |
-| ProtoBurmish    |           |       | dz        | i      | ŋ         | ¹          |                |
+| language        | concept   | pos   | S1             | S2     | S3        | S4         | S5             |
+|:----------------|:----------|:------|:---------------|:-------|:----------|:-----------|:---------------|
+| AchangLongchuan | cow       | 1     | -              | ts     | e         | ŋ          | ³⁵             |
+| Atsi            | cow       | 1     | m              | j      | i̱        | -          | ⁵⁵             |
+| Bola            | cow       | 1     | -              | t      | a         | ŋ          | ⁵⁵             |
+| Lashi           | cow       | 1     | m              | j      | i         | -          | ⁵³             |
+| Maru            | cow       | 1     | -              | ts     | a         | ŋ          | ³¹             |
+| OldBurmese      | sickle    | 1     | -              | c      | a         | ɲ          | -              |
+| Rangoon         | cow       | 1     | m              | -      | ɑ         | -          | ⁵³             |
+| Xiandao         | cow       | 1     | m              | -      | ɔ         | -          | ³¹             |
+| Fuzzy           |           |       | -:80¦m:10¦ʔ:10 | dz:100 | a:60¦i:40 | ŋ:90¦ˀŋ:10 | ³:70¦¹:20¦⁴:10 |
+| ProtoBurmish    |           |       | dz             | i      | ŋ         | ¹          |                |
 
 ## COGID 641 / «cramped / narrow»
 
@@ -861,18 +862,18 @@ header-includes: |
 
 ## COGID 477 / «day after tomorrow»
 
-| language        | concept            | pos   | S1    | S2    | S3    | S4    | S5             |
-|:----------------|:-------------------|:------|:------|:------|:------|:------|:---------------|
-| AchangLongchuan | day after tomorrow | 1     | ȵ     | -     | e     | n     | ³¹             |
-| Atsi            | day's (journey)    | 0     | ŋ     | j     | i     | -     | ⁵⁵             |
-| Bola            | day's (journey)    | 0     | n     | -     | ɛ     | ʔ     | ³¹             |
-| Lashi           | day's (journey)    | 0     | ŋ     | j     | ei    | -     | ⁵⁵             |
-| Maru            | day after tomorrow | 2     | n     | -     | ɛ     | ʔ     | ³¹             |
-| OldBurmese      | shoe               | 1     | n     | -     | a     | p     | -              |
-| Rangoon         | every day          | 0     | n     | -     | e     | -     | ⁵³             |
-| Xiandao         | day after tomorrow | 0     | n̥    | -     | a     | -     | ³¹             |
-| Fuzzy           |                    |       | n:100 | -:100 | a:100 | p:100 | ⁴:70¦²:20¦³:10 |
-| ProtoBurmish    |                    |       | n     | a     | p     | ⁴     |                |
+| language        | concept            | pos   | S1    | S2    | S3    | S4        | S5             |
+|:----------------|:-------------------|:------|:------|:------|:------|:----------|:---------------|
+| AchangLongchuan | day after tomorrow | 1     | ȵ     | -     | e     | n         | ³¹             |
+| Atsi            | day's (journey)    | 0     | ŋ     | j     | i     | -         | ⁵⁵             |
+| Bola            | day's (journey)    | 0     | n     | -     | ɛ     | ʔ         | ³¹             |
+| Lashi           | day's (journey)    | 0     | ŋ     | j     | ei    | -         | ⁵⁵             |
+| Maru            | day after tomorrow | 2     | n     | -     | ɛ     | ʔ         | ³¹             |
+| OldBurmese      | shoe               | 1     | n     | -     | a     | p         | -              |
+| Rangoon         | every day          | 0     | n     | -     | e     | -         | ⁵³             |
+| Xiandao         | day after tomorrow | 0     | n̥    | -     | a     | -         | ³¹             |
+| Fuzzy           |                    |       | n:100 | -:100 | a:100 | p:90¦-:10 | ⁴:70¦²:20¦³:10 |
+| ProtoBurmish    |                    |       | n     | a     | p     | ⁴         |                |
 
 ## COGID 858 / «throw / hurl»
 
@@ -906,18 +907,18 @@ header-includes: |
 
 ## COGID 635 / «maize / corn»
 
-| language        | concept             | pos   | S1                | S2         | S3             | S4    |
-|:----------------|:--------------------|:------|:------------------|:-----------|:---------------|:------|
-| AchangLongchuan | maize / corn        | 0     | x                 | au         | -              | ³¹    |
-| Atsi            | dig out with finger | 0     | tʃʰ               | o          | ʔ              | ⁵⁵    |
-| Bola            |                     |       | Ø                 | Ø          | Ø              | Ø     |
-| Lashi           | kitchen             | 1     | tʃ                | au         | -              | ⁵³    |
-| Maru            |                     |       | Ø                 | Ø          | Ø              | Ø     |
-| OldBurmese      |                     |       | Ø                 | Ø          | Ø              | Ø     |
-| Rangoon         | navel               | 0     | tɕʰ               | ɛ          | ʔ              | ⁴     |
-| Xiandao         | kitchen             | 0     | c                 | ɔ          | -              | ⁵⁵    |
-| Fuzzy           |                     |       | ˀk:60¦ˀtʃ:30¦-:10 | a:90¦ai:10 | -:80¦k:10¦ʔ:10 | ⁴:100 |
-| ProtoBurmish    |                     |       | ˀtʃ               | a          | k              | ⁴     |
+| language        | concept             | pos   | S1                | S2         | S3        | S4    |
+|:----------------|:--------------------|:------|:------------------|:-----------|:----------|:------|
+| AchangLongchuan | maize / corn        | 0     | x                 | au         | -         | ³¹    |
+| Atsi            | dig out with finger | 0     | tʃʰ               | o          | ʔ         | ⁵⁵    |
+| Bola            |                     |       | Ø                 | Ø          | Ø         | Ø     |
+| Lashi           | kitchen             | 1     | tʃ                | au         | -         | ⁵³    |
+| Maru            |                     |       | Ø                 | Ø          | Ø         | Ø     |
+| OldBurmese      |                     |       | Ø                 | Ø          | Ø         | Ø     |
+| Rangoon         | navel               | 0     | tɕʰ               | ɛ          | ʔ         | ⁴     |
+| Xiandao         | kitchen             | 0     | c                 | ɔ          | -         | ⁵⁵    |
+| Fuzzy           |                     |       | ˀk:60¦ˀtʃ:30¦-:10 | a:90¦ai:10 | -:90¦k:10 | ⁴:100 |
+| ProtoBurmish    |                     |       | ˀtʃ               | a          | k         | ⁴     |
 
 ## COGID 636 / «navel»
 
@@ -931,7 +932,7 @@ header-includes: |
 | OldBurmese      |                     |       | Ø                | Ø     | Ø     | Ø     |
 | Rangoon         |                     |       | Ø                | Ø     | Ø     | Ø     |
 | Xiandao         |                     |       | Ø                | Ø     | Ø     | Ø     |
-| Fuzzy           |                     |       | tʃ:80¦k:10¦dz:10 | a:100 | p:100 | ⁴:100 |
+| Fuzzy           |                     |       | tʃ:80¦dz:10¦k:10 | a:100 | p:100 | ⁴:100 |
 | ProtoBurmish    |                     |       | tʃ               | a     | k     | ⁴     |
 
 ## COGID 314 / «line (of wheat)»
@@ -1011,18 +1012,18 @@ header-includes: |
 
 ## COGID 595 / «finger (little)»
 
-| language        | concept         | pos   | S1    | S2    | S3        | S4        |
-|:----------------|:----------------|:------|:------|:------|:----------|:----------|
-| AchangLongchuan | finger (little) | 1     | -     | oi    | -         | ³¹        |
-| Atsi            | finger (little) | 1     | tʰ    | a     | ŋ         | ⁵¹        |
-| Bola            | finger (little) | 1     | tʰ    | ɔ̃    | -         | ³⁵        |
-| Lashi           | finger (little) | 2     | tʃʰ   | a     | m         | ⁵⁵        |
-| Maru            | finger (little) | 1     | tʰ    | ɔ̃    | -         | ⁵⁵        |
-| OldBurmese      |                 |       | Ø     | Ø     | Ø         | Ø         |
-| Rangoon         | finger (little) | 1     | tθ    | ɑ̃    | -         | ⁵⁵        |
-| Xiandao         | finger (little) | 1     | ts    | ɔ     | -         | ³¹        |
-| Fuzzy           |                 |       | t:100 | a:100 | -:80¦ʔ:20 | ³:60¦²:40 |
-| ProtoBurmish    |                 |       | t     | a     | ŋ         | ³         |
+| language        | concept         | pos   | S1    | S2    | S3    | S4    | S5        |
+|:----------------|:----------------|:------|:------|:------|:------|:------|:----------|
+| AchangLongchuan | finger (little) | 1     | -     | -     | oi    | -     | ³¹        |
+| Atsi            | finger (little) | 1     | tʰ    | -     | a     | ŋ     | ⁵¹        |
+| Bola            | finger (little) | 1     | tʰ    | -     | ɔ̃    | -     | ³⁵        |
+| Lashi           | finger (little) | 2     | tʃʰ   | -     | a     | m     | ⁵⁵        |
+| Maru            | finger (little) | 1     | tʰ    | -     | ɔ̃    | -     | ⁵⁵        |
+| OldBurmese      |                 |       | Ø     | Ø     | Ø     | Ø     | Ø         |
+| Rangoon         | finger (little) | 1     | t     | θ     | ɑ̃    | -     | ⁵⁵        |
+| Xiandao         | finger (little) | 1     | ts    | -     | ɔ     | -     | ³¹        |
+| Fuzzy           |                 |       | t:100 | -:100 | a:100 | -:100 | ³:60¦²:40 |
+| ProtoBurmish    |                 |       | t     | a     | ŋ     | ³     |           |
 
 ## COGID 614 / «fling / toss»
 
@@ -1066,7 +1067,7 @@ header-includes: |
 | OldBurmese      | remember  | 1     | m     | -     | i         | j     | ʔ     | -         |
 | Rangoon         | remember  | 1     | m     | -     | i         | -     | -     | ⁵³        |
 | Xiandao         | forget    | 1     | n     | -     | i         | -     | -     | ³⁵        |
-| Fuzzy           |           |       | m:100 | -:100 | e:90¦i:10 | -:100 | -:100 | ³:50¦⁴:50 |
+| Fuzzy           |           |       | m:100 | -:100 | e:90¦i:10 | -:100 | -:100 | ⁴:50¦³:50 |
 | ProtoBurmish    |           |       | m     | i     | ³         |       |       |           |
 
 ## COGID 797 / «frighten / scare»
@@ -1296,18 +1297,18 @@ header-includes: |
 
 ## COGID 574 / «thirty»
 
-| language        | concept   | pos   | S1         | S2    | S3    | S4    |
-|:----------------|:----------|:------|:-----------|:------|:------|:------|
-| AchangLongchuan | thirty    | 0     | s          | u     | m     | ³¹    |
-| Atsi            | thirty    | 0     | s          | u     | m     | ²¹    |
-| Bola            | lizard    | 0     | s          | u     | m     | ³¹    |
-| Lashi           | thirty    | 0     | s          | ɔ     | m     | ⁵⁵    |
-| Maru            |           |       | Ø          | Ø     | Ø     | Ø     |
-| OldBurmese      | three     | 0     | s          | u     | m     | ⁵     |
-| Rangoon         | thirty    | 0     | tθ         | õ     | -     | ⁵⁵    |
-| Xiandao         | thirty    | 0     | s          | u     | m     | ³¹    |
-| Fuzzy           |           |       | s:80¦ˀs:20 | u:100 | m:100 | ²:100 |
-| ProtoBurmish    |           |       | s          | u     | m     | ²     |
+| language        | concept   | pos   | S1    | S2         | S3    | S4    | S5    |
+|:----------------|:----------|:------|:------|:-----------|:------|:------|:------|
+| AchangLongchuan | thirty    | 0     | -     | s          | u     | m     | ³¹    |
+| Atsi            | thirty    | 0     | -     | s          | u     | m     | ²¹    |
+| Bola            | lizard    | 0     | -     | s          | u     | m     | ³¹    |
+| Lashi           | thirty    | 0     | -     | s          | ɔ     | m     | ⁵⁵    |
+| Maru            |           |       | Ø     | Ø          | Ø     | Ø     | Ø     |
+| OldBurmese      | three     | 0     | -     | s          | u     | m     | ⁵     |
+| Rangoon         | thirty    | 0     | t     | θ          | õ     | -     | ⁵⁵    |
+| Xiandao         | thirty    | 0     | -     | s          | u     | m     | ³¹    |
+| Fuzzy           |           |       | -:100 | s:80¦ˀs:20 | u:100 | m:100 | ²:100 |
+| ProtoBurmish    |           |       | s     | u          | m     | ²     |       |
 
 ## COGID 811 / «steal»
 
@@ -1401,18 +1402,18 @@ header-includes: |
 
 ## COGID 400 / «small»
 
-| language        | concept   | pos   | S1    | S2        | S3        | S4    | S5    |
-|:----------------|:----------|:------|:------|:----------|:----------|:------|:------|
-| AchangLongchuan | small     | 0     | ȵ     | i         | ⁵⁵        |       |       |
-| Atsi            |           |       | Ø     | Ø         | Ø         |       |       |
-| Bola            |           |       | Ø     | Ø         | Ø         |       |       |
-| Lashi           |           |       | Ø     | Ø         | Ø         |       |       |
-| Maru            | mud       | 0     | m.j   | i.k       | ³¹        |       |       |
-| OldBurmese      |           |       | Ø     | Ø         | Ø         |       |       |
-| Rangoon         |           |       | Ø     | Ø         | Ø         |       |       |
-| Xiandao         |           |       | Ø     | Ø         | Ø         |       |       |
-| Fuzzy           |           |       | m:100 | j:90¦ʔ:10 | i:70¦e:30 | -:100 | ¹:100 |
-| ProtoBurmish    |           |       | m     | j         | i         | ¹     |       |
+| language        | concept   | pos   | S1    | S2    | S3        | S4    | S5    |
+|:----------------|:----------|:------|:------|:------|:----------|:------|:------|
+| AchangLongchuan | small     | 0     | ȵ     | i     | ⁵⁵        |       |       |
+| Atsi            |           |       | Ø     | Ø     | Ø         |       |       |
+| Bola            |           |       | Ø     | Ø     | Ø         |       |       |
+| Lashi           |           |       | Ø     | Ø     | Ø         |       |       |
+| Maru            | mud       | 0     | m.j   | i.k   | ³¹        |       |       |
+| OldBurmese      |           |       | Ø     | Ø     | Ø         |       |       |
+| Rangoon         |           |       | Ø     | Ø     | Ø         |       |       |
+| Xiandao         |           |       | Ø     | Ø     | Ø         |       |       |
+| Fuzzy           |           |       | m:100 | j:100 | i:70¦e:30 | -:100 | ¹:100 |
+| ProtoBurmish    |           |       | m     | j     | i         | ¹     |       |
 
 ## COGID 932 / «needle»
 
@@ -1431,18 +1432,18 @@ header-includes: |
 
 ## COGID 580 / «nest (bird)»
 
-| language        | concept     | pos   | S1               | S2             | S3        | S4    |
-|:----------------|:------------|:------|:-----------------|:---------------|:----------|:------|
-| AchangLongchuan | nest (bird) | 0     | m̥               | ɔ              | ʔ         | ⁵⁵    |
-| Atsi            | nest (bird) | 0     | ŋ                | o̱             | ʔ         | ⁵⁵    |
-| Bola            | nest (bird) | 0     | ŋ                | a̱             | ʔ         | ⁵⁵    |
-| Lashi           | nest (bird) | 1     | s                | ɔ              | t         | ⁵⁵    |
-| Maru            | nest (bird) | 1     | s                | a              | t         | ⁵⁵    |
-| OldBurmese      | nest (bird) | 1     | s                | ui             | k         | -     |
-| Rangoon         | nest (bird) | 1     | tθ               | ɑi             | ʔ         | ⁴     |
-| Xiandao         | nest (bird) | 0     | ŋ̊               | ɔ              | ʔ         | ⁵⁵    |
-| Fuzzy           |             |       | s:60¦ˀs:20¦ˀŋ:20 | u:50¦a:30¦i:20 | k:80¦t:20 | ⁴:100 |
-| ProtoBurmish    |             |       | s                | u              | t         | ⁴     |
+| language        | concept     | pos   | S1    | S2               | S3             | S4        | S5    |
+|:----------------|:------------|:------|:------|:-----------------|:---------------|:----------|:------|
+| AchangLongchuan | nest (bird) | 0     | -     | m̥               | ɔ              | ʔ         | ⁵⁵    |
+| Atsi            | nest (bird) | 0     | -     | ŋ                | o̱             | ʔ         | ⁵⁵    |
+| Bola            | nest (bird) | 0     | -     | ŋ                | a̱             | ʔ         | ⁵⁵    |
+| Lashi           | nest (bird) | 1     | -     | s                | ɔ              | t         | ⁵⁵    |
+| Maru            | nest (bird) | 1     | -     | s                | a              | t         | ⁵⁵    |
+| OldBurmese      | nest (bird) | 1     | -     | s                | ui             | k         | -     |
+| Rangoon         | nest (bird) | 1     | t     | θ                | ɑi             | ʔ         | ⁴     |
+| Xiandao         | nest (bird) | 0     | -     | ŋ̊               | ɔ              | ʔ         | ⁵⁵    |
+| Fuzzy           |             |       | -:100 | s:60¦ˀs:20¦ˀŋ:20 | u:50¦a:30¦i:20 | k:80¦t:20 | ⁴:100 |
+| ProtoBurmish    |             |       | s     | u                | t              | ⁴         |       |
 
 ## COGID 884 / «piece of cloth with straps for carrying a toddler»
 
@@ -1551,33 +1552,33 @@ header-includes: |
 
 ## COGID 683 / «salty»
 
-| language        | concept   | pos   | S1    | S2          | S3    | S4    |
-|:----------------|:----------|:------|:------|:------------|:------|:------|
-| AchangLongchuan |           |       | Ø     | Ø           | Ø     |       |
-| Atsi            |           |       | Ø     | Ø           | Ø     |       |
-| Bola            |           |       | Ø     | Ø           | Ø     |       |
-| Lashi           |           |       | Ø     | Ø           | Ø     |       |
-| Maru            |           |       | Ø     | Ø           | Ø     |       |
-| OldBurmese      | salty     | 0     | ŋ     | a           | n     |       |
-| Rangoon         | salty     | 0     | ŋ     | ɑ̃          | -.²²  |       |
-| Xiandao         |           |       | Ø     | Ø           | Ø     |       |
-| Fuzzy           |           |       | ŋ:100 | a:90¦a.n:10 | n:100 | ¹:100 |
-| ProtoBurmish    |           |       | ŋ     | a           | n     | ¹     |
+| language        | concept   | pos   | S1    | S2          | S3    | S4        |
+|:----------------|:----------|:------|:------|:------------|:------|:----------|
+| AchangLongchuan |           |       | Ø     | Ø           | Ø     |           |
+| Atsi            |           |       | Ø     | Ø           | Ø     |           |
+| Bola            |           |       | Ø     | Ø           | Ø     |           |
+| Lashi           |           |       | Ø     | Ø           | Ø     |           |
+| Maru            |           |       | Ø     | Ø           | Ø     |           |
+| OldBurmese      | salty     | 0     | ŋ     | a           | n     |           |
+| Rangoon         | salty     | 0     | ŋ     | ɑ̃          | -.²²  |           |
+| Xiandao         |           |       | Ø     | Ø           | Ø     |           |
+| Fuzzy           |           |       | ŋ:100 | a:90¦a.n:10 | n:100 | ¹:90¦-:10 |
+| ProtoBurmish    |           |       | ŋ     | a           | n     | ¹         |
 
 ## COGID 706 / «tongue»
 
-| language        | concept   | pos   | S1    | S2    | S3        |
-|:----------------|:----------|:------|:------|:------|:----------|
-| AchangLongchuan | tongue    | 0     | ɕ     | ɔ     | ⁵⁵        |
-| Atsi            | sand      | 0     | s     | ă     | ²¹        |
-| Bola            | tongue    | 0     | ʃ     | a     | ⁵⁵        |
-| Lashi           | sand      | 0     | s     | ə̆    | ⁵⁵        |
-| Maru            | spoon     | 0     | ʃ     | ɔ     | ³¹        |
-| OldBurmese      |           |       | Ø     | Ø     | Ø         |
-| Rangoon         | sand      | 0     | tθ    | ɛ     | ⁵⁵        |
-| Xiandao         | tongue    | 0     | ç     | ɔ     | ⁵⁵        |
-| Fuzzy           |           |       | ʃ:100 | a:100 | ⁴:80¦¹:20 |
-| ProtoBurmish    |           |       | ʃ     | a     | ¹         |
+| language        | concept   | pos   | S1    | S2    | S3    | S4        |
+|:----------------|:----------|:------|:------|:------|:------|:----------|
+| AchangLongchuan | tongue    | 0     | -     | ɕ     | ɔ     | ⁵⁵        |
+| Atsi            | sand      | 0     | -     | s     | ă     | ²¹        |
+| Bola            | tongue    | 0     | -     | ʃ     | a     | ⁵⁵        |
+| Lashi           | sand      | 0     | -     | s     | ə̆    | ⁵⁵        |
+| Maru            | spoon     | 0     | -     | ʃ     | ɔ     | ³¹        |
+| OldBurmese      |           |       | Ø     | Ø     | Ø     | Ø         |
+| Rangoon         | sand      | 0     | t     | θ     | ɛ     | ⁵⁵        |
+| Xiandao         | tongue    | 0     | -     | ç     | ɔ     | ⁵⁵        |
+| Fuzzy           |           |       | -:100 | ʃ:100 | a:100 | ⁴:80¦¹:20 |
+| ProtoBurmish    |           |       | ʃ     | a     | ¹     |           |
 
 ## COGID 264 / «scale»
 
@@ -1651,7 +1652,7 @@ header-includes: |
 | OldBurmese      |                   |       | Ø               | Ø     | Ø     | Ø                   | Ø              |
 | Rangoon         | sheath / scabbard | 1     | -               | -     | ẽ     | -                   | ²²             |
 | Xiandao         | sheath / scabbard | 1     | k               | -     | a     | ŋ                   | ³¹             |
-| Fuzzy           |                   |       | b:40¦p:40¦ˀp:20 | j:100 | a:100 | ŋ:60¦k:20¦m:10¦-:10 | ¹:40¦³:40¦⁴:20 |
+| Fuzzy           |                   |       | b:40¦p:40¦ˀp:20 | j:100 | a:100 | ŋ:60¦k:20¦m:10¦-:10 | ³:40¦¹:40¦⁴:20 |
 | ProtoBurmish    |                   |       | b               | j     | a     | ŋ                   | ¹              |
 
 ## COGID 829 / «smoke / fumigate»
@@ -1786,7 +1787,7 @@ header-includes: |
 | OldBurmese      |           |       | Ø     | Ø         | Ø         | Ø     | Ø     |
 | Rangoon         | tears     | 1     | -     | j         | e         | -     | ²²    |
 | Xiandao         | tears     | 1     | p     | -         | i         | -     | ⁵⁵    |
-| Fuzzy           |           |       | b:100 | -:70¦ʔ:30 | i:70¦e:30 | -:100 | ¹:100 |
+| Fuzzy           |           |       | b:100 | -:80¦ʔ:20 | i:70¦e:30 | -:100 | ¹:100 |
 | ProtoBurmish    |           |       | b     | i         | ¹         |       |       |
 
 ## COGID 907 / «turtledove»
